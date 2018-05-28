@@ -1,7 +1,8 @@
 import os
 import sys
 sys.path.append("D:\\home\\site\\wwwroot\\pymodules")
-from pptx import Presentation
+
+
 #from .createppt import * 
 from flask import Flask, request, send_from_directory, send_file 
 
@@ -14,7 +15,11 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-  return str(sys.path)
+    try:
+        from pptx import Presentation
+    except Exception as e:
+        return str(e)
+    return str(sys.path)
 
 if __name__ == '__main__':
   app.run()
