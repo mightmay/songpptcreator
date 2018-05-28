@@ -21,7 +21,8 @@ def hello_world():
         from pptx import Presentation
     except Exception as e:
         tb = e.__traceback__
-        return tb = traceback.format_exc()
+        tb = traceback.format_exc()
+        return tb
     return str(sys.path)
 
 if __name__ == '__main__':
