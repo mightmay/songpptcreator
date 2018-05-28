@@ -1,0 +1,8 @@
+D:\home\site\wwwroot\wheelhouse
+python.exe -m pip install --upgrade -r D:\home\site\wwwroot\requirements.txt -t D:\home\site\wwwroot\pymodules
+python.exe -m pip install --upgrade -r requirements.txt -t C:\Users\Computer\Desktop\pptpythonproject\pymodules
+C:\Users\Computer\Desktop\pptpythonproject\songpptcreator
+
+
+
+pyinstaller -w -F --add-data "songdata;songdata" --add-data "songdata;songdata" --add-data --add-data "finishedppt;finishedppt" main.py
