@@ -1,1 +1,4 @@
-Flask
+--no-index
+--find-links wheelhouse
+lxml==4.2.1
+otherWheelsFile_pre-compiled==1.x.x
