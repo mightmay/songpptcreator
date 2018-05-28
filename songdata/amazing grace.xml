@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<song>
+<thainame>พระคุณพระเจ้า</thainame>
+<englishname>Amazing Grace</englishname>
+<order>verse1,verse2,verse3,verse4,verse5</order>
+<thai>
+<verse1>พระคุณพระเจ้านั้นแสนชื่นใจ ช่วยได้คนชั่วอย่างฉัน ครั้งนั้นฉันหลงพระองค์ตามหา ตาบอดแต่ฉันเห็นแล้ว</verse1>
+<verse2>บ่วงมารวางไว้ทุกข์ภัยหลายอย่าง ตามทางฉันพ้นมาแล้ว แต่เพราะพระคุณฉันจึงคลาดแคล้ว พระองค์นำฉันกลับบ้าน</verse2>
+<verse3>พระคุณสอนให้ใจฉันยำเกรง เร่งให้ความกลัวต้องหนี พระคุณอันเลิศประเสริฐยิ่งใหญ่ ไม่มีหมู่มารได้ชัย</verse3>
+<verse4>พระเจ้าประทานแต่สิ่งที่ดี พระธรรมให้มีความหวัง พระองค์คุ้มครองป้องกันทุกที เมื่อมีสิ่งชั่วบีฑา</verse4>
+<verse5>เมื่อเราได้ไปอยู่เมืองสวรรค์ ช้านานนับหลายพันปี ยังมีเวลาร้องเพลงสรรเสริญ เท่ากันกับเมื่อเริ่มต้น</verse5>
+</thai>
+<english>
+<verse1>AMAZING GRACE HOW SWEET THE SOUND THAT SAVED A WRETCH LIKE ME! I ONCE WAS LOST, BUT NOW AM FOUND WAS BLIND, BUT NOW I SEE</verse1>
+<verse2>Twas grace that taught my heart to fear, And grace my fears relieved; How precious did that grace appear the hour I first believed.</verse2>
+<verse3>Through many dangers, toils and snares, I have already come. 'tis grace that brought me safe thus far, and grace will lead us home.</verse3>
+<verse4>The Lord hath promised good to me, His word my hope secures; He will my shield and portion be As long as life endures.</verse4>
+<verse5>When we’ve been there ten thousand years, Bright shining as the sun, We’ve no less days to sing God’s praise Than when we first begun</verse5>
+</english>
+<chord>
+<verse1> G G7 C G Em A7 D G G7 C G Em D7 G</verse1>
+<verse2> G G7 C G Em A7 D G G7 C G Em D7 G</verse2>
+<verse3> G G7 C G Em A7 D G G7 C G Em D7 G</verse3>
+<verse4> G G7 C G Em A7 D G G7 C G Em D7 G</verse4>
+<verse5> G G7 C G Em A7 D G G7 C G Em D7 G</verse5>
+</chord>
+</song>
