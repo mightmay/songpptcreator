@@ -1,3 +1,5 @@
-Flask==1.0
-python-pptx==0.6.9
-lxml==3.1.0
+Flask
+python-pptx
+lxml
+libxml2
+libxslt
