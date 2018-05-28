@@ -7,6 +7,7 @@ Created on Sun May 27 00:00:04 2018
 import os
 from pptx import Presentation
 from flask import Flask, request, send_from_directory, send_file 
+import xml.dom.minidom
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
 lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
@@ -19,10 +20,7 @@ thai=1
 english=1
 chord=1
 
-import os
-from xml.dom.minidom import parse
-from xml.dom import minidom
-import xml.dom.minidom
+
 
 def getsongdata(songname,thai,english,chord):
     
