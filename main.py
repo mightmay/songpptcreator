@@ -15,7 +15,7 @@ def hello_world():
     lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
     createppt.getsongdata(lyricfile,1,1,1)
     try:
-        return send_file(savefile,as_attachment=True)
+        return "test"
     except Exception as e:
         return str(e)
     
