@@ -5,7 +5,7 @@ sys.path.append("/pymodules")
 sys.path.append("d:\\home\\site\\wwwroot\\pymodules")
 sys.path.append("/home/site/wwwroot/pymodules")
 sys.path.append("D:/home/site/wwwroot/pymodules")
-from pptx import Presentation
+#from pptx import Presentation
 #from .createppt import * 
 from flask import Flask, request, send_from_directory, send_file 
 
