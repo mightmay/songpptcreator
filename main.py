@@ -19,7 +19,8 @@ def hello_world():
     try:
         from pptx import Presentation
     except Exception as e:
-        return str(e)
+        tb = e.__traceback__
+        return str(tb,e)
     return str(sys.path)
 
 if __name__ == '__main__':
