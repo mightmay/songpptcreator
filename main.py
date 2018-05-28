@@ -13,7 +13,7 @@ savefile = os.path.join(savedirectory, 'WorshipSongs.pptx')
 def hello_world():
     APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
     lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
-    createppt.getsongdata(lyricfile,1,1,1)
+    #createppt.getsongdata(lyricfile,1,1,1)
     try:
         return "test"
     except Exception as e:
