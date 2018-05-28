@@ -1,8 +1,12 @@
 import os
 import sys
 sys.path.append("pymodules")
-#from .createppt import * 
+sys.path.append("/pymodules")
+sys.path.append("\home\site\wwwroot\pymodules")
+sys.path.append("/home/site/wwwroot/pymodules")
+sys.path.append("D:/home/site/wwwroot/pymodules")
 from pptx import Presentation
+#from .createppt import * 
 from flask import Flask, request, send_from_directory, send_file 
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
