@@ -2,7 +2,7 @@ import os
 import sys
 sys.path.append("pymodules")
 sys.path.append("/pymodules")
-sys.path.append("\home\site\wwwroot\pymodules")
+sys.path.append("d:\\home\\site\\wwwroot\\pymodules")
 sys.path.append("/home/site/wwwroot/pymodules")
 sys.path.append("D:/home/site/wwwroot/pymodules")
 from pptx import Presentation
@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-  return 'Hello, World!'
+  return str(sys.path)
 
 if __name__ == '__main__':
   app.run()
