@@ -5,7 +5,7 @@ Created on Sun May 27 00:00:04 2018
 @author: Computer
 """
 import os
-#from pptx import Presentation
+from pptx import Presentation
 from flask import Flask, request, send_from_directory, send_file 
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
