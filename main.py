@@ -22,6 +22,15 @@ def hello_world():
         tb = e.__traceback__
         tb = traceback.format_exc()
         return tb
+    
+    APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
+    lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
+    createppt.getsongdata(lyricfile,1,1,1)
+    try:
+        return send_file(savefile,as_attachment=True)
+    except Exception as e:
+        return str(e)
+    
     return str(sys.path)
 
 if __name__ == '__main__':
