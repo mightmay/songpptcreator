@@ -8,7 +8,9 @@ import os
 from pptx import Presentation
 from flask import Flask, request, send_from_directory, send_file 
 import xml.dom.minidom
-
+from xml.dom.minidom import parse
+from xml.dom import minidom
+import xml.dom.minidom
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
 lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
 savedirectory = os.path.join(APP_ROOT, 'finishedppt')
