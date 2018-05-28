@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append("D:\home\site\wwwroot\pymodules")
+sys.path.append("pymodules")
 from .createppt import * 
 from flask import Flask, request, send_from_directory, send_file 
 
