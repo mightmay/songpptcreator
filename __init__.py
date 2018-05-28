@@ -7,8 +7,6 @@ Created on Sat May 26 20:47:23 2018
 
 import os
 from . import createppt
-
-
 from flask import Flask, request, send_from_directory, send_file 
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
