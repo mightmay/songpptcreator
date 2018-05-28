@@ -3,3 +3,4 @@
 lxml==4.2.1
 Flask
 python-pptx
+Pillow
