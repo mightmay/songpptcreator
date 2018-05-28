@@ -3,8 +3,7 @@ import sys
 sys.path.append("D:\\home\\site\\wwwroot\\pylib")
 import traceback
 import os 
-
-#from .createppt import * 
+import createppt
 from flask import Flask, request, send_from_directory, send_file 
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
