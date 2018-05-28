@@ -3,7 +3,8 @@ import sys
 sys.path.append("D:\\home\\site\\wwwroot\\pymodules")
 sys.path.append("D:\\home\\site\\wwwroot\\pylib")
 import traceback
-import os os.environ['PYTHON_EGG_CACHE'] = '/usr/local/pylons/python-eggs' 
+import os 
+os.environ['PYTHON_EGG_CACHE'] = '/usr/local/pylons/python-eggs' 
 
 #from .createppt import * 
 from flask import Flask, request, send_from_directory, send_file 
