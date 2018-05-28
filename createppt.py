@@ -6,7 +6,6 @@ Created on Sun May 27 00:00:04 2018
 """
 import os
 import sys
-sys.path.append("pymodules")
 from pptx import Presentation
 from flask import Flask, request, send_from_directory, send_file 
 import xml.dom.minidom

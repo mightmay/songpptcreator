@@ -7,7 +7,6 @@ Created on Sat May 26 20:47:23 2018
 
 import os
 import sys
-sys.path.append("pymodules")
 from .createppt import * 
 from flask import Flask, request, send_from_directory, send_file 
 
