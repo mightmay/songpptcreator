@@ -2,6 +2,7 @@ import os
 import sys
 sys.path.append("D:\\home\\site\\wwwroot\\pymodules")
 sys.path.append("D:\\home\\site\\wwwroot\\pylib")
+import traceback
 
 
 #from .createppt import * 
@@ -20,7 +21,7 @@ def hello_world():
         from pptx import Presentation
     except Exception as e:
         tb = e.__traceback__
-        return tb
+        return tb = traceback.format_exc()
     return str(sys.path)
 
 if __name__ == '__main__':
