@@ -1,5 +1,5 @@
 Flask
 python-pptx
-lxml
 libxml2
 libxslt
+lxml
