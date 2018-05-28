@@ -1,7 +1,7 @@
 import os
 import sys
 sys.path.append("D:\\home\\site\\wwwroot\\pymodules")
-sys.path.append("D:\\home\\site\\wwwroot\\lib")
+sys.path.append("D:\\home\\site\\wwwroot\\pylib")
 
 
 #from .createppt import * 
