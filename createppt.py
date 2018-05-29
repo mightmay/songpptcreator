@@ -79,5 +79,4 @@ def download_file():
     return send_from_directory(savedirectory,savefile, as_attachment=True)                
 
             
-        
-getsongdata(songname,thai,english,chord)
+

@@ -9,8 +9,18 @@ from xml.dom.minidom import parse
 from xml.dom import minidom
 import xml.dom.minidom
 app = Flask(__name__)
-#import createppt
+import createppt
 
+APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
+lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
+savedirectory = os.path.join(APP_ROOT, 'finishedppt')
+savefile = os.path.join(savedirectory, 'WorshipSongs.pptx')
+
+songname= lyricfile
+
+thai=1
+english=1
+chord=1
 
 
 @app.route('/')
