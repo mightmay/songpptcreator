@@ -12,11 +12,11 @@ def hello_world():
     returnstring=returnstring+"import..."
     import createppt
     returnstring=returnstring+"createppt.imported..."
-    try:
-        import lxml
-    except Exception:
-        tb=str(traceback.format_exc())
-        return(tb)
+#    try:
+#        import lxml
+#    except Exception:
+#        tb=str(traceback.format_exc())
+#        return(tb)
 
     return(returnstring)
 
