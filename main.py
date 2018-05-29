@@ -14,7 +14,7 @@ def hello_world():
     returnstring=returnstring+"createppt.imported..."
 
     try:
-        import lxml
+        #import lxml
     except Exception as e:
         tb = e.__traceback__
         tb = traceback.format_exc()
