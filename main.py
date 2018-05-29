@@ -15,8 +15,9 @@ def hello_world():
     try:
         import lxml
     except Exception:
-        traceback=str(traceback.format_exc())
-        returnstring=returnstring+traceback
+        tb=str(traceback.format_exc())
+        return(tb)
+
     return(returnstring)
 
 if __name__ == '__main__':
