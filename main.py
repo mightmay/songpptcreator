@@ -1,9 +1,6 @@
-
-
 from flask import Flask
-import sys, traceback
-
-
+import sys
+import traceback
 app = Flask(__name__)
 returnstring = ''
 @app.route('/')
