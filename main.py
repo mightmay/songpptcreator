@@ -12,14 +12,15 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
+    returnstring="start..."
+    returnstring=returnstring+"import..."
     try:
         import lxml
     except Exception:
         tb=str(traceback.format_exc())
         return(tb)
-    returnstring="start..."
-    returnstring=returnstring+"import..."
-    returnstring=returnstring+"createppt.imported..."
+
+    returnstring=returnstring+"imported..."
 
 
     return(returnstring)
