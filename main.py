@@ -44,5 +44,9 @@ def hello_world():
     
     return str(sys.path)
 
+@app.route('/syspath')
+def syspath():
+    return str(sys.path)
+
 if __name__ == '__main__':
   app.run()
