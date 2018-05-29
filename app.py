@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, request, send_from_directory, send_file 
 import sys
 import traceback
 import os
@@ -36,6 +36,15 @@ def hello_world():
 
     returnstring=returnstring+"imported..."
 
+    APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
+    lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
+    createppt.getsongdata(lyricfile,1,1,1)
+    try:
+        return send_file(savefile,as_attachment=True)
+    except Exception as e:
+        return str(e)
+    
+    return str(sys.path)
 
     return(returnstring)
 
