@@ -18,7 +18,7 @@ def hello_world():
     except Exception as e:
         tb = e.__traceback__
         tb = traceback.format_exc()
-        return tb
+        returnstring=returnstring+ tb
     return(returnstring)
 
 if __name__ == '__main__':
