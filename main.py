@@ -1,6 +1,10 @@
 from flask import Flask
 import sys
 import traceback
+import os
+
+sys.path.append("D:\\home\\site\\wwwroot\\pylib")
+
 app = Flask(__name__)
 #import createppt
 
