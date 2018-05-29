@@ -2,7 +2,7 @@ from flask import Flask
 import sys
 import traceback
 app = Flask(__name__)
-returnstring = ''
+
 @app.route('/')
 def hello_world():
     returnstring="start..."
