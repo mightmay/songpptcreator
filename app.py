@@ -43,8 +43,6 @@ def hello_world():
         return send_file(savefile,as_attachment=True)
     except Exception as e:
         return str(e)
-    
-    return str(sys.path)
 
     return(returnstring)
 
