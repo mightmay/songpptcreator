@@ -9,7 +9,7 @@ from xml.dom.minidom import parse
 from xml.dom import minidom
 import xml.dom.minidom
 app = Flask(__name__)
-import createppt
+from createppt import *
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
 lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
