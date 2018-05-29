@@ -18,7 +18,7 @@ def hello_world():
     returnstring="start..."
     returnstring=returnstring+"import..."
     try:
-        import lxml
+        from lxml import etre
         import pptx
     except Exception:
         tb=str(traceback.format_exc())
