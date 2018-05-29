@@ -9,7 +9,7 @@ from xml.dom.minidom import parse
 from xml.dom import minidom
 import xml.dom.minidom
 app = Flask(__name__)
-from createppt import *
+from createppt import getsongdata
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
 lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
@@ -38,7 +38,7 @@ def hello_world():
 
     APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
     lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
-    createppt.getsongdata(lyricfile,1,1,1)
+    getsongdata(lyricfile,1,1,1)
     try:
         return send_file(savefile,as_attachment=True)
     except Exception as e:
