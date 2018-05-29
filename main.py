@@ -8,7 +8,8 @@ app = Flask(__name__)
 returnstring = ''
 @app.route('/')
 def hello_world():
-    returnstring="test"
+    returnstring="start"
+    returnstring=returnstring+"import"
     return(returnstring)
 
 if __name__ == '__main__':
