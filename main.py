@@ -1,15 +1,14 @@
 
-returnstring="test"
-returnstring = returnstring+'importing..'
+
 from flask import Flask
 
-returnstring = returnstring + 'import done..'
+
 
 app = Flask(__name__)
 returnstring = ''
 @app.route('/')
 def hello_world():
-
+    returnstring="test"
     return(returnstring)
 
 if __name__ == '__main__':
