@@ -1,6 +1,6 @@
-returnstring = 'importing<br>'
-returnstring="<!DOCTYPE html><html><body>"
 
+returnstring="<!DOCTYPE html><html><body>"
+returnstring = returnstring+'importing<br>'
 from flask import Flask
 
 returnstring = returnstring + 'import done<br>'
