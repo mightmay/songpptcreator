@@ -1,9 +1,13 @@
+returnstring = 'importing<br>'
 from flask import Flask
-app = Flask(__name__)
 
+returnstring = returnstring + 'import done<br>'
+
+app = Flask(__name__)
+returnstring = ''
 @app.route('/')
 def hello_world():
-  print('Hello, World!')
+  return(returnstring)
 
 if __name__ == '__main__':
   app.run()
