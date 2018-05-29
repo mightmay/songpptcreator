@@ -1,6 +1,12 @@
 D:\home\site\wwwroot\wheelhouse
 python.exe -m pip install --upgrade -r D:\home\site\wwwroot\requirements.txt -t D:\home\site\wwwroot\pymodules
 python.exe -m pip install --upgrade -r requirements.txt -t C:\Users\Computer\Desktop\pptpythonproject\pymodules
+python.exe -m pip install --upgrade lxml -t D:\home\site\wwwroot\env\Lib\site-packages
+python -m pip install D:\home\site\wwwroot\wheelhouse\lxml-4.2.1-py3-none-any.whl -t D:\home\site\wwwroot\env\Lib\site-packages
+python -m pip install --upgrade D:\home\site\wwwroot\wheelhouse\Pillow-5.1.0-cp34-cp34m-win32.whl -t D:\home\site\wwwroot\env\Lib\site-packages
+python -m pip install --upgrade D:\home\site\wwwroot\wheelhouse\Pillow-5.1.0-py3-none-any.whl -t D:\home\site\wwwroot\env\Lib\site-packages
+
+
 C:\Users\Computer\Desktop\pptpythonproject\songpptcreator
 
 
