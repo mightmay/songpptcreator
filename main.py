@@ -4,7 +4,10 @@ import traceback
 import os
 
 sys.path.append("D:\\home\\site\\wwwroot\\pylib")
-
+import xml.dom.minidom
+from xml.dom.minidom import parse
+from xml.dom import minidom
+import xml.dom.minidom
 app = Flask(__name__)
 #import createppt
 
@@ -16,6 +19,7 @@ def hello_world():
     returnstring=returnstring+"import..."
     try:
         import lxml
+        import pptx
     except Exception:
         tb=str(traceback.format_exc())
         return(tb)
