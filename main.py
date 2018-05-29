@@ -3,7 +3,13 @@ import sys
 sys.path.append("D:\\home\\site\\wwwroot\\pylib")
 import traceback
 import os 
-import createppt
+try:
+    import createppt
+except Exception as e:
+    tb = e.__traceback__
+    tb = traceback.format_exc()
+    return tb
+
 from flask import Flask, request, send_from_directory, send_file 
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
@@ -15,6 +21,12 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
+    try:
+        import lxml
+    except Exception as e:
+        tb = e.__traceback__
+        tb = traceback.format_exc()
+        return tb
     try:
         from pptx import Presentation
     except Exception as e:

@@ -5,4 +5,4 @@ C:\Users\Computer\Desktop\pptpythonproject\songpptcreator
 
 
 
-pyinstaller -w -F --add-data "songdata;songdata" --add-data "songdata;songdata" --add-data --add-data "finishedppt;finishedppt" main.py
+pyinstaller -w -F --add-data "songdata;songdata" --add-data "songdata;songdata" --add-data "finishedppt;finishedppt" main.py
