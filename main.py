@@ -19,6 +19,7 @@ def hello_world():
         tb = e.__traceback__
         tb = traceback.format_exc()
         returnstring=returnstring+ tb
+        return (returnstring)
     return(returnstring)
 
 if __name__ == '__main__':
