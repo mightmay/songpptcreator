@@ -261,7 +261,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 para3.text = thirdlyric
                 tf3.word_wrap = True
                 para3.font.size = secondtextsize
-                para3.font.color.rgb = secondtextcolor
+                para3.font.color.rgb = thirdtextcolor
                 para3.alignment=PP_ALIGN.CENTER       
 
                 
