@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ชีวีเราอยู่ในพระองค์</thainame>
+<englishname>My life is in You, Lord</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse1,chorus</order>
+
+<thai>
+    <verse1>ชีวีเราอยู่ในพระองค์ กำลังเราอยู่ในพระองค์ ความวางใจเราอยู่ในพระองค์ ในพระองค์</verse1>
+    <chorus>เราจะสรรเสริญ ด้วยสุดสิ้นดวงจิต เราจะสรรเสริญ ด้วยสุดสิ้นกำลัง ด้วยสุดสิ้นชีวิต ด้วยสุดสิ้นจิตใจ ความวางใจอยู่ในพระองค์</chorus>
+</thai>
+
+<english>
+    <verse1>My life is in You, Lord My strength is in You, Lord My hope is in You, Lord In You, It’s in You</verse1>
+    <chorus>I will praise You with all of my life I will praise You with all of my strength With all of my life, With all of my strength All of my hope is in You</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1> G Em  C  Dsus D</verse1>
+    <chorus> C D G C D G    D G E Am  F Am7 Dsus </chorus>
+</chord>
+
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระเจ้ายิ่งใหญ่</thainame>
+<englishname>HOW GREAT THOU ART</englishname>
+<mienthainame>เฒี้ยว เก้ง โฮล ไห่</mienthainame>
+    
+<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+
+<thai>
+    <verse1>พระองค์เจ้าข้า ข้าเฝ้ามองดูด้วยยำเกรง เพราะพระองค์เอง เป็นผู้สร้างจักรวาล เมื่อมองดูดาว เมื่อคราวยินเสียงฟ้าคำราม เห็นฝีพระหัตถ์ของพระองค์บนท้องฟ้า</verse1>
+    <verse2>เมื่อข้าคิดถึง พระเจ้า ผู้ไม่ทรงเสียดาย พระบุตรองค์เดียวเสด็จมาเป็นผู้ไถ่ ถูกทรมาน ตรึงไว้บนกางเขนเพื่อข้า ข้าขอบพระคุณที่พระองค์ทรงเมตตา</verse2>
+    <verse3>พระคริสต์กลับมา ด้วยเสียงแตรดังก้องเวหา เพื่อมารับข้า กลับไปอยู่ในเมืองฟ้า ข้าจะกราบลง ที่พระบาทาด้วยถ่อมใจ และสรรเสริญว่า พระเจ้าของข้ายิ่งใหญ่</verse3>
+    <chorus>จิตข้าสรรเสริญ พระเจ้าองค์พระผู้ช่วย พระเจ้ายิ่งใหญ่ พระเจ้ายิ่งใหญ่ จิตข้าสรรเสริญ พระเจ้าองค์พระผู้ช่วย พระเจ้ายิ่งใหญ่ พระเจ้ายิ่งใหญ่</chorus>
+</thai>
+
+<english>
+    <verse1>O Lord, my God, when I in awesome wonder Consider all the worlds Thy Hands have made I see the stars, I hear the rolling thunder Thy power throughout the universe displayed</verse1>
+    <verse2>And when I think of God, His Son not sparing Sent Him to die, I scarce can take it in That on the Cross, my burden gladly bearing He bled and died to take away my sin</verse2>
+    <verse3>When Christ shall come with shout of acclamation And lead me home, what joy shall fill my heart Then I shall bow with humble adoration And then proclaim, my God, how great Thou art</verse3>
+    <chorus>Then sings my soul, my Saviour God, to Thee How great Thou art, how great Thou art Then sings my soul, my Saviour God, to Thee How great Thou art, how great Thou art</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เฒี้ยว เย^ซู อ่า, เยีย บู้ง เจี๊ยน เฮญี้ยว ฒั้ว หมั่ง เม่ย, เหว่ย หฒุ เฒี้ยว กั้น เหฒย ลู่ง เดี๊ย เญย หม่าน หมวด. หาย หฒั่น ปวัด เหฮลย, หาย หฒั่น ตุ๊ ไฮ บะ อง บุย, เยียม กู้ หง่าย ลู่ง ปวัด เฒี้ยว เหฒย เญย กะน้าย.</verse1>
+    <verse2>หาย หฒั่น ฮนั้ม เถา, ทิน-ฮู่ง นิ่น เก้ง ไม้ ค้อ-ฟิ. นิ่น เญย โดะ ตอน เหฌี่ย ต้าย เถง เมี่ยน เถย ฒุ์ย. หฒุ เสี่ยว โค้ว หน่าน, ตีง วั้ว เหฒียบ หฑั่ง จ๋า เหว่ย เยีย. เยีย ต้อ เหฒี่ย เฒี้ยว, เหว่ย เฒี้ยว ค้อ-เลี่ยน เยีย บัว.</verse2>
+    <verse3>เฒี้ยว ต้าย เญย ฮนอย ม่าย หฑัด บุย ไห่ ปวั๊ง ลู่ง มี่ง. นิ่น ต้าย ต้อ เยีย หฑวน มี่ง เยียม วั้ว ทิน-ต้อง. เยีย อ๋อย เกว่ย เหฌี่ย เยียม นิ่น หฑะเฮมียน ไม้ เธง-โฮล, แอ๋ง เธง นิ่น ก๊อง, “เยีย เญย เฒี้ยว เก้ง โฮล ไห่.”</verse3>
+    <chorus>เยีย หล่ง เฮญี้ยว เธง เฒี้ยว ต้ง ต้าย เหฌียว ฒุ์ย-เมี่ยน. เฒี้ยว เก้ง โฮล ไห่, เฒี้ยว เก้ง โฮล ไห่. เยีย หล่ง เฮญี้ยว เธง เฒี้ยว ต้ง ต้าย เหฌียว ฒุ์ย-เมี่ยน. เฒี้ยว เก้ง โฮล ไห่, เฒี้ยว เก้ง โฮล ไห่.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>A E7 A D A E7 A E7 A D A E A</verse1>
+    <verse2>A E7 A D A E7 A E7 A D A E A</verse2>
+    <verse3>A E7 A D A E7 A E7 A D A E A</verse3>
+    <chorus>E7 A A7 D A E (E7) A E7 A A7 D A E (E7) A</chorus>
+</chord>
+
+</song>

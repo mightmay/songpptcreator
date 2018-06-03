@@ -7,6 +7,9 @@ Created on Sun May 27 00:00:04 2018
 import os
 import sys
 from pptx import Presentation
+from pptx.util import Inches, Pt
+from pptx.dml.color import RGBColor
+from pptx.enum.text import PP_ALIGN
 from flask import Flask, request, send_from_directory, send_file 
 import xml.dom.minidom
 from xml.dom.minidom import parse
@@ -20,40 +23,46 @@ savefile = os.path.join(savedirectory, 'WorshipSongs.pptx')
 songname= lyricfile
 
 thai=1
-english=1
+english=0
+mien=0
 chord=1
 
 
 
-def getsongdata(songname,thai,english,chord):
+def getsongdata(prs,songname,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolor,secondtextcolor,thirdtextcolor,chord):
     
+
     # create presentation
-    prs = Presentation()
-    bullet_slide_layout = prs.slide_layouts[1]
+#    prs = Presentation()
     
-    slide = prs.slides.add_slide(bullet_slide_layout)
-    shapes = slide.shapes
+    firsttextcolor = firsttextcolor
+    if firsttextsizeint=='':
+        
+        firsttextsizeint=33
+    firsttextsize=Pt(int(firsttextsizeint))
     
-    title_shape = shapes.title
-    body_shape = shapes.placeholders[1]
+    secondtextcolor = secondtextcolor
     
-    title_shape.text = 'Adding a Bullet Slide'
+    if secondtextsizeint=='':
+
+        secondtextsizeint=33
+    secondtextsize=Pt(int(secondtextsizeint))
     
-    tf = body_shape.text_frame
-    tf.text = 'Find the bullet slide layout'
+    thirdtextcolor = thirdtextcolor
     
-    p = tf.add_paragraph()
-    p.text = 'Use _TextFrame.text for first bullet'
-    p.level = 1
-    
-    p = tf.add_paragraph()
-    p.text = 'Use _TextFrame.add_paragraph() for subsequent bullets'
-    p.level = 2
-    
-    prs.save(savefile)
+    if thirdtextsizeint=='':
+        thirdtextsizeint=33
+    thirdtextsize=Pt(int(thirdtextsizeint))
     
     # Open XML document containing song data using minidom parser
     songdata = minidom.parse(songname)
+
+    
+    # add song name to pptx slides
+    title_slide_layout = prs.slide_layouts[0]
+    slide = prs.slides.add_slide(title_slide_layout)
+    title = slide.shapes.title
+    subtitle = slide.placeholders[1]
     
     # get song ordering
     order = songdata.getElementsByTagName("order")[0]
@@ -61,19 +70,203 @@ def getsongdata(songname,thai,english,chord):
     order_list = order_list.split(",")
     print(order_list)
     
+
+    
+
+        
+    if third_language != "none":
+        thirdlangxmlelement = third_language + "name"
+        thirdlangname = songdata.getElementsByTagName(thirdlangxmlelement)[0]
+        thirdlangnamestring=(thirdlangname.childNodes[0].data)
+        
+        if thirdlangnamestring == 'none':
+            third_language= "none"
+            
+    if second_language != "none":
+        secondlangxmlelement = second_language + "name"
+        secondlangname = songdata.getElementsByTagName(secondlangxmlelement)[0]
+        secondlangnamestring=(secondlangname.childNodes[0].data)
+        subtitle.text = secondlangnamestring
+
+        if secondlangnamestring == 'none':
+            if thirdlangnamestring != 'none':
+                second_language = third_language
+                third_language= "none"
+            if thirdlangnamestring == 'none':
+                second_language="none"
+                
+            
+
+    firstlangxmlelement = first_language + "name"
+    firstlangname = songdata.getElementsByTagName(firstlangxmlelement)[0]
+    firstlangnamestring=(firstlangname.childNodes[0].data)
+    title.text = firstlangnamestring
+    
+    if firstlangnamestring == 'none':
+            
+        if secondlangnamestring != 'none' and thirdlangnamestring != 'none':
+
+            first_language = second_language            
+            second_language = third_language
+            third_language ="none"
+            
+        if secondlangnamestring != 'none' and thirdlangnamestring == 'none':
+
+            first_language = second_language
+            second_language = "none"
+        if secondlangnamestring == 'none' and thirdlangnamestring == 'none':
+            return("no lyric")
+
+    # count how many language
+    language_count= 0
+    if first_language != "none":
+        language_count=language_count+1
+    if second_language != "none":
+        language_count=language_count+1
+    if third_language != "none":
+        language_count=language_count+1
+                
+    
+    if language_count == 1:
+        left1 = top1 = Inches(1)
+        width1 = Inches(8)
+        height1 = Inches(6)
+               
+            
+    if language_count == 2:
+        left1 = Inches(1)
+        top1 = Inches(0.5)
+        width1 = Inches(8)
+        height1 = Inches(3.25)
+        
+        left2 = Inches(1)
+        top2 = Inches(4)
+        width2 = Inches(8)
+        height2 = Inches(3.25)
+        
+    
+    if language_count == 3:
+        left1 = Inches(1)
+        top1 = Inches(0.5)
+        width1 = Inches(8)
+        height1 = Inches(2)
+        
+        left2 = Inches(1)
+        top2 = Inches(2.75)
+        width2 = Inches(8)
+        height2 = Inches(2)
+        
+        left3 = Inches(1)
+        top3 = Inches(5)
+        width3 = Inches(8)
+        height3 = Inches(2)
+    
     
     for versenum in order_list:
         vnum=str(versenum)
+        print(vnum)
+        
 
+        if language_count==1:
+            firstdata=songdata.getElementsByTagName(first_language)
 
-        if thai == 1:
-            thaidata=songdata.getElementsByTagName("thai")
-            for th in thaidata:
-                print(thaidata)
-                print(vnum)
-                thailyric=th.getElementsByTagName(vnum)[0]
-                thailyric=(thailyric.childNodes[0].data)
-                print(thailyric)
+            for first_itr in firstdata:
+                firstlyric=first_itr.getElementsByTagName(vnum)[0]
+                firstlyric=(firstlyric.childNodes[0].data)
+
+                # create slide, add verse to slide
+                blank_slide_layout = prs.slide_layouts[6]
+                slide = prs.slides.add_slide(blank_slide_layout)
+                
+                txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
+                tf1 = txBox1.text_frame
+                para1 = tf1.add_paragraph()
+                para1.text = firstlyric
+                tf1.word_wrap = True
+                para1.font.size = firsttextsize
+                para1.font.color.rgb = firsttextcolor
+                para1.alignment=PP_ALIGN.CENTER
+
+        if language_count==2:
+            firstdata=songdata.getElementsByTagName(first_language)        
+            seconddata=songdata.getElementsByTagName(second_language)
+            for first_itr in firstdata:
+                firstlyric=first_itr.getElementsByTagName(vnum)[0]
+                firstlyric=(firstlyric.childNodes[0].data)
+            for second_itr in seconddata:
+                secondlyric=second_itr.getElementsByTagName(vnum)[0]
+                secondlyric=(secondlyric.childNodes[0].data)
+
+                # create slide, add verse to slide
+                blank_slide_layout = prs.slide_layouts[6]
+                slide = prs.slides.add_slide(blank_slide_layout)
+                
+                txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
+                tf1 = txBox1.text_frame
+                para1 = tf1.add_paragraph()
+                para1.text = firstlyric
+                tf1.word_wrap = True
+                para1.font.size = firsttextsize
+                para1.font.color.rgb = firsttextcolor
+                para1.alignment=PP_ALIGN.CENTER
+                
+                txBox2 = slide.shapes.add_textbox(left2, top2, width2, height2)
+                tf2 = txBox2.text_frame
+                para2 = tf2.add_paragraph()
+                para2.text = secondlyric
+                tf2.word_wrap = True
+                para2.font.size = secondtextsize
+                para2.font.color.rgb = secondtextcolor
+                para2.alignment=PP_ALIGN.CENTER
+      
+        if language_count==3:
+            firstdata=songdata.getElementsByTagName(first_language)        
+            seconddata=songdata.getElementsByTagName(second_language)        
+            thirddata=songdata.getElementsByTagName(third_language)
+            for first_itr in firstdata:
+                firstlyric=first_itr.getElementsByTagName(vnum)[0]
+                firstlyric=(firstlyric.childNodes[0].data)
+            for second_itr in seconddata:
+                secondlyric=second_itr.getElementsByTagName(vnum)[0]
+                secondlyric=(secondlyric.childNodes[0].data)
+            for third_itr in thirddata:
+                thirdlyric=third_itr.getElementsByTagName(vnum)[0]
+                thirdlyric=(thirdlyric.childNodes[0].data)
+                
+                # create slide, add verse to slide
+                blank_slide_layout = prs.slide_layouts[6]
+                slide = prs.slides.add_slide(blank_slide_layout)
+                
+                txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
+                tf1 = txBox1.text_frame
+                para1 = tf1.add_paragraph()
+                para1.text = firstlyric
+                tf1.word_wrap = True
+                para1.font.size = firsttextsize
+                para1.font.color.rgb = firsttextcolor
+                para1.alignment=PP_ALIGN.CENTER
+                
+                txBox2 = slide.shapes.add_textbox(left2, top2, width2, height2)
+                tf2 = txBox2.text_frame
+                para2 = tf2.add_paragraph()
+                para2.text = secondlyric
+                tf2.word_wrap = True
+                para2.font.size = secondtextsize
+                para2.font.color.rgb = secondtextcolor
+                para2.alignment=PP_ALIGN.CENTER
+                
+                txBox3 = slide.shapes.add_textbox(left3, top3, width3, height3)
+                tf3 = txBox3.text_frame
+                para3 = tf3.add_paragraph()
+                para3.text = thirdlyric
+                tf3.word_wrap = True
+                para3.font.size = secondtextsize
+                para3.font.color.rgb = secondtextcolor
+                para3.alignment=PP_ALIGN.CENTER       
+
+                
+#    prs.save(savefile)
+
                 
 def download_file():
     return send_from_directory(savedirectory,savefile, as_attachment=True)                

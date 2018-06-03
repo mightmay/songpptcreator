@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<song>
+<thainame>พระคุณพระเจ้า</thainame>
+<englishname>Amazing Grace</englishname>
+<mienthainame>หฒอย โฮล เญย เอน</mienthainame>
+<order>verse1,verse2,verse3,verse4,verse5</order>
+<thai>
+<verse1>พระคุณพระเจ้านั้นแสนชื่นใจ ช่วยได้คนชั่วอย่างฉัน ครั้งนั้นฉันหลงพระองค์ตามหา ตาบอดแต่ฉันเห็นแล้ว</verse1>
+<verse2>บ่วงมารวางไว้ทุกข์ภัยหลายอย่าง ตามทางฉันพ้นมาแล้ว แต่เพราะพระคุณฉันจึงคลาดแคล้ว พระองค์นำฉันกลับบ้าน</verse2>
+<verse3>พระคุณสอนให้ใจฉันยำเกรง เร่งให้ความกลัวต้องหนี พระคุณอันเลิศประเสริฐยิ่งใหญ่ ไม่มีหมู่มารได้ชัย
+</verse3>
+<verse4>พระเจ้าประทานแต่สิ่งที่ดี พระธรรมให้มีความหวัง พระองค์คุ้มครองป้องกันทุกที เมื่อมีสิ่งชั่วบีฑา</verse4>
+<verse5>เมื่อเราได้ไปอยู่เมืองสวรรค์ ช้านานนับหลายพันปี ยังมีเวลาร้องเพลงสรรเสริญ เท่ากันกับเมื่อเริ่มต้น</verse5>
+</thai>
+<english>
+<verse1>AMAZING GRACE HOW SWEET THE SOUND THAT SAVED A WRETCH LIKE ME! I ONCE WAS LOST, BUT NOW AM FOUND WAS BLIND, BUT NOW I SEE</verse1>
+<verse2>Twas grace that taught my heart to fear, And grace my fears relieved; How precious did that grace appear the hour I first believed.</verse2>
+<verse3>Through many dangers, toils and snares, I have already come. 'tis grace that brought me safe thus far, and grace will lead us home.</verse3>
+<verse4>The Lord hath promised good to me, His word my hope secures; He will my shield and portion be As long as life endures.</verse4>
+<verse5>When we’ve been there ten thousand years, Bright shining as the sun, We’ve no less days to sing God’s praise Than when we first begun</verse5>
+</english>
+<mienthai>
+<verse1>หฒอย โฮล เญย เอน, หฒะเก้ง คู้ เฝียน, เย^ซู ต้าย ล์อ เหฌียว เยีย. เยีย มฒีง แม่ง เมี่ยน, นิ่น เถง ปวัด ฌัง, ต่อง เจ๊า, นิ่น ต้าย ล์อ เยีย.</verse1>
+<verse2>ทิน-ฮู่ง เญย เอน หฌาว เยีย ท่าย นิ่น, อ๋อย ปุน เยีย เสียน เขา นิ่น. ต้ง นิ่น เหธย เอน เถง ไม้ กั้ม เหฑีย, ปุน นิ่น เญย แป้ง ออน เปียะ.</verse2>
+<verse3>ยั่ง เจี๋ย เญย เจ๊า หฒะเก้ง ฮยวัง-เฮยี้ยน, นิ่น หย่า ต้อ เยีย เถา น้าย เหว่ย เฒี้ยว เญย เอน ต้อ เยีย ซิ้ม ฆอย, นิ่น อย่า อ๋อย เคน เถา เปย๊า.</verse3>
+<verse4>เยียม วั้ว ทิน-ต้อง ตุ๊ เหฒีย ธิน หฮญัง, เก้า ฌัง-หล่าง เจี๋ย บะฮนอย. เยีย แอ๋ง ม่าย เฒี่ยง โห่ เธง หฒั่ง เตี๋ย, หธ่อ ฮนั้ง เยียม เจี๋ย กอน นอ</verse4>
+<verse5> </verse5>
+</mienthai>
+<chord>
+<verse1> G G7 C G Em A7 D G G7 C G Em D7 G</verse1>
+<verse2> G G7 C G Em A7 D G G7 C G Em D7 G</verse2>
+<verse3> G G7 C G Em A7 D G G7 C G Em D7 G</verse3>
+<verse4> G G7 C G Em A7 D G G7 C G Em D7 G</verse4>
+<verse5> G G7 C G Em A7 D G G7 C G Em D7 G</verse5>
+</chord>
+</song>

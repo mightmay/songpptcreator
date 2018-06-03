@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เจิมด้วยไฟพระวิญญาณ</thainame>
+<englishname>Anoint us With the fire</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>เมื่อนมัสการพระเจ้า ด้วยสิ้นสุดใจ เชิญองค์พระวิญญาณ ประทับอยู่ในใจ ทรงเคลื่อนไหว ท่ามกลางพวกเราที่นี่ ให้ชีวิตเต็มด้วยการอัศจรรย์ และเต็มล้นด้วยไฟพระวิญญาณ</verse1>
+    <chorus>*โปรดเจิมเรา เจิมใจเรา ด้วยฤทธานุภาพ ยิ่งใหญ่ของพระองค์ โปรดเจิมเรา เจิมใจเรา ให้เต็มล้นด้วยไฟ แห่งพระวิญญาณ</chorus>
+</thai>
+
+<english>
+    <verse1>When we worship You With all of our hearts May the Holy Ghost Dwell within us Please move Your Spirit Here among us Let our lives be filled with miracles And overflow with the heavenly fire</verse1>
+
+    <chorus>Anoint us, fill our hearts With the sovereign Power of the Lord Anoint us, fill our hearts With the fire of The heavenly Ghost</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+        <chorus>...</chorus>
+</mienthai>
+
+<chord>
+
+    <verse1>G Bm Em C D G C D Bm Em Am D</verse1>
+
+    <chorus>G Em Am D G Em Am D G</chorus>
+
+</chord>
+
+</song>
