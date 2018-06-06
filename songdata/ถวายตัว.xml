@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ถวายตัว</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>ทุกครั้งที่ฉันเฝ้าภาวนา ได้ยินเสียงเรียก มาจากเบื้องบน เป็นเหมือนเสียงกระซิบข้างหู เร้าภายในด้วยความสุขล้น บอกฉันเบื้องบนให้ฉันถวายตัว</verse1>
+
+    <chorus>*หมดใจเรียกร้อง ให้เททั้งหัวใจ หมดกายเรียกร้อง ให้มอบถวาย หากเป็นสิ่งที่พระวิญญาณ อยากให้ตัดสินใจ ฉันพร้อมจะไป ฉันพร้อมจะเป็นทุกอย่าง</chorus>
+</thai>
+
+<english>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>C Dm/B E Am Dm G C E Am D Dm G C</verse1>
+
+    <chorus>F G Em Am Dm G C F E Am D F G</chorus>
+</chord>
+
+</song>

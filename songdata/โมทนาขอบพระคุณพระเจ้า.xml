@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>โมทนาขอบพระคุณพระเจ้า</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>chorus,verse1,chorus,verse2</order>
+
+<thai>
+    <verse1>ธารน้ำและเหล่าฝูงปลา หมู่นกในนภาท้องฟ้าไกล ถูกบันดาล อย่างสวยงาม โดยพระองค์ ในพระทัย เต็มด้วยรัก จับผงคลี ด้วยพระหัตถ์ ใส่ลมปราณ ของพระองค์ ในตัวเรา</verse1>
+    <verse2>ความดีงาม รักมั่นคง ติดตามเรา ไปทุกวัน นำพาใจ ให้รู้ทรง เดินเคียงข้าง รดน้ำหล่อ เลี้ยงหัวใจ ทรงฟื้นฟู กำลังใหม่ ไม่ขาดสิ่งใด เมื่อเรา มีพระองค์</verse2>
+    <chorus>โมทนาขอบพระคุณพระเจ้า เพราะพระองค์ได้ทรงกระทำสิ่งมากมาย โมทนาขอบพระคุณพระเจ้า เพราะพระองค์ได้ทรงกระทำสิ่งมากมาย</chorus>
+</thai>
+
+<english>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <chorus>...</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>Am Em F C C4 C Dm Em G C G Am Em F G C G F Em C</verse1>
+    <verse2>Am Em F C C4 C Dm Em G C G Am Em F G C G F Em C</verse2>
+    <chorus>C G Am F  F C F G  C G Am F  F C G C2</chorus>
+</chord>
+
+</song>

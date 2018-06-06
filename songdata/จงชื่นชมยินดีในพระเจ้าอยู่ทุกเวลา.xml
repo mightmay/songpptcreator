@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>จงชื่นชมยินดีในพระเจ้า อยู่ทุกเวลา</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>จงชื่นชมยินดีในพระเจ้า อยู่ทุกเวลา จงชื่นชมยินดีในพระองค์ อยู่เสมอไป จงชื่นชมยินดีในพระเจ้า อยู่ทุกเวลา จงชื่นชมยินดีในพระองค์ พระเจ้าของเรา</verse1>
+    <chorus>*อย่าให้ท่านทุกข์ร้อนในสิ่งใด แต่จงทูลทุกสิ่งต่อพระองค์ ด้วยการอธิษฐาน และการวิงวอนขอบพระคุณ แล้วสันติสุขในพระเจ้า จะคุ้มครองความคิดและจิตใจ ให้ท่านพักสงบ ในองค์พระเยซูผู้เดียว</chorus>
+</thai>
+
+<english>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>C G  F G C  C G  F G C</verse1>
+    <chorus>F Em Am  Dm7 G C C7  F Em Am  Dm7 F C </chorus>
+</chord>
+
+</song>

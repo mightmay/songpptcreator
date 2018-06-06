@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>หมดทั้งชีวิต</thainame>
+<englishname>Lord I Offer My Life To You</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus</order>
+
+<thai>
+    <verse1>หมดทั้งชีวิต หมดที่ข้าฯ มี ข้าฯ ขอวางลงจำเพาะพระพักตร์พระองค์ ทุกความรู้สึก เจ็บปวดหรือชื่นชม ยินดีหรือทุกข์ใจ มอบไว้แด่พระองค์ พระเจ้าข้าฯ มอบถวายทั้งชีวี ทั้งหมดทุกสิ่งที่มี เพื่อถวายพระสิริ</verse1>
+    <verse2>สิ่งที่เคยพบ สิ่งที่จะเจอ ทุกความต้องการ และทุกๆ ความใฝ่ฝัน ทุกความหวังใจ และในทุกแผนการ ชูมือและใจข้าฯ ถวายแด่พระองค์</verse2>
+
+    <chorus>พระเจ้าข้าฯ มอบทุกวันคืนที่มี เพื่อสรรเสริญทั้งชีวี เป็นเครื่องบูชาที่พอพระทัย พระเจ้าข้าฯ มอบชีวิตถวาย</chorus>
+</thai>
+
+<english>
+    <verse1>All that I am, all that I have. I lay them down before you, oh Lord. All my regrets, all my acclaims. The joy and the pain, I'm making them yours.</verse1>
+    <verse2>Things in the past, things yet unseen. Wishes and dreams that are yet to come true. All of my heart, all of my praise. My heart and my hands are lifted to you.</verse2>
+
+    <chorus>Lord, I offer my life to you. Everything I've been through. Use it for your glory. Lord I offer my days to you. Lifting my praise to you. As a pleasing sacrifice. Lord I offer you my life.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>E A B E C#m A F#m G#m A B7</verse1>
+    <verse2>E A B E C#m A F#m G#m A B7</verse2>
+
+    <chorus>E C#m F#m G#m A B E C#m F#m G#m A B E</chorus>
+</chord>
+
+</song>
