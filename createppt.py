@@ -73,7 +73,8 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
 
     
 
-        
+    thirdlangnamestring="none"
+    
     if third_language != "none":
         thirdlangxmlelement = third_language + "name"
         thirdlangname = songdata.getElementsByTagName(thirdlangxmlelement)[0]
