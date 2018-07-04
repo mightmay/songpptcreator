@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>สรรเสริญพระผู้ไถ่</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,verse3,verse4,chorus,verse5,verse6,chorus,verse7,verse8</order>
+
+<thai>
+    <verse1>พวกเรา มาร้องกันเถิด ร่วมร้องสรรเสริญแด่พระผู้เป็นเจ้า พระองค์เป็นผู้สร้างเรา พระประทานชีวิตให้เรา เราจึงคุกเข่า สรรเสริญพระองค์</verse1>
+    <verse2>จากใจที่แสนยินดี สุดแสนยินดีเพราะได้พบพระเจ้า ชีวิตหมดซึ่งซึมเซา ไม่มีใครจะสุขเท่าเรา เพราะองค์พระเจ้าเราจึงยินดี</verse2>
+    <verse3>หากใครได้พลาดพลั้งทำ เคยหลงเคยทำบาปและกรรมมาก่อน ขอจงรีบมาอ้อนวอน เพราะพระองค์ไม่เคยตัดรอน จงรีบอ้อนวอน ขอพรพระองค์</verse3>
+    <verse4>ด้วยรักจึงให้หนทาง ทรงมอบหนทางแก่ผู้คนทั่วหน้า พระองค์ประทานบุตรา พระเยซูเสด็จลงมา ทรงมอบกายา ช่วยเราทุกคน</verse4>
+    <verse5>เมื่อมองที่ไม้กางเขน จึงได้พบเห็นความรักที่ยิ่งใหญ่ พระเยซูได้ทรงยอมตาย พระองค์ยอมพลีพระกาย พระโลหิตไถ่ พวกเราทุกคน</verse5>
+    <verse6>วันที่สามทรงฟื้นจากตาย ทรงพร้อมอภัยแก่ทุกคนที่เชื่อ ผิดบาปกรรมจะไม่มีเหลือ กรรมทำมาจะไม่มีเหลือ เพราะเพียงเรา เชื่อถือในพระองค์</verse6>
+    <verse7>หากใครมาเชื่อพระองค์ มาพบพระองค์ชีวิตจะมีสุข แม้ทางข้างหน้ามีทุกข์ แม้หนทางจะพบความทุกข์ ชีวิตมีสุข เพราะพระองค์ดูแล</verse7>
+    <verse8>โลกนี้เราอยู่ไม่นาน ชีวิตสักวันก็ต้องมีวันสุด พระองค์ทรงรักมนุษย์ เชื่อพระองค์ผู้ไถ่มนุษย์ เมื่อวันสิ้นสุดเข้าสวรรค์นิรันดร์เอย</verse8>
+    <chorus>ฮา เล ฮาเลลูยา ฮาเลลูยา ฮาเล ลู ยา ฮา เล ฮาเลลูยา ฮาเลลู ยา ฮาเล ลู ยา</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>Em7 G Am7 B Em7</verse1>
+    <verse2>Em7 G Am7 B Em7</verse2>
+    <verse3>Em7 G Am7 B Em7</verse3>
+    <verse4>Em7 G Am7 B Em7</verse4>
+    <verse5>Em7 G Am7 B Em7</verse5>
+    <verse6>Em7 G Am7 B Em7</verse6>
+    <verse7>Em7 G Am7 B Em7</verse7>
+    <verse8>Em7 G Am7 B Em7</verse8>
+    <chorus>Em7 G Am7 B Em7</chorus>
+</chord>
+
+</song>

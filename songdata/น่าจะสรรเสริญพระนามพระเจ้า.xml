@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>น่าจะสรรเสริญพระนามพระเจ้า</thainame>
+<englishname>Singing Praise unto You Lord</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>น่าจะสรรเสริญพระนามพระเจ้า น่าจะสรรเสริญพระนามพระเจ้า พระคุณความรอดอนันต์ พระคริสต์ตายเพื่อฉัน สรรเสริญพระเจ้า</verse1>
+
+    <chorus>สรรเสริญพระเจ้า ฮาเลลูยา สรรเสริญพระเจ้า ฮาเลลูยา สรรเสริญพระเจ้า ฮาเลลูยา สรรเสริญพระเจ้า</chorus>
+</thai>
+
+<english>
+    <verse1>Singing praises unto You Lord. Singing praises unto You Lord. I’m so happy in thee For you died just for me. Praise to the Lord.</verse1>
+
+    <chorus>Praise to the Lord Hallelujah. Praise to the Lord Hallelujah. Praise to the Lord Hallelujah. Praise ye the Lord.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>G(C) G D7 G</verse1>
+
+    <chorus>G D G D G D G</chorus>
+</chord>
+
+</song>

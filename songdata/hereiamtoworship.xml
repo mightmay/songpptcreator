@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ข้าเข้ามานมัสการ</thainame>
+<englishname>Here I Am to Worship</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,bridge,chorus</order>
+
+<thai>
+    <verse1>ดุจความสว่าง พระองค์เข้ามาในความมืดมิด ทรงเปิดดวงตาให้ข้าเห็น ความงามที่ทำ ให้ใจข้ารักพระเยซู หวังจะได้อยู่ กับพระองค์</verse1>
+    <verse2>องค์จอมราชา ผู้รับประทับในที่สูงยิ่ง ทรงพระสิริในสวรรค์ ลงมาในโลกที่ทรงสร้างด้วยหัวใจถ่อม ทรงยอมยากจน เพราะรักเรา</verse2>
+
+    <chorus>* ข้ามานมัสการ ข้าเข้ามาเพื่อก้มกราบ ข้ามาร้องว่าพระองค์ เป็นพระเจ้า พระองค์ทรงงดงามสง่า สมควรรับคำคำบูชา พระองค์ทรงแสนดีต่อ ชีวิตข้า องค์จอมราชา ผู้ประทับในที่สูงยิ่ง ทรงพระสิริ ในสวรรค์</chorus>
+         <bridge>ไม่มีวันรู้ ทุกข์ทนเพียงใด เพื่อไถ่บาปข้า ที่บนกางเขน ไม่มีวันรู้ ทุกข์ทนเพียงใด เพื่อไถ่บาปข้า ที่บนกางเขน ไม่มีวันรู้ ทุกข์ทนเพียงใด เพื่อไถ่บาปข้า ที่บนกางเขน ไม่มีวันรู้ ทุกข์ทนเพียงใด เพื่อไถ่บาปข้า ที่บนกางเขน</bridge>
+</thai>
+
+<english>
+    <verse1>Light of the World You stepped down into darkness. Open my eyes Let me see. Beauty that made This heart adore You. Hope of a life Spent with You.</verse1>
+    <verse2>King of all days. Oh, so highly exalted. Glorious in Heaven above. Humbly You came. To the earth You created. All for love's sake became poor.</verse2>
+
+    <chorus>Here I am to worship. Here I am to bow down. Here I am to say that You're my God. You're altogether lovely. Altogether worthy. Altogether wonderful to me.</chorus>
+     <bridge>I'll never know how much it cost. To see my sin upon that cross. I'll never know how much it cost. To see my sin upon that cross. I'll never know how much it cost. To see my sin upon that cross. I'll never know how much it cost. To see my sin upon that cross.</bridge>
+    
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <chorus>...</chorus>
+     <bridge>...</bridge>
+</mienthai>
+
+<chord>
+    <verse1>E B F#m E B A2 E B F#m E B A2</verse1>
+    <verse2>E B F#m E B A2 E B F#m E B A2</verse2>
+
+    <chorus>E B/D# E/G# A E B/D# E/G# A</chorus>
+     <bridge>B E/G# A B E/G# A</bridge>
+</chord>
+
+</song>

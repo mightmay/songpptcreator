@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ทุกวันเวลา (ข้าอยากใกล้ชิดพระองค์)</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>ทุกวันเวลา ข้าอยากอยู่ใกล้ชิดพระองค์ ทุกวันเวลา อยู่ในความรักของพระองค์ ทุกวันเวลา ข้าอยากสรรเสริญ ทุกวันเวลา ข้าขอบพระคุณ แด่พระเจ้าสูงสุด ผู้สมควรสรรเสริญ</verse1>
+
+    <chorus>ขอสรรเสริญพระเจ้า สุดหัวใจ ขอสรรเสริญพระเจ้าผู้ยิ่งใหญ่ ทรงเคลื่อนไหวในเรา ด้วยฤทธิ์ องค์พระวิญญาณ เติมชัยชนะให้เต็มหัวใจ ให้ความยินดีเต็มล้นภายใน ถวายคำสรรเสริญ แด่พระเจ้าชั่วนิจนิรันดร์</chorus>
+</thai>
+
+<english>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>Gmaj7 Cmaj7 Gmaj7 Cmaj7 Am7 D B7 Em Am7 F Dsus D</verse1>
+
+    <chorus>Cmaj7 D Bm7 Em7 Am D Gmaj7 Cmaj7 D Bm7 Em7 Am7 D Gmaj7</chorus>
+</chord>
+
+</song>

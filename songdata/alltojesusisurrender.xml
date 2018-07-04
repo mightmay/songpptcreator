@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ข้ามอบทุกสิ่งแด่พระเยซู</thainame>
+<englishname>All to Jesus I surrender</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
+
+<thai>
+    <verse1>ข้ามอบทุกสิ่งแด่พระเยซู ยอมถวายด้วยความยินดี ข้าจะรักและพึ่งพระเยซู ต่อพระพักตร์ตลอดชีวี</verse1>
+    <verse2>ข้ามอบทุกสิ่งแด่พระเยซู ข้านอบน้อมกราบพระบาทา ความสุขโลกนี้ข้าละทิ้งแล้ว ขอพระองค์ทรงโปรดรับข้า</verse2>
+    <verse3>ข้ามอบทุกสิ่งแด่พระเยซู ให้เป็นสมบัติของพระองค์ ขอพระวิญญาณบริสุทธา ทรงนำข้าตามพระประสงค์</verse3>
+    <verse4>ข้ามอบทุกสิ่งแด่พระเยซู ข้าถวายทั้งใจกายา โปรดประทานความรักและฤทธา ขอพระพรไหลหลั่งลงมา</verse4>
+    <verse5>...</verse5>
+    <chorus>ข้าขอมอบถวาย ข้าขอมอบถวาย มอบถวายหมดแด่พระเยซู พระผู้ช่วยประเสริฐ</chorus>
+</thai>
+
+<english>
+    <verse1>All to Jesus I surrender, All to Him I freely give; I will ever love and trust Him, In His presence daily live.</verse1>
+    <verse2>All to Jesus I surrender, Humbly at His feet I bow, Worldly pleasures all forsaken; Take me, Jesus, take me now.</verse2>
+    <verse3>All to Jesus I surrender, Make me, Savior, wholly Thine; Let me feel Thy Holy Spirit, Truly know that Thou art mine.</verse3>
+    <verse4>All to Jesus I surrender, Lord, I give myself to Thee; Fill me with Thy love and power, Let Thy blessing fall on me.</verse4>
+    <verse5>All to Jesus I surrender, Now I feel the sacred flame. Oh, the joy of full salvation! Glory, glory to His name!</verse5>
+    <chorus>I surrender all, I surrender all. All to Thee, my blessed Savior, I surrender all.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>D A7 D G A7 D D A7 D G A7 D</verse1>
+    <verse2>D A7 D G A7 D D A7 D G A7 D</verse2>
+    <verse3>D A7 D G A7 D D A7 D G A7 D</verse3>
+    <verse4>D A7 D G A7 D D A7 D G A7 D</verse4>
+    <verse5>D A7 D G A7 D D A7 D G A7 D</verse5>
+    <chorus>D Em A7 D D G A7 A7 D</chorus>
+</chord>
+
+</song>

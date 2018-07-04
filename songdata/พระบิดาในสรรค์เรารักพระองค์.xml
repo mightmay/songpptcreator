@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระบิดาในสวรรค์เรารักพระองค์</thainame>
+<englishname>Father In Heaven How We Love You</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>พระบิดาในสวรรค์ เรารักพระองค์ เรายกพระนามพระองค์บูชา ให้พระบัลลังก์พระองค์ประทับเหนือคำสรรเสริญ ให้ทั่วโลกาประกาศพระบารมี</verse1>
+
+    <chorus>สาธุการพระนามองค์ทรงฤทธา ผู้ทรงครอบครองชั่วนิจนิรันดร์ สาธุการพระนามองค์ทรงฤทธา ทรงเป็นราชานิรันดร์</chorus>
+</thai>
+
+<english>
+    <verse1>Father in heaven how we love you we lift Your name in all the earth. May Your kingdom be establish’d in our praises as Your people declare Your mighty works.</verse1>
+
+    <chorus>Blessed be the Lord God almighty, who was and is and is to come, blessed be the Lord God almighty, who reigns for ever more.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>A C#m Bm E7 A A C#m Bm Bm/E E7 A</verse1>
+
+    <chorus>E7 A C#m Bm E7 A E7 A C#m Bm E7 A</chorus>
+</chord>
+
+</song>

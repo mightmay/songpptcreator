@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>วันแห่งการสรรเสริญ</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+
+<thai>
+    <verse1>ฟังสิ ได้ยินไหม เพลงสรรเสริญ ภูเขาสะเทือนร่วม เปล่งเสียง ไปทั่วฟ้า จรดแผ่นน้ำ สูงลงมาจน ต่ำสุด เสียงเพลงไม่มีจุด จบก้องกังวานทั่ว สวรรค์</verse1>
+    <verse2>แผ่นดินก้มกราบลง สั่นสะท้าน นมัสการจอมราชาผู้ครอบครองจักรวาล เพราะไม่มีใครยิ่งใหญ่กว่า ผู้ควบคุมวันเวลา พระเยโฮวาห์ ของเรา</verse2>
+    <verse3>รวมกันเราผูกพัน จิตวิญญาณ ต่อหน้าบัลลังก์เรา เป็นเหมือนท่วงทำนองร่วมขับขาน ถวายใจเป็นเครื่องบูชา ร้องว่าฮาเลลูยา มอบทุกสิ่งแด่พระองค์</verse3>
+    <chorus>เราชูมือขึ้นโห่ร้องเป็นเพลงนมัสการเข้าเฝ้าพระเจ้าใหญ่ยิ่งผู้เป็นนิรันดร์เราถูกสร้างมาเพื่อสรรเสริญพระองค์และยกย่องพระนามร่วมกันชื่นชมยินดีในช่วงเวลาที่งดงามอยากจะให้เป็นเช่นนี้เรื่อยไปทุกวันทุกคนเข้ามาฉลองร่วมกันวันนี้คือวันแห่งการสรรเสริญ</chorus>
+</thai>
+
+<english>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <verse3>...</verse3>
+    <chorus>...</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <verse3>...</verse3>
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>D  	Bm  	G  	Em  	D </verse1>
+    <verse2>D  	Bm  	G  	Em  	D </verse2>
+    <verse3>D  	Bm  	G  	Em  	D </verse3>
+    <chorus>G A D/F# Bm G Asus4 D G A D/F# Bm G Asus4 D</chorus>
+</chord>
+
+</song>

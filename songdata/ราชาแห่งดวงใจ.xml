@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ราชาแห่งดวงใจ</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>พระสิริเป็นของพระองค์ พระเจ้าผู้เที่ยงธรรมข้าขอนมัสการ ให้แผ่นดินเปรมปรีดิ์โห่ร้อง เปล่งเสียงถวายสรรเสริญ และก้มกราบลง นมัสการพระองค์</verse1>
+
+    <chorus>ข้าจะนมัสการ ด้วยจิตวิญญาณและความจริง เพราะพระองค์คือทั้งสิ้น ที่หัวใจข้าต้องการ ข้าขอถวายวิญญาณ จะมอบวางชีวิตแทบพระบาท พระเจ้าของข้า ราชาแห่งดวงใจ</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>Bb Dm7 Eb F Bb Eb F Dsus D Gm7 Cm7 F Bb</verse1>
+
+    <chorus>Ebmaj7 F/Eb Dm7 Gm7 Cm7 F Bb Ab/Bb Ebmaj7 F/Eb Dm7 Gm7 Cm7 F Bb</chorus>
+</chord>
+
+</song>

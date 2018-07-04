@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ข้าแต่พระบิดา</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+
+<thai>
+    <verse1>ข้าแต่พระบิดาแห่งข้าพระองค์ ผู้ทรงสถิตในฟ้าสวรรค์ ขอให้พระนามของพระองค์ เป็นที่เคารพบูชา</verse1>
+    <verse2>ขอโปรดให้ข้ามีอาหารประจำวัน ประทานเพื่อการวันนี้แก่ข้า ขอโปรดยกควมบาปของข้าพระองค์ ดังที่ข้ายกโทษผู้อื่น</verse2>
+    <verse3>ขออย่านำข้าเข้าในการทดลอง แต่ขอทรงนำให้ผ่านความชั่วร้าย ขออย่านำข้าเข้าในการทดลอง แต่ขอให้เป็นไปตามน้ำพระทัย</verse3>
+
+    <chorus>ขอให้แผ่นดินของพระองค์ลงมา และให้เป็นไปตามน้ำพระทัย ขอให้แผ่นดินของพระองค์ลงมา และให้เป็นไปตามน้ำพระทัย</chorus>
+</thai>
+
+<english>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <verse3>...</verse3>
+
+    <chorus>...</chorus>
+</english>
+    
+<mienthai>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <verse3>...</verse3>
+
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>...</verse1>
+    <verse2>...</verse2>
+    <verse3>...</verse3>
+
+    <chorus>...</chorus>
+</chord>
+
+</song>

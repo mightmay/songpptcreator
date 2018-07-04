@@ -87,7 +87,10 @@ def createpptxfile():
     # get song xml file path for each song then put it in a list
     filepathlist=[]
     for song_itr in songlist:
-        song_itr_cleaned = song_itr.replace(" ", "")
+        song_itr_lower = song_itr.lower()
+        song_itr_cleanedspecialcar= song_itr_lower.replace("^", "")
+        song_itr_cleanedcomma= song_itr_cleanedspecialcar.replace("'", "")
+        song_itr_cleaned = song_itr_cleanedcomma.replace(" ", "")
         filepathlist.append(getsongxmlfilename(song_itr_cleaned))
     
     print(filepathlist)
@@ -95,7 +98,7 @@ def createpptxfile():
     # create the pptx file
     for fp_itr in filepathlist:
         if fp_itr == -1:
-            return("song not found")
+            return("song "+songlist[fp_itr]+" not found")
         getsongdata(prs,fp_itr,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolorrgb,secondttextcolorrgb,thirdtextcolorrgb,0)
         
     prs.save(savefile)

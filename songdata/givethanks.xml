@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ขอบพระคุณด้วยใจโมทนา</thainame>
+<englishname>Give Thanks</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>ขอบพระคุณด้วยใจโมทนา ขอบพระคุณแด่องค์บริสุทธิ์ ขอบพระคุณที่พระองค์ประทาน พระเยซู พระบุตร</verse1>
+
+    <chorus>เดี๋ยวนี้ ให้ผู้อ่อนแอกล่าวว่าเข้มแข็ง ให้ผู้ขัดสนกลับเป็นมั่งมี เพราะพระองค์ทรง ประทานสิ่งดีเพื่อเรา</chorus>
+</thai>
+
+<english>
+    <verse1>Give thanks with a grateful heart. Give thanks to the Holy One. Give thanks because He's given Jesus Christ, His Son.</verse1>
+
+    <chorus>And now let the weak say, I am strong. Let the poor say, I am rich. Because of what the Lord has done for us.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>F C/E Dm Am Bb F Eb Dm Csus C</verse1>
+
+    <chorus>Am Dm Gm C7 Am Dm Eb Csus C</chorus>
+</chord>
+
+</song>

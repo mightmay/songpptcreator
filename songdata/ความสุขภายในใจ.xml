@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ความสุขภายในใจ</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>ความสุขภายในใจ ล้นเต็มอยู่ภายใน เร้าดวงใจจิตวิญญาณให้ เกิดความยินดี พระประทานความสุข ยามทุกข์ทรงเป็นเพื่อน ทรงชูใจด้วยความเมตตาอย่างอัศจรรย์</verse1>
+
+    <chorus>เรานมัสการ ด้วยจิตวิญญาณและความจริง เรานมัสการ ด้วยจิตวิญญาณและความจริง จะมีผู้ใดเปรียบพระองค์ สหายเลิศในใจเรา</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>A C#m F#m C#m D Bm E7 A A C#m F#m C#m D Bm E7</verse1>
+
+    <chorus>D E7 C# F#m D E7 C# F#m D E7 Bm E7 D</chorus>
+</chord>
+
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระสิริ โอ พระสิริ</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>พระสิริ โอ พระสิริ พระเจ้าจอมราชา บริสุทธิ์ งดงามสง่า จอมราชาของเรา</verse1>
+
+    <chorus>*เราจึงก้มกราบเทิดทูน นมัสการ ด้วยวิญญาณ ที่ยกย่องและบูชา ด้วยเรามีพระเจ้าเดียว องค์ผู้เที่ยงธรรม ผู้ทรงครอบครองทั่วฟ้าและสวรรค์</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G Bm C D G G Bm C D G</verse1>
+
+    <chorus>C D Bm Em C D G C D Bm Em C D G</chorus>
+</chord>
+
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พรุ่งนี้</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>พรุ่งนี้ เราจะได้พบอะไร คงมีคำถามมากมาย ที่ไม่อาจรู้ว่าพรุ่งนี้จะเป็นอย่างไร ไม่รู้ เราจะได้พบความสุข หรือเราจะต้องทุกข์เท่าไร คงไม่อาจทำให้เหมือนที่เราตั้งใจ</verse1>
+
+    <chorus>พรุ่งนี้ถ้าหากจะเจอปัญหา ขอฝากให้องค์พระคริสต์นำพา ให้ผ่านเหมือนในวันนี้ พรุ่งนี้ แม้อาจจะดีจะร้าย ไม่หวั่นไม่กลัว แต่ขอวางใจ ให้พระเยซูนำทาง</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</chord>
+
+</song>
