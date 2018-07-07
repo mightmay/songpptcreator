@@ -1,11 +1,7 @@
-# Python Flask app on Azure App Service Web
+This is web app to create songs lyrics powerpoint slides automatically.
 
-This is a minimal sample app that demonstrates how to run a Python Flask application on Azure App Service Web.
+Just put in song name seperate by comma, for example: Amazing grace, Still, How great thou art
 
-This repository can directly be deployed to Azure App Service.
+then you click submit and get pptx slides.
 
-For more information, please see the [Python on App Service Quickstart docs](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-get-started-python).
-
-# Contributing
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+use it at: https://songpptcreator.herokuapp.com
