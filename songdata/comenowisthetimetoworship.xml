@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>มานี่เป็นเวลานมัสการ</thainame>
+<englishname>Come Now is the Time to Worship</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>มา นี่เป็นเวลานมัสการ มา นี่เป็นเวลาถวายดวงใจ มา นมัสการดั่งที่เป็น มา ต่อหน้าพระองค์ดั่งที่เราเป็น มา</verse1>
+
+    <chorus>สักวันทุกลิ้นจะยอมรับว่าทรงเป็นพระเจ้า สักวันทุกเข่าจะก้มกราบลง แต่ทรัพย์สมบัติล้ำค่าจะเป็นของบรรดา ผู้เลือกและรับพระองค์</chorus>
+</thai>
+
+<english>
+    <verse1>Come now is the time to worship. Come now is the time to give your heart. Come just as you are to worship. Come just as you are before your God. Come</verse1>
+
+    <chorus>One day every tongue, Will confess You are God. One day every knee will bow. Still the greatest treasure remains, For those who gladly choose You now.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>D G D A Em D G D G D A Em D G D</verse1>
+
+    <chorus>G D G D G Bm Em A</chorus>
+</chord>
+
+</song>

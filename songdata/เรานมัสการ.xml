@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เรานมัสการ (เราพึ่งพาพระองค์)</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>เราพี่งพาพระองค์ พระองค์ทรงเป็นทุกสิ่งที่ใจเราต้องการ เราเชื่อในพระองค์ พระองค์บรรดาลทุกสิ่งที่เกินความเข้าใจของเรา</verse1>
+
+    <chorus>เรานมัสการ องค์พระเจ้ายิ่งใหญ่ ไม่มีอะไรที่อยากเกินกว่าพระองค์จะทำ เรานมัสการ องค์พระเจ้ายิ่งใหญ่ และไม่มีใครเทียบได้กับพระองค์</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G Bm Em C Bm C D G Bm Em C Bm C D G</verse1>
+
+    <chorus>G Bm Em D C D G Bm Em D C D G</chorus>
+</chord>
+
+</song>

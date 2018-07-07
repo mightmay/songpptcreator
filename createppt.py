@@ -63,7 +63,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
     slide = prs.slides.add_slide(title_slide_layout)
     title = slide.shapes.title
     subtitle = slide.placeholders[1]
-    
+
     # get song ordering
     order = songdata.getElementsByTagName("order")[0]
     order_list=(order.childNodes[0].data)
@@ -79,7 +79,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
         thirdlangxmlelement = third_language + "name"
         thirdlangname = songdata.getElementsByTagName(thirdlangxmlelement)[0]
         thirdlangnamestring=(thirdlangname.childNodes[0].data)
-        
+
         if thirdlangnamestring == 'none':
             third_language= "none"
             
@@ -117,6 +117,13 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
             second_language = "none"
         if secondlangnamestring == 'none' and thirdlangnamestring == 'none':
             return("no lyric")
+            
+            
+    # delete "none" from Title and subtitle slide
+    if subtitle.text == "none":
+        subtitle.text = ""
+    if title.text == "none":
+        title.text = ""
 
     # count how many language
     language_count= 0
@@ -129,14 +136,15 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
     
     if language_count == 1:
-        left1 = top1 = Inches(1)
+        left1 = Inches(1)
+        top1 = Inches(0.5)
         width1 = Inches(8)
         height1 = Inches(6)
                
             
     if language_count == 2:
         left1 = Inches(1)
-        top1 = Inches(0.5)
+        top1 = Inches(0.25)
         width1 = Inches(8)
         height1 = Inches(3.25)
         
@@ -148,7 +156,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
     
     if language_count == 3:
         left1 = Inches(1)
-        top1 = Inches(0.5)
+        top1 = Inches(0.25)
         width1 = Inches(8)
         height1 = Inches(2)
         

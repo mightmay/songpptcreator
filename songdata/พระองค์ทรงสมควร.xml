@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระองค์ทรงสมควร</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus</order>
+
+<thai>
+    <verse1>วันเวลาที่เปลี่ยนไป พระองค์ไม่เปลี่ยนแปลง มีความรักและเมตตาอยู่เสมอ ตัวเราอาจจะหวั่นไหว พระองค์ยังเหมือนเดิม เป็นพระเจ้าของเราอยู่เรื่อยไป</verse1>
+    <verse2>วันที่แดดจะแผดเผา ทรงเป็นเงาร่มเย็น เป็นความหวังเป็นทางรอดอยู่เสมอ คืนและวันที่เหน็บหนาว พระองค์อยู่ข้างเรา เป็นพระเจ้าของเราอยู่เรื่อยไป</verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus>พระองค์ทรงสมควร ที่จะรับการสรรเสริญ พระองค์ทรงสมควร ที่จะรับการโมทนา เพราะพระองค์แสนดี และไม่มีใครจะเหมือน พระองค์ทรงสมควร ที่จะรับการสรรเสริญ</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G C D G Cmaj7 D C D G C D Em Cmaj7 D Dsus D</verse1>
+    <verse2>G C D G Cmaj7 D C D G C D Em Cmaj7 D Dsus D</verse2>
+    <chorus>G D/F# Em Cmaj7 Dsus D C Bm7 Em Am D G</chorus>
+</chord>
+
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>จงสรรเสริญพระเจ้าเถิด</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>จงสรรเสริญพระเจ้าเถิด เปล่งเสียงโห่ร้องถวาย จงเข้าไปในพระวิหาร และนมัสการพระองค์ พระองค์ทรงสร้างทุกสิ่ง ขึ้นด้วยฝีพระหัตถ์ พระนามพระองค์ยิ่งใหญ่ สมควรสรรเสริญ</verse1>
+
+    <chorus>ให้ทุกสิ่งที่อยู่ใต้ฟ้า ร้องสรรเสริญพระนามพระองค์ ยกย่องความยิ่งใหญ่ ของพระองค์ร่วมกัน ร้องเพลงและเต้นรำถวาย สรรเสริญพระนามเกรียงไกร ทุก ๆ สิ่งที่หายใจ จงสรรเสริญพระเจ้า</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G Gsus G Gsus G Em Am D G Gsus Bm7 Em7 Am Dsus D</verse1>
+    <chorus>C G C G C Am G F D C G C G C D G Gsus G Gsus</chorus>
+</chord>
+
+</song>

@@ -114,7 +114,31 @@
 
 <song name="พรุ่งนี้">พรุ่งนี้.xml</song>
 <song name="พรุ่งนี่">พรุ่งนี้.xml</song>
-
 <song name="พรุ่งนี้เราจะได้พบอะไร">พรุ่งนี้.xml</song>
+
+<song name="ihearthywelcomevoice">ihearthywelcomevoice.xml</song>
+<song name="iamcominglord">ihearthywelcomevoice.xml</song>
+<song name="ได้ยินเสียงของพระเจ้า">ihearthywelcomevoice.xml</song>
+<song name="เพลงชีวิตคริสเตียนบทที่291">ihearthywelcomevoice.xml</song>
+
+<song name="เรานมัสการ">เรานมัสการ.xml</song>
+<song name="เราพึ่งพาพระองค์">เรานมัสการ.xml</song>
+<song name="เราพี่งพาพระองค์พระองค์ทรงเป็นทุกสิ่ง">เรานมัสการ.xml</song>
+
+<song name="forever">forever.xml</song>
+<song name="foreverchristomlin">forever.xml</song>
+<song name="hisloveenduresforever">forever.xml</song>
+
+<song name="จงสรรเสริญพระเจ้าเถิด">จงสรรเสริญพระเจ้าเถิด.xml</song>
+<song name="จงสรรเสริญพระเจ้าเถิดเปล่งเสียงโห่ร้องถวาย">จงสรรเสริญพระเจ้าเถิด.xml</song>
+
+
+<song name="พระองค์ทรงสมควร">พระองค์ทรงสมควร.xml</song>
+<song name="พระองค์ทรงสมควรที่จะรับการสรรเสริญ">พระองค์ทรงสมควร.xml</song>
+
+<song name="comenowisthetimetoworship">comenowisthetimetoworship.xml</song>
+<song name="มานี่เป็นเวลานมัสการ">comenowisthetimetoworship.xml</song>
+<song name="มานี่เป็นเวลา">comenowisthetimetoworship.xml</song>
+
 
 </all>

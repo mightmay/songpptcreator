@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ได้ยินเสียงของพระเจ้า</thainame>
+<englishname>I Hear Thy Welcome Voice (I Am Coming, Lord)</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
+
+<thai>
+    <verse1>ได้ยินเสียงของพระเจ้าเรียกข้าฯให้มาเข้าเฝ้าพระองค์ ชำระความบาปหมดเวรด้วยโลหิตจากกางเขน</verse1>
+    <verse2>แม้ข้าฯเหน็ดเหนื่อยเพราะบาป พระองค์ประทานเรี่ยวแรง มาตรแม้นชั่วช้าเลวทรามปานใด โปรดให้สะอาดผ่องใส</verse2>
+    <verse3>พระองค์สัญญาแน่นอนแก่ผู้จงรักภักดี มารร้ายไม่อาจจะมาย่ำยีเพราะว่าพระองค์คุ้มครอง</verse3>
+    <verse4>...</verse4>
+    <verse5>ไชโย โลหิตประเสริฐ ไชโย ความรักล้ำเลิศไชโย ความรอดขององค์พระคริสต์เป็นฤทธิ์และความสัจจา</verse5>
+    <chorus>ขอพระองค์เมตตา ข้าฯมาเฝ้าเดี๋ยวนี้ ขอพระโลหิตจากกางเขน ล้างบาปให้สิ้นกรรมเวร</chorus>
+</thai>
+
+<english>
+    <verse1>I hear Thy welcome voice, That calls me, Lord, to Thee, For cleansing in Thy precious blood That flowed on Calvary.</verse1>
+    <verse2>Though coming weak and vile, Thou dost my strength assure; Thou dost my vileness fully cleanse, Till spotless all, and pure.</verse2>
+    <verse3>’Tis Jesus who confirms The blessed work within, By adding grace to welcomed grace, Where reigned the power of sin.</verse3>
+    <verse4>And He the witness gives To loyal hearts and free, That every promise is fulfilled, If faith but brings the plea.</verse4>
+    <verse5>All hail, redeeming blood! All hail, life-giving grace! All hail, the gift of Christ our Lord, Our strength and righteousness.</verse5>
+    <chorus>I am coming, Lord, Coming now to Thee: Wash me, cleanse me in the blood That flowed on Calvary.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>D Gm A7 D D Em A7 D</verse1>
+    <verse2>D Gm A7 D D Em A7 D</verse2>
+    <verse3>D Gm A7 D D Em A7 D</verse3>
+    <verse4>D Gm A7 D D Em A7 D</verse4>
+    <verse5>D Gm A7 D D Em A7 D</verse5>
+    <chorus>D G D Em A7 D Em A7 D</chorus>
+</chord>
+
+</song>
