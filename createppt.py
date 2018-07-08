@@ -10,11 +10,14 @@ from pptx import Presentation
 from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
 from pptx.enum.text import PP_ALIGN
+from pptx.enum.text import MSO_ANCHOR, MSO_AUTO_SIZE
+
 from flask import Flask, request, send_from_directory, send_file 
 import xml.dom.minidom
 from xml.dom.minidom import parse
 from xml.dom import minidom
 import xml.dom.minidom
+from adjusttext import autoaddnewline
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
 lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
 savedirectory = os.path.join(APP_ROOT, 'finishedppt')
@@ -190,11 +193,24 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
                 tf1 = txBox1.text_frame
                 para1 = tf1.add_paragraph()
-                para1.text = firstlyric
-                tf1.word_wrap = True
+                firstlyricaddedlinebreak=autoaddnewline(firstlyric,int(firsttextsizeint),language_count,first_language)
+                print('font size: '+firsttextsizeint)
+                print('line break: '+str(firstlyricaddedlinebreak))
+                
+                # no new line char added, then keep word wrap
+                if(firstlyricaddedlinebreak==-1):
+                    para1.text = firstlyric
+                    tf1.word_wrap = True
+                    
+                # if new line char was added turn off word wrap
+                else:
+                    para1.text = firstlyricaddedlinebreak
+                    tf1.word_wrap = False
                 para1.font.size = firsttextsize
+                
                 para1.font.color.rgb = firsttextcolor
                 para1.alignment=PP_ALIGN.CENTER
+                
 
         if language_count==2:
             firstdata=songdata.getElementsByTagName(first_language)        
@@ -213,20 +229,47 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
                 tf1 = txBox1.text_frame
                 para1 = tf1.add_paragraph()
-                para1.text = firstlyric
-                tf1.word_wrap = True
+
                 para1.font.size = firsttextsize
+                
                 para1.font.color.rgb = firsttextcolor
                 para1.alignment=PP_ALIGN.CENTER
                 
+                firstlyricaddedlinebreak=autoaddnewline(firstlyric,int(firsttextsizeint),language_count,first_language)
+                print('font size: '+firsttextsizeint)
+                print('line break: '+str(firstlyricaddedlinebreak))
+                
+                # no new line char added, then keep word wrap
+                if(firstlyricaddedlinebreak==-1):
+                    para1.text = firstlyric
+                    tf1.word_wrap = True
+                    
+                # if new line char was added turn off word wrap
+                else:
+                    para1.text = firstlyricaddedlinebreak
+                    tf1.word_wrap = False
+                    
                 txBox2 = slide.shapes.add_textbox(left2, top2, width2, height2)
                 tf2 = txBox2.text_frame
                 para2 = tf2.add_paragraph()
-                para2.text = secondlyric
-                tf2.word_wrap = True
+
                 para2.font.size = secondtextsize
                 para2.font.color.rgb = secondtextcolor
                 para2.alignment=PP_ALIGN.CENTER
+                              
+                secondlyricaddedlinebreak=autoaddnewline(secondlyric,int(secondtextsizeint),language_count,second_language)
+                print('font size: '+secondtextsizeint)
+                print('line break: '+str(secondlyricaddedlinebreak))
+                
+                # no new line char added, then keep word wrap
+                if(secondlyricaddedlinebreak==-1):
+                    para2.text = secondlyric
+                    tf2.word_wrap = True
+                    
+                # if new line char was added turn off word wrap
+                else:
+                    para2.text = secondlyricaddedlinebreak
+                    tf2.word_wrap = False
       
         if language_count==3:
             firstdata=songdata.getElementsByTagName(first_language)        
