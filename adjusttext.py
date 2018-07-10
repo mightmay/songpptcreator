@@ -24,6 +24,12 @@ def autoaddnewline(inputstring,fontsize,langcount,language):
            slist[cidx]='\n'
            charcounter=0
            addedline=True
+           
+       if( (charcounter>((totalchar-4)/(8/langcount))) and (char=='.' or char==',') and (language=='english' or language=='mienthai')):
+           slist[cidx]='\n'
+           charcounter=0
+           addedline=True
+           
        if(charcounter>95-fontsize):
            return (-1)
            
