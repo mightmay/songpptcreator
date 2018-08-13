@@ -67,6 +67,7 @@
 <song name="blessedbethelordgodalmighty">พระบิดาในสรรค์เรารักพระองค์.xml</song>
     
 <song name="ทุกวันเวลาข้าอยากใกล้ชิดพระองค์">ทุกวันเวลาข้าอยากใกล้ชิดพระองค์.xml</song>
+<song name="ทุกวันเวลาข้าอยากอยู่ใกล้ชิดพระองค์">ทุกวันเวลาข้าอยากใกล้ชิดพระองค์.xml</song>
 <song name="ทุกวันเวลา">ทุกวันเวลาข้าอยากใกล้ชิดพระองค์.xml</song>
     
 <song name="ข้าเข้ามานมัสการ">hereiamtoworship.xml</song>
@@ -128,6 +129,7 @@
 <song name="forever">forever.xml</song>
 <song name="foreverchristomlin">forever.xml</song>
 <song name="hisloveenduresforever">forever.xml</song>
+<song name="hisloveendureforever">forever.xml</song>
 
 <song name="จงสรรเสริญพระเจ้าเถิด">จงสรรเสริญพระเจ้าเถิด.xml</song>
 <song name="จงสรรเสริญพระเจ้าเถิดเปล่งเสียงโห่ร้องถวาย">จงสรรเสริญพระเจ้าเถิด.xml</song>
@@ -156,5 +158,57 @@
 <song name="tenthousandsreasons">10000reasons.xml</song>
 <song name="blessthelordomysoul">10000reasons.xml</song>
 <song name="blessthelordohmysoul">10000reasons.xml</song>
+
+<song name="iwillenterhisgates">เราจะเข้ามาสรรเสริญ.xml</song>
+<song name="iwillenterhisgate">เราจะเข้ามาสรรเสริญ.xml</song>
+<song name="เราจะเข้ามาสรรเสริญ">เราจะเข้ามาสรรเสริญ.xml</song>
+<song name="เราจะเข้ามาสรรเสิญ">เราจะเข้ามาสรรเสริญ.xml</song>
+<song name="iwillenterhisgateswiththanksgivinginmyheart">เราจะเข้ามาสรรเสริญ.xml</song>
+<song name="hehasmademeglad">เราจะเข้ามาสรรเสริญ.xml</song>
+<song name="iwillenterhisgatewiththanksgivinginmyheart">เราจะเข้ามาสรรเสริญ.xml</song>
+
+<song name="สรรเสริญพระเยซู">สรรเสริญพระเยซู.xml</song>
+<song name="สรรเสริญพระเยซูให้เราได้รัก">สรรเสริญพระเยซู.xml</song>
+<song name="ให้เราได้รักพระองค์ด้วยสิ้นสุดใจ">สรรเสริญพระเยซู.xml</song>
+<song name="สรรเสริญพระเยซูยกชูพระนามพระองค์">สรรเสริญพระเยซู.xml</song>
+
+<song name="มีชีวิตเพื่อพระคริสต์">มีชีวิตเพื่อพระคริสต์.xml</song>
+<song name="มีชีวิตเพื่อพระคริสต์การตายได้กำไร">มีชีวิตเพื่อพระคริสต์.xml</song>
+<song name="เป็นราชาเป็นเสียงเพลง">มีชีวิตเพื่อพระคริสต์.xml</song>
+<song name="เป็นวิญญาณเป็นสันติเป็นพระเจ้า">มีชีวิตเพื่อพระคริสต์.xml</song>
+
+
+<song name="ถวายทุกสิ่ง">ถวายทุกสิ่ง.xml</song>
+<song name="ถวายทุกสิ่งถวายทุกอย่าง">ถวายทุกสิ่ง.xml</song>
+<song name="เข้ามาด้วยใจที่ถ่อมจะยอมพระองค์ทุกอย่าง">ถวายทุกสิ่ง.xml</song>
+<song name="ถวายทุกสิ่งถวายทุกอย่างหมดชีวิตและหัวใจ">ถวายทุกสิ่ง.xml</song>
+
+<song name="youaremystrength">youaremystrength.xml</song>
+<song name="youaremystrengthstrengthlikenoother">youaremystrength.xml</song>
+
+
+<song name="spiritsong">spiritsong.xml</song>
+<song name="ohletthesonofgodenfoldyou">spiritsong.xml</song>
+<song name="jesusohjesuscomeandfillyourlambs">spiritsong.xml</song>
+<song name="jesusohjesuscomeandfillyourlamb">spiritsong.xml</song>
+
+<song name="สาธุการพระนามในแผ่นดินที่สมบูรณ์งดงาม">blessedbeyourname.xml</song>
+<song name="สาธุการพระนาม">blessedbeyourname.xml</song>
+<song name="blessedbeyourname">blessedbeyourname.xml</song>
+<song name="blessedbethenameofthelordblessedbeyourname">blessedbeyourname.xml</song>
+<song name="ทรงให้และทรงรับไปทรงให้และทรงรับไป">blessedbeyourname.xml</song>
+
+<song name="ร้องเพลงสรรเสริญแด่พระเจ้าทั่วโลกา">shouttothelord.xml</song>
+<song name="ร้องเพลงสรรเสริญแด่พระเจ้า">shouttothelord.xml</song>
+<song name="shouttothelord">shouttothelord.xml</song>
+<song name="พระเยซูพระผู้ช่วย">shouttothelord.xml</song>
+<song name="myjesusmysaviorlordthereisnonelikeyou">shouttothelord.xml</song>
+<song name="myjesusmysavior">shouttothelord.xml</song>
+
+<song name="thesplendorofakingclothedinmajesty">howgreatisourgod.xml</song>
+<song name="howgreatisourgod">howgreatisourgod.xml</song>
+<song name="agetoagehestands">howgreatisourgod.xml</song>
+<song name="nameaboveallnamesworthyofallpraise">howgreatisourgod.xml</song>
+
 
 </all>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>How Great Is Our God</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,bridge,chorus</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>The splendor of a King, clothed in majesty. Let all the earth rejoice. All the earth rejoice. He wraps himself in Light, and darkness tries to hide. And trembles at His voice. Trembles at His voice.</verse1>
+    <verse2>Age to age He stands. And time is in His hands. Beginning and the end. Beginning and the end. The Godhead Three in One. Father Spirit Son. The Lion and the Lamb. The Lion and the Lamb.</verse2>
+    <bridge>Name above all names. Worthy of our praise. My heart will sing. How great is our God.</bridge>
+    <chorus>How great is our God, sing with me. How great is our God, and all will see. How great, how great is our God.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G D/ F# Em7 Cmaj7 D G D/ F# Em7 Cmaj7 D</verse1>
+    <verse2>G D/ F# Em7 Cmaj7 D G D/ F# Em7 Cmaj7 D</verse2>
+    <bridge>G/ D Cmaj7 D G</bridge>
+    <chorus>G D/ F# Em7 Cmaj7 D G</chorus>
+</chord>
+
+</song>

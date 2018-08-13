@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>สรรเสริญพระเยซู</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus</order>
+
+<thai>
+    <verse1>สรรเสริญพระเยซู ยกชูพระนามพระองค์ ร้องเปล่งเสียงโมทนา ขอบคุณพระองค์</verse1>
+    <verse2>สรรเสริญพระเยซู ร้องเพลงด้วยความชื่นบาน ทั้งใจและวิญญาณ มอบแด่พระองค์</verse2>
+
+    <chorus>ให้เราได้รักพระองค์ด้วยสิ้นสุดใจ เราปรารถนาได้มาใกล้พระเยซู เราจะถวายด้วยเพลงนมัสการ จะเปล่งเป็นเสียงชื่นบานสรรเสริญพระองค์</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>E A C#m D Bm B7 E7 </verse1>
+    <verse2>E7 A C#m D Bm E7 A</verse2>
+
+    <chorus>A D A F#m Bm E7 A A7 D Dm A E7 A</chorus>
+</chord>
+
+</song>

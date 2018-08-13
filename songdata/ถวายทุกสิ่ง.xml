@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ถวายทุกสิ่ง</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,bridge</order>
+
+<thai>
+    <verse1>เข้ามาด้วยใจที่ถ่อม จะยอมพระองค์ทุกอย่าง หมดทั้งหัวใจ และร่างกาย โปรดนำให้ข้าเข้าใจ เพื่อเดินในน้ำพระทัย อยู่ในแผนการ ของพระองค์</verse1>
+
+    <chorus>ถวายทุกสิ่ง ถวายทุกอย่าง หมดชีวิตและหัวใจ ไม่มีข้อแม้ ไม่มีเงื่อนไข ถวายให้กับพระองค์ (เพื่อพระองค์ ของพระองค์ ถวายให้กับพระองค์)</chorus>   
+    <bridge>ผู้เดียวที่ข้าวางใจ คือองค์พระผู้ไถ่ ข้าเป็นของพระองค์ตลอดไป ผู้เดียวที่ข้าวางใจ คือพระเจ้ายิ่งใหญ่ ข้าเป็นของพระองค์ตลอดไป</bridge>
+</thai>
+
+<english>
+    <verse1></verse1>
+
+    <chorus></chorus>   
+    <bridge></bridge>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>   
+    <bridge></bridge>
+</mienthai>
+
+<chord>
+    <verse1>C Am F Gsus4 C Am F Gsus4</verse1>
+
+    <chorus>C Am F9 Gsus4 C Am F Gsus4 Am F Gsus C</chorus>   
+    <bridge>Dm7 C/E Fmaj7 Gsus4 Dm7 C/E Fmaj7 Gsus4</bridge>
+</chord>
+
+</song>

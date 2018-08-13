@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>มีชีวิตเพื่อพระคริสต์</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>มีชีวิตเพื่อพระคริสต์ การตายได้กำไร มีชีวิตเพื่อพระคริสต์ การตายได้กำไร</verse1>
+
+    <chorus>เป็นราชาเป็นเสียงเพลง เป็นชีวิต เป็นความรอด เป็นกำลัง เป็นวิญญาณ เป็นสันติ เป็นพระเจ้า</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>D A7 G Bm Em D D A7 G Bm Em D D7</verse1>
+
+    <chorus>G F#m G D D7 G F#m G D</chorus>
+</chord>
+
+</song>

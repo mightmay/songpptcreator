@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Spirit Song</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>Oh let the Son of God enfold you. With His Spirit and His love. Let Him fill your heart and satisfy your soul. Oh let Him have those things that hold you. And His Spirit like a dove. Will descend upon your life and make you whole.</verse1>
+    <verse2>Oh come and sing the song of gladness. As your hearts are filled with joy. Lift your hands in sweet surrender to His name. Oh give Him all your tears and sadness. Give Him all your years of pain. And you'll enter into life in Jesus' name.</verse2>
+
+    <chorus>Jesus oh Jesus, Come and fill Your lambs. Jesus oh Jesus, Come and fill Your lambs.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>D G A F#m Bm G A7 D D7 G A F#m Bm G A D</verse1>
+    <verse2>D G A F#m Bm G A7 D D7 G A F#m Bm G A D</verse2>
+
+    <chorus>G A F#m Bm G A D D7 G A F#m Bm G A D</chorus>
+</chord>
+
+</song>

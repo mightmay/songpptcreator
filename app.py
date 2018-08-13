@@ -96,9 +96,9 @@ def createpptxfile():
     print(filepathlist)
 
     # create the pptx file
-    for fp_itr in filepathlist:
+    for counter,fp_itr in  enumerate(filepathlist):
         if fp_itr == -1:
-            return("<br> cannot find this song: "+songlist[fp_itr]+ "<br><br> หาเนื้อเพลงอันนี้ไม่เจอ" +songlist[fp_itr])
+            return("<br> cannot find this song: "+songlist[counter]+ "<br><br> หาเนื้อเพลงอันนี้ไม่เจอ" +songlist[counter])
         getsongdata(prs,fp_itr,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolorrgb,secondttextcolorrgb,thirdtextcolorrgb,0)
         
     prs.save(savefile)

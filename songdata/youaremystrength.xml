@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>You Are My Strength</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,verse3,bridge</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+
+    <chorus></chorus>
+    <bridge></bridge>
+</thai>
+
+<english>
+    <verse1>You are my strength. Strength like no other. Strength like no other. Reaches to me.</verse1>
+    <verse2>You are my hope. Hope like no other. Hope like no other. Reaches to me.</verse2>
+    <verse3>Unfailing love, Stronger than mountains, Deeper than oceans, Reaches to me.</verse3>
+
+    <chorus>In the fullness of Your grace. In the power of Your Name. You lift me up. You lift me up.</chorus>
+    <bridge>Your love O Lord, Reaches to the heavens. Your faithfulness, Reaches to the sky.</bridge>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+
+    <chorus></chorus>
+    <bridge></bridge>
+</mienthai>
+
+<chord>
+    <verse1>G C G/B D G</verse1>
+    <verse2>G C G/B D G</verse2>
+    <verse3>G C G/B D G</verse3>
+
+    <chorus>C Em D/F# G C D</chorus>
+    <bridge>C G D Em C G D C G D Em C G D</bridge>
+</chord>
+
+</song>

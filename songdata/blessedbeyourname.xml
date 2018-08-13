@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>สาธุการพระนาม</thainame>
+<englishname>Blessed Be Your Name</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,verse3,chorus,verse4,verse5,chorus,bridge</order>
+
+<thai>
+    <verse1>สาธุการพระนาม ในแผ่นดินที่สมบูรณ์งดงาม ที่พระพรเทเหมือนดังแม่น้ำ สาธุการพระนาม</verse1>
+    <verse2>สาธุการพระนาม เมื่อฉันหลงในผืนดินอ้างว้าง แม้ต้องเดินผ่านหนทางกันดาร สาธุการพระนาม</verse2>
+    <verse3>ทุกพระพรที่พระองค์เทลงมา ฉันขอสรรเสริญ แม้ความมืดมิดคืบคลานเข้ามา ฉันยังสรรเสริญ</verse3>
+    <verse4>สาธุการพระนาม เมื่อตะวันส่องแสงทอลงมา เมื่อทุกสิ่งเป็นเหมือนปรารถนา สาธุการพระนาม</verse4>
+    <verse5>สาธุการพระนาม บนเส้นทางเดินล้อมด้วยเสี้ยนหนาม ถึงต้องเจ็บปวดเมื่อยามเดินตาม สาธุการพระนาม</verse5>    
+  <chorus>สาธุการพระนามของพระเจ้า สาธุการพระนาม สาธุการพระนามของพระเจ้า สาธุการพระนามพระเจ้าสูงสุด</chorus>
+  <bridge>ทรงให้และทรงรับไป ทรงให้และทรงรับไป แต่ฉันขอตัดสินใจ จะสรรเสริญเรื่อยไป</bridge>
+</thai>
+
+<english>
+    <verse1>Blessed be Your name in the land that is plentiful. Where Your streams of abundance flow, Blessed be Your name.</verse1>
+    <verse2>Blessed be Your name when I'm found in the desert place. Though I walk through the wilderness, Blessed be Your name.</verse2>
+    <verse3>And every blessing You pour out I'll turn back to praise. When the darkness closes in, Lord, still I will say.</verse3>
+    <verse4>Blessed be Your name when the sun's shining down on me. When the world's "all as it should be," Blessed be Your name.</verse4>
+    <verse5>Blessed be Your name on the road marked with suffering. Though there's pain in the offering. Blessed be Your name.</verse5>
+    <chorus>Blessed be the name of the Lord, Blessed be Your name. Blessed be the name of the Lord, Blessed be Your glorious name.</chorus>
+    <bridge>You give and take away, you give and take away. My heart will choose to say. "Lord, blessed be Your name."</bridge>
+
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>A E F#m D2 A E D2</verse1>
+    <verse2>A E F#m D2 A E D2</verse2>
+    <verse3>A E F#m D2 A E F#m D2</verse3>
+    <verse4>A E F#m D2 A E D2</verse4>
+    <verse5>A E F#m D2 A E D2</verse5>
+    <chorus>A E F#m D A E F#m D</chorus>
+    <bridge>A E F#m D A E F#m D</bridge>
+</chord>
+
+</song>
