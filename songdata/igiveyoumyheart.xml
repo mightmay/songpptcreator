@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ขอถวายหมดดวงใจ</thainame>
+<englishname>I Give You My Heart</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>สิ่งประเสริฐที่ฉันต้องการ คือถวายเกียรติ ในจิตใจของฉันนั้นอยาก นมัสการ สรรพสิ่งที่ฉันมีอยู่ เพื่อใช้สรรเสริญ องค์ราชาที่ฉันบูชา คือพระองค์</verse1>
+
+    <chorus>ขอถวายหมดดวงใจ ถวายหมดดวงจิต ถวายชีวิตรับใช้ ลมหายใจที่ยังมี ชีวีที่ดำเนินไป จะขอทำตามพระทัย</chorus>
+</thai>
+
+<english>
+    <verse1>This is my desire, to honour You. Lord with all my heart I worship You. All I have within me. I give You praise. All that I adore is in You.</verse1>
+
+    <chorus>Lord I give You my heart. I give You my soul. I live for You alone. Every breath that I take. Every moment I'm awake. Lord have Your way in me.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G Em C G D7/F# Em G Fmaj7 C D7 G Em C G D7/F# Em G Fmaj9 C D7</verse1>
+
+    <chorus>G D/F# Am7 C D7 G G D/F# Am7 C D7 G</chorus>
+</chord>
+
+</song>

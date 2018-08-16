@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เดินกับพระเยซู</thainame>
+<englishname>Walking With Jesus</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>เดินกับพระเยซู เดินอยู่ทุกวันวาน เดินทุกวิถีทาง เดินกับพระเยซู เดินกับพระองค์ผู้เดียว</verse1>
+
+    <chorus>เดินในแสงสุรีย์ศรี เดินในเงามืดวิถี เดินอยู่ทุกวันวาน เดินทุกวิถีทาง เดินในแสงสุรีย์ศรี เดินในเงามืดวิถี เดินร่วมกับพระองค์ผู้เดียว</chorus>
+</thai>
+
+<english>
+    <verse1>Walking With Jesus, Walking Everyday, Walking On the Way. Walking With Jesus, Walking With Jesus Alone.</verse1>
+
+    <chorus>Walking In the Sunlight, Walking In the Shadow. Walking every day, Walking All The Way. Walking In the Sunlight, Walking In the Shadow. Walking With Jesus Alone.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>F Bb C7 F F Bb C7 F</verse1>
+
+    <chorus>F Bb C7 F F Bb C7 F</chorus>
+</chord>
+
+</song>

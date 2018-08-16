@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Change My Heart Oh God</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse1,chorus,verse1</order>
+
+<thai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>Change my heart oh God. Make it ever true. Change my heart oh God. May I be like You.</verse1>
+
+    <chorus>You are the potter. I am the clay. Mold me and make me. This is what I pray.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>C Em Dm7 G Cmaj7 Em Dm7 F/G C</verse1>
+ 
+    <chorus>E Am Dm7 G Cmaj7 Esus4 E Am D9 F/G</chorus>
+</chord>
+
+</song>
