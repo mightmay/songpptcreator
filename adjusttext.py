@@ -11,7 +11,7 @@ import xml.dom.minidom
 from xml.dom.minidom import parse
 from xml.dom import minidom
 import xml.dom.minidom
-
+import math
 def autoaddnewline(inputstring,fontsize,langcount,language):
     slist = list(inputstring)
     totalchar=len(inputstring)
@@ -41,6 +41,15 @@ def autoaddnewline(inputstring,fontsize,langcount,language):
         return (-1)
     return returnstr
 
-#inputstring='พระคุณพระเจ้านั้นแสนชื่นใจ ช่วยได้คนชั่วอย่างฉัน ครั้งนั้นฉันหลงพระองค์ตามหา ตาบอดแต่ฉันเห็นแล้ว'
 
+def autolinespacing(inputstring,fontsize,langcount,language):
+    totalchar=len(inputstring)
+    linesize=42
+    if(langcount==1):
+        linesize = 230-totalchar+math.ceil(fontsize*0.1)
+    
+    
+    return linesize
+    
+#inputstring='พระคุณพระเจ้านั้นแสนชื่นใจ ช่วยได้คนชั่วอย่างฉัน ครั้งนั้นฉันหลงพระองค์ตามหา ตาบอดแต่ฉันเห็นแล้ว'
 #autoaddnewline(inputstring,35,1,'thai')

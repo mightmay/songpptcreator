@@ -59,7 +59,11 @@ def createpptxfile():
         firsttextcolor = request.form['choosecolor1']
         secondtextcolor = request.form['choosecolor2']
         thirdtextcolor = request.form['choosecolor3']
-
+        linespace1 = request.form['linespace1']
+        linespace2 = request.form['linespace2']
+        linespace3 = request.form['linespace3']
+        if request.form.get('autolinespace'):
+            linespace1=linespace2=linespace3='auto'
     else:
         songlistinput = request.args.get('songlist')
         firsttextsizeint = request.args.get['textsize1']
@@ -71,7 +75,13 @@ def createpptxfile():
         firsttextcolor = request.args.get['choosecolor1']
         secondtextcolor = request.args.get['choosecolor2']
         thirdtextcolor = request.args.get['choosecolor3']
+        
 
+        linespace1 = request.args.get['linespace1']
+        linespace2 = request.args.get['linespace2']
+        linespace3 = request.args.get['linespace3']
+        if request.args.get('autolinespace'):
+            linespace1=linespace2=linespace3='auto'
 
 
     firsttextcolorrgb= getrgbcolorcode(firsttextcolor)
@@ -99,7 +109,7 @@ def createpptxfile():
     for counter,fp_itr in  enumerate(filepathlist):
         if fp_itr == -1:
             return("<br> cannot find this song: "+songlist[counter]+ "<br><br> หาเนื้อเพลงอันนี้ไม่เจอ" +songlist[counter])
-        getsongdata(prs,fp_itr,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolorrgb,secondttextcolorrgb,thirdtextcolorrgb,0)
+        getsongdata(prs,fp_itr,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolorrgb,secondttextcolorrgb,thirdtextcolorrgb,0,linespace1,linespace2,linespace3)
         
     prs.save(savefile)
     try:

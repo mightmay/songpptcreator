@@ -17,7 +17,7 @@ import xml.dom.minidom
 from xml.dom.minidom import parse
 from xml.dom import minidom
 import xml.dom.minidom
-from adjusttext import autoaddnewline
+from adjusttext import autoaddnewline,autolinespacing
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
 lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
 savedirectory = os.path.join(APP_ROOT, 'finishedppt')
@@ -32,7 +32,7 @@ chord=1
 
 
 
-def getsongdata(prs,songname,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolor,secondtextcolor,thirdtextcolor,chord):
+def getsongdata(prs,songname,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolor,secondtextcolor,thirdtextcolor,chord,linespace1,linespace2,linespace3):
     
 
     # create presentation
@@ -146,31 +146,25 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                
             
     if language_count == 2:
-        left1 = Inches(1)
+        left1 = left2= Inches(0.75)
         top1 = Inches(0.25)
-        width1 = Inches(8)
+        width1 =width2= Inches(8.5)
         height1 = Inches(3.25)
         
-        left2 = Inches(1)
         top2 = Inches(4)
-        width2 = Inches(8)
         height2 = Inches(3.25)
         
     
     if language_count == 3:
-        left1 = Inches(1)
+        left1 =left2=left3= Inches(0.5)
         top1 = Inches(0.25)
-        width1 = Inches(8)
+        width1 =width2=width3= Inches(9)
         height1 = Inches(2)
         
-        left2 = Inches(1)
         top2 = Inches(2.75)
-        width2 = Inches(8)
         height2 = Inches(2)
         
-        left3 = Inches(1)
         top3 = Inches(5)
-        width3 = Inches(8)
         height3 = Inches(2)
     
     
@@ -210,6 +204,9 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 para1.font.color.rgb = firsttextcolor
                 para1.alignment=PP_ALIGN.CENTER
+                if(linespace1=='auto'):
+                    linespace1=autolinespacing(firstlyric,int(firsttextsizeint),language_count,first_language)
+                para1.line_spacing = Pt(int(linespace1))
                 
 
         if language_count==2:
