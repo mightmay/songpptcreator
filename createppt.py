@@ -32,7 +32,7 @@ chord=1
 
 
 
-def getsongdata(prs,songname,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolor,secondtextcolor,thirdtextcolor,chord,linespace1,linespace2,linespace3):
+def getsongdata(prs,songname,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolor,secondtextcolor,thirdtextcolor,chord,linespace1,linespace2,linespace3,linespaceauto):
     
 
     # create presentation
@@ -204,7 +204,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 para1.font.color.rgb = firsttextcolor
                 para1.alignment=PP_ALIGN.CENTER
-                if(linespace1=='auto'):
+                if(linespaceauto=='auto'):
                     linespace1=autolinespacing(firstlyric,int(firsttextsizeint),language_count,first_language)
                 para1.line_spacing = Pt(int(linespace1))
                 
@@ -267,6 +267,9 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 else:
                     para2.text = secondlyricaddedlinebreak
                     tf2.word_wrap = False
+
+                para1.line_spacing = Pt(int(linespace1))
+                para2.line_spacing = Pt(int(linespace2))
       
         if language_count==3:
             firstdata=songdata.getElementsByTagName(first_language)        
@@ -311,7 +314,10 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 tf3.word_wrap = True
                 para3.font.size = secondtextsize
                 para3.font.color.rgb = thirdtextcolor
-                para3.alignment=PP_ALIGN.CENTER       
+                para3.alignment=PP_ALIGN.CENTER   
+                para1.line_spacing = Pt(int(linespace1))
+                para2.line_spacing = Pt(int(linespace2))
+                para3.line_spacing = Pt(int(linespace3))
 
                 
 #    prs.save(savefile)
