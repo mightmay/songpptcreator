@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พักพิงในพระเจ้า</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1-1,verse1-2,chorus1,chorus2</order>
+
+<thai>
+    <verse1-1>เมื่อทะเลต้องพบมรสุมแปรปรวน ชีวิตคนเราก็เป็นเช่นนั้น ยามทุกข์เจียนตาย ดุจดั่งโดนคลื่นซัดสาด ขาดที่กำบังไร้ที่พักพิง</verse1-1>
+    <verse1-2>แต่อย่าลืมว่าพระองค์เฝ้าดูเราอยู่ พร้อมที่จะชูใจที่อ่อนแรงระอา อย่าหันไปจากพระพักตร์ที่แสนเมตตา มอบชีวิตให้พระองค์นำพา</verse1-2>
+    <chorus1>พักพิงในพระเจ้า พักพิงในพระองค์ พระทรงเป็นศิลามั่นคง พระองค์เป็นพระเจ้า พลังความรอดบาป ทรงเป็นโล่ เป็นกำบังที่เข้มแข็ง</chorus1>
+    <chorus2>ต่อไปนี้ฉันจะไม่ต่อสู้เพียงลำพัง เพราะพระองค์ผู้ทรงมีชัย เหนือความตายความบาป ทรงเดินไปเคียงข้างฉัน</chorus2>
+</thai>
+
+<english>
+    <verse1-1></verse1-1>
+    <verse1-2></verse1-2>
+    <chorus1></chorus1>
+    <chorus2></chorus2>
+</english>
+    
+<mienthai>
+    <verse1-1></verse1-1>
+    <verse1-2></verse1-2>
+    <chorus1></chorus1>
+    <chorus2></chorus2>
+</mienthai>
+
+<chord>
+    <verse1-1>C F Dm-G7 C-Em-Am A Dm D7 G-G7-C</verse1-1>
+    <verse1-2>F Dm-G7 C-Em-Am A Dm D7 G C-C7</verse1-2>
+    <chorus1>F G-C Am F-G-C C7 F G-C Am A Dm-G7</chorus1>
+    <chorus2>C-E Am F-F#dim-G7 C Em E Am Dm G7 C</chorus2>
+</chord>
+
+</song>

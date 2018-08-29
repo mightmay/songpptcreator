@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ฉันรักคุณด้วยความรักของพระเจ้า</thainame>
+<englishname>I love you with the love of the Lord</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2</order>
+
+<thai>
+    <verse1>ฉันรักคุณด้วยความรักของพระเจ้า ฉันรักคุณด้วยความรักของพระเจ้า</verse1>
+    <verse2>ฉันเห็นภายในคุณ ราศีของพระเป็นเจ้า ฉันรักคุณด้วยความรักของพระเจ้า</verse2>
+
+</thai>
+
+<english>
+    <verse1>I love you with the love of the Lord. Yes, I love you with the love of the Lord.</verse1>
+    <verse2>I can see in you , the glory of my King. and l love you with the love of the Lord.</verse2>
+
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+
+</mienthai>
+
+<chord>
+    <verse1>F Gm7 Am7 Gm7 C7 Fmaj7 F#dim Gm7</verse1>
+    <verse2>C7 Gm7 C7 A7 Dm Gm7 C7 F</verse2>
+
+</chord>
+
+</song>

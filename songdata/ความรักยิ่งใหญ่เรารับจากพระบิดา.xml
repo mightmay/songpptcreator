@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ความรักยิ่งใหญ่เรารับจากพระบิดา</thainame>
+<englishname>We know the greatest love from You O Lord</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,outro</order>
+
+<thai>
+    <verse1>ความรักยิ่งใหญ่เรารับจากพระบิดา จิตใจสัมผัสความรักพระองค์ รักยึดมั่นเสมอ ไม่มีวันสูญสิ้น ความรักช่วยซับน้ำตาข้าพระองค์</verse1>
+
+    <outro>ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา</outro>
+    <chorus>เหตุเพราะสัมผัสความรักพระบิดา ความรักยิ่งใหญ่รวมใจของเรา ความรักของพระเยซู อยู่เต็มหัวใจ ความรักซึ่งส่องสว่างแก่ประชา</chorus>
+</thai>
+
+<english>
+    <verse1>I found the greatest love from You,O Lord A love that’s true right from the start. Love the same today and forevermore. A love I know has changed my heart.</verse1>
+
+    <outro>Hallelujah Hallelujah Hallelujah Hallelujah</outro>
+    <chorus>And since I know Your wonderful love. Embraced by the warmth of Your Son. Secure in the grace of Your unending love. I know we’ll be forever one.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <outro></outro>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>C Em Am G Dm Em Am Dm G C E</verse1>
+
+    <outro>Am Dm F G C C7 Esus Am Dm F G C</outro>
+    <chorus>Am Em Am F G C Esus Am Em Am AB C</chorus>
+</chord>
+
+</song>
