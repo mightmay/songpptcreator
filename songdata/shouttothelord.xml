@@ -4,20 +4,22 @@
 <thainame>พระเยซู พระผู้ช่วย</thainame>
 <englishname>Shout To The Lord</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1,verse2,chorus</order>
+<order>verse1,verse2,chorus1,chorus2</order>
 
 <thai>
-    <verse1>พระเยซู พระผู้ช่วย พระองค์ไม่มีใครเหมือน และชั่วชีวี ลูกร้องสรรเสริญ ในรักที่ยิ่งใหญ่ ของ พระองค์</verse1>
-    <verse2>ผู้โลมเล้า ผู้กำบัง เป็นป้อมคุ้มภัย เป็นเรี่ยวแรง ทุกลมหายใจ ทั้งหมดลูกมี ไม่เคยหยุดนมัสการ</verse2>
+    <verse1>พระเยซู พระผู้ช่วย ไม่มีผู้ใดเปรียบพระองค์ ในทุกๆ วัน ฉันอยากสรรเสริญ ความรักยิ่งใหญ่ของพระองค์เจ้า</verse1>
+    <verse2>พระทรงเป็น ที่กำบัง ป้อมปราการและกำลังใจ เชิญทุกชีวิตและทุกๆสิ่ง พากันสรรเสริญพระเจ้า</verse2>
 
-    <chorus>ร้องเพลงสรรเสริญแด่พระเจ้าทั่วโลกา ฤทธิ์และเกรียงไกร สรรเสริญ องค์ราชา ภูเขากราบลง และทะเลคำรน ต่อเสียงของ นามพระองค์ ลูกร้องยินดีในการงานของพระองค์ ชั่วนิจนิรันดร์ลูก รักพระองค์ตลอดกาล ไม่มีสิ่งใด เทียบสัญญาที่มีใน พระองค์</chorus>
+    <chorus1>สรรเสริญพระเจ้า ทั่วโลกา ร่วมร้องเพลง พลังและฤทธิ์เดช สรรเสริญกษัตรา ภูเขากราบลง และทะเลคึกคะนอง ส่งเสียงร้อง สรรเสริญ</chorus1>
+<chorus2>ฉันร้องชื่นชม ยินดีในฝีพระหัตถ์ และฉันจะรัก พระองค์ตลอดชีพวางวาย ไม่มีสิ่งใดจะเปรียบปาน สัญญากับพระองค์</chorus2>
 </thai>
 
 <english>
     <verse1>My jesus, my savior, Lord, there is none like you. All of my days, I want to praise, The wonders of your mighty love.</verse1>
     <verse2>My comfort, my shelter, Tower of refuge and strength. Let every breath, all that I am, Never cease to worship you.</verse2>
 
-    <chorus>Shout to the lord, all the earth let us sing. Power and majesty, praise to the king. Mountains bow down, and the seas will roar, At the sound of your name. I sing for joy at the work of your hands, Forever I'll love you, Forever I'll stand. Nothing compares to the promise I have In you.</chorus>
+    <chorus1>Shout to the lord, all the earth let us sing. Power and majesty, praise to the king. Mountains bow down, and the seas will roar, At the sound of your name.</chorus1>
+<chorus2>I sing for joy at the work of your hands, Forever I'll love you, Forever I'll stand. Nothing compares to the promise I have In you.</chorus2>
 </english>
     
 <mienthai>
@@ -31,7 +33,8 @@
     <verse1>A E F#m E D C#m D A F#m G Bm E</verse1>
     <verse2>A E F#m E D C#m D A F#m G Bm E</verse2>
 
-    <chorus>A F#m D Esus E F#m D E F#m E E7 A F#m D Esus E A F#m D Esus E F#m D E A</chorus>
+    <chorus1>A F#m D Esus E F#m D E F#m E E7 </chorus1>
+<chorus2>A F#m D Esus E A F#m D Esus E F#m D E A</chorus2>
 </chord>
 
 </song>

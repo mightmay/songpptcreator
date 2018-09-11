@@ -62,6 +62,7 @@ def createpptxfile():
         linespace1 = request.form['linespace1']
         linespace2 = request.form['linespace2']
         linespace3 = request.form['linespace3']
+        linespaceauto='none' #default is not auto linespace
         if request.form.get('autolinespace'):
             linespaceauto='auto'
     else:
@@ -80,6 +81,7 @@ def createpptxfile():
         linespace1 = request.args.get['linespace1']
         linespace2 = request.args.get['linespace2']
         linespace3 = request.args.get['linespace3']
+        linespaceauto='none' #default is not auto linespace
         if request.args.get('autolinespace'):
             linespaceauto='auto'
 

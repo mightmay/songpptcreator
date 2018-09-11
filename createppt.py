@@ -206,6 +206,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 para1.alignment=PP_ALIGN.CENTER
                 if(linespaceauto=='auto'):
                     linespace1=autolinespacing(firstlyric,int(firsttextsizeint),language_count,first_language)
+                    print("auto line space calculated: "+str(linespace1))
                 para1.line_spacing = Pt(int(linespace1))
                 
 

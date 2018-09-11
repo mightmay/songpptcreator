@@ -191,6 +191,10 @@
 <song name="ohletthesonofgodenfoldyou">spiritsong.xml</song>
 <song name="jesusohjesuscomeandfillyourlambs">spiritsong.xml</song>
 <song name="jesusohjesuscomeandfillyourlamb">spiritsong.xml</song>
+<song name="เชิญพระวิญญาณแห่งความรักยิ่งใหญ่">spiritsong.xml</song>
+<song name="เยซูโอ้เยซูโปรดเจิมเราด้วยไฟ">spiritsong.xml</song>
+<song name="เยซูโอเยซูโปรดเจิมเราด้วยไฟ">spiritsong.xml</song>
+<song name="โอพระเยซูเจ้าโปรดเจิมเราด้วยไฟ">spiritsong.xml</song>
 
 <song name="สาธุการพระนามในแผ่นดินที่สมบูรณ์งดงาม">blessedbeyourname.xml</song>
 <song name="สาธุการพระนาม">blessedbeyourname.xml</song>
@@ -256,5 +260,13 @@
 <song name="เมื่อทะเลต้องพบมรสุมแปรปรวน">พักพิงในพระเจ้า.xml</song>        
 <song name="พักพิงในพระเจ้าพักพิงในพระองค์">พักพิงในพระเจ้า.xml</song>        
 <song name="ต่อไปนี้ฉันจะไม่ต่อสู้เพียงลำพัง">พักพิงในพระเจ้า.xml</song>  
-    
+        
+<song name="ขอบคุณขอบคุณพระเจ้า">ขอบคุณขอบคุณพระเจ้า.xml</song>    
+<song name="thankyouthankyoujesus">ขอบคุณขอบคุณพระเจ้า.xml</song> 
+<song name="ตอเหฒี่ยตอเหฒี่ยเยซู">ขอบคุณขอบคุณพระเจ้า.xml</song> 
+
+<song name="stepbystep">stepbystep.xml</song>    
+<song name="ohgodyouaremygod">stepbystep.xml</song> 
+<song name="ogodyouaremygod">stepbystep.xml</song> 
+<song name="stepbystepyouleadme">stepbystep.xml</song> 
 </all>
