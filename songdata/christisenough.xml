@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Christ Is Enough</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,prechorus1,chorus,verse2,prechorus2,chorus,bridge</order>
+
+<thai>
+
+</thai>
+
+<english>
+    <verse1>Christ is my reward. And all of my devotion. Now there's nothing in this world. That could ever satisfy.</verse1>
+    <prechorus1>Through every trial. My soul will sing. No turning back. I've been set free.</prechorus1>
+    <chorus>Christ is enough for me. Christ is enough for me. Everything I need is in You. Everything I need.</chorus>
+    <verse2>Christ my all in all. The joy of my salvation. And this hope will never fail. Heaven is our home.</verse2>
+    <prechorus2>Through every storm. My soul will sing. Jesus is here. To God be the glory.</prechorus2>
+    <bridge>I have decided to follow Jesus. No turning back. No turning back. The cross before me. The world behind me. No turning back. No turning back.</bridge>
+</english>
+    
+<mienthai>
+
+</mienthai>
+
+<chord>
+    <verse1>Em C G D/F# Em C G D/F#</verse1>
+    <prechorus1>C D Em D/F# C Em D</prechorus1>
+    <chorus>G Em D C D Em C D</chorus>
+    <verse2>Em C G D/F# Em C G D/F#</verse2>
+    <prechorus2>C D Em D/F# C Em D</prechorus2>
+    <bridge>G C D G C D G Em C D Em C Em D Em C D Em C D G</bridge>
+</chord>
+
+</song>

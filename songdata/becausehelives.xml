@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เพราะพระองค์ทรงอยู่</thainame>
+<englishname>Because He Lives</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+
+<thai>
+    <verse1>พระเจ้าประทาน พระเยซู พระบุตร ทรงรักและให้อภัยแก่ข้า ทรงไถ่ตัวข้า ด้วยสละพระชนม์ อุโมงค์ว่างเปล่า ย่อมยืนยันว่าพระองค์ทรงอยู่</verse1>
+    <verse2>ชื่นใจที่ได้อุ้มทารกเกิดใหม่ ด้วยความภูมิใจและความยินดี แต่ยิ่งใหญ่กว่าคือความแน่วแน่ใจ ที่อาจเผชิญทุกสิ่งได้ เพราะพระองค์ทรงอยู่</verse2>
+    <verse3>และในวันหนึ่ง ข้าฯ จะเดินข้ามไป เพื่อได้ต่อสู้ ศัตรูสุดท้าย แต่เมื่อความตาย นำสู่ความมีชัย จะได้เห็นแสงแห่งราศี เพราะพระองค์ทรงอยู่</verse3>
+
+    <chorus>เพราะพระองค์ทรงอยู่ ข้าเผชิญพรุ่งนี้ได้ เพราะพระองค์ทรงอยู่ ความกลัวหายไป เพราะข้าแน่ใจ (แน่ใจ) พระองค์ทรงนำหน้า ข้าจะอดทนเพราะข้าแน่ใจ พระองค์ทรงอยู่</chorus>
+</thai>
+
+<english>
+    <verse1>God sent His son, they called Him Jesus; He came to love, heal and forgive; He lived and died to buy my pardon, An empty grave is there to prove my Savior lives!</verse1>
+    <verse2>How sweet to hold a newborn baby, And feel the pride and joy he gives; But greater still the calm assurance: This child can face uncertain days because He Lives!</verse2>
+    <verse3>And then one day, I'll cross the river, I'll fight life's final war with pain; And then, as death gives way to victory, I'll see the lights of glory and I'll know He lives!</verse3>
+
+    <chorus>Because He lives, I can face tomorrow, Because He lives, all fear is gone; Because I know He holds the future, And life is worth the living, Just because He lives!</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>F Bb F C7 F Bb F C7 F Bb F</verse1>
+    <verse2>F Bb F C7 F Bb F C7 F Bb F</verse2>
+    <verse3>F Bb F C7 F Bb F C7 F Bb F</verse3>
+
+    <chorus>F Bb F C7 F Bb F C7 F C F</chorus>
+</chord>
+
+</song>

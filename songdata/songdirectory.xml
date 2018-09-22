@@ -269,4 +269,16 @@
 <song name="ohgodyouaremygod">stepbystep.xml</song> 
 <song name="ogodyouaremygod">stepbystep.xml</song> 
 <song name="stepbystepyouleadme">stepbystep.xml</song> 
+
+<song name="พระเจ้าประทานพระเยซูพระบุตร">becausehelives.xml</song> 
+<song name="เพราะพระองค์ทรงอยู่">becausehelives.xml</song>    
+<song name="เพราะพระองค์ทรงอยู่ข้าเผชิญพรุ่งนี้ได้">becausehelives.xml</song> 
+<song name="godsenthissontheycalledhimjesus">becausehelives.xml</song> 
+<song name="becausehelives">becausehelives.xml</song> 
+<song name="becausehelive">becausehelives.xml</song> 
+
+<song name="christisenough">christisenough.xml</song>    
+<song name="christisenoughforme">christisenough.xml</song> 
+<song name="christismyrewardandallofmydevotion">christisenough.xml</song> 
+
 </all>
