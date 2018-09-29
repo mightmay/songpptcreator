@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Who am I</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,prechorus,chorus1,chorus2,verse2,prechorus,chorus1,chorus2</order>
+
+<thai>
+</thai>
+
+<english>
+    <verse1>Who am I, that the Lord of all the earth. Would care to know my name, Would care to feel my hurt? Who am I, that the Bright and Morning Star. Would choose to light the way. For my ever wandering heart?</verse1>
+    <prechorus>Not because of who I am, But because of what You've done. Not because of what I've done, But because of who You are.</prechorus>
+    <chorus1>I am a flower quickly fading: Here today and gone tomorrow. A wave tossed in the ocean, A vapor in the wind.</chorus1>
+    <chorus2>Still You hear me when I'm calling. Lord, You catch me when I'm falling. And You've told me who I am. I am Yours.</chorus2>
+    <verse2>Who am I, that the eyes that see my sin. Would look on me with love and watch me rise again? Who am I, that the voice that calmed the sea. Would call out through the rain. And calm the storm in me?</verse2>
+
+</english>
+    
+<mienthai>
+
+</mienthai>
+
+<chord>
+<verse1>C G Am G F G F C G Am G F G F</verse1>
+    <prechorus>Am G F G Am G F G</prechorus>
+    <chorus1>C G Am G F G F C</chorus1>
+    <chorus2>G Am G F G F C</chorus2>
+    <verse2>C G Am G F G F C G Am G F G F</verse2>
+
+</chord>
+
+</song>

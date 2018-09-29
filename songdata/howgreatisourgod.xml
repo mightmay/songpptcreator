@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
 
-<thainame>none</thainame>
+<thainame>พระเจ้าทรงยิ่งใหญ่</thainame>
 <englishname>How Great Is Our God</englishname>
 <mienthainame>none</mienthainame>
 <order>verse1,chorus,verse2,chorus,bridge,chorus</order>
 
 <thai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <verse1>พระองค์งดงามตระการ ควรพระบารมี ให้เราร่วมกันยินดี ให้เราร่วมกันยินดี พระองค์เป็นความสว่าง และความมืดอันตรธาน สะท้านด้วยเสียงพระองค์ สะท้านด้วยเสียงพระองค์</verse1>
+    <verse2>พระองค์ผู้ทรงครอบครอง และทรงเหนือกาลเวลา ทรงเป็นเบื้องต้นเบื้องปลาย ทรงเป็นเบื้องต้นเบื้องปลาย พระบิดา พระวิญญาณ พระเยซูพระบุตร ผู้ทรงเป็นจอมราชา ผู้ทรงเป็นจอมราชา</verse2>
+    <bridge>พระนามเหนือนามทั้งปวง ควรคู่คำสรรเสริญ จิตใจฉันร้อง พระเจ้าทรงยิ่งใหญ่</bridge>
+    <chorus>พระเจ้าทรงยิ่งใหญ่ ร้องสรรเสริญ พระเจ้าทรงยิ่งใหญ่ ร้องสรรเสริญ พระเจ้า พระเจ้า ทรงยิ่งใหญ่</chorus>
 </thai>
 
 <english>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Lord, I Lift Your Name on High</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>Lord, I lift Your name on high. Lord, I love to sing Your praises. I'm so glad You're in my life. I'm so glad You came to save us.</verse1>
+    <chorus>You came from Heaven to earth to show the way. From the earth to the cross my debt to pay.From the cross to the grave. From the grave to the sky. Lord, I lift Your name on high.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G C D C G G C D C G G C D C G G C D C D G</verse1>
+    <chorus>G C D C G G C D C G G C D Bm Em C D G C D C G</chorus>
+</chord>
+
+</song>

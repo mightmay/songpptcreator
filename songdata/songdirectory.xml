@@ -205,6 +205,8 @@
 <song name="ร้องเพลงสรรเสริญแด่พระเจ้าทั่วโลกา">shouttothelord.xml</song>
 <song name="ร้องเพลงสรรเสริญแด่พระเจ้า">shouttothelord.xml</song>
 <song name="shouttothelord">shouttothelord.xml</song>
+<song name="shouttolord">shouttothelord.xml</song>
+<song name="shouttodalord">shouttothelord.xml</song>
 <song name="พระเยซูพระผู้ช่วย">shouttothelord.xml</song>
 <song name="myjesusmysaviorlordthereisnonelikeyou">shouttothelord.xml</song>
 <song name="myjesusmysavior">shouttothelord.xml</song>
@@ -213,6 +215,8 @@
 <song name="howgreatisourgod">howgreatisourgod.xml</song>
 <song name="agetoagehestands">howgreatisourgod.xml</song>
 <song name="nameaboveallnamesworthyofallpraise">howgreatisourgod.xml</song>
+<song name="พระเจ้าทรงยิ่งใหญ่">howgreatisourgod.xml</song>
+<song name="พระนามเหนือนามทั้งปวงควรคู่คำสรรเสริญ">howgreatisourgod.xml</song>
 
 <song name="walkingwithjesus">เดินกับพระเยซู.xml</song>
 <song name="walkingwithjesuswalkingeveryday">เดินกับพระเยซู.xml</song>
@@ -280,5 +284,21 @@
 <song name="christisenough">christisenough.xml</song>    
 <song name="christisenoughforme">christisenough.xml</song> 
 <song name="christismyrewardandallofmydevotion">christisenough.xml</song> 
+
+<song name="lordiliftyournameonhigh">lordiliftyournameonhigh.xml</song>    
+<song name="youcamefromheaventoearthtoshowtheway">lordiliftyournameonhigh.xml</song> 
+<song name="lordiliftyournameonhi">lordiliftyournameonhigh.xml</song> 
+
+<song name="lordiliftyournameonhigh">lordiliftyournameonhigh.xml</song>    
+<song name="youcamefromheaventoearthtoshowtheway">lordiliftyournameonhigh.xml</song> 
+<song name="lordiliftyournameonhi">lordiliftyournameonhigh.xml</song> 
+
+<song name="whoami">whoami.xml</song>    
+<song name="iamaflowerquicklyfadingheretodayandgonetomorrow">whoami.xml</song> 
+<song name="whoamithatthelordofalltheearth">whoami.xml</song> 
+
+<song name="หัวใจผู้รับใช้">หัวใจผู้รับใช้.xml</song>    
+<song name="สุดรักและสุดหวงถนอมดังแก้วตา">หัวใจผู้รับใช้.xml</song> 
+<song name="จะทุ่มเทร่างกายจิตใจและวิญญาณ">หัวใจผู้รับใช้.xml</song> 
 
 </all>

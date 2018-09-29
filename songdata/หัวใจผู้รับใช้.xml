@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>หัวใจผู้รับใช้</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus</order>
+
+<thai>
+    <verse1>สุดรักและสุดหวง ถนอมดังแก้วตา ดุจดังบิดาที่รักลูก ปลูกฝังสร้างชีวิต อุทิศทั้งจิตใจ หวังเพียงให้เจ้าเติบโต จากวันที่เกิดมา ลูกจ๋าพ่อห่วงใย ดูแลอยู่ใกล้ไม่ทิ้งห่าง เมื่อยามมีปัญหา เข้ามาช่วยแก้ไข นี่แหละใจผู้รับใช้</verse1>
+    <verse2>สุดรักสุดบูชา เสาะหาน้ำพระทัย ถ่อมจิตใจในพระเจ้า เชื่อฟังพระบัญชา สั่งว่าจงเลี้ยงดู ฝูงแกะที่เราได้มอบหมาย ไม่คิดจะท้อแท้ หากแม้กายเสื่อมไป แต่จิตใจจำเริญขึ้น ต่อสู้สุดกำลัง แข่งขันถึงจุดหมาย จนชีพวายใต้กางเขน</verse2>
+    <chorus>จะทุ่มเทร่างกาย จิตใจและวิญญาณ ทุกโมงยามสั่งสอนเทศนา ด้วยมานะและอดทน ต่อสู้ไม่เคยหวั่น ในใจนั้นหวังเพียงเจ้าเติบโต ไม่ว่าเป็นหรือตาย กลับกลายเป็นผงคลี จะไม่หนีจากทางที่มุ่งหวัง เปี่ยมพลังที่ฝังใจ หลักชัยที่หมายมั่น รอวันนั้นรางวัลแห่งศักดิ์ศรี</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>Am Dm G Am Dm G Am Dm G Am Dm G Am</verse1>
+    <verse2>Am Dm G Am Dm G Am Dm G Am Dm G Am</verse2>
+    <chorus>F G E Am F G Am F G E Am F G Am F G E Am F G Am F G E Am F G Am</chorus>
+</chord>
+
+</song>
