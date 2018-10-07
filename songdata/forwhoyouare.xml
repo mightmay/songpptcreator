@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
 
-<thainame></thainame>
-<englishname></englishname>
-<mienthainame></mienthainame>
-<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
+<thainame>none</thainame>
+<englishname>For Who You Are</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,prechorus,chorus,bridge</order>
 
 <thai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+
 </thai>
 
 <english>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <verse1>Standing here in Your presence. Thinking of the good things you have done. Waiting here patiently. Just to hear Your still small voice again.</verse1>
+    <prechorus>Holy, righteous, Faithful till the end. Savior, Healer, Redeemer and Friend.</prechorus>
+    <bridge>My soul secure, Your promise sure. Your love endures always.</bridge>
+    <chorus>I will worship You for who You are. I will worship You for who You are. I will worship You for who You are. Jesus.</chorus>
 </english>
     
 <mienthai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+
 </mienthai>
 
 <chord>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <verse1>G C G C</verse1>
+    <prechorus>Em D C D Em D C</prechorus>
+
+    <bridge>G C/ E D C</bridge>
+    <chorus>G C/ E D C</chorus>
+
 </chord>
 
 </song>
