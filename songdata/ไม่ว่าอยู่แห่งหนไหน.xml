@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ไม่ว่าอยู่แห่งหนไหน</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,outro</order>
+
+<thai>
+    <verse1>เมื่อตาใจข้าได้เห็น พระวิญญาณของพระเจ้า ข้าได้พบสันติสุข ที่โอบล้อมรอบตัวข้าไว้ ข้าสุขใจเหลือจะบรรยาย</verse1>
+    <verse2>ข้าได้เห็นแสงสว่าง แห่งความจริงและความรัก ข้าได้พบสันติสุข ที่โอบล้อมรอบตัวข้าไว้ อยู่ในความรักของพระองค์</verse2>
+
+    <chorus>ไม่ว่าอยู่แห่งหนไหน ข้าจะนมัสการ และไม่ว่าเป็นเช่นใด ข้าจะนมัสการ ไม่ว่าอยู่แห่งหนไหน ข้าจะนมัสการ และไม่ว่าเป็นเช่นใด ก็จะ นมัสการ</chorus>
+ <outro>และในทุกเส้นทาง ที่ก้าวและเดินไป ให้ทุกวันเวลาในชีวิต นมัสการ พระองค์ เรื่อยไป และในทุกเส้นทาง ที่ก้าวและเดินไป ให้ทุกวันเวลาในชีวิต นมัสการ พระองค์ นิรันดร์</outro>
+   
+</thai>
+
+<english>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>E Esus4 Emaj7 D/E Amaj7 G#m7 C#m7 F#m7 A/B E</verse1>
+    <verse2>E Esus4 Emaj7 D/E Amaj7 G#m7 C#m7 F#m7 A/B E</verse2>
+
+    <chorus>E7 Amaj7 G#m7 C#m7 F#m7 A/B E E7 Amaj7 G#m7 C#m7 F#m7 A/B E</chorus>
+ <outro>Amaj7 B/A G#m7 C#m7 F#m7 A/B E E7 Amaj7 B/A G#m7 C#m7 D Bsus B</outro>
+   
+</chord>
+
+</song>
