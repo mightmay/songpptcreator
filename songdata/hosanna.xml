@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Hosanna</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,verse3,verse4,chorus,bridge</order>
+
+<thai>
+</thai>
+
+<english>
+    <verse1>I see the king of glory. Coming on the clouds with fire. The whole earth shakes. The whole earth shakes.</verse1>
+    <verse2>I see his love and mercy. Washing over all our sin. The people sing. The people sing.</verse2>
+    <verse3>I see a generation. Rising up to take their place. With selfless faith. With selfless faith.</verse3>
+    <verse4>I see a near revival. Stirring as we pray and seek. We're on our knees. We're on our knees.</verse4>
+    <bridge>Heal my heart and make it clean. Open up my eyes to the things unseen. Show me how to love like you have loved me. Break my heart for what breaks yours. Everything I am for your Kingdom's cause. As I walk from Earth into Eternity.</bridge>
+    <chorus>Hosanna Hosanna. Hosanna in the Highest.</chorus>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>E C#m F#m G#m C#m</verse1>
+    <verse2>E C#m F#m B</verse2>
+    <verse3>E C#m F#m G#m C#m</verse3>
+    <verse4>E C#m F#m B</verse4>
+    <bridge>A B E C#m A B C#m A B E C#m A B A</bridge>
+    <chorus>E G# A B C#m A C#m B</chorus>
+</chord>
+
+</song>

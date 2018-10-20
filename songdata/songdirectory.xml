@@ -239,6 +239,8 @@
 <song name="changemyheartogodmayibelikeyou">changemyheartohgod.xml</song>
 <song name="changemyheartohgodmayibelikeyou">changemyheartohgod.xml</song>
 
+<song name="เราเป็นหนึ่งในความรักพระคริสต">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
+<song name="เราเป็นหนึ่งในความรักพระคริส">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="เราเป็นหนึ่งในความรักพระคริสต์">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="เราเป็นหนึ่ง">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="ขอให้เราร่วมร้องเพลงกันเถิดเปิดดวงใจรับความรักพระเจ้า">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
@@ -308,4 +310,10 @@
 <song name="forwhoyouare">forwhoyouare.xml</song>    
 <song name="iwillworshipyouforwhoyouare">forwhoyouare.xml</song> 
 <song name="standinghereinyourpresence">forwhoyouare.xml</song> 
+
+<song name="hosanna">hosanna.xml</song>   
+<song name="hillsonghosanna">hosanna.xml</song>    
+ <song name="healmyheartandmakeitclean">hosanna.xml</song> 
+<song name="iseethekingofglory">hosanna.xml</song> 
+<song name="hosannahillsong">hosanna.xml</song> 
 </all>
