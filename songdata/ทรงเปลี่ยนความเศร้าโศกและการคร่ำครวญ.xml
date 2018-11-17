@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ทรงเปลี่ยนความเศร้าโศกและการคร่ำครวญ</thainame>
+<englishname>He turned my mourning into dancing</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>ทรงเปลี่ยนความเศร้าโศกและการคร่ำครวญ เป็นความชื่นชมยินดีและเริงรื่น แทนความท้อใจเป็นบทเพลงสรรเสริญ เต็มด้วยน้ำมันแห่งความยินดี</verse1>
+    <chorus>เพื่อคนทั้งหลาย จะเรียกเราว่าเป็น ต้นไม้แห่งความชอบธรรม เพื่อพระเกียรติเป็น ของพระองค์</chorus>
+</thai>
+
+<english>
+    <verse1>He turned my mourning into dancing. He turned my sorrow into joy. A song of praise instead of sadness. And for my grief the oil of joy.</verse1>
+    <chorus>That we might be the tree of the righteousness. The planting of the Lord. That He might be glorified.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>D Em A7 D Em A7 D G / D</verse1>
+    <chorus>G A F#m Em A7 D</chorus>
+</chord>
+
+</song>

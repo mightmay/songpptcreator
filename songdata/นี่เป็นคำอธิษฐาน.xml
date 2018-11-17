@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>นี่เป็นคำอธิษฐาน</thainame>
+<englishname>This is the prayer from us all</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>นี่เป็นคำอธิษฐานของเราทุกคน นี่เป็นคำอ้อนวอนจากหัวใจ ให้พระวิญญาณเทเข้ามา เปิดตาใจเราทุกคน ให้อัศจรรย์ของพระองค์ เกิดในพวกเรา</verse1>
+    <chorus>โปรดทรงอวยพรประเทศไทย ให้คนไทยได้มีความหวัง โปรดเปิดดวงตาและหัวใจ ให้คนไทยเห็นความสว่าง โปรดทรงอวยพรประเทศไทย ให้ไปถึงตามน้ำพระทัย ให้พระพรหลั่งไหล มาถึงคนไทยทุกคน</chorus>
+</thai>
+
+<english>
+    <verse1>This is the prayer from us all, This is the prayer from our hearts. Let the Holy Spirit pour out. and open all of our eyes. Let the miracle. of Jesus be among us.</verse1>
+    <chorus>Lord, please bless over Thailand. Let the Thai have heavenly hope. Open our eyes and our hearts, Let the Thai see Jesus' light. Lord, please bless over Thailand to go into your will. May your blessings flow through all o'er the Thai.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>E Bsus A E Bsus A Bsus A2 Bsus A2 Bsus A E</verse1>
+    <chorus>A E/G# B E A E/G# F#m B A E/G# F#m C#m B A B E</chorus>
+</chord>
+
+</song>

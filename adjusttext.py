@@ -50,6 +50,8 @@ def autolinespacing(inputstring,fontsize,langcount,language):
         print("line size = 230 -"+str(totalchar) +"+"+str(math.ceil(fontsize*0.15)))
         if(linesize<48):
             linesize=48
+        if(linesize>70):
+            linesize=70
     
     return linesize
     

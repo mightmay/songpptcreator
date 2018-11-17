@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Broken Vessels</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,prechorus1,chorus,verse2,prechorus2,chorus</order>
+
+<thai>
+    
+</thai>
+
+<english>
+    <verse1>All these pieces broken and scattered. In mercy gathered, mended and whole. Empty handed but not forsaken. I've been set free, I've been set free.</verse1>
+    <prechorus1>Amazing grace, how sweet the sound. That saved a wretch like me. I once was lost, but now I'm found. Was blind but now I see.</prechorus1>
+    <verse2>You take our failure, You take our weakness. You set Your treasure in jars of clay. So take this heart, Lord, I'll be Your vessel. The world to see Your life in me.</verse2>
+    <prechorus2>Amazing grace, how sweet the sound. That saved a wretch like me. I once was lost, but now I'm found. Was blind but now I see.</prechorus2>
+    <chorus>Oh, I can see you now. Oh, I can see the love in Your eyes. Laying Yourself down. Raising up the broken to life.</chorus>
+</english>
+    
+<mienthai>
+   </mienthai>
+
+<chord>
+    <verse1>Em G Em G Em G D Em D</verse1>
+    <prechorus1>A C D Em C C D Em C</prechorus1>
+    <verse2>Em G Em G Em G D Em D</verse2>
+    <prechorus2>A C D Em C C D Em C</prechorus2>
+    <chorus>G D Em C G D Em C</chorus>
+</chord>
+
+</song>

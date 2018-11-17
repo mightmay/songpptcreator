@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Anthem Of Grace</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,prechorus,chorus,verse2,prechorus,chorus,bridge</order>
+
+<thai>
+ 
+</thai>
+
+<english>
+    <verse1>I believe in a hope that's so secure. In Your love there is no fear, Salvation is sure. I believe on the cross You took my pain. All my sins are washed away. Forgiven and free.</verse1>
+    <verse2>I believe I am righteous through the One. Your obedience has won. I rest in all You've done. I believe You are everything I need. More of You and less of me. I fall at Your feet.</verse2>
+    <prechorus>And now I see. As You are, so are we</prechorus>
+    <bridge>Mountains be cast down. Valleys be raised. Christ be exalted lifted on high. Mountains be cast down. Valleys be raised. Christ be exalted lifted on high.</bridge>
+    <chorus>Let my life resound Your praise. As an anthem of Your grace. There is power in Your name. Hallelujah Jesus You reign.</chorus>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>C Cmaj7 F G C Cmaj7 F G</verse1>
+    <verse2>C Cmaj7 F G C Cmaj7 F G</verse2>
+    <prechorus>C G Am C G F G Am Em F G</prechorus>
+    <bridge>Am C/E F C G/B Am C/E F C G</bridge>
+  
+    <chorus></chorus>
+</chord>
+
+</song>

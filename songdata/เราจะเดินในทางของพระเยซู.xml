@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เราจะเดินในทางของพระเยซู</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>เราจะเดินในทางของพระเยซู มีพระองค์คอยดูชีวิตของเรา ยามเรามีปัญหาพระองค์บรรเทา เป็นกำลังให้เราได้พบความสุข</verse1>
+    <chorus>เราจะเป็นดั่งนกอินทรีแข็งแกร่ง แม้ลมพายุแรงไม่เคยหวั่นไหว มีกำลังสู้ไป มีกำลังยิ่งใหญ่ เราจะเดินในทางของพระเยซู</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>D Dmaj7 Em A7 G A D D Dmaj7 Em A7 G A D D7</verse1>
+    <chorus>G A D Bm G A D D7 G A F#m Bm Em A7 D</chorus>
+</chord>
+
+</song>

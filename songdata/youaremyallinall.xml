@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>You Are My All In All</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,verse3,verse4</order>
+
+<thai>
+</thai>
+
+<english>
+    <verse1>You are my strength when I am weak. You are the treasure that I seek. You are my all in all.</verse1>
+    <verse2>Seeking You as a precious jewel. Lord to give up I'd be a fool. You are my all in all.</verse2>
+    <verse3>Taking my sin my cross my shame. Rising again I bless your name, You are my all in all.</verse3>
+    <verse4>When I fall down You lift me up. When I am dry You fill my cup, You are my all in all.</verse4>
+    <chorus>Jesus Lamb of God worthy is your name. Jesus Lamb of God worthy is your name.</chorus>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>G D Em G/B C G D G D</verse1>
+    <verse2>G D Em G/B C G D G D</verse2>
+    <verse3>G D Em G/B C G D G D</verse3>
+    <verse4>G D Em G/B C G D G D</verse4>
+    <chorus>G D Em Bm C G D G D G D Em G C G/D D C G</chorus>
+</chord>
+
+</song>

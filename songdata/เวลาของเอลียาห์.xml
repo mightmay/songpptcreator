@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เวลาของเอลียาห์</thainame>
+<englishname>Days Of Elijah</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse1-2,chorus,verse2,verse2-2,chorus,outro</order>
+
+<thai>
+    <verse1>นี่เป็นเวลาของเอลียาห์ ป่าวร้องถึงพระคำของพระเจ้า และนี่เป็นเวลาของผู้รับใช้โมเสส ความชอบธรรมฟื้นคืนกลับมา</verse1>
+    <verse1-2>และแม้นี่เป็นเวลา การทนทุกข์ ความกันดาร ความมืดและสงคราม แต่เรายังเป็นเสียงในที่ไกลโพ้น ร้องว่า จงเตรียมหนทางแห่งพระเจ้า</verse1-2>
+    <verse2>และนี่เป็นเวลาเก็บเกี่ยวทุ่งนา ประชากรทุกคนทั่วโลกา และเราเป็นคนงานที่ทรงเลือกไว้ ให้รับใช้ ประกาศพระคำของพระเจ้า</verse2>
+    <verse2-2>นี่เป็นเวลาของเอเสเคียล กระดูกแห้งได้ฟื้นคืนชีวี และนี่เป็นเวลาของผู้รับใช้ดาวิด รื้อฟื้นพระวิหารการสรรเสริญ</verse2-2>
+    <outro>ผู้ทรงอยู่นิรันดร์ และผู้เสด็จมา ผู้ทรงอยู่นิรันดร์ และผู้เสด็จมา</outro>
+    <chorus>พระองค์จะมา ด้วยเมฆท่ามกลางนภา ดุจแสงอาทิตย์แรงกล้า เมื่อเสียงแตรก้องทั่วฟ้า ยกเสียงขึ้น ร่วมฉลองปีของพระองค์ และความรอดจากศิโยน จะเทลงมา</chorus>
+</thai>
+
+<english>
+    <verse1>These are the days of Elijah. Declaring the word of the Lord. And these are the days of Your servant, Moses. Righteousness being restored.</verse1>
+    <verse1-2>These are the days of great trials. Of famine and darkness and sword. Still we are the voice in the desert crying. Prepare ye the way of the Lord!.</verse2>
+    <verse2>And these are the days of Ezekiel. The dry bones becoming as flesh. And these are the days of Your servant, David. Rebuilding the temple of praise.</verse3>
+    <verse2-2>And these are the days of the harvest. The fields are all white in the world. And we are the laborers that are in Your vineyard. Declaring the Word of the Lord.</verse4>
+    <outro>Who was and who is, and who is to come.Who was and who is, and who is to come.</outro>
+    <chorus>Behold he comes riding on the clouds. Shining like the sun at the trumpet call. So lift your voice it's the year of jubilee. And out of Zion's hill salvation comes.</chorus>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>A D A E A A D A E A</verse1>
+    <verse1-2>C#m F#m D E A D A E A</verse1-2>
+    <verse2>A D A E A A D A E A</verse2>
+    <verse2-2>C#m F#m D E A D A E A</verse2-2>
+    <outro>A G D A</outro>
+    <chorus>D/E A D A E D/E A D A E A</chorus>
+</chord>
+
+</song>
