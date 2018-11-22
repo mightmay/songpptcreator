@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>นับพระพร</thainame>
+<englishname>Count your blessings</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+
+<thai>
+    <verse1>แม้นความทุกข์ลำบาก เกิดขึ้นแก่ท่านเมื่อใด มีภาระหนักมาก ท่านคิดว่าแบกไม่ไหว หันมานับพระพรย้อนดูนับทีละอัน แปลกแต่จริงแน่แล้ว พระเจ้าทรงโปรดช่วยท่าน</verse1>
+    <verse2>แม้บุคคลทั้งปวง มีทรัพย์สมบัติมากมาย แต่พระเจ้าสัญญา ให้พรจนนับไม่ไหว รับพระพร ซึ่งทรัพย์สินเงินทองซื้อไม่ได้ แล้วพระเจ้าประทาน บำเหน็จจนเหลือบรรยาย</verse2>
+    <verse3>เวลาท่านต่อสู้ จะเป็นการเล็กหรือใหญ่ อย่าระอาอ่อนใจ พระผู้เป็นเจ้าอยู่ใกล้ จงนับดูพระพร เพราะทูตสวรรค์ป้องกัน ช่วยปลอบโยนดวงจิต ท่านจนตลอดสิ้นกาล</verse3>
+    <chorus>นับพระพรของท่านดูทีละอัน นับพระพรซึ่งพระเยซูประทาน นับพระพรนั้น นับดูทีละอัน นับพระพรของท่าน ซึ่งพระเยซูประทาน</chorus>
+</thai>
+
+<english>
+    <verse1>When upon life's billows you are tempest tossed, When you are discouraged, thinking all is lost, Count your many blessings, name them one by one, And it will surprise you what the Lord hath done.</verse1>
+    <verse2>Are you ever burdened with a load of care? Does the cross seem heavy you are called to bear? Count your many blessings, ev'ry doubt will fly, And you will be singing as the days go by.</verse2>
+    <verse3>So, amid the conflict, whether great or small, Do not be discouraged, God is over all; Count your many blessings, angels will attend, Help and comfort give you to your journey's end.</verse3>
+    <chorus>Count your blessings, name them one by one; Count your blessings, see what God hath done; Count your blessings, name them one by one; Count your many blessings, see what God hath done.</chorus>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>C Dm G7 C C Dm G7 C G7 C</verse1>
+    <verse2>C Dm G7 C C Dm G7 C G7 C</verse2>
+    <verse3>C Dm G7 C C Dm G7 C G7 C</verse3>
+    <chorus>C Dm G7 C F G7 C F G C</chorus>
+</chord>
+
+</song>
