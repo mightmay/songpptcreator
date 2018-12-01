@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เรามาเต้นรำในบ้านหลังนี้</thainame>
+<englishname>Hear Our Praises</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3</order>
+
+<thai>
+    <verse1>เรามาเต้นรำในบ้านหลังนี้ ให้ท้องถนนเปรมปรีดิ์ทั่วกัน มวลมนุษย์กราบองค์พระเยซู นมัสการและอธิษฐาน</verse1>
+    <verse2>ไม้กางเขน ที่เรารับแบกไว้ ขอให้เราเป็นแสงสว่าง พระสิริพระเจ้าเต็มท่วมท้น หมือนดังน้ำในท้องทะเล</verse2>
+    <verse3>ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา</verse3>
+    <chorus>คำสรรเสริญจาก เสียงของพวกเรา ถึงพระเจ้าไป ไกลลับฟ้า จากภูเขาสู่ เหวลึกที่สุด ถึงยังสวรรค์ ชนทุกชาติ</chorus>
+</thai>
+
+<english>
+    <verse1>May our homes be filled with dancing. May our streets be filled with joy. May injustice bow to Jesus. As the people turn to pray.</verse1>
+    <verse2>May a light shine in the darkness. As we walk before the cross. May your glory fill the whole earth. As the water o'er the seas.</verse2>
+    <verse3>Halllelujah Hallelujah Hallelujah Hallelujah</verse3>
+    <chorus>From the mountain to the valley, Hear our praises rise to You. From the heavens to the nations. Hear our singing fill the air.</chorus>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>C F C C-Em-Am F G C F C C-Em-Am F G</verse1>
+    <verse2>C F C C-Em-Am F G C F C C-Em-Am F G</verse2>
+    <verse3>F Dm Am Em F Dm G</verse3>
+    <chorus>C Em F Am Em F G C Em F Am Em F G C-F-C-F</chorus>
+</chord>
+
+</song>

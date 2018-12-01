@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระเจ้าของเรา</thainame>
+<englishname>Our God</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,bridge</order>
+
+<thai>
+    <verse1>พระองค์ทรงความอัศจรรย์ มากมายสุดเกินจะบรรยาย จะหาผู้ใดเปรียบ เหมือนพระองค์</verse1>
+    <verse2>ที่ใดมืดมน ทรงเป็นทาง พระองค์เปลี่ยนแปลง เราทั้งหลาย จะหาผู้ใดเปรียบ เหมือนพระองค์</verse2>
+    <bridge>และถ้าพระเจ้าอยู่ข้างเรา จะมีผู้ใดหยุดยั้งเรา และถ้าพระเจ้าอยู่ข้างเรา จะมีอะไรมาต้านทาน</bridge>
+    <chorus>พระองค์ทรงเข้มแข็ง ยิ่งใหญ่กว่าสิ่งไหน พระองค์อยู่เหนือทุกๆอย่าง เกินผู้ใด พระองค์ผู้รักษา ทรงเปี่ยมด้วยฤทธา พระเจ้าของเรา</chorus>
+</thai>
+
+<english>
+    <verse1>Water You turned into wine. Opened the eyes of the blind. There's no one like You. None like You.</verse1>
+    <verse2>Into the darkness, You shine. Out of the ashes, we rise. There's no one like You. None like You!</verse2>
+    <bridge>And if our God is for us, then who could ever stop us. And if our God is with us, then what could stand against. Then what could stand against!</bridge>
+    <chorus>Our God is greater, our God is stronger. God, You are higher than any other. Our God is healer, awesome in power. Our God, our God.</chorus>
+</english>
+    
+<mienthai>
+
+</mienthai>
+
+<chord>
+    <verse1>Em C G Em C G Am7 D</verse1>
+    <verse2>Em C G Em C G Am7 D</verse2>
+    <bridge>Em C G Dsus</bridge>
+    <chorus>Em C G D Em C G D</chorus>
+</chord>
+
+</song>

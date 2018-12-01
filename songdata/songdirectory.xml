@@ -41,6 +41,7 @@
 <song name="หมดทั้งชีวิต">lordioffermylifetoyou.xml</song>
 <song name="ioffermylife">lordioffermylifetoyou.xml</song>
 <song name="lordioffermylifetoyou">lordioffermylifetoyou.xml</song>
+<song name="lordioffermylife">lordioffermylifetoyou.xml</song>
 
 <song name="โมทนาขอบพระคุณพระเจ้า">โมทนาขอบพระคุณพระเจ้า.xml</song>
 <song name="โมทนาขอบพระคุณพระเจ้าเพราะพระองค์ได้ทรงกระทำสิ่งมากมาย">โมทนาขอบพระคุณพระเจ้า.xml</song>
@@ -404,5 +405,18 @@
 <song name="dontstopprayingthelordisnigh">อย่าหยุดอ้อนวอน.xml</song> 
 <song name="อย่าหยุดอ้อนวอนพระเจ้าอยู่ใกล้">อย่าหยุดอ้อนวอน.xml</song> 
 
+<song name="เรามาเต้นรำในบ้านหลังนี้">เรามาเต้นรำในบ้านหลังนี้.xml</song> 
+<song name="คำสรรเสริญจากเสียงของพวกเรา">เรามาเต้นรำในบ้านหลังนี้.xml</song> 
+<song name="mayourhomesbefillwithdancing">เรามาเต้นรำในบ้านหลังนี้.xml</song> 
+<song name="hearourpraises">เรามาเต้นรำในบ้านหลังนี้.xml</song> 
+<song name="hearourpraise">เรามาเต้นรำในบ้านหลังนี้.xml</song> 
+<song name="mayourhomesbefilledwithdancing">เรามาเต้นรำในบ้านหลังนี้.xml</song> 
+
+<song name="ourgod">ourgod.xml</song> 
+<song name="ourgodchristomlin">ourgod.xml</song> 
+<song name="พระเจ้าของเรา">ourgod.xml</song> 
+<song name="wateryouturnedintowine">ourgod.xml</song> 
+<song name="wateryouturnintowine">ourgod.xml</song> 
+<song name="ourgodisgreaterourgodisstronger">ourgod.xml</song> 
 
 </all>
