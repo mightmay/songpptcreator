@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
 
-<thainame>none</thainame>
+<thainame>พระองค์เป็นทุกสิ่ง</thainame>
 <englishname>You Are My All In All</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1,verse2,chorus,verse3,verse4</order>
+<order>verse1,verse2,chorus,verse3,verse4,chorus</order>
 
 <thai>
+    <verse1>ทรงเป็นเรี่ยวแรงยามใจอ่อนแอ ทรงเป็นสรรพสิ่งที่ฉันต้องการ ทรงเป็นดวงใจของฉัน</verse1>
+    <verse2>อยากจะได้พระองค์มากกว่าทอง อยากจะพ้นจากจิตใจเศร้าหมอง ทรงเป็นดวงใจของฉัน</verse2>
+    <verse3>ทรงชำระความอบายอับอาย ปากของฉันจะสรรเสริญเรื่อยไป ทรงเป็นดวงใจของฉัน</verse3>
+    <verse4>เมื่อฉันล้มลงทรงเฝ้าประคอง เมื่อใจฉันเหน็ดเหนื่อยทรงเพิ่มแรง ทรงเป็นดวงใจของฉัน</verse4>
+    <chorus>พระเยซู บุตรพระเจ้า นามพระองค์ทรงคุณอนันต์ พระเยซู บุตรพระเจ้า ทรงพระคุณอนันต์</chorus>
 </thai>
 
 <english>
