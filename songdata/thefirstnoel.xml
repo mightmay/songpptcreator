@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>The First Noel</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus ,verse6,chorus  </order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>The First Noel, the Angels did say. Was to certain poor shepherds in fields as they lay. In fields where they lay keeping their sheep. On a cold winter's night that was so deep.</verse1>
+    <verse2>They looked up and saw a star. Shining in the East beyond them far. And to the earth it gave great light. And so it continued both day and night.</verse2>
+    <verse3>And by the light of that same star. Three Wise men came from country far. To seek for a King was their intent. And to follow the star wherever it went.</verse3>
+    <verse4>This star drew nigh to the northwest. O'er Bethlehem it took its rest. And there it did both Pause and stay. Right o'er the place where Jesus lay.</verse4>
+    <verse5>Then entered in those Wise men three. Full reverently upon their knee. And offered there in His presence. Their gold and myrrh and frankincense.</verse5>
+<verse6>Then let us all with one accord. Sing praises to our heavenly Lord. That hath made Heaven and earth of nought. And with his blood mankind has bought.</verse6>
+    <chorus>Noel, Noel, Noel, Noel. Born is the King of Israel!</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>G D C G C D C G G D C G C D C G</verse1>
+    <verse2>G D C G C D C G G D C G C D C G</verse2>
+    <verse3>G D C G C D C G G D C G C D C G</verse3>
+    <verse4>G D C G C D C G G D C G C D C G</verse4>
+    <verse5>G D C G C D C G G D C G C D C G</verse5>
+    <verse6>G D C G C D C G G D C G C D C G</verse6>
+    <chorus>G D C G C D C G</chorus>
+</chord>
+
+</song>

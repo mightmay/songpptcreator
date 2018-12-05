@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>จงฟังเพลงแห่งทูตสวรรค์</thainame>
+<englishname>Hark! The Herald Angels Sing</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+
+<thai>
+    <verse1>จงฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน พระเมตตาพระเจ้าสูงสุด สวัสดีแก่ชนมนุษย์ ทุกประเทศจงตื่นยินดี ร้องเพลงกับชาวฟ้ารังสี เปล่งเสียงขึ้นด้วยใจชื่นเต็ม พระคริสต์เกิดที่เบธเลเฮม เชิญฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน</verse1>
+    <verse2>องค์พระคริสต์สถิตเบื้องบน เป็นพระเจ้า ผู้ทรงพระชนม์ ถ่อมพระทัยลงมาบังเกิด แด่มารีย์หญิงผู้ประเสริฐ องค์พระเจ้าใหญ่ยิ่งสูงสุด ลงมาทรงกายามนุษย์ จงสาธุผู้ปรากฎเป็น พระเยซูอิมมานูเอล เชิญฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน</verse2>
+    <verse3>พระเยซูเป็นมิตรไมตรี ทรงพระนาม ผู้เลี้ยงอันดี เป็นสว่างแห่งความชอบธรรม ส่องทั่วทุกประเทศชูค้ำ ทรงมาหาคนผู้หลงหาย เกิดเพื่อช่วยปวงชนพ้นตาย และทรงยกบาปโทษให้พลัน รอดชีวิตตลอดนิรันดร์ เชิญฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน</verse3>
+
+</thai>
+
+<english>
+    <verse1>Hark! the herald angels sing, "Glory to the new born King; Peace on earth and mercy mild, God and sinners reconciled." Joyful, all ye nations, rise, Join the triumph of the skies; With angelic hosts proclaim, "Christ is born in Bethlehem." Hark! the herald angels sing, "Glory to the new born King."</verse1>
+    <verse2>Christ, by highest heav'n adored, Christ, the everlasting Lord; Late in time behold Him come, Offspring of a virgin's womb. Veiled in flesh the Godhead see, Hail, the incarnate Deity! Pleased as man with men to dwell, Jesus our Emmanuel. Hark! the herald angels sing, "Glory to the new born King."</verse2>
+    <verse3>Hail the heav'n born Prince of Peace! Hail the Sun of righteousness! Light and life to all He brings, Ris'n with healing in His wings Mild He lays His glory by Born that man no more may die; Born to raise the sons of earth, Born to give them second birth. Hark! the herald angels sing,"Glory to the newborn King</verse3>
+
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+</mienthai>
+
+<chord>
+    <verse1>E B7 F#m7 B7 E C#m7 F#m7 B7 E A B7 E A B7 A F#m B7 E A F#m B7 E</verse1>
+    <verse2>E B7 F#m7 B7 E C#m7 F#m7 B7 E A B7 E A B7 A F#m B7 E A F#m B7 E</verse2>
+    <verse3>E B7 F#m7 B7 E C#m7 F#m7 B7 E A B7 E A B7 A F#m B7 E A F#m B7 E</verse3>
+</chord>
+
+</song>

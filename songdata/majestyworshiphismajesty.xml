@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระบารมี</thainame>
+<englishname>Majesty</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,verse3</order>
+
+<thai>
+    <verse1>พระบารมี ประกาศพระบารมี ให้พระเยซู รับพระเกียรติ อำนาจและสรรเสริญ</verse1>
+    <verse2>พระบารมี สิทธิ์อำนาจทั่วปฐพี มาจากบัลลังก์ รับด้วยพลังแห่งคำสรรเสริญ</verse2>
+    <verse3>พระบารมี ประกาศพระบารมี พระองค์ยอมตาย เพราะรักมากมายเรารับการไถ่</verse3>
+    <chorus>จงยกย่อง แซ่ซ้องพระนาม ของพระเยซูเจ้า ถวายเกียรติ กล่าวสดุดี องค์ผู้ทรงราศี</chorus>
+</thai>
+
+<english>
+    <verse1>Majesty, worship His majesty. Unto Jesus be all glory, honor and praise!</verse1>
+    <verse2>Majesty, Kingdom authority. Flow from His throne unto His own; His anthem raise.</verse2>
+    <verse3>Majesty, worship His majesty. Jesus who died, now glorified, King of all kings.</verse3>
+    <chorus>So exalt, lift up on high. The name of Jesus, Magnify, come glorify, Christ Jesus, the King!</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>A D A D A Bm7 D E7 A F#m B7 Bm E7</verse1>
+    <verse2>A D A D A Bm7 D E7 A F#m B7 Bm E7</verse2>
+    <verse3>A D A D A Bm7 D E7 A F#m B7 Bm E7</verse3>
+    <chorus>Bm E7 A D A Bm E7 C#7 D E7</chorus>
+</chord>
+
+</song>
