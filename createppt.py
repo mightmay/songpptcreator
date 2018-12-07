@@ -123,10 +123,14 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
             
             
     # delete "none" from Title and subtitle slide
+
     if subtitle.text == "none":
         subtitle.text = ""
     if title.text == "none":
         title.text = ""
+        
+    subtitle.text_frame.paragraphs[0].font.color.rgb = secondtextcolor
+    subtitle.text_frame.paragraphs[0].font.size = Pt(int(40))
 
     # count how many language
     language_count= 0
@@ -186,7 +190,8 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
                 tf1 = txBox1.text_frame
-                para1 = tf1.add_paragraph()
+                tf1.clear()
+                para1 = tf1.paragraphs[0]
                 firstlyricaddedlinebreak=autoaddnewline(firstlyric,int(firsttextsizeint),language_count,first_language)
                 print('font size: '+firsttextsizeint)
                 print('line break: '+str(firstlyricaddedlinebreak))
@@ -226,7 +231,8 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
                 tf1 = txBox1.text_frame
-                para1 = tf1.add_paragraph()
+                tf1.clear()
+                para1 = tf1.paragraphs[0]
 
                 para1.font.size = firsttextsize
                 
@@ -249,7 +255,8 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                     
                 txBox2 = slide.shapes.add_textbox(left2, top2, width2, height2)
                 tf2 = txBox2.text_frame
-                para2 = tf2.add_paragraph()
+                tf2.clear()
+                para2 = tf2.paragraphs[0]
 
                 para2.font.size = secondtextsize
                 para2.font.color.rgb = secondtextcolor
@@ -292,7 +299,8 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
                 tf1 = txBox1.text_frame
-                para1 = tf1.add_paragraph()
+                tf1.clear()
+                para1 = tf1.paragraphs[0]
                 para1.text = firstlyric
                 tf1.word_wrap = True
                 para1.font.size = firsttextsize
@@ -301,7 +309,8 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 txBox2 = slide.shapes.add_textbox(left2, top2, width2, height2)
                 tf2 = txBox2.text_frame
-                para2 = tf2.add_paragraph()
+                tf2.clear()
+                para2 = tf2.paragraphs[0]
                 para2.text = secondlyric
                 tf2.word_wrap = True
                 para2.font.size = secondtextsize
@@ -310,7 +319,8 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 txBox3 = slide.shapes.add_textbox(left3, top3, width3, height3)
                 tf3 = txBox3.text_frame
-                para3 = tf3.add_paragraph()
+                tf3.clear()
+                para3 = tf3.paragraphs[0]
                 para3.text = thirdlyric
                 tf3.word_wrap = True
                 para3.font.size = secondtextsize
