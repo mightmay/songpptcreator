@@ -135,6 +135,7 @@
 
 <song name="จงสรรเสริญพระเจ้าเถิด">จงสรรเสริญพระเจ้าเถิด.xml</song>
 <song name="จงสรรเสริญพระเจ้าเถิดเปล่งเสียงโห่ร้องถวาย">จงสรรเสริญพระเจ้าเถิด.xml</song>
+<song name="comeandpraisethelord">จงสรรเสริญพระเจ้าเถิด.xml</song>
 
 
 <song name="พระองค์ทรงสมควร">พระองค์ทรงสมควร.xml</song>
@@ -457,7 +458,10 @@
 <song name="joyistheflagflownhighfromthecastleofmyheart">ความสุขดุจธง.xml</song> 
 
 
-
+<song name="godisgood">godisgood.xml</song> 
+<song name="godisgoodallthetime">godisgood.xml</song> 
+<song name="พระเจ้าดีตลอดเวลา">godisgood.xml</song> 
+<song name="พระเจ้าดีตลอด">godisgood.xml</song> 
 
 
 </all>
