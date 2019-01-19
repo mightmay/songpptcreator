@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ด้วยความเชื่อเปโตรเดินบนทะเล</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus</order>
+
+<thai>
+    <verse1>ด้วยความเชื่อ เปโตรเดินบนทะเล ไม่รวนเร เมื่อมองดูพระเยซู แต่เมื่อสงสัยพลัน ความเชื่อถดถอยนั่น เขาจึงจมลงในทะเล</verse1>
+    <verse2>ฝ่ายโธมาเชื่อเมื่อเห็นพระเยซู ได้สัมผัสด้วยมือมองดูด้วยตา แต่พระเยซูตรัสว่า ผู้ที่ไม่เห็นเรา แต่เชื่อก็เป็นสุข</verse2>
+    <chorus>จงมีความเชื่อ และไว้วางใจ ให้เหมือนดังโนอาห์ที่ได้สร้างนาวา และอับราฮัม บิดาแห่งความเชื่อ</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1>E A E B7 E A E B7 E</verse1>
+    <verse2>E A E B7 E A E B7 E</verse2>
+    <chorus>E B7 E B7 E A E B7 E</chorus>
+</chord>
+
+</song>
