@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>พระพร</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,chorus1,chorus2,verse2</order>
+	<thai>
+		<verse1>1.พระพรแด่ผู้อยู่ในนิเวศ เขาจะร้องสรรเสริญพระองค์  แด่ผู้มีกำลังโดยพระองค์  ผู้ทั้งหัวใจมีให้พระองค์(ซ้ำข้อ1.)</verse1>
+		<chorus1>*เราจะคงมุ่งตรงเส้นชัย  ตราบเมื่อใดได้เห็นพระพักตร์</chorus1>
+		<chorus2>**โปรดสดับคำทูลโอองค์พระเจ้า  อวยพรแผ่นดิน  ดั่งเราทั้งสิ้นนมัสการ(ซ้ำข้อ1.)</chorus2>
+		<verse2>2.เพราะทรงบริสุทธิ์ เพราะทรงบริสุทธิ์  เพราะพระองค์บริสุทธิ์(ซ้ำ)(**)</verse2>
+	</thai>
+</song>

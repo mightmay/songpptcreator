@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ขอบคุณ</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,verse2,verse3,verse4,chorus1,verse5</order>
+	<thai>
+		<verse1>ขอบคุณด้วยใจซึ้งที่สุด</verse1>
+		<verse2>ขอบคุณองค์วิสุทธิ์ยิ่งใหญ่</verse2>
+		<verse3>ขอบคุณเพราะพระองค์ประทาน</verse3>
+		<verse4>พระเยซูพระบุตร</verse4>
+		<chorus1>**เดี๋ยวนี้ผู้อ่อนแอกล่าวคำ&quot;เข้มแข็ง&quot; ผู้ขัดสนกล่าวคำ&quot;มั่งมี&quot; เพราะพระเยซูได้ทำสิ่งนี้...เพื่อเรา</chorus1>
+		<verse5>(**)ขอบคุณ...</verse5>
+	</thai>
+</song>

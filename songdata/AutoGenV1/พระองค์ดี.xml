@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>พระองค์ดี</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,chorus1,chorus2,verse2</order>
+	<thai>
+		<verse1>1.พระเจ้าแสนดีและพระเมตตาทรงมีถึงนิรันดร์กาล  พระเจ้าแสนดีและพระเมตตาทรงมีถึงนิรันดร์กาล</verse1>
+		<chorus1>*ชนจากทุกชนชาติและหลากเหล่าภาษา  พากันเข้ามาต่างยกย่องสรรเสริญ</chorus1>
+		<chorus2>**นมัสการฮาเลลูยาฮาเลลูยา  นมัสการอย่างที่ทรงเป็น  นมัสการฮาเลลูยาฮาเลลูยา  นมัสการอย่างที่ทรงเป็น  พระองค์ดี</chorus2>
+		<verse2>2.ใช่ทรงเป็น(x3) แสนดี(x2)  ใช่ทรงเป็น(x3)  พระองค์ดี</verse2>
+	</thai>
+</song>

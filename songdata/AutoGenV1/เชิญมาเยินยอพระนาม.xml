@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>เชิญมาเยินยอพระนาม</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,chorus1,chorus2,verse2</order>
+	<thai>
+		<verse1>มาเชิญทุกคนมา ปรบมือและร้องเพลง เยินยอนามพระผู้ทรง เป็นองค์จอมราชา</verse1>
+		<chorus1>*เพราะพระองค์ทรงมี ชัยชนะและทรงยิ่งใหญ่ ทรงครอบครอง และทรงอยู่เหนือโลกา</chorus1>
+		<chorus2>**ร้องฮาเลลูยา สรรเสริญพระนาม ถวายเพลงบทใหม่ แด่องค์จอมราชา ร้องฮาเลลูยา</chorus2>
+		<verse2>องค์พระเยซูทรง เป็นชีวิตของเรา ทรงเป็นองค์ที่เราเชื่อ และวางใจนิรันดร์(*,**)</verse2>
+	</thai>
+</song>

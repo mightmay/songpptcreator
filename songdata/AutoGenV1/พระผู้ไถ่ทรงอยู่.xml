@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>พระผู้ไถ่ทรงอยู่</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,verse2,verse3,verse4,verse5,chorus1,verse6</order>
+	<thai>
+		<verse1>1.ฉันรู้ทรงนำพ้นความตาย  บาปร้ายพระโลหิตปกคลุม</verse1>
+		<verse2>และฉันรู้และฉันเชื่อ</verse2>
+		<verse3>2.พระองค์ทรงรับความอับอาย  รักษาฉันหายโดยพระนาม</verse3>
+		<verse4>และฉันรู้และฉันเชื่อ</verse4>
+		<verse5>3.ฉันยกธงขึ้นชู  พระเยซูมีชัยเหนือความตาย</verse5>
+		<chorus1>**พระผู้ไถ่ทรงอยู่  พระผู้ไถ่ทรงอยู่  พระผู้ไถ่ทรงอยู่  พระผู้ไถ่ทรงอยู่(ซ้ำข้อ1.)</chorus1>
+		<verse6>4.ทรงแบกภาระฉัน  ฟื้นกับพระองค์  ฉันเต้นรำยินดีบนขุนเขา  เฝ้าดูแผ่นดินพระองค์(**)</verse6>
+	</thai>
+</song>

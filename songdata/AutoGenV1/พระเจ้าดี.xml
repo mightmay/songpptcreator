@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>พระเจ้าดี</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>chorus1,verse1,verse2,verse3,verse4</order>
+	<thai>
+		<chorus1>*พระเจ้าดีพวกเราสรรเสริญว่า</chorus1>
+		<verse1>พระเจ้าดีเรามาฉลอง</verse1>
+		<verse2>พระเจ้าดีพวกเราแน่ใจว่า</verse2>
+		<verse3>พระเจ้าดีเรารู้ว่าจริง(*)</verse3>
+		<verse4>1.และเมื่อฉันคิดถึงความรักพระองค์  ใจฉันล้นสรรเสริญ  และฉันนั้นอยากเต้นรำ  ใจของพระองค์มีที่ให้ฉันอยู่  อย่างสุดซึ้งเปิดใจให้พระองค์(*)</verse4>
+	</thai>
+</song>

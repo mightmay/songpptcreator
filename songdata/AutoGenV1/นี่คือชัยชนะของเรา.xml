@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>นี่คือชัยชนะของเรา</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,chorus1,verse2,chorus2</order>
+	<thai>
+		<verse1>1.แสงทองสาดส่องหนทางนำมาซึ่งความยินดี  พระคุณเปรียบดั่งสายฝนให้ความชุ่มชื่นชีวี</verse1>
+		<chorus1>*ทรงเปลี่ยนแปลงความเศร้าให้กลายเป็นเต้นรำ  ทรงเปลี่ยนแปลงความทุกข์ให้เป็นยินดี</chorus1>
+		<verse2>2.ค้ำชูฉันด้วยพระหัตถ์ฉันรักพระนามพระองค์  หัวใจเต็มล้นสรรเสริญเพลิดเพลินรื่นเริงยินดี(*)</verse2>
+		<chorus2>**นี่คือชัยชนะของเรา(x8)</chorus2>
+	</thai>
+</song>

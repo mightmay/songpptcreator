@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>หาใครเหมือนพระองค์</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,verse2,chorus1,chorus2</order>
+	<thai>
+		<verse1>1.หาใครเหมือนพระองค์ หามีใคร..ในโลกา ที่เหมือน..พระองค์ หามีใครในโลกา ที่เหมือน..พระองค์</verse1>
+		<verse2>*ไม่มีใครในโลกา จะมาเทียบพระสิริ</verse2>
+		<chorus1>**พระกำลัง พระคุณอนันต์ ผู้เดียวผู้นำลูกให้รอดบาป ให้เป็นไท  ทำให้ยืนมั่นไว้  ใช่ใครพระองค์</chorus1>
+		<chorus2>***(จะมีใครมาเปรียบพระสิริ...**)</chorus2>
+	</thai>
+</song>

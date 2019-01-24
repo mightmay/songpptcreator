@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ขอเจิมเถิด</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,verse2,verse3,verse4,chorus1,verse5,verse6</order>
+	<thai>
+		<verse1>ขอเจิมเถิดพระวิญญาณ</verse1>
+		<verse2>ขอเจิมเถิดพระวิญญาณ โปรดเจิมโดยฤทธาของพระวิญญาณ</verse2>
+		<verse3>เสด็จมา</verse3>
+		<verse4>โปรดเถิดขอเจิมในใจ</verse4>
+		<chorus1>*ขอสัมผัสที่ปากและหัวใจ เติมชีวิตข้าให้เต็มล้น โปรดเจิมโดยฤทธาของพระวิญญาณ</chorus1>
+		<verse5>เสด็จมา</verse5>
+		<verse6>โปรดเถิดขอเจิมในใจ</verse6>
+	</thai>
+</song>

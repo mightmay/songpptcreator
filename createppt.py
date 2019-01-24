@@ -6,6 +6,9 @@ Created on Sun May 27 00:00:04 2018
 """
 import os
 import sys
+
+from pptx import *
+
 from pptx import Presentation
 from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
@@ -14,6 +17,7 @@ from pptx.enum.text import MSO_ANCHOR, MSO_AUTO_SIZE
 
 from flask import Flask, request, send_from_directory, send_file 
 import xml.dom.minidom
+
 from xml.dom.minidom import parse
 from xml.dom import minidom
 import xml.dom.minidom
@@ -64,8 +68,19 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
     # add song name to pptx slides
     title_slide_layout = prs.slide_layouts[0]
     slide = prs.slides.add_slide(title_slide_layout)
+
+    '''    
+# add  image so it can be background image
+    background_left = background_top = Inches(0)
+    background_imag_path = os.path.join(APP_ROOT, 'images/1001.jpg')
+    background_img= slide.shapes.add_picture(background_imag_path, background_left, background_top, width=prs.slide_width, height=prs.slide_height)
+# move the image to back position
+    slide.shapes._spTree.remove(background_img._element)
+    slide.shapes._spTree.insert(2, background_img._element)
+    '''
     title = slide.shapes.title
     subtitle = slide.placeholders[1]
+   
 
     # get song ordering
     order = songdata.getElementsByTagName("order")[0]
@@ -170,8 +185,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
         
         top3 = Inches(5)
         height3 = Inches(2)
-    
-    
+ 
     for versenum in order_list:
         vnum=str(versenum)
         print(vnum)

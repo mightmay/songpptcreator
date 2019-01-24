@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>พระบารมี</thainame>
+	<englishname>none</englishname>
+	<mienthainame>none</mienthainame>
+	<order>verse1,verse2,chorus1,chorus2,verse3</order>
+	<thai>
+		<verse1>1.พระบารมีประกาศพระบารมี  แด่พระเยซูรับพระเกียรติอำนาจและสรรเสริญ</verse1>
+		<verse2>2.พระบารมีอำนาจทั่วปฐพี  มาจากบัลลังก์พร้อมด้วยพลังแห่งคำสรรเสริญ</verse2>
+		<chorus1>*จงแซ่ซ้องยกย่องพระนาม  ของพระเยซูเจ้า  ถวายเกียรติและสดุดีองค์ผู้ทรงราศี</chorus1>
+		<chorus2>**พระคริสต์คราวนี้ฟื้นคืนชีวีเพื่อเป็นราชา</chorus2>
+		<verse3>3.พระบารมีประกาศพระบารมี พระคริสต์คราวนี้ฟื้นคืนชีวี พื่อเป็นราชา</verse3>
+	</thai>
+</song>
