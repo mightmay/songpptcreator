@@ -161,7 +161,10 @@
 <song name="tenthousandsreasons">10000reasons.xml</song>
 <song name="blessthelordomysoul">10000reasons.xml</song>
 <song name="blessthelordohmysoul">10000reasons.xml</song>
+<song name="หนึ่งหมื่นเหตุผล">10000reasons.xml</song>
+<song name="หมื่นเหตุผล">10000reasons.xml</song>
 
+ 
 <song name="iwillenterhisgates">เราจะเข้ามาสรรเสริญ.xml</song>
 <song name="iwillenterhisgate">เราจะเข้ามาสรรเสริญ.xml</song>
 <song name="เราจะเข้ามาสรรเสริญ">เราจะเข้ามาสรรเสริญ.xml</song>
@@ -475,6 +478,13 @@
 <song name="ฝ่ายโธมาเชื่อเมื่อเห็นพระเยซู">ด้วยความเชื่อเปโตรเดินบนทะเล.xml</song>
 
 <song name="joyofmydesire">ความสุขภายในใจ.xml</song>
+
+<song name="ฉันตัดสินใจแล้วจะตามพระเยซู">ฉันตัดสินใจแล้ว.xml</song>
+<song name="ฉันตัดสินใจแล้ว">ฉันตัดสินใจแล้ว.xml</song>
+<song name="ihavedecidedtofollowjesus">ฉันตัดสินใจแล้ว.xml</song>
+<song name="ihavedecidetofollowjesus">ฉันตัดสินใจแล้ว.xml</song>
+<song name="ivedecidedtofollowjesus">ฉันตัดสินใจแล้ว.xml</song>
+<song name="ivedecidetofollowjesus">ฉันตัดสินใจแล้ว.xml</song>
 
 <!--AutoGenV1-->
 
@@ -1188,7 +1198,6 @@
 	<song name="ฉันทำได้เมื่อพระคำบอก">AutoGenV1/ฉันทำได้เมื่อพระคำบอก.xml</song>
 	<song name="ฉันจะร้องถึงรักนั้นตลอดไป">AutoGenV1/ฉันจะร้องถึงรักนั้นตลอดไป.xml</song>
 	<song name="ขอถวายหมดดวงใจ">AutoGenV1/ขอถวายหมดดวงใจ.xml</song>
-	<song name="ฉันตัดสินใจแล้ว">AutoGenV1/ฉันตัดสินใจแล้ว.xml</song>
 	<song name="งามจริงพระพักตร์พระเจ้า">AutoGenV1/งามจริงพระพักตร์พระเจ้า.xml</song>
 	<song name="ความสุขความยินดี">AutoGenV1/ความสุขความยินดี.xml</song>
 	<song name="องค์พระวิญญาณของพระเจ้า">AutoGenV1/องค์พระวิญญาณของพระเจ้า.xml</song>

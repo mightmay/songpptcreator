@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>ฉันตัดสินใจแล้ว</thainame>
-	<englishname>none</englishname>
+	<englishname>I Have Decided to Follow Jesus</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2,verse3</order>
 	<thai>
@@ -9,4 +9,9 @@
 		<verse2>2.กางเขนอยู่เบื้องหน้าทิ้งโลกไว้เบื้องหลัง  กางเขนอยู่เบื้องหน้าทิ้งโลกไว้เบื้องหลัง  กางเขนอยู่เบื้องหน้าทิ้งโลกไว้เบื้องหลัง ไม่หันกลับเลยไม่หันกลับเลย</verse2>
 		<verse3>3.แม้ใครไม่ไปด้วยฉันก็จะตามไป  แม้ใครไม่ไปด้วยฉันก็จะตามไป  แม้ใครไม่ไปด้วยฉันก็จะตามไป  ไม่หันกลับเลยไม่หันกลับเลย</verse3>
 	</thai>
+	<english>
+		<verse1>I have decided to follow Jesus. I have decided to follow Jesus. I have decided to follow Jesus. No turning back, no turning back.</verse1>
+		<verse2>The world behind me, the cross before me. The world behind me, the cross before me. The world behind me, the cross before me. No turning back, no turning back.</verse2>
+		<verse3>Though none go with me, still I will follow. Though none go with me, still I will follow. Though none go with me, still I will follow. No turning back, no turning back.</verse3>
+	</english>
 </song>
