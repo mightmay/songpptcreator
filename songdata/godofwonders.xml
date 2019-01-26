@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>God Of Wonders</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,ending</order>
+
+<thai>
+</thai>
+
+<english>
+    <verse1>Lord of all creation. Of the water, earth and sky. The Heavens are Your Tabernacle. Glory to the Lord on high.</verse1>
+    <verse2>Early in the morning. I will celebrate the light. And when I stumble into darkness. I will call Your name by night.</verse2>
+    <ending>Hallelujah to the Lord of Heaven and earth.</ending>
+    <chorus>God of wonders, beyond our galaxy. You are holy, holy. The universe declares Your majesty. You are holy, holy. Lord of Heaven and Earth. Lord of Heaven and Earth.</chorus>
+</english>
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>Esus F#m D2 Esus F#m D2 Esus F#m D2 Esus F#m D2</verse1>
+    <verse2>Esus F#m D2 Esus F#m D2 Esus F#m D2 Esus F#m D2</verse2>
+    <ending>Bm7 D2</ending>
+    <chorus>A E Bm7 D2 A E Bm7 D2 D2</chorus>
+</chord>
+
+</song>
