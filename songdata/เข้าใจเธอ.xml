@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เข้าใจเธอ</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus1,chorus2,chorus3</order>
+
+<thai>
+    <verse1>วันใดที่เธอต้องการใครสักคน ใครเพียงสักคนที่พร้อมจะเข้าใจ ยังมีเรื่องราวเก็บไว้ข้างใน อยากระบาย ให้มันหมดใจ</verse1>
+    <chorus1>หากวันไหนเธอมองไม่เห็นใคร อยากให้รู้มีใครอยู่ใกล้เธอ พร้อมจะเข้าใจเรื่องราวที่พบเจอไม่ว่ามันหนักหนาสักแค่ไหน</chorus1>
+        <chorus2>พระเยซูเข้าใจและพร้อมจะช่วยเธอ นำเธอผ่านพ้นเวลาที่โหดร้าย ขอให้เธอมั่นใจ ว่าทุกๆ ก้าวที่เดินไป ให้เธอได้รู้ ว่าเธอยังมี</chorus2>
+    <chorus3>(ให้เธอได้รู้ ว่าพระเยซูเข้าใจเธอ) แค่อยากให้เธอ ได้รู้ได้เข้าใจ ว่ายังมีใครห่วงใยเธอเสมอ พระองค์คอยอยู่เป็นคำตอบให้เธอ เป็นพลังให้เธอก้าวไป</chorus3>
+
+
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>
