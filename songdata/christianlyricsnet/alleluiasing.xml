@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Alleluia, Sing </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11</order>
+	<english>
+		<segment1>(Verse 1). Like calm comes to a sea. Like snowfall quietly. You come to me</segment1>
+		<segment2>Like justice to the weak. Like a flood rising. You come, You come to me</segment2>
+		<segment3>And it feels like it's almost here</segment3>
+		<segment4>(Chorus). Alleluia majesty. Alleluia risen king. Alleluia angels sing</segment4>
+		<segment5>(Verse 2). Like springtime to winter's hush. Like laughter to solemnness. Like a sun rising up. You come, You come to us</segment5>
+		<segment6>(Chorus). Alleluia majesty. Alleluia king of kings. Alleluia angels sing</segment6>
+		<segment7>(Bridge). Like a song rising up. In your heart filling up. Like a heart's not enough. For this love, for this love</segment7>
+		<segment8>To sing of love, to sing of love. To sing of love, love, love</segment8>
+		<segment9>(Chorus). Alleluia majesty. Alleluia king of kings. Alleluia angels sing</segment9>
+		<segment10>Alleluia sing!</segment10>
+		<segment11>Copyright © David Crowder     </segment11>
+	</english>
+</song>

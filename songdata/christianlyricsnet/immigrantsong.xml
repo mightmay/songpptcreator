@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Immigrant Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Ah, ah, We come from the land of the ice and snow, From the midnight sun where the hot springs flow. The hammer of the gods will drive our ships to new lands, To fight the horde, singing and crying: Valhalla, I am coming! </segment1>
+		<segment2>On we sweep with threshing oar, Our only goal will be the western shore.</segment2>
+		<segment3>Ah, ah, We come from the land of the ice and snow, From the midnight sun where the hot springs blow. How soft your fields so green, can whisper tales of gore, Of how we calmed the tides of war. We are your overlords.</segment3>
+		<segment4>On we sweep with threshing oar, Our only goal will be the western shore.</segment4>
+		<segment5>So now you'd better stop and rebuild all your ruins, For peace and trust can win the day despite of all your losing.    </segment5>
+	</english>
+</song>

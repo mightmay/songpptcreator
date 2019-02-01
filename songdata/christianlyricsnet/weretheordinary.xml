@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>We're The Ordinary </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>We're ordinary people. Close but not the worst. But I think you know. Were all the lonely people. Alone but not at first?. But I think you know</segment1>
+		<segment2>The older living people. Who've been through even worse. But I think you know. Just like the other people. Alone but not at first. But I think you know</segment2>
+		<segment3>Sometimes we don't have a life</segment3>
+		<segment4>We're ordinary people. Close but not the worst. But I think you know. Were all the lonely people. Alone but not at first?. But I think you know</segment4>
+		<segment5>Sometimes we don't have a life.     </segment5>
+	</english>
+</song>

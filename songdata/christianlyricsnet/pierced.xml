@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Pierced </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>[chorus]. Make me, take me, break me, I am pierced. Make me, take me, break me, I am pierced</segment1>
+		<segment2>Though I am wounded and unworthy. Though I am selfish and untrue. You are holy, You're the healer. You forgave me and made me new. Made me new</segment2>
+		<segment3>[chorus]</segment3>
+		<segment4>Oh, this love, how can it be. That my God would die for me. For my sins, His wounds did bleed. Jesus, you were pierced for me</segment4>
+		<segment5>[chorus x3]    </segment5>
+	</english>
+</song>

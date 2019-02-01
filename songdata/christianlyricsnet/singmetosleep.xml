@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sing Me To Sleep </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>There is something. Watching, waiting. There is something. Passing, casting these shadows. How they make their way into my mind</segment1>
+		<segment2>And you'll sing me to sleep. You'll sing to me gently. And you'll sing me to sleep. You'll sing to me. And I'm not alone</segment2>
+		<segment3>There is something. Shining, calling my name. And who are you, what do you want?. I'll claim nothing. When you're whispering. The truth has made its way into my head</segment3>
+		<segment4>And you'll sing me to sleep. Sing to me gently. And you'll sing me to sleep. Sing to me gently. And you'll sing me to sleep. Sing to me gently. And you'll sing me to sleep. Sing to me gently</segment4>
+		<segment5>And I'm not alone.     </segment5>
+	</english>
+</song>

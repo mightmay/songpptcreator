@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Famous Last Words </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>You say you heard every word, but I watched you turn away. Your eyes grew colder than winter. &quot;Love is so intrusive,&quot; I thought I heard you say. And laugh so unconvincingly </segment1>
+		<segment2>Famous last words, &quot;I'm not ready yet&quot;. &quot;I won't be gone a minute&quot; </segment2>
+		<segment3>Narrow is the road and too high a price to pay. When loneliness is such a sanctuary. Empty are the musings and wasted are the days. When you say you were only waiting </segment3>
+		<segment4>And famous last words, &quot;I'm not ready yet&quot;. &quot;I won't be gone a minute&quot; and I won't forget. Famous last words. If tomorrow never comes, will I ever know that I was in love? </segment4>
+		<segment5>I was in love. In love </segment5>
+		<segment6>You say you heard every word, I watched you turn away. You were only waiting     </segment6>
+	</english>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Everytime I Fall </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12</order>
+	<english>
+		<segment1>Chorus: Every time I fall a little bit harder. Every time I fall a little bit farther. Every time I fall. I fall right back into your arms</segment1>
+		<segment2>Every time I try. To explain the reason why. I have let you down. I fall to the ground</segment2>
+		<segment3>What is it you see in me. That makes you believe. No matter how far I stray. I will still find the way</segment3>
+		<segment4>Just when I think I'm not strong enough. You reach out to me and you lift me up</segment4>
+		<segment5>Repeat chorus</segment5>
+		<segment6>Time and time again. When I think I've reached the end. It's your voice I hear. That draws me near</segment6>
+		<segment7>I don't know what makes you stay. When I act this way. No matter what we've been through. I can turn to you</segment7>
+		<segment8>Just when I think I'm not strong enough. You reach out to me and you lift me up</segment8>
+		<segment9>(Chorus)</segment9>
+		<segment10>You find the beauty in my imperfections. The guiding light in all my misdirection. And when I think you've finally given up. You fill my heart with unconditional love</segment10>
+		<segment11>Every time I fall. I fall back in your arms</segment11>
+		<segment12>(Chorus x4)    </segment12>
+	</english>
+</song>

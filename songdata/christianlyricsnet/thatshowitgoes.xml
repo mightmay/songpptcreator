@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>That's How It Goes </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>You are falling, falling fast away. Broken pieces lost along the way. Lost along the way. Do you really want to stay?</segment1>
+		<segment2>Oh, thats how it goes. Thats how it goes. To feel lost and all alone. Let it all go, let it all go. Dont put your trust in all you know</segment2>
+		<segment3>There is hope for those who go astray. Those who seek the truth will find the way. But it feels the same. Do you really want to change?</segment3>
+		<segment4>You gotta walk up to that line. All you need is faith this time. All thats broken will just fade away</segment4>
+		<segment5>    </segment5>
+	</english>
+</song>

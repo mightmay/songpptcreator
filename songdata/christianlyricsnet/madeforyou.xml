@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Made For You </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I will try to make ends meet. The best that I can, for you. You dont have to worry. All that I can ask is trust me</segment1>
+		<segment2>Give me what youve got. Dont hold back. Give it all away to grace</segment2>
+		<segment3>Everything about me was made for you. Everything inside me is all for you. Its deeper than we know right now. But weve got the time to figure out. Just how, everything about me was made for you </segment3>
+		<segment4>I will walk beside you. Even when the ground is shaking. I have been through the shadows. So I know that we will make it</segment4>
+		<segment5>Made for you. You, you, you. Was made for you. You, you, you</segment5>
+		<segment6>    </segment6>
+	</english>
+</song>

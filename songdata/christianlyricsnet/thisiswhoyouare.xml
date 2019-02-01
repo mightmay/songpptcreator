@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>This Is Who You Are </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Sometimes time brings us down. Washes us with guilt and questions. We'll stand tall, and in the end. We will win!</segment1>
+		<segment2>We will fight forever this time. Until they die or they're wash away (2X). Words will try, to break us down. Cloud our minds, with waves of regret. Storms will come, but in the end. We will win!</segment2>
+		<segment3>We will fall forever this time. Until they die or they're wash away (2X)</segment3>
+		<segment4>We will win!</segment4>
+		<segment5>We will not move!. We will not lose!. We will not give in!. We will not lose!. We'll stand tall in the end!. We will win!</segment5>
+		<segment6>We will fall forever this time. Until they die or they're wash away (2X)    </segment6>
+	</english>
+</song>

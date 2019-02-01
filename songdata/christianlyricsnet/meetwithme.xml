@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Meet With Me </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>I'm here to meet with you. come and meet with me. I'm here to find you. reveal yourself to me</segment1>
+		<segment2>As I wait, you make me strong. As I long, draw me to your arms. As I stand and sing your praise. You come, you come and you fill this place. Won't you come, Won't you come and fill this place</segment2>
+		<segment3>I'm here to meet with you. Come and meet with me. I'm here to find you, reveal yourself to me</segment3>
+		<segment4>As I wait, you make me strong. As I long, draw me to your arms. As I stand and sing your praise. You come, you come and you fill this place. Won't you come, Won't you come and fill this place</segment4>
+		<segment5>I'm here to meet with you. Come and meet with me    </segment5>
+	</english>
+</song>

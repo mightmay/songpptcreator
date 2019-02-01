@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Non Nobis Domine </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3</order>
+	<english>
+		<segment1>Psalm 115:1</segment1>
+		<segment2>Non nobis Domine, Domine. Non nobis Domine. Sed nomini, Sed nomini. Tu o da gloriam</segment2>
+		<segment3>Not unto us, O Lord. Not unto us, O Lord. But to Your name. But to Your name. May all the glory be.     </segment3>
+	</english>
+</song>

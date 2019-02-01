@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>No Other Savior </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>         	. Lord of every age. Author of our faith. The first, the last, the same. The name above all names</segment1>
+		<segment2>Crowned in majesty. Glorious Prince of Peace. Throned at God's right hand. The world at His command. The world at His command</segment2>
+		<segment3>Jesus, Lamb of God. How great You are. There is no other Saviour. Every knee bows down. At Your renown. There is no other Saviour</segment3>
+		<segment4>Merciful High Priest. Lover of the least. Generous and meek. Protector of the weak</segment4>
+		<segment5>Sacrificed to death. For us, Your final breath. You died, the world to save. To overcome the grave. To overcome the grave</segment5>
+		<segment6>You will reign forever. You reign forever    </segment6>
+	</english>
+</song>

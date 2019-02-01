@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Grace Like Rain </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Amazing grace, how sweet the sound. That saved a wretch like me. I once was lost but now I'm found. Was blind but now I see so clearly</segment1>
+		<segment2>Chorus: Hallelujah, grace like rain falls down on me. Hallelujah, all my stains are washed away, washed away</segment2>
+		<segment3>'Twas grace that taught my heart to fear. And grace my fears relieved. How precious did that grace appear. The hour I first believed</segment3>
+		<segment4>Chorus</segment4>
+		<segment5>When we've been there ten thousand years. Bright shining as the sun. We've no less days to sing Your praise. Than when we first begun</segment5>
+		<segment6>Chorus</segment6>
+		<segment7>Chorus    </segment7>
+	</english>
+</song>

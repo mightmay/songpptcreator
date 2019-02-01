@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sleep </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Am I sleeping with my eyes wide?. Am I alone?. Am I staring into bright lights?. Have I gone home?</segment1>
+		<segment2>I must be dremaing when I'm sitting here in someone elses throne.</segment2>
+		<segment3>Am I sleeping with my eyes wide. Won't you let me know?</segment3>
+		<segment4>Will I wake to find you waiting by my bedside?. Will I wake to find you waiting by my side?</segment4>
+		<segment5>Am I sleeping with my eyes wide?. Am I alone?. Am I staring into bright lights?. Have I gone home?</segment5>
+		<segment6>I want to see your hairline. And cheek bones. And red lips. And cell phone. Won't you let me know?</segment6>
+		<segment7>Will I wake to find you waiting by my bedside?. Will I wake to find you waiting by my side?    </segment7>
+	</english>
+</song>

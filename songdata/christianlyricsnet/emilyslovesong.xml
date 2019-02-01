@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Emily's Love Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Hold me stanley I love you. Love you. Love you. Not now Emily, Go away. Hold me Stanley I need you. Need you. Need you. Not now Emily, Go away</segment1>
+		<segment2>I should have stayed with Peter. I should have stayed with William. I should have stayed with Rupert. I should have stayed with Hal</segment2>
+		<segment3>Hold me stanley I love you. Love you. Love you. Not now Emily, Go away. Hold me Stanley I need you. Need you. Need you. Not now Emily, Go away</segment3>
+		<segment4>I should have stayed with Steven. I should have stayed with Allan. I should have stayed with Robert. I should have stayed with Hal</segment4>
+		<segment5>Maybe one day, I'll find love. Maybe one day, I'll find love. Don't tell me I'll do it. Seven times. There's nothing to it.    </segment5>
+	</english>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Breathe In Me </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>Verse 1: Mercy, in your tender mercy. Look on me (x2). Frailty, even in my frailty. Welcome me (x2)</segment1>
+		<segment2>Bridge: Father this my own vocation that you would come and lead me once again</segment2>
+		<segment3>Chorus: Breath in me breathe of God. Mend in me this wounded heart. That I may know youve made your peace with me. Breathe in me</segment3>
+		<segment4>Verse 2: Burden take away this burden. Set me free (x2). Calling, I have heard you calling. Out for me you shout for me</segment4>
+		<segment5>Bridge 2: Father this my own vocation that you would come and lead me once again. And I know you will hear my pleading and you will find me ever once again</segment5>
+		<segment6>(Chorus)</segment6>
+		<segment7>Verse 3: Empty, empty. Fill me, Father fill me. Empty. I am empty. Wont you fill me once again</segment7>
+		<segment8>(Chorus).     </segment8>
+	</english>
+</song>

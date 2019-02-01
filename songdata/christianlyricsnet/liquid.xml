@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Liquid </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Arms nailed down, Are you tellin me something?. Eyes turned out, Are you looking for someone? </segment1>
+		<segment2>This is the one thing, The one thing that I know. </segment2>
+		<segment3>Blood-stained brow, Are you dying for nothing?. Flesh and blood, Is it so elemental? </segment3>
+		<segment4>This is the one thing, The one thing that I know. This is the one thing, The one thing that I know. </segment4>
+		<segment5>Blood-stained brow, He wasn't broken for nothing. Arms nailed down, He didn't die for nothing. </segment5>
+		<segment6>This is the one thing, The one thing that I know. This is the one thing, The one thing that I know. </segment6>
+		<segment7>This is the one thing, The one thing that I know. This is the one thing, The one thing that I know.     </segment7>
+	</english>
+</song>

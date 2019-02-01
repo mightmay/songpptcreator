@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Will Remember you </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>I remember the cold December. I remember the star-crossed sky. I remember how the morning came up singing. And it found two dreamers hanging on tonight</segment1>
+		<segment2>I remember walking in the ocean. I remember that look in your eyes. I remember the way you stood beside me. When the waves were trying to take you with the tide</segment2>
+		<segment3>Chorus: I will remember you. And hold on tight through the years. To each moment when we were together. Every time you were here</segment3>
+		<segment4>I remember the light in the canyon. I remember when the rain came down. I remember the light from the candle that was burning for a long long time</segment4>
+		<segment5>(Chorus)</segment5>
+		<segment6>Morning sun midnight chill. Some times you are with me still. All the memories bring you back to me</segment6>
+		<segment7>(Chorus)    </segment7>
+	</english>
+</song>

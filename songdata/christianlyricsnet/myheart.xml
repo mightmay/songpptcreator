@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>My Heart </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12</order>
+	<english>
+		<segment1>I am finding out that maybe I was wrong. That I've fallen down and I can't do this alone</segment1>
+		<segment2>Stay with me, this is what I need, please?</segment2>
+		<segment3>Sing us a song and we'll sing it back to you. We could sing our own but what would it be without you?</segment3>
+		<segment4>I am nothing now and it's been so long. Since I've heard the sound, the sound of my only hope</segment4>
+		<segment5>This time I will be listening.</segment5>
+		<segment6>Sing us a song and we'll sing it back to you. We could sing our own but what would it be without you?</segment6>
+		<segment7>This heart, it beats, beats for only you. This heart, it beats, beats for only you</segment7>
+		<segment8>This heart, it beats, beats for only you. My heart is yours</segment8>
+		<segment9>This heart, it beats, beats for only you. My heart is yours. (My heart, it beats for you)</segment9>
+		<segment10>This heart, it beats, beats for only you (It beats, beats for only you). My heart is yours (My heart is yours)</segment10>
+		<segment11>This heart, it beats, beats for only you (Please don't go now, please don't fade away). My heart, my heart is yours (Please don't go now, please don't fade away)</segment11>
+		<segment12>(Please don't go now, please don't fade away) My heart is yours. (Please don't go now, please don't fade away) My heart is yours. (Please don't go, please don't fade away). (Please don't go now, please don't fade away) My heart is..    </segment12>
+	</english>
+</song>

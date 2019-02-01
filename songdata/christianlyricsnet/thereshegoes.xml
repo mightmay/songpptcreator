@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>There She Goes </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>There she goes. There she goes again. Racing through my brain. And I just can't contain. This feeling that remains</segment1>
+		<segment2>There she goes. There she goes again. Pulsing through my veins. And I just can't contain. This feeling that remains</segment2>
+		<segment3>There she goes. (There she goes again). There she goes again. (There she goes again). Racing through my brain. (There she goes). And I just can't contain. This feeling that remains</segment3>
+		<segment4>There she goes. There she goes again. She calls my name. she pulls my train. No one else could heal my pain. And I just can't contain. This feeling that remains</segment4>
+		<segment5>There she goes. (She calls my name). There she goes again. (She calls my name). Chasing down my lane. (She calls my name). And I just can't contain. This feeling that remains</segment5>
+		<segment6>There she goes. (There she goes again). There she goes. (There she goes again). There she goes    </segment6>
+	</english>
+</song>

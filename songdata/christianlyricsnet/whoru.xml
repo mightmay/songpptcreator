@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Who R U </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12,segment13,segment14,segment15,segment16,segment17,segment18,segment19,segment20,segment21,segment22</order>
+	<english>
+		<segment1>Are you who you say you are</segment1>
+		<segment2>Will your life shine in the dark</segment2>
+		<segment3>Are you standing on the truth</segment3>
+		<segment4>when opposition stands against you</segment4>
+		<segment5/>
+		<segment6>Who are you?</segment6>
+		<segment7/>
+		<segment8>Just so I make myself clear</segment8>
+		<segment9>This aint no game were playing here</segment9>
+		<segment10>There is no fence to hold you up</segment10>
+		<segment11>So decide which side to give up</segment11>
+		<segment12/>
+		<segment13>Who are you?</segment13>
+		<segment14>Who are you?</segment14>
+		<segment15/>
+		<segment16>Youre either hot or youre cold</segment16>
+		<segment17>Either yes or youre no</segment17>
+		<segment18>Will you stay or will you run</segment18>
+		<segment19>Who will you become</segment19>
+		<segment20>Youre either in or youre out</segment20>
+		<segment21>Either soft or youre loud</segment21>
+		<segment22>When He calls for His own    </segment22>
+	</english>
+</song>

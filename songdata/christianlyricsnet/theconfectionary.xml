@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>The Confectionary </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Perched upon the lap of hope and northern slopes. Nestled in the wooded oak, a dream unfolds</segment1>
+		<segment2>Come and see. The confectionary. Very merry. The confectionary</segment2>
+		<segment3>The continued hum of notes and needle pokes. Garland with a hint of snow 'round the windows</segment3>
+		<segment4>Come and see. The confectionary. Very merry. The confectionary</segment4>
+		<segment5>You stir all the sweetened pots and watch the clocks. The time has come to close the shop that time forgot..     </segment5>
+	</english>
+</song>

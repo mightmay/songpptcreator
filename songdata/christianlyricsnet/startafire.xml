@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Start A Fire </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I think it's a cold, cold world and I think we need to heat it. light it up like gasoline when a match's thrown down in it. so go ahead and strike a match, a passionate heart is needed. so throw a torch up in the sky, 'cause we need someone to lead it</segment1>
+		<segment2>it only takes a little spark to get a fire goin'. I know the fire's in your heart, so go ahead and show it</segment2>
+		<segment3>(chorus). go - light it up - start a fire. burn - let it burn - even higher</segment3>
+		<segment4>like a city on a hill, we can light up the horizon. for miles and miles and miles - you can see the smoke is risin'. so go ahead and light the sky like a bonfire in the night. let the fire keep burnin' hard - it can never be too bright</segment4>
+		<segment5>it only takes a little spark to get a fire goin'. I know the fire is in your heart, so go ahead and show it</segment5>
+		<segment6>(chorus x2).     </segment6>
+	</english>
+</song>

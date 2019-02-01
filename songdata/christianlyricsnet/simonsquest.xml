@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Simon's Quest </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3</order>
+	<english>
+		<segment1>It's late at night. I feel alone. The silence could not be louder. Where are you?. Will I ever know?. Or will I be forgotten?. The road I chose, has brought me loss. But there is hope for tomorrow. Broken down, but I'll stand. As I await your promise. </segment1>
+		<segment2>The warmth of the sun makes me smile. I can't wait for tomorrow. A new morning another try. Another chance to make this right. </segment2>
+		<segment3>The warmth of the sun makes me smile. I can't wait for tomorrow. A new morning another try. Another chance to make this right.    </segment3>
+	</english>
+</song>

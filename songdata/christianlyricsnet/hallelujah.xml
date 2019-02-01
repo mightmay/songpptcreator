@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Hallelujah </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Hallelujah, Hallelujah, You are worthy of our praise. Hallelujah, Hallelujah, You are worthy of our praise</segment1>
+		<segment2>Be high and lifted (*3). Jesus</segment2>
+		<segment3>It's you we glorify. It's you we're lifting up</segment3>
+		<segment4>Be high and lifted (*3). Jesus. It's you we glorify. It's you we're lifting up    </segment4>
+	</english>
+</song>

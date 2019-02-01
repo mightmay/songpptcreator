@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Maps </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>One last hour before this place is on fire. Losing all as the flames grow higher and higher. Here I stand</segment1>
+		<segment2>The further I'm from you, the harder I try to exist. Somebody tell me how did it come to this. Take these blinds from my eyes. And wake me from the inside</segment2>
+		<segment3>This last hour the night dropped into the sea. The light spread wide. And the sky broke open and free. Here I stand</segment3>
+		<segment4>Further out, maybe you can meet me where I am. Further out, I know there is hope within your hands    </segment4>
+	</english>
+</song>

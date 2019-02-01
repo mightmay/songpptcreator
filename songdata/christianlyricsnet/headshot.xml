@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Headshot! </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>I am the last of a dying breed. the Spartans; built to fight and born to lead. we will destroy the covenant and make them bleed. Cortana lead me through your eyes I will see</segment1>
+		<segment2>Heading off to the halo rings. finding out that earth is the final key. destroying the flood for all eternity. killing brutes, jackals, grunts, and covenant elites</segment2>
+		<segment3>I am the master chief. no one can mess with me. saving the world from catastrophe. unleashin' BXR's and killing sprees</segment3>
+		<segment4>lets start a match, Team Slayer on Lockout. battle rifles blazin', you're gonna get knocked out. turn the corner, and im'a stick you right in da' grill. gettin no scoped beat down, Im one in a mill'</segment4>
+		<segment5>HEADSHOT!</segment5>
+		<segment6>unstoppable</segment6>
+		<segment7>team skirmish CTF on Zanzibar, capturing flags, gettin my battle scars. time to defend, Im bustin heads with my shotgun. second round secured, another battle won</segment7>
+		<segment8>I am the MASTER CHIEF. no one can MESS WITH ME. saving the world from caTASTROPHE. unstoppables and KILLING SPREES    </segment8>
+	</english>
+</song>

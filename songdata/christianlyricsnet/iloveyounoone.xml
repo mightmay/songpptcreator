@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Love You (No One) </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>No one moves me like you. No one loves me like you. No one cares like you do. No one</segment1>
+		<segment2>I just want to be. Where you want me to be. I just want to stay with you</segment2>
+		<segment3>I love you. I need you. I praise you. I love you (Jesus)</segment3>
+		<segment4>No one knows me like oyu. No one fills me like oyu. No one holds like you do. No one</segment4>
+		<segment5>I love you. I bless you. I thank you. I love you (Jesus)</segment5>
+		<segment6>I just want to be. Where you want me to be. I just want to say. What you want me to say. I just want to be. Who you want me to be. I just want your way in me.     </segment6>
+	</english>
+</song>

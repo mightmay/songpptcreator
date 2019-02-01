@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Ready To Fly </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I've been here grounded far too long. I'm ready to see the open wide. Ready to sing a different song. I've seen my troubles 'long the way. I want to sail towards the sun. I want to turn another page. I'm on my way</segment1>
+		<segment2>(chorus). I'm ready to fly. I'm ready to soar. I'm ready to leave this world behind. I'm ready to open up the door. I'm ready to fly. I'm ready to spread my wings across the sky. I think it's time. I'm ready to go. I'm ready to fly</segment2>
+		<segment3>You've told me I could rise above. Like an eagle on the wind. I can glide upon Your love. But I feel the pull of gravity. And it's a weight upon my shoulders. I can't stay here any longer. I've gotta be free</segment3>
+		<segment4>(chorus)</segment4>
+		<segment5>And it's been so long. Since I've seen the bright morning sun. Through the early morning horizon. And it's been so long. Since I've felt the air under my wings. And seen all of these things from above</segment5>
+		<segment6>(chorus)    </segment6>
+	</english>
+</song>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Shepherd </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Shepherd, Your sheep are weary. Cold and tired, battered and bruised and torn. Shepherd, Your sheep are hungry. We got what we wanted but we still need something more</segment1>
+		<segment2>Chorus: We need to hear Your voice. Whatever You might say. We just need to hear Your voice. Show us the way</segment2>
+		<segment3>Shepherd, Your sheep are lost. We chased our wants that we thought were needs. Now we can't get home. Shepherd, Your sheep are longing. We ate and we ran, we played and. we danced, but we're empty</segment3>
+		<segment4>Chorus</segment4>
+		<segment5>Instrumental</segment5>
+		<segment6>Chorus</segment6>
+		<segment7>Shepherd, these sheep are Yours. We tried to be king, but we. don't want to anymore    </segment7>
+	</english>
+</song>

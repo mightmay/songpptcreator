@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Silent Night / Away In A Manger </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3</order>
+	<english>
+		<segment1>Silent night, Holy night. All is calm, all is bright. Round yon virgin Mother and Child. Holy infant so tender and mild. Sleep in heavenly peace. Sleep in heavenly peace</segment1>
+		<segment2>Silent night, holy night, Shepherds quake, at the sight. Glories stream from heaven afar. Heav'nly hosts they sing Allelluia. Christ the savior is born. Christ the savior is born.</segment2>
+		<segment3>Away in a manger, no crib for his bed, The little Lord Jesus laid down his sweet head. The stars in the sky looked down where he lay, The little Lord Jesus asleep on the hay    </segment3>
+	</english>
+</song>

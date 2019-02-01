@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Take Heart </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10</order>
+	<english>
+		<segment1>[Verse 1:]. There is a light. It burns brighter than the sun. He steals the night. And casts no shadow. There is hope. Should oceans rise and mountains fall. He never fails</segment1>
+		<segment2>[Chorus:]. So take heart. Let His love lead us through the night. Hold on to hope. And take courage again</segment2>
+		<segment3>[Verse 1:]. In death by love. The fallen world was overcome. He wears the scars of our freedom. In His Name. All our fears are swept away. He never fails</segment3>
+		<segment4>[Bridge:]. All our troubles. And all our tears. God our hope. He has overcome</segment4>
+		<segment5>All our failure. And all our fear. God our love. He has overcome. All our heartache. And all our pain. God our healer. He has overcome</segment5>
+		<segment6>All our burdens. And all our shame. God our freedom. He has overcome</segment6>
+		<segment7>All our troubles. And all our tears. God our hope. He has overcome</segment7>
+		<segment8>All our failures. And all our fear. God our love. He has overcome</segment8>
+		<segment9>God our justice. God our grace. God our freedom. He has overcome</segment9>
+		<segment10>God our refuge. God our strength. God is with us. He has overcome    </segment10>
+	</english>
+</song>

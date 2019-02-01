@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Can You Play Drums? </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>And this is what you can't explain. A need to take a long long trip on a train. And this is what you cannot say. I want to take a long long trip far away</segment1>
+		<segment2>I can't even talk. Just kick in the rock. I already know what we're going to play</segment2>
+		<segment3>I just want to take the flight. I need a drummer and I need one tonight. And this is what you cannot say. I want to take a long long trip far away</segment3>
+		<segment4>I can't even talk. Just kick in the rock. I already know what we're going to play    </segment4>
+	</english>
+</song>

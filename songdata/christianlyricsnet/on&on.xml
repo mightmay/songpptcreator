@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>On &amp; On </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Could you be my answer. Could you tell me that I am. The perfect one for you. You're the perfect one for me </segment1>
+		<segment2>Could you be too faithful. Could you show me anymore. It's the perfect thing to do. It's the perfect thing for me</segment2>
+		<segment3>On and on I see you. The life that comes together. To see that we're forever. On and on I see you. The times we've spent together. The times that last forever</segment3>
+		<segment4>And now we will find our way. It's the way that we'll find this day. And I know you belong to me</segment4>
+		<segment5>Could you lead me on    </segment5>
+	</english>
+</song>

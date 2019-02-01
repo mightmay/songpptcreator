@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Will You Remember Me </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>When you see the stars at night. Will you remember me. When you see the morning light. Will you remember me</segment1>
+		<segment2>For I spoke them into place. And they remember me. And I made you the same way. Will you remember me</segment2>
+		<segment3>La la la ..</segment3>
+		<segment4>For I spoke them into place. And they remember me. And I made you the same way. Will you remember me</segment4>
+		<segment5>(Instrumental)</segment5>
+		<segment6>Will you remember me. Will you remember me</segment6>
+		<segment7>When you see the stars at night. Will you remember me. When you see the morning light. Will you remember me</segment7>
+		<segment8>For I spoke them into place. And they remember me. And I made you the same way. Will you remember me. Will you remember me    </segment8>
+	</english>
+</song>

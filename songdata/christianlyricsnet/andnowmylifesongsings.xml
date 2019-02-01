@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>And Now My Lifesong Sings </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>I once was lost, but now I'm found. I once was lost, but now I'm found. So far away, but I'm home now. I once was lost, but now I'm found. And now my lifesong sings </segment1>
+		<segment2>I once was blind, but now I see. I once was blind, but now I see. I don't know how, but when He touched me. I once was blind, but now I see </segment2>
+		<segment3>And now my lifesong sings. And now my lifesong sings. And now my lifesong sings </segment3>
+		<segment4>I once was dead, but now I live. I once was dead, but now I live. Now my life to You I give. Now my life to You I give. Now my life to You I give </segment4>
+		<segment5>Hallelujah. Hallelujah. Let my lifesong sing to You. REPEAT 3x     </segment5>
+	</english>
+</song>

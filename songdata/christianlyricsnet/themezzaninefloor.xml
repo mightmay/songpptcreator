@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>The Mezzanine Floor </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>I'm on the mezzanine floor, Never been here before no no. It's a lonely place, But a house full of grace</segment1>
+		<segment2>And I'll get to heaven. Yes, I'll get to heaven</segment2>
+		<segment3>I'm at this bolted door, but I'm. Coming through without permission. If I go they say I'm wrong, If I stay there'll be no song</segment3>
+		<segment4>And I'll get to heaven. Yes, I'll get to heaven.     </segment4>
+	</english>
+</song>

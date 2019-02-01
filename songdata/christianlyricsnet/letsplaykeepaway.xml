@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Let's Play Keep Away </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Let's play keep away. Let's play keep away</segment1>
+		<segment2>It's been a long time. It hasn't been that long. Asking you to come back. Turned out wrong. I feel like a cheater, am I wrong?. I feel like a cheater</segment2>
+		<segment3>I cannot find out. How you'll turn out next. If you change your ways. Baby, that works best. I feel like a preacher, am I wrong?. I feel like a teacher, am I wrong?. Am I wrong?</segment3>
+		<segment4>Well, I know you're gonna change around me. Yeah, I know you're gonna change around me. Well, I know you're gonna change around me. Yeah, I know you're gonna change around me</segment4>
+		<segment5>Today I saw you. Tomorrow slap me sideways. Today I saw you. Tomorrow slap me sideways    </segment5>
+	</english>
+</song>

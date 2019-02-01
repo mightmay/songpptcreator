@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>God Is the King of All the Earth </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>VERSE. God is the king of all the earth, God is the king of all the earth. Sing to him a psalm of praise. God is the king of all the earth.</segment1>
+		<segment2>CHORUS. Sing, sing, sing, sing praises to God. Sing, sing, sing, sing praises to God. Sing, sing, sing, sing praises to our King. (sing, sing, sing to our king. </segment2>
+		<segment3>VERSE. For the kings of the earth belong to God, the kings of the earth belong to God. Sing to him a psalm of praise. The kings of the earth belong to God.</segment3>
+		<segment4>CHORUS. God is the king of all the earth, God is the king of all the earth. Sing to him a psalm of praise. God is the king of all the earth.    </segment4>
+	</english>
+</song>

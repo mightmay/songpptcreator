@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Boat Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>If you were a boat my darling a boat my darling Id be the wind at your back. If you were afraid my darling afraid my darling Id be the courage you lack. </segment1>
+		<segment2>If you were a bird then Id be a tree, and you would come home my darling to me. If you were asleep then Id be a dream, wherever you are thats where my heart will be. </segment2>
+		<segment3>oh do you know we belong together, oh do you know my heart is yours. </segment3>
+		<segment4>If you were the ocean then Id be the sand. If you were a song Id be the band. If you were the stars then Id be the moon. A light in the dark my darling for you. </segment4>
+		<segment5>oh do you know we belong together, oh do you know my heart is yours. </segment5>
+		<segment6>oh do you know we belong together, oh do you know my heart is yours. oh do you know we belong together, oh do you know my heart is yours.    </segment6>
+	</english>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Near The Cross </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12</order>
+	<english>
+		<segment1>Verse 1. Jesus keep me near the cross, there's a precious fountain;. free to all a healing stream, flows from Calvary's mountain.</segment1>
+		<segment2>Verse 2. Near the cross I watch and wait, hoping and trusting ever;. 'til I reach that golden strand, it's just beyond the river.</segment2>
+		<segment3>Chorus 1. In the cross, in the cross be my glory ever;. 'til my raptured soul shall find, one of these days I will find rest, rest beyond the river.</segment3>
+		<segment4>Chorus 2. In the cross, in the cross be my glory ever;. 'til my raptured, til my raptured soul shall find. rest beyond the river.</segment4>
+		<segment5>Vamp 1. He'll give me wonderful rest. He'll give me sanctified rest. He'll give me glorious rest. He'll give me everlasting rest.</segment5>
+		<segment6>Vamp 2. Rest, He'll give me rest.</segment6>
+		<segment7>Vamp 3. Rest, He'll give me rest. He'll give me wonderful rest.</segment7>
+		<segment8>Rest, He'll give me rest. He'll give me sanctified rest.</segment8>
+		<segment9>Rest, He'll give me rest. He'll give me glorious rest.</segment9>
+		<segment10>Rest, He'll give me rest. He'll give me everlasting rest.</segment10>
+		<segment11>Vamp 4. Rest (4x)</segment11>
+		<segment12>Ending. Rest beyond the river.    </segment12>
+	</english>
+</song>

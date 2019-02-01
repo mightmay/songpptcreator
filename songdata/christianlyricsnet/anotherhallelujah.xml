@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Another Hallelujah </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3</order>
+	<english>
+		<segment1>(verse 1). I love You Lord with all my heart. You've given me a brand new start. And I just want to sing this song to You. It goes like this the fourth the fifth. The minor fall the major lift. My heart and soul are praising. Hallelujah</segment1>
+		<segment2>(chorus). Hallelujah, hallelujah. Hallelujan, hallelujah</segment2>
+		<segment3>(verse 2). I know that You're the God above. You're filling me with grace and love. And I just want to say thank You to You. You pulled me from the miry clay. You've given me a brand new day. Now all that I can say is. Hallelujah    </segment3>
+	</english>
+</song>

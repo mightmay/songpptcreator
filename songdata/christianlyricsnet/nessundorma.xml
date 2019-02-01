@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Nessun Dorma </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Nessun dorma, nessun dorma. Tu pure, o, Principessa. Nella tua fredda stanza. Guardi le stelle. Che fremono d'amore. E di speranza</segment1>
+		<segment2>Ma il mio mistero e chiuso in me. Il nome mio nessun sapra. No, no, sulla tua bocca lo diro. Quando la luce splendera</segment2>
+		<segment3>Ed il mio bacio sciogliera il silenzio. Che ti fa mia</segment3>
+		<segment4>Il nome suo nessun sapra. E noi dovrem, ahime, morir</segment4>
+		<segment5>Dilegua, o notte. Tramontate, stelle. Tramontate, stelle. All'alba vincero. Vincero, vincero.     </segment5>
+	</english>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>4 Leaf Clover </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>We've been on the outside looking in before. We've lived on the inside with a closed locked door. We've slept in the corners of the open floor</segment1>
+		<segment2>We go round and round and round and round and round and round and round</segment2>
+		<segment3>[Chorus:]. There's no strength in a unicorn. No luck in a 4 Leaf Clover. There's no life unless it's born. And no death when it's over</segment3>
+		<segment4>We've listened with open ears yet closed our minds. We've loved without any tears from our own eyes. We've gone to the parties in our cheap disguise</segment4>
+		<segment5>We go round and round and round and round and round and round and round</segment5>
+		<segment6>[Chorus]</segment6>
+		<segment7>There's no strength in a unicorn. No luck in a 4 Leaf Clover. There's no life unless it's born. And no death when it's over</segment7>
+		<segment8>[Chorus]    </segment8>
+	</english>
+</song>

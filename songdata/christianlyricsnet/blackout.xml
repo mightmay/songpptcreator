@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Blackout </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10</order>
+	<english>
+		<segment1>I realize I missed a day. But I'm too wrecked to care anyway. I look around and see this face. What the hell have I lost my taste</segment1>
+		<segment2>Don't want to find out. Just want to cut out</segment2>
+		<segment3>My head explodes, my ears ring. I can't remember just where I've been. The last thing that I recall. I got lost in a deep black hole</segment3>
+		<segment4>Don't want to find out. Just want to cut out</segment4>
+		<segment5>Blackout. I really had a Blackout</segment5>
+		<segment6>I grab my things and make a run. On my way out, another one. Would like to know before I stop. Did I make it or did I flop</segment6>
+		<segment7>Don't want to find out. Just want to get out</segment7>
+		<segment8>Blackout. I really had a Blackout</segment8>
+		<segment9>Don't want to find out. Just want to get out</segment9>
+		<segment10>Blackout. I really had a Blackout    </segment10>
+	</english>
+</song>

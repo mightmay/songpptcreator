@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>J.E. Picturephone (Reflect You, I Connect You) </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>*Hello, I see you...*</segment1>
+		<segment2>I connect. We sort through discreet compartments. I connect. Buttons pop and click toward your requirements</segment2>
+		<segment3>Reflect you, I connect. Reflect you, I connect. Reflect you, I connect. I connect, I connect</segment3>
+		<segment4>I connect. We view graphs of distinct colors. I connect. Interlocked displays of interacting moderns</segment4>
+		<segment5>Reflect you, I connect. Reflect you, I connect. Reflect you, I connect. I connect, I connect</segment5>
+		<segment6>We stay friends through wire and cable. I connect. Pick up the reciever as all else fails     </segment6>
+	</english>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Waving Goodbye </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Life is short, it seems. Quick it comes how quick it leaves. We search for life in passing things</segment1>
+		<segment2>I see bits of you in me. I've got something you should see. I am poor in most everything. But I will get a crown of Kings</segment2>
+		<segment3>I don't know where you'll be. I hope it's with me in the sky. Looking down way below. Waving Goodbye</segment3>
+		<segment4>I watch the time with you pass. I wish so much that it would last. But if the thief comes here tonight. I hope to see you on the other side     </segment4>
+	</english>
+</song>

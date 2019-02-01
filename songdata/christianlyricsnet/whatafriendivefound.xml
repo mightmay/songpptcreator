@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>What A Friend I've Found </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3</order>
+	<english>
+		<segment1>What a friend I've found. Closer than a brother. I have felt your touch. More intimate than lovers</segment1>
+		<segment2>Jesus, Jesus. Jesus, friend forever</segment2>
+		<segment3>What a hope I've found. More faithful than a mother. It would break my heart. To ever lose each other    </segment3>
+	</english>
+</song>

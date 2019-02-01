@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Mercy Is Falling </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Mercy is falling, is falling, is falling. Mercy it falls like the sweet spring rain. Mercy is falling, is falling all over me. (repeat verse)</segment1>
+		<segment2>CHORUS. Hey, oh, I receive Your mercy. Hey, oh, I receive Your grace. Hey, oh, I will dance forevermore.</segment2>
+		<segment3>REPEAT VERSE</segment3>
+		<segment4>CHORUS. Hey, oh, I receive Your mercy. Hey, oh, I receive Your grace. Hey, oh, I will dance forevermore.</segment4>
+		<segment5>REPEAT CHORUS</segment5>
+		<segment6>BRIDGE. Hey, oh, I receive Your mercy. Hey, oh, I receive Your grace. (repeat bridge)</segment6>
+		<segment7>CHORUS. Hey, oh, I receive Your mercy. Hey, oh, I receive Your grace. Hey, oh, I will dance forevermore. Hey, oh, I receive Your mercy. Hey, oh, I receive Your grace. Hey, oh, I will dance forevermore, 'cause I will dance forevermore.    </segment7>
+	</english>
+</song>

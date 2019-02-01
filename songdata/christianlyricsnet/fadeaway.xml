@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Fade Away </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Hey, don't wanna run no more. Hey, must find an open door. Hey, ask him to step inside. Hey, I'm tired of this life</segment1>
+		<segment2>I don't wanna waste away. Like I saw myself fading yesterday. I don't wanna feel the shame. I don't wanna waste away. Like I saw myself fading yesterday. I don't wanna feel the pain. I don't wanna waste away</segment2>
+		<segment3>Hey, walk on but don't come forth. Hey, find what I lost before. Hey, must change the shape I'm in. Hey, never go back again</segment3>
+		<segment4>(CHORUS)</segment4>
+		<segment5>I'm coming to know. I'm coming to see you now (see you now). I'm coming to go. I'm coming to see you now, Believe you now</segment5>
+		<segment6>I don't wanna waste away, I don't wanna waste away</segment6>
+		<segment7>(CHORUS til end)     </segment7>
+	</english>
+</song>

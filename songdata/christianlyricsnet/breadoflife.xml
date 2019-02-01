@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Bread Of Life </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Bread of Life run through me. Fill my soul. Bread of life run through me. Make me whole</segment1>
+		<segment2>By Your stripes I am healed. By the thorns you wore. By the pain you suffered. By the blood you poured</segment2>
+		<segment3>Bread of Life run through me. Fill my soul. Bread of life run through me. Make me whole</segment3>
+		<segment4>By Your stripes I am healed. By the thorns you wore. By the pain you suffered. By the blood you poured</segment4>
+		<segment5>Bread of Life run through me. Fill my soul    </segment5>
+	</english>
+</song>

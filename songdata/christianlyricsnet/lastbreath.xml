@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Last Breath </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>I'm not here to reform you. Nor am I here to take you away. I've been sent with a message. And now moving off in a south-bound parade</segment1>
+		<segment2>(chorus). If this were my last breath. I tell you where I'll be. Then I'd ask you if you'd be there with me</segment2>
+		<segment3>Nobody knows how long you will be here. Still you hazard your faith. As my last day grows closer. I rest in the confidence I have been saved</segment3>
+		<segment4>(chorus 2x)</segment4>
+		<segment5>You don't know how long. And I don't know how long    </segment5>
+	</english>
+</song>

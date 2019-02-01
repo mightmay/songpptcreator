@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>He Will Carry Me </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>I call, You hear me. I've lost it all. And it's more than I can bear. I feel so empty</segment1>
+		<segment2>You're strong. I'm weary. I'm holdin' on. But I feel like givin' in. But still You're with me</segment2>
+		<segment3>Chorus: And even though I'm walkin' through. The valley of the shadow. I will hold tight to the hand of Him. Whose love will comfort me. And when all hope is gone. And I've been wounded in the battle. He is all the strength that I will. Ever need. And He will carry me</segment3>
+		<segment4>I know I'm broken. But You alone. Can mend this heart of mine. You're always with me</segment4>
+		<segment5>(Chorus)</segment5>
+		<segment6>And even though I feel so lonely. Like I've never been before. You never said it would be easy. But You said you'd see me through. The storm</segment6>
+		<segment7>(Chorus)    </segment7>
+	</english>
+</song>

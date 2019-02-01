@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I'm gonna make it </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12,segment13</order>
+	<english>
+		<segment1>Verse 1: Every step I make. I'm gonna make it (in the name of Jesus).</segment1>
+		<segment2>Every step I make. I'm gonna make it (in the name of Jesus).</segment2>
+		<segment3>Chorus: Because every round goes, it gets a little (higher, higher, higher ooh).</segment3>
+		<segment4>Verse 2: Every song I sing, I'm gonna sing it (in the name of Jesus).</segment4>
+		<segment5>Every song I sing, I'm gonna sing it (in the name of Jesus).</segment5>
+		<segment6>Chorus</segment6>
+		<segment7>Verse 3: Every prayer I pray, I'm gonna pray it (in the name of Jesus). </segment7>
+		<segment8>Every prayer I pray, I'm gonna pray it (in the name of Jesus). </segment8>
+		<segment9>Chorus:</segment9>
+		<segment10>Vamp 1: Gonna make it for Jesus, gonna make it for the Lord.</segment10>
+		<segment11>Gonna make it for Jesus, gonna make it for the Lord.</segment11>
+		<segment12>Vamp 2: I'm gonna make it, I'm gonna make it.</segment12>
+		<segment13>Chorus    </segment13>
+	</english>
+</song>

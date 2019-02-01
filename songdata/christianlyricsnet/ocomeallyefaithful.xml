@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>O Come All Ye Faithful </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>O come, All ye Faithful. O come, all ye faitful. Joyful and triumphant. Come all ye citizens of Bethlehem. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment1>
+		<segment2>Come and behold him. Born the King of Angels. Sing all ye citizens of Bethlehem. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment2>
+		<segment3>Sing choirs of angels. Sing in exultation. O sing all ye citizens of heaven above. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment3>
+		<segment4>Glory to God in the highest. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment4>
+		<segment5>Yea Lord we greet Thee. Born this happy morning. Jesus to Thee be all glory giving. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment5>
+		<segment6>Word of the Father. Now in flesh appearing. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord.    </segment6>
+	</english>
+</song>

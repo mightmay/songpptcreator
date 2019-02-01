@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Race </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Youve not seen the white smoke for years. It seems to me youve stripped out. Stripped out all your gears</segment1>
+		<segment2>You know it will whip you a bit. Dont know if you can handle it. But you can taste it, you taste the thrill. Come on come on just one more mile. You can make it if you will</segment2>
+		<segment3>[CHORUS]: I want to race, I wish youd race. I want to race you there. Step on out and step on in. To a race that never ends</segment3>
+		<segment4>Drop it out you know it drags you down. Rather turn your head to see a blurry crown. But then youve been here before. Its sounding better, better more and more</segment4>
+		<segment5>[CHORUS]</segment5>
+		<segment6>This thing, the call. Decision based on knowing. Youve joined the race. And know its got you goin. Bloodstream is pumping. One hundred miles an hour. Youre set, to go. You know its now or not at all</segment6>
+		<segment7>Lets get it started.     </segment7>
+	</english>
+</song>

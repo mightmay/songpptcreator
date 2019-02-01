@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Only Water </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>There's a shadow coming. As the sky goes black. It's a stubborn rain. On a Nebraska plain</segment1>
+		<segment2>There's a farmer standing. On a thirsty ground. He holds his breath. This is life or death. It's only water</segment2>
+		<segment3>And it washes over me. Like a single river stone. Changes everything. But has no power on its own. It's only water</segment3>
+		<segment4>There's a winding canyon. Where a mountain stood. Miles of earth and clay. Carried far away</segment4>
+		<segment5>But there's something holy. In these cathedral walls. They took a lot of years. And a lot of tears. It's only water</segment5>
+		<segment6>There once was a wedding. All the wine was gone. They said He's just a man. That's where it all began. It was only water    </segment6>
+	</english>
+</song>

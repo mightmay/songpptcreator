@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>No More Shows </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>When there's no heart. Yeah, I wanna live again. Can't delay it no, no more. No youve got no heart</segment1>
+		<segment2>I try to sleep but I think a lot. I'm driving streets that just never stop. When you know there's gonna be. When you know there's gonna be no more shows</segment2>
+		<segment3>When there's no goals. Yeah, I wanna live again. Can't delay it no, no more. No you've got no soul</segment3>
+		<segment4>I try to sleep but I think a lot. I'm driving streets that just never stop. When you know there's gonna be. When you know there's gonna be no more shows</segment4>
+		<segment5>I try to sleep but I think a lot. I'm driving streets that just never stop. When you know there's gonna be. When you know there's gonna be no more shows    </segment5>
+	</english>
+</song>

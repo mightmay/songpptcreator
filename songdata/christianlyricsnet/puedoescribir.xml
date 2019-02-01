@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Puedo Escribir </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>El viento de la noche gira en el cielo y canta. El vienot de la noche gira en el cielo</segment1>
+		<segment2>(The night wind revolves in the sky and sings. The night wind revolves in the sky.)</segment2>
+		<segment3>Oir la noche inmensa, mas inmensa sin ella. Y el verso cae al alma como al pasto el rocio.</segment3>
+		<segment4>(To hear the immense night, still more immense without her. And the verse falls to the soul like dew to the pasture.)</segment4>
+		<segment5>Tonight I can write the saddest lines. The saddest lines about her.    </segment5>
+	</english>
+</song>

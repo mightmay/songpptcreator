@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Will Bring You Home </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Though you are homeless. Though you're alone. I will be your home</segment1>
+		<segment2>Whatever's the matter. Whatever's been done. I will be your home</segment2>
+		<segment3>I will be your home. I will be your home. In this fearful fallen place. I will be your home</segment3>
+		<segment4>When time reaches fullness. When I move my hand. I will bring you home</segment4>
+		<segment5>Home to your own place. In a beautiful land. I will bring you home</segment5>
+		<segment6>I will bring you home. I will bring you home. From this fearful fallen place. I will bring you home. I will bring you home    </segment6>
+	</english>
+</song>

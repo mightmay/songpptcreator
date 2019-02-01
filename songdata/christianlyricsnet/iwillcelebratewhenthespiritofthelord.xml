@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Will Celebrate/When the Spirit of the Lord </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I will celebrate. Sing unto the Lord. I will sing to Him a new song. (repeat)</segment1>
+		<segment2>I will praise Him. I will sing to Him a new song. (repeat)</segment2>
+		<segment3>When the Spirit of the Lord moves in my heart. I will sing like David sang. (repeat)</segment3>
+		<segment4>I will sing. I will sing. I will sing like David sang. (repeat)</segment4>
+		<segment5>I will dance like David danced</segment5>
+		<segment6>I will pray like David prayed (slow)     </segment6>
+	</english>
+</song>

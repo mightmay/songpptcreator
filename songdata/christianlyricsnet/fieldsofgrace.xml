@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Fields Of Grace </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>There's a place that I love to run and play. There's a place that I sing new songs of praise</segment1>
+		<segment2>Dancin' with my Father God in fields of grace</segment2>
+		<segment3>There's a place that I lose myself within. There's a place that I find myself again</segment3>
+		<segment4>Dancin' with my Father God in fields of grace</segment4>
+		<segment5>There's a place where religion finally dies. There's a place that I lose my selfish pride</segment5>
+		<segment6>Dancin' with my Father God in fields of grace</segment6>
+		<segment7>I love my Father, my Father loves me. I dance for my Father, my Father sings over me</segment7>
+		<segment8>And nothing can take that away from me    </segment8>
+	</english>
+</song>

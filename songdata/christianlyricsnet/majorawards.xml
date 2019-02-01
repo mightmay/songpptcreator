@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Major Awards </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9</order>
+	<english>
+		<segment1>There's a big time coming. It's got me running out. When they all talk something. I still get nothing out</segment1>
+		<segment2>No major awards. Well that's not fair</segment2>
+		<segment3>There's a big time coming. I think I just ran out. Cause they all talk something. I still get nothing out</segment3>
+		<segment4>No major awards. Well that's not fair</segment4>
+		<segment5>Who cares about your what ifs?. We're music sheriffs. We've got nothing here</segment5>
+		<segment6>Who cares about your what ifs?. We're music sheriffs. I stab the bull, should stand still</segment6>
+		<segment7>Who cares about your what ifs?. We're music sheriffs. We've got nothing here</segment7>
+		<segment8>No major awards</segment8>
+		<segment9>There's a big time coming. I think the word is out    </segment9>
+	</english>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Psalm 23 </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3</order>
+	<english>
+		<segment1>(verse). The Lord is my shepherd. I shall not want. He makes me lie down. In green pastures. He leads me beside the still water. He restores my soul. Yes, He restores my soul</segment1>
+		<segment2>(chorus). Hallelujah, Holy Father. Hallelujah, Amen. Hallelujah, Holy Father. Hallelujah, to the end</segment2>
+		<segment3>(chorus). Even though I walk through the valley. of the shadow of death. I will fear no evil. For You are with me, Lord. Thy rod and thy staff comfort me. You comfort me    </segment3>
+	</english>
+</song>

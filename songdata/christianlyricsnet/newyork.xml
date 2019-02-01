@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>New York </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>One chance for singing. To lose ourselves in such a simple melody. One love worth saving. Is worth a million troubles if we make it.</segment1>
+		<segment2>[Chorus]. New York, can't find me. New York, New York</segment2>
+		<segment3>One life worth living. Could save us all or lose its way completely. It's allright, if it's OK. To find a little peace of mind and hope it stays</segment3>
+		<segment4>New York, has her timing. New York, New York</segment4>
+		<segment5>Empty ourselves in this city. Spend every wish on the way. It leaves you with nothing to swing from. But it's all right    </segment5>
+	</english>
+</song>

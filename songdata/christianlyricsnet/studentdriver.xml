@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Student Driver </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>Two hands on the wheel of my fate. Sweat running down my forehead. Cars passing me like we're in a race. I don't know what danger lies ahead</segment1>
+		<segment2>Cause I'm just a student driver. And I need your help to guide me. Cause on my own I'm nothing</segment2>
+		<segment3>Looks like the road ahead might be rough to take. Oh no, I've spun out of control. Good thing my passenger has a brake. And he knows exactly where to go</segment3>
+		<segment4>Cause I'm just a student driver. And I need your help to guide me. Cause on my own I'm nothing</segment4>
+		<segment5>Now my right wheel is wobbling off. And my stereo is blown. But because I'm a student driver. This car is not my own</segment5>
+		<segment6>Cause I'm just a student driver. And I need your help to guide me. Cause on my own I'm nothing</segment6>
+		<segment7>Cause I'm just a student driver. And I need your help to guide me. Cause on my own I'm nothing</segment7>
+		<segment8>Cause I'm just a student driver. And I need your help to guide me. Cause on my own I'm nothing    </segment8>
+	</english>
+</song>

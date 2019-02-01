@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Code Of The Road </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Just suppose this old car sputtered down the road. Just suppose this old car--It refused to go. Wouldn't you hope that someone would care enough to stop. And help you out. I'd like to think that someone would take the time to stop. And help you out</segment1>
+		<segment2>It's the code, it's the code it's the Code of the Road. It's the code, it's the Code of the Road. On the side of the road maybe you'd like to know. A Hand is there, a Hand that cares. It's the Code of the Road</segment2>
+		<segment3>Don't you know--everyone breaks down along the road. Don't you know--everybody hurts along the road. Wouldn't you hope that someone would care enough to stop. And help you out. I'd like to think that someone would care enough to stop. And help you out</segment3>
+		<segment4>In my weakness, Jesus cared enough to stop. And help me out.     </segment4>
+	</english>
+</song>

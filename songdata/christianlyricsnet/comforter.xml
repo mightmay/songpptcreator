@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Comforter </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>verse1: Faithful friend and father. I've called you through the years. You've been great physician when sickness lingered near. Through distressing moments your name is new and sweet. You've become comforter to me.</segment1>
+		<segment2>chorus: You are comforter that's who you are to me. Comforter a name that fits so perfectly. Peace that passes all understanding. Comforter is who you are to me.</segment2>
+		<segment3>verse2: To the grieving family who weeps for loved ones gone. The pain of separation consumes another home. On the waves of sorrow. You walk with perfect ease. Comforter is who the whole world needs.</segment3>
+		<segment4>repeat chorus: You are comforter that's who you are to me. Comforter a name that fits so perfectly. Peace that passes all understanding. Comforter is who you are to me</segment4>
+		<segment5>Hook: Peace giver, Life changer. Joy giver, Peace river. Waymaker, Life changer. Peace giver, Joy giver</segment5>
+		<segment6>Repeat chorus: You are comforter that's who you are to me. Comforter a name that fits so perfectly. Peace that passes all understanding. Comforter is who you are to me</segment6>
+		<segment7>repeat hook until end    </segment7>
+	</english>
+</song>

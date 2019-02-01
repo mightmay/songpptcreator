@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>California (Acoustic) </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10</order>
+	<english>
+		<segment1>I'm not falling for anymore of these tricks, I'm so tired of everything here, The sun is calling me to the west, Everyone's having fun out there, My bags are packed as I'm looking out the window, Everything is so outdated here, I wanna move west where the sun is shining, I want my friends to all be there,</segment1>
+		<segment2>[Chorus:]. Let's pack up and move to California, She's got lots of friends out there, We'll never get bored cause we can go boardin', Let's let the sunshine take us there,</segment2>
+		<segment3>I'm tired of taking it slow, So tired but I'm not sleeping, I'm wired about to pick up my board, Cause we're all headed out for the weekend,</segment3>
+		<segment4>Let's pack up and move to California, Hop on board before we get older, Raise your hand and shout for California</segment4>
+		<segment5>Come on, Come on, Come on, </segment5>
+		<segment6>[Chorus]</segment6>
+		<segment7>Come on, Come on, Come on, </segment7>
+		<segment8>[Chorus x2]</segment8>
+		<segment9>Let's pack up and move to California, Hop on board before we get older, Raise your hands we're headed for the border, </segment9>
+		<segment10>Come on, Come on, Come on     </segment10>
+	</english>
+</song>

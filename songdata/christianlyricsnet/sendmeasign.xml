@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Send Me a Sign </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10</order>
+	<english>
+		<segment1>Wake to the sound of amazing grace. Pull back the shades to a deep blue gray. Check the reflection and look to the sky. Weigh both sides and wonder why. You beg for peace you beg for the day. That you don't have to worry or wish things away. A thousand times the same old song. Stuck between right and wrong but I'm holding on</segment1>
+		<segment2>CHORUS 1: Just send me a sign. Send a reason to this rhyme. Just send me a sign. Help me read between the lines</segment2>
+		<segment3>I've walked in the light, I've walked in the dark. Put things together and fallen apart. Still one thought in my mind rings clear. There's got to be more to these voices that I hear</segment3>
+		<segment4>CHORUS 1</segment4>
+		<segment5>CHORUS 2: Send a signal. Send a sign. Send a reason to this rhyme. A ray of light. A shooting star. Just let me know You are</segment5>
+		<segment6>I know you are..</segment6>
+		<segment7>Send a signal. Send a sign. Send a reason to this rhyme. A ray of light. A shooting star</segment7>
+		<segment8>CHORUS 1</segment8>
+		<segment9>CHORUS 2</segment9>
+		<segment10>Just let me know you are     </segment10>
+	</english>
+</song>

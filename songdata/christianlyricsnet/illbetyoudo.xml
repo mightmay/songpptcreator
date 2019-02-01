@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I'll Bet You Do </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>You want some of this?. Some of me, some of you. You want some of this. Yeah Yeah I'll bet you do</segment1>
+		<segment2>How are you supposed to know. When you're talking numbers. If you would only let it go. Maybe you could lose your #'s</segment2>
+		<segment3>It may be way too late. But not for too much longer. You wanted some of this. But you're so far from done.</segment3>
+		<segment4>How are you supposed to know. When you're fooling everyone. If you would only let it go. Maybe you could lose your #'s</segment4>
+		<segment5>How are you supposed to know (x4)    </segment5>
+	</english>
+</song>

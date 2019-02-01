@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Like David </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9</order>
+	<english>
+		<segment1>{Verse 1}. Lord you are faithful in all you're ways. Lord you are loving every day. Just to have you're presence is so great. Lord you're word I will obey</segment1>
+		<segment2>{Chorus}. Like David I'll dance. Write a song if I can ya, ya. Like Noah I'll obey. Though it seems theres no way. I'll praise you anyway</segment2>
+		<segment3>{Verse 2}. Oh Lord of my salvation. I was headed down the road of destruction. But I've been redemmed through you're son jesus. and forever I'll receive you're instuctions</segment3>
+		<segment4>{Chorus} (2x)</segment4>
+		<segment5>{Bridge} (4x). Lord You are holy. Lord you are worthy. In you're eyes I want to be pleasing </segment5>
+		<segment6>(repeat this entire section 2x). Ya, ya(4x). I will make a joyful noise. Ya, Ya (2x)</segment6>
+		<segment7>And with a praise on my lips and your. word in my heart, I know you'll never depart.</segment7>
+		<segment8>(repeat this entire section 2x). HA-LE-LU-JAH!(2X). I will make a joyful noise. HA-LE-LU-JAH</segment8>
+		<segment9>And with a praise on my lips and your. word in my heart, I know you'll never depart, because you love me that much and i'll never understand that great love and your touch keeps me warm i know it's you that puts me through.(END)    </segment9>
+	</english>
+</song>

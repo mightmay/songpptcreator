@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Country Western Star </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I wish that I was Floyd Cramer. I'd pound out a country song. A cowboy, his keyboard. A Country Western Star</segment1>
+		<segment2>That's not where I belong. No that's not where I belong. Just a sad, sad song. Would be so wrong</segment2>
+		<segment3>I think that singin' is great. The melody is in place. But I can't play guitar</segment3>
+		<segment4>Be a country star. Be a country star. I could never be a country star. And leave without a trace</segment4>
+		<segment5>You dreamed you met Merle Haggard. A country superstar. You shared the stage of Farm Aid. And dreamed of going far</segment5>
+		<segment6>Is that where you belong. Ask God where you belong. In the end will they say. &quot;He just sang country songs?&quot;.     </segment6>
+	</english>
+</song>

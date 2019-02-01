@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>We're At The Top Of The World (To The Simple Two) </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>~Verse 1: We're at the top of the world, you and I. We've got alot of time and it sure feels right. Cause you reached in your pocket. And pulled out a pass, says you can take me anywhere. </segment1>
+		<segment2>Sha la la la sha la la la sha la la la la la la (x3). Sha la la la sha la la la la la la </segment2>
+		<segment3>~Verse 2: We're on the top of the world, here tonight. We've got alot of time and it sure feels right. Cause I'm up here running behind you. I'm up here running in repeat.</segment3>
+		<segment4>Sha la la la sha la la la sha la la la la la la (x4)</segment4>
+		<segment5>~Were at the top of the world, you and I. We've got a lot of time and it sure feels right. cause. You reached in your pocket and pulled out a pass.. You can take me AnywheEeEere</segment5>
+		<segment6>You can take me anywhere (x4)</segment6>
+		<segment7>Sha la la la sha la la la sha la la la la la la (x6). Yeah yeah yeah yeah you can take me anywhere (x4). Sha la la la, sha la la la la la la.     </segment7>
+	</english>
+</song>

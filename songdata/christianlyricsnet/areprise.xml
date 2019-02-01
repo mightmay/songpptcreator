@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>A Reprise </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11</order>
+	<english>
+		<segment1>In my life. Be lifted high</segment1>
+		<segment2>In our world. Be lifted high</segment2>
+		<segment3>In our love. Be lifted high. ---------------. In my life. Be lifted high</segment3>
+		<segment4>In our world. Be lifted high</segment4>
+		<segment5>In our love. Be lifted high. [High Yeah High Yeah]</segment5>
+		<segment6>In my life. Be lifted high</segment6>
+		<segment7>In our world. Be lifted high</segment7>
+		<segment8>In our love. Be lifted high. [Be Lifted Be Lifted High]</segment8>
+		<segment9>In my life. Be lifted high</segment9>
+		<segment10>In our world. Be lifted high</segment10>
+		<segment11>In our love. Be lifted high    </segment11>
+	</english>
+</song>

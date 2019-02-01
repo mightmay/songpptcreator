@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Lord, I Lift Your Name on High </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>(Verse). Lord, I lift Your name on high. Lord, I love to sing Your praises. I'm so glad You're in my life. I'm so glad You came to save us</segment1>
+		<segment2>(Chorus). You came from heaven to earth. To show the way. From the earth to the cross. My debt to pay. From the cross to the grave. From the grave to the sky. Lord, I lift Your name on high</segment2>
+		<segment3>Repeat Verse</segment3>
+		<segment4>Repeat Chorus</segment4>
+		<segment5>Repeat Chorus</segment5>
+		<segment6>Lord, I lift Your name on high..     </segment6>
+	</english>
+</song>

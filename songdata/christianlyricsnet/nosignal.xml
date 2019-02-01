@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>No Signal </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I'm on Flight 92, stuck on this runway. Waiting for a storm to pass before we take. Off, I just wanna get home, Lord. I'm gettin' no signal on my cellular phone</segment1>
+		<segment2>I got my wife and my kids waitin' for their daddy. At the baggage claim, Lord, I miss my family. I just wanna get home, Lord. I'm gettin' no signal on my cellular phone</segment2>
+		<segment3>I just want to wake up, talk to the morning sun. Kiss my Mandy on the cheek, grab some breakfast and run. I love my family, Lord, bless my family. Please tell my family I'll be home soon</segment3>
+		<segment4>I love my kids, y'know they love their dad. And I'm with them no matter where they're at. So they know I love my family, Lord, bless my family. Please tell my family I'll be home soon</segment4>
+		<segment5>I'm on Flight 92, stuck on this runway. Waiting for a storm to pass before we take. Off, I just wanna get home, Lord. I'm gettin' no signal on my cellular phone </segment5>
+		<segment6>    </segment6>
+	</english>
+</song>

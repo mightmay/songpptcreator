@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Thank You For Hearing Me </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Thank you for loving me. Thank you for loving me. Thank you for loving me. Thank you for loving me</segment1>
+		<segment2>Thank you for finding me. Thank you for finding me. Thank you for finding me. Thank you for finding me</segment2>
+		<segment3>Thank you for hearing me. Thank you for hearing me. Thank you for hearing me. Thank you for hearing me</segment3>
+		<segment4>Thank you for healing me. Thank you for healing me. Thank you for healing me. Thank you for healing me</segment4>
+		<segment5>La la la la la la. La la la la la la. La la la la la la. La la la la la la</segment5>
+		<segment6>Thank you for loving me. Thank you for loving me. Thank you for loving me. Thank you for loving me</segment6>
+		<segment7>Thank you for saving me. Thank you for saving me. Thank you for saving me. Thank you for saving me..     </segment7>
+	</english>
+</song>

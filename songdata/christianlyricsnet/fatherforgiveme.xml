@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Father Forgive Me </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>Can I take you back to see my old days?. When I walked alone, With my flesh and bone. Can I take you back to see my old ways?. Life so cruel, I played the fool</segment1>
+		<segment2>Father forgive me (2x)</segment2>
+		<segment3>I've lost my way. I've been lead astray. I've walked this path so many times (2x)</segment3>
+		<segment4>Can I take you back to see my old face?. Beaten and bruised, Used and abused. Can I take you back to see my old heart?. So full of hate, Blood contaminate</segment4>
+		<segment5>Father forgive me (2x)</segment5>
+		<segment6>I've lost my way. I've been lead astray. I've walked this path so many times (2x)</segment6>
+		<segment7>I'm never alone. I'm coming back (I'm coming back). I'm never alone (4x)</segment7>
+		<segment8>(in full effect)    </segment8>
+	</english>
+</song>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>O Come, O Come, Emmanuel </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>O Come, O Come, Emmanuel. And ransom captive Israel. That mourns in lonely exile here. Until the son of God appears</segment1>
+		<segment2>Rejoice, Rejoice, Emmanuel. Shall come to thee, O Israel!</segment2>
+		<segment3>O come, Thou Rod of Jesse, free. Thine own from Satan's tyranny. From depths of hell Thy people save. And give them victory over the grave</segment3>
+		<segment4>Rejoice, Rejoice, Emmanuel. Shall come to thee, O Israel!</segment4>
+		<segment5>O come, Desire of nations, bind. In one the hearts of all mankind. Bid Thou our sad divisions cease, And be Thyself our king of peace</segment5>
+		<segment6>Rejoice, Rejoice, Emmanuel. Shall come to thee, O Israel!</segment6>
+		<segment7>So Rejoice, Rejoice, Emmanuel. Has come to thee, O Israel!. Has come to thee, O Israel!. Israel!     </segment7>
+	</english>
+</song>

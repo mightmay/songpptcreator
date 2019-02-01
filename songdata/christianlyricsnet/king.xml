@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>King </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Today I've finally found. A melody that fits. A melody that fits. Today I've finally found. A song that I can sing. A song that I can sing </segment1>
+		<segment2>You are my king. You are my king. I bow down before you. And crown you the king of all kings. Forever I'll sing. Forever I'll sing. I'll sing of your mercy. And how I have been set free. All set free </segment2>
+		<segment3>The rulers of the earth. Will bow before your throne. Will bow before your throne. The nations you have made. Will worship you alone. Will worship you alone </segment3>
+		<segment4>You are my king. You are my king. I bow down before you. And crown you the king of all kings. Forever I'll sing. Forever I'll sing. I'll sing of your mercy. And how by your love I'm set free. I'm set free. I'm set free </segment4>
+		<segment5>All set free. All set free. All set free </segment5>
+		<segment6>You are my king. You are my king. I bow down before you. Cause you are the king of kings. Forever I'll sing. Forever I'll sing. I'll sing of your mercy. And how by your love I'm set free. I'm set free. I'm set free    </segment6>
+	</english>
+</song>

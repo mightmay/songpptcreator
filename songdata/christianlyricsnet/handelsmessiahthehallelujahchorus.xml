@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Handel's Messiah (The Hallelujah Chorus) </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3</order>
+	<english>
+		<segment1>Hallelujah, Hallelujah, Hallelujah Hallelujah Hallelujah [3x]</segment1>
+		<segment2>For the Lord God omnipotent reigneth. Hallelujah Hallelujah Hallelujah Hallelujah [2x]</segment2>
+		<segment3>For the Lord God omnipotent reigneth [3x]. Hallelujah    </segment3>
+	</english>
+</song>

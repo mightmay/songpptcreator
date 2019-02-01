@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I'm All In </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12,segment13,segment14,segment15,segment16,segment17,segment18,segment19,segment20,segment21,segment22,segment23,segment24</order>
+	<english>
+		<segment1>There is a fire that burns inside of me</segment1>
+		<segment2>There is a flood rushing from my heart</segment2>
+		<segment3>There is a song that I have got to sing</segment3>
+		<segment4>I'm alive and this just the start</segment4>
+		<segment5/>
+		<segment6>I'm all in, I'm all in</segment6>
+		<segment7>Your love is overwhelming</segment7>
+		<segment8>I'm all in, I'm all in</segment8>
+		<segment9>You are all consuming</segment9>
+		<segment10/>
+		<segment11>You are the peace that lives inside of me</segment11>
+		<segment12>You are the joy filling up my heart</segment12>
+		<segment13>You are the love that makes me wanna sing</segment13>
+		<segment14>I'm alive and this is just the start</segment14>
+		<segment15/>
+		<segment16>I'm all in, I'm all in</segment16>
+		<segment17>Your love is overwhelming</segment17>
+		<segment18>I'm all in, I'm all in</segment18>
+		<segment19>You are all consuming</segment19>
+		<segment20/>
+		<segment21>Lord, I give You everything</segment21>
+		<segment22>I give You part of me</segment22>
+		<segment23>Lord, I give You everything</segment23>
+		<segment24>I give it all for Your glory    </segment24>
+	</english>
+</song>

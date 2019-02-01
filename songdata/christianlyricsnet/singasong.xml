@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sing A Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I want to sing a song for You, Lord. Lord, for You I want to sing a song. And I want to lift my voice to Heaven. And listen to the angels sing along</segment1>
+		<segment2>A song of Your faithfulness. A song of Your grace. And of Your loving kindness. To the glory of Your name. With everything that's in me, Lord. Listen to me say. I want to sing a song for You. I want to sing a song</segment2>
+		<segment3>I want to live my life for You, Lord. Lord, for You I want to live my life. I want to praise the name of Jesus. Pray above all things You're glorified</segment3>
+		<segment4>And I sing about Your mercy. And I sing about Your love. Your goodness, Lord. Your righteousness. I want to sing. .</segment4>
+		<segment5>And we'll sing holy, holy, holy. We'll sing holy, holy, holy. We'll shout holy, holy. Are You Lord almighty</segment5>
+		<segment6>Yes, You are Lord    </segment6>
+	</english>
+</song>

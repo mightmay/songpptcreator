@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>God Of This City </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>You're the God of this city. You're the King of these people. You're Lord Of this nation. You are</segment1>
+		<segment2>You're hope for the hopeless. You're light in the darkness. You're peace to the restless. You are</segment2>
+		<segment3>there is no one like our God. there is no one like our God</segment3>
+		<segment4>The greater things have yet to come. the greater things are still to be done in this city. The greater things have yet to come. The greater things are still to be done in this city</segment4>
+		<segment5>There is no one like our God. There is no one like our God    </segment5>
+	</english>
+</song>

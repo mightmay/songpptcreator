@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Good Old Times </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>is this the first part. or is it coming back. to the worst part. it's a matter of fact. it's bad this time. why can't you figure it out. it's dead this time. it's all worn out </segment1>
+		<segment2>whatever happened to the good old times. whatever happened to the days we left behind. whatever happened to the good old times. can't we replace the times when we fell behind </segment2>
+		<segment3>it's the fall of your heart. when youre wearing the crown. we all played a part. in tearing it down </segment3>
+		<segment4>it's bad this time. why cant you figure it out. it's dead this time. it's all worn out </segment4>
+		<segment5>whatever happened to the good old times. whatever happened to the days we left behind. whatever happened to the good old times. can't we replace the times when we fell behind </segment5>
+		<segment6>whatever happened to the. whatever happened to the </segment6>
+		<segment7>whatever happened to the good old times. whatever happened to the days we left behind. whatever happened to the good old times. can't we replace the times when we fell behind. whatever happened</segment7>
+		<segment8>.     </segment8>
+	</english>
+</song>

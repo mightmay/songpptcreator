@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>The House </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>I shut all my windows. They protect me from the storm. Im alone but I wait for someone. One who keeps the lights on. One who keeps the house warm </segment1>
+		<segment2>I feel a swaying rhythm. If we get swept to sea Ill be happy. Its all we wish for now. I wish youd keep the lights down. I wish youd keep the house warm </segment2>
+		<segment3>We have enough we can handle it. If we dont make I will fall apart. All is in vain for us. </segment3>
+		<segment4>I think we can make it now. I think that we can make it. I wish youd keep the lights down. I wish youd keep the house warm    </segment4>
+	</english>
+</song>

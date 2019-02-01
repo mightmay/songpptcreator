@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Radio </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12</order>
+	<english>
+		<segment1>Youre on the radio</segment1>
+		<segment2>In my favourite song</segment2>
+		<segment3>I can hear You everywhere I go</segment3>
+		<segment4>Dont need a photograph</segment4>
+		<segment5>To show me who You are</segment5>
+		<segment6>I can see You all around.                 . Youre my everything.         . And everything I have comes from You.  . I dont want what this world has.                            . When one day in Your house is better still</segment6>
+		<segment7>Youre in the car I drive</segment7>
+		<segment8>You walk the streets outside</segment8>
+		<segment9>I can see You everywhere I go</segment9>
+		<segment10>At the furthest star</segment10>
+		<segment11>Closest to my heart</segment11>
+		<segment12>I can feel You all around    </segment12>
+	</english>
+</song>

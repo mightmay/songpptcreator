@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>This Is Love </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>Is this love. or something to think of?</segment1>
+		<segment2>We fool ourselves for comfort, we're swayed by every wind. And if this isn't true love, then we can just pretend. But what is love?</segment2>
+		<segment3>This is love. that you would die for me.</segment3>
+		<segment4>Is this real, or something to feel?</segment4>
+		<segment5>Confused by our emotions, confused by what we see. We trade in our patience, for false security. But is this love?</segment5>
+		<segment6>This is love, that you would die for me.</segment6>
+		<segment7>When I'm falling down, you save me.</segment7>
+		<segment8>This is how I know what love is.    </segment8>
+	</english>
+</song>

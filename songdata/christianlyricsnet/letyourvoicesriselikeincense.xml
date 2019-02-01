@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Let Your Voices Rise Like Incense </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>(Verse). Let our voices rise like incense. Let them be as sweet perfume. Let our praises fill the temple. Hallelujah's ringing ever new</segment1>
+		<segment2>(Chorus). Holy, Holy. Is the Lord Almighty. Holy, Holy. Is the Lord our God</segment2>
+		<segment3>Repeat Verse</segment3>
+		<segment4>Repeat Chorus</segment4>
+		<segment5>Holy, Holy. Is the Lord our God     </segment5>
+	</english>
+</song>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sometimes A Beggar </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>vs1. Words will ride upon the wind. Like the leaves dance in the fall. Forever gone and back again. There can be no greater call</segment1>
+		<segment2>ch. Take the time, think it through. Walk in wise but leave a fool. And it can betray. Sometimes a beggar has more to say</segment2>
+		<segment3>vs2. An angel sang with her sweet voice. A siren song from heaven. To entice a man who had no choice. For he too was fallen</segment3>
+		<segment4>ch. Take the time, think it through. Thirty coins can bury you. And it can betray. Sometimes a beggar has more to say</segment4>
+		<segment5>vs3. You can search for what to say. Or you can let it come to you. It doesnt matter either way. As long as you can speak the truth</segment5>
+		<segment6>ch. Take the time, think it through. Walk in wise but leave a fool. Take the time, think it through. Thirty coins can bury you. And it can betray. Sometimes a beggar has more to say    </segment6>
+	</english>
+</song>

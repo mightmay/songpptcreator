@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>You're Powerful </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9</order>
+	<english>
+		<segment1>[Chorus:]. You're powerful. You're unshakable. You're powerful. You're unshakable. </segment1>
+		<segment2>You wreck me. You rule me. You turn me upside down (ya know). Your glory. pervades me. You conquer without a sound. </segment2>
+		<segment3>[CHORUS] </segment3>
+		<segment4>You shake me. You break me. You make me whole again (ya know). Your nature, unchanging. All fails, but You remain. </segment4>
+		<segment5>[CHORUS] </segment5>
+		<segment6>And when the ground begins to shake, and when my courage starts to fade, I let my fears go. </segment6>
+		<segment7>When You. breathe, the lifeless rise up. Invade me. with violence. and heal me. </segment7>
+		<segment8>[CHORUS (repeat)]. You're mighty. You're the ultimate powerful. </segment8>
+		<segment9>    </segment9>
+	</english>
+</song>

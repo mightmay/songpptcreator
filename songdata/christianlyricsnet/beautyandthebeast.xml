@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Beauty and the Beast </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Tale as old as time. True as it can be. Barely even friends. Then somebody bends. Unexpectedly</segment1>
+		<segment2>Just a little change (oh, oh). Small, to say the least. Both a little scared. Neither one prepared. Beauty and the Beast</segment2>
+		<segment3>Ever just the same (In your eyes, am I beautiful?). Ever a surprise (Love like this is a miracle). Ever as before. Ever just as sure. As the sun will rise</segment3>
+		<segment4>Tale as old as time. Tune as old as song. Bittersweet and strange. Finding you can change. Learning you were wrong</segment4>
+		<segment5>Certain as the sun (oh, oh). Rising in the east. Tale as old as time. Song as old as rhyme. Beauty and the Beast </segment5>
+		<segment6>Ever just the same (In your eyes, am I beautiful?). Ever a surprise (Love like this is a miracle). Ever as before. Ever just as sure. As the sun will rise</segment6>
+		<segment7>Certain as the sun (oh, oh). Rising in the east. Tale as old as time. Song as old as rhyme. Beauty and the Beast.     </segment7>
+	</english>
+</song>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Morning Has Broken </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Morning has broken. Morning has broken. Morning, morning, morning has broken.</segment1>
+		<segment2>Morning has broken like the first morning. Blackbird has spoken like the first bird. Praise for the singing, praise for the morning, praise for them springing fresh from the world.</segment2>
+		<segment3>Sweet the rain's new fall sunlit from heaven like the first dew fall on the first grass.</segment3>
+		<segment4>Praise for the sweetness of the wet garden sprung in completeness where his feet pass.</segment4>
+		<segment5>Alleluia. Alleluia. Alleluia, alleluia. Mine is the sunlight, mine is the morning born of the one light Eden saw play. Praise with elation, praise ev'ry morning God's recreation of the new day, God's recreation of the new day.    </segment5>
+	</english>
+</song>

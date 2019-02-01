@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>When I Learn To Sing </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Because a machine. Could burn the life out of me. Not the same when I try. It's just a bad lullaby</segment1>
+		<segment2>When I learn to sing. I'll change the key of everything. When I learn to read. I'll change my ways on everything</segment2>
+		<segment3>You know the worries. Just the things I sing about me. Not the same when I try. It's just a bad lullaby</segment3>
+		<segment4>When I learn to sing. I'll change the key of everything. When I learn to read. I'll change my ways on everything    </segment4>
+	</english>
+</song>

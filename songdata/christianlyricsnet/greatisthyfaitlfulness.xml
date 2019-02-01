@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Great Is Thy Faitlfulness </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Great is Thy faithfulness, O God my Father;. There is no shadow of turning with Thee;. Thou changest not, Thy compassions, they fail not;. As Thou hast been, Thou forever will be.</segment1>
+		<segment2>Refrain</segment2>
+		<segment3>Great is Thy faithfulness!. Great is Thy faithfulness!. Morning by morning new mercies I see. All I have needed Thy hand hath provided;. Great is Thy faithfulness, Lord, unto me!</segment3>
+		<segment4>Summer and winter and springtime and harvest, Sun, moon and stars in their courses above. Join with all nature in manifold witness. To Thy great faithfulness, mercy and love.</segment4>
+		<segment5>Refrain</segment5>
+		<segment6>Pardon for sin and a peace that endureth. Thine own dear presence to cheer and to guide;. Strength for today and bright hope for tomorrow, Blessings all mine, with ten thousand beside!</segment6>
+		<segment7>Refrain     </segment7>
+	</english>
+</song>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Great Escape </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Escaping to nowhere, nowhere. You run and find that you are nowhere. Circles in your paths. Streets are empty</segment1>
+		<segment2>You'll find chaotic voices. In your head guiding false. You'll never seem to find your way. Streets dark and empty</segment2>
+		<segment3>Nowhere to trot to. Thoughts of fear in your mind. All alone, nowhere to go. You turn on the radio. To escape your thoughts</segment3>
+		<segment4>Nothing seems to make sense. 'Cause everything is gray. And you'll never find your way. Lost in you own dismay</segment4>
+		<segment5>Running around with your head chopped off. You only last a few seconds. 'Cause you're not. You're not, you're not    </segment5>
+	</english>
+</song>

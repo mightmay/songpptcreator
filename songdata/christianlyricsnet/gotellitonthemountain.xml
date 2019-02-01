@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Go Tell It On The Mountain </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Chorus: Go tell it on the mountain. Over the hills and everywhere. Go tell it on the mountain. That Jesus Christ is born</segment1>
+		<segment2>The shepherds all were watching. Over the sheep at night. When a guiding star shone from heaven. And they followed that holy light</segment2>
+		<segment3>Chorus </segment3>
+		<segment4>They found a lowly manger. Where the humble Christ was born. And God sent us salvation. On that blessed Christmas morn</segment4>
+		<segment5>Chorus</segment5>
+		<segment6>He brought with Him forgiveness. He lived to show us the way. He came to redeem all creation. And to wash all our sins away</segment6>
+		<segment7>Chorus    </segment7>
+	</english>
+</song>

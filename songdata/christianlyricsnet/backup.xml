@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Back Up </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I hear the words you say to me. I see the way you look at me. I know what's on your mind so. Stand up get up back up now. Just stay away</segment1>
+		<segment2>I know the fear you hold inside. I know what's weighing on your mind. There's nothing you can do so. Stand up get up back up</segment2>
+		<segment3>You're reaching out just to be like me. But you've fallen short. Still you're following me. You had the chance to bring me down. But there's nothing left. So just stay away from me</segment3>
+		<segment4>You can't stand to see my face. To know you'll never take my place. There's nothing you can do but. Stand up get up back up now. Just stay away</segment4>
+		<segment5>I feel the hate you push on me. I see the things that you can't see. I know what's on your mind so. Stand up get up back up</segment5>
+		<segment6>It's not the things you say to me. It's not the things that I believe. You try to bring me down. So stand up get up back up now. Just stay away    </segment6>
+	</english>
+</song>

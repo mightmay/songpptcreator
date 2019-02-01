@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Alive </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Your whisper wakens me. I hear You. You enlighten me. I see You. I'm breathing out. Life's changing now</segment1>
+		<segment2>I'm alive. I feel on top of the world. I'm alive. Everything is real to me now</segment2>
+		<segment3>Incredible to be. So near You. A rush of energy. I feel You. I'm breathing out. Life's changing now</segment3>
+		<segment4>My eyes open. I am mystified. Everything is beautiful.     </segment4>
+	</english>
+</song>

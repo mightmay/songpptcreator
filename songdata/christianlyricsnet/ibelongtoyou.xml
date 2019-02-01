@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Belong To You </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9</order>
+	<english>
+		<segment1>Chorus 1</segment1>
+		<segment2>You caught my soul when I was struggling to breathe. You made me whole and now Your majesty I see. I belong to You. I belong to You</segment2>
+		<segment3>Verse 1</segment3>
+		<segment4>You light my way everyday. You help me see what I can be. I cry to You my spirit song. Come use my life for You alone</segment4>
+		<segment5>Verse 2</segment5>
+		<segment6>I hear Your voice it leads me on. Into Your arms where I belong. I cry to You my spirit song. Come use my life for You alone</segment6>
+		<segment7>Misc 1</segment7>
+		<segment8>(BRIDGE)</segment8>
+		<segment9>I know You're ev'rything. You're all I'll ever need. I know You're ev'rything to me. (REPEAT 4X)    </segment9>
+	</english>
+</song>

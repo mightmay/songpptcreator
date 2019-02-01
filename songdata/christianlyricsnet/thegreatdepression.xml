@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>The Great Depression </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>We are the sons and daughters of a revolution. Revolutionaries walking us out of oppression and into a no-law promised land. Where there is no right or wrong</segment1>
+		<segment2>And this leaves us with a great sense of sadness growing inside our soul. No one can explain where it's coming from. Or where it's taking us</segment2>
+		<segment3>We just know that something is lost</segment3>
+		<segment4>That somehow we are lost</segment4>
+		<segment5>And this, my friend, is the great depression    </segment5>
+	</english>
+</song>

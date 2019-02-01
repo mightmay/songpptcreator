@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Birmingham (We Are Safe) </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>(Verse). Your love is relentless. And I'm glad for it, I'm glad for it. Your love is relentless. I am glad</segment1>
+		<segment2>Your love is relentless. And if not for it, if not for it. I'd perish for sure. If not for it</segment2>
+		<segment3>(Pre-Chorus). Savior for the faithful. We're in the hands of God</segment3>
+		<segment4>(Chorus). Love has come. And we are safe. Hope has come. And we are safe</segment4>
+		<segment5>(Bridge). We're in the hands of God, yea.. We're in the hands of God, yea..</segment5>
+		<segment6>Copyright © David Crowder     </segment6>
+	</english>
+</song>

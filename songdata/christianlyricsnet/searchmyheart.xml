@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Search My Heart </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>[Verse 1:]. Search my heart. And search my soul. There is nothing else. That I want more</segment1>
+		<segment2>[Verse 2:]. Shine Your light. And show Your face. In my life. Lord have Your way</segment2>
+		<segment3>[Verse 3:]. Hear my cry. And hear my prayer. Draw me close. I know your near</segment3>
+		<segment4>[Verse 4:]. Give me strength. And give me grace. To walk with You. Lord, all my days</segment4>
+		<segment5>[Chorus 1:]. So with all my heart and all my soul. With all I am, Lord, I will follow You</segment5>
+		<segment6>[Chorus 2:]. You took the cross, You took my shame. Restored my life, now I live to worship You</segment6>
+		<segment7>[Bridge:]. Without You I am nothing. Without You I am nothing. Without You I am nothing     </segment7>
+	</english>
+</song>

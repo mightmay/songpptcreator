@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>It Is Well </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>When peace like a river. Attendeth my way. When sorrows like the sea billows roll</segment1>
+		<segment2>Whatever my lot. Thou hast taught me to say. It is well. It is well with my soul</segment2>
+		<segment3>(Chorus). It is well. With my soul. It is well. It is well with my soul</segment3>
+		<segment4>My sin, oh, the bliss of this glorious thought!. My sin, not in part but the whole, yeah. Is nailed to the cross, and I bear it no more, Praise the Lord, praise the Lord, O my soul!</segment4>
+		<segment5>(Chorus)</segment5>
+		<segment6>And Lord, haste the day when my faith shall be saved. The clouds be rolled back as a scroll. The trumphed shall resound. And the Lord shall descend even so. It is well with my soul</segment6>
+		<segment7>Chorus)    </segment7>
+	</english>
+</song>

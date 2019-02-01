@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Drive </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10</order>
+	<english>
+		<segment1>I don't mean to pry. But I'm seeing signs I can't ignore</segment1>
+		<segment2>You've been holding something deep inside. And I can't keep quiet anymore</segment2>
+		<segment3>Of the urgency, I'm well aware. I'll take you anywhere. If you're dissatisfied</segment3>
+		<segment4>(Chorus:). Let's just drive. Take a deep breath and I swear. Everything will be alright. Let's just drive. Until it gets us somewhere. Even if it takes all night. Let's just drive</segment4>
+		<segment5>I know you thought we were the same. We're two different kinds</segment5>
+		<segment6>I've been following a narrow lane. You follow yours where it winds. Now it's time to get in gear</segment6>
+		<segment7>I'll take you far from here. If you're dissatisfied</segment7>
+		<segment8>(Repeat Chorus)</segment8>
+		<segment9>(Bridge:). Let's just roll, away tonight. Let's just roll away until we get it right. Let's just drive</segment9>
+		<segment10>(Repeat Chorus)    </segment10>
+	</english>
+</song>

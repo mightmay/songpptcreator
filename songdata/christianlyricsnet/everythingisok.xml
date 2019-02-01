@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Everything Is OK </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>I've been staring at the same wall for days. Ask me if I'm okay, I just may. I've been standing in the same spot for hours. I'll send you some flowers. You'll feel the same </segment1>
+		<segment2>No need to wake me I'm not sleeping. There's one thing I have to say </segment2>
+		<segment3>You're the one that took my breath away. You're the one that took my breath away. You're the one that took the time to ask if. Everything's okay. </segment3>
+		<segment4>I remember the times we don't belong. You'd sing us one more song. We'll go on </segment4>
+		<segment5>I remember the times we'd quit. I was tired of all of it. Nothing seemed to fit </segment5>
+		<segment6>No need to wake me I'm not sleeping. There's one thing I have to say </segment6>
+		<segment7>You're the one that took my breath away. You're the one that took my breath away. You're the one that took the time to ask if. Everything's okay.     </segment7>
+	</english>
+</song>

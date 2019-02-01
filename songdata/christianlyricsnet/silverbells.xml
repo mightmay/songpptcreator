@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Silver Bells </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>City sidewalks, busy sidewalks. Dressed in holiday style. In the air. There's a feeling of Christmas</segment1>
+		<segment2>Children laughing. People passing. Meeting smile after smile. And on ev'ry street corner you'll hear</segment2>
+		<segment3>Silver bells, silver bells. It's Christmas time in the city. Ring-a-ling, hear them ring. Soon it will be Christmas day</segment3>
+		<segment4>Strings of street lights. Even stop lights. Blink a bright red and green. As the shoppers rush home with their treasures</segment4>
+		<segment5>Hear the snow crunch. See the kids bunch. This is Santa's big scene. And above all this bustle. You'll hear</segment5>
+		<segment6>Silver bells, silver bells. It's Christmas time in the city. Ring-a-ling, hear them ring. Soon it will be Christmas day.     </segment6>
+	</english>
+</song>

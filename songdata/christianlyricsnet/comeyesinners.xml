@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Come Ye Sinners </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>Come ye sinners, poor and needy. Weak and wounded, sick and sore. Jesus ready stands to save you. Full of pity, love, and power</segment1>
+		<segment2>Come ye thirsty, come and welcome. God's free bounty glorify. True belief and true repentance. Every grace that brings you nigh</segment2>
+		<segment3>Chorus: I will arise and go to Jesus. He will embrace me in His arms. In the arms of my dear Savior. Oh, there are ten thousand charms</segment3>
+		<segment4>Come ye weary, heavy-laden. Lost and ruined by the fall. If you tarry until you're better. You will never come at all</segment4>
+		<segment5>Chorus</segment5>
+		<segment6>Instrumental</segment6>
+		<segment7>Chorus</segment7>
+		<segment8>Chorus    </segment8>
+	</english>
+</song>

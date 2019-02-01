@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Foreign Language </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>boys speak in rhythm, and girls in code. tell it to me straight, give it to me now. face forward, face forward</segment1>
+		<segment2>you're speaking foreign language (nothing I can translate). you're speaking foreign language (nothing I can dictate). you're speaking foreign language (nothing I can translate). you're speaking foreign language</segment2>
+		<segment3>boys speak in rhythm, and girls just lie. tell me how you feel, come out of the dark. and we can head back home and I'll know where to start</segment3>
+		<segment4>you're speaking foreign language (nothing I can translate). you're speaking foreign language (nothing I can dictate). you're speaking foreign language (nothing I can translate). you're speaking foreign language</segment4>
+		<segment5>where did we go wrong. we need medication for this miscommunication. where did we wrong. our conversations weaken</segment5>
+		<segment6>boys speak in rhythm and girls in code. boys speak in rhythm and girls just lie    </segment6>
+	</english>
+</song>

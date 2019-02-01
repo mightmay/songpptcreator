@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Rollercoaster </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>What is going on?. Living on this rollercoaster. Up and down, Twisting, turning, brusing, burning.</segment1>
+		<segment2>Speak to me, Tell me all the things I want to hear. Show me all the things I love so dear. So speak.</segment2>
+		<segment3>Here I'm spinning on, Living on this merry-go-round. Off the ground, Crying, flying, nauseating.</segment3>
+		<segment4>And I would take it all again, If it means I get you. I would sing this song again, I'll let you.    </segment4>
+	</english>
+</song>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sonicflood </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>I will give you all my worship. I will give you all my praise. You alone I long to worship. You alone are worthy of my praise</segment1>
+		<segment2>I will worship (echo). With all of my heart (echo). I will praise you(echo). With all of my strength (all my strength)</segment2>
+		<segment3>I will bow down (echo). And hail You as king (echo). I will love You (echo). Give You everything (everything)</segment3>
+		<segment4>(repeat with trust instead of love)</segment4>
+		<segment5>Sing to You a new song from our hearts. Straight to You. From our Hearts to Yours</segment5>
+		<segment6>We worship Jesus. We love You Father. We worship Jesus. We love You Father. repeat</segment6>
+		<segment7>(I wanna give I wanna give You all the praise x5)    </segment7>
+	</english>
+</song>

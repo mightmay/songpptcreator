@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Brighten My Heart </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>My heart is as dark as the soil sodden with winter rains. My soul is as heavy as the peat freshly dug from the bog. My thoughts swirl like willow branches caught in autumn winds. My body as tense as a cat's as it stalks its prey.</segment1>
+		<segment2>Chorus: Help me open my heart to You, Help me open my heart to You, Help me open my heart to You, oh Jesus. It's what I long to do.</segment2>
+		<segment3>My heart is as dark as the soil sodden with winter rains. (Lord, brighten my heart). My soul is as heavy as the peat freshly dug from the bog. (Lord, lighten my soul). My thoughts swirl like willow branches caught in autumn winds. (Lord, still my thoughts). My body as tense as a cat's as it stalks its prey. (Lord relax my body)</segment3>
+		<segment4>(repeat chorus)    </segment4>
+	</english>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sometimes </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Scientists predicted it would die out on its own. Analysts decreed that its affects were overblown. Skeptics conjured theories to account for the unknown. But it's been around a while, It'll be here when they're gone</segment1>
+		<segment2>Sometimes It's a window. Sometimes it's a wall. Sometimes it's a place where people shatter when they fall. Sometimes it's a River. Sometimes it's a flood. Sometimes it's a place where people drown and come back up</segment2>
+		<segment3>Scholars wrote it off as just an odd coincidence. Weathermen were puzzled by the nature of events. Philosophers were driven to an incoherent tangle. Spin doctors and hockers couldn't seem to find anangle</segment3>
+		<segment4>Everything depends on how you answer when you get that call. Will it be your window or will it be your wall.     </segment4>
+	</english>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Cry for You </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>Day after day my heart beats for You. Wanting You near beside me always </segment1>
+		<segment2>Lord I won't fear as long as You're here. In my life I need You always </segment2>
+		<segment3>I cry for You to heal me forgive me. I cry for You to save me to know me more </segment3>
+		<segment4>Day after day my eyes long to see You. Show me Your face and hold me close in Your arms </segment4>
+		<segment5>I cry for You to heal me forgive me. I cry for You to love me to know me more </segment5>
+		<segment6>I cry for You to heal me forgive me. I cry for You to save me to know me more </segment6>
+		<segment7>I cry for You to heal me to save me. And I cry for You to love me forgive me </segment7>
+		<segment8>I cry for You to hear me to save me. I love You be near me    </segment8>
+	</english>
+</song>

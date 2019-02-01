@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Journey Home </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12,segment13</order>
+	<english>
+		<segment1>Sometimes I feel like I'm falling, sometimes I feel higher than the stars</segment1>
+		<segment2>Sometimes I can hear You calling, sometimes I feel lost.</segment2>
+		<segment3>But then I lift my eyes up, I see where I belong</segment3>
+		<segment4>Sometimes I feel weighed down by this treasure, when I think of all You've done just. for me</segment4>
+		<segment5>Sometimes there's so much to discover, sometimes I see the cost</segment5>
+		<segment6>But when I lift my eyes up, I see where I belong</segment6>
+		<segment7>Life is just a journey home, then I will be with You</segment7>
+		<segment8>Life is just a journey home, when I will rest with You</segment8>
+		<segment9>Life is just a way back home</segment9>
+		<segment10>To be with You</segment10>
+		<segment11>Oh, what a perfect day it'll be</segment11>
+		<segment12>No more tears, no misery</segment12>
+		<segment13>Life is a journey    </segment13>
+	</english>
+</song>

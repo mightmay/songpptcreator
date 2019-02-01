@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sundown </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Your bet is lost. You're fading slow. Sundown, the dark has laid you low</segment1>
+		<segment2>A rite to save your own. A rite to save your soul. A rite to save your own. The blackness fiend will take you on</segment2>
+		<segment3>Sundown</segment3>
+		<segment4>Your slipping heart. A gray shadow. Sundown, the dark has laid you low</segment4>
+		<segment5>A rite to save your own. A rite to save your soul. A rite to save your own. The blackness fiend will take you on</segment5>
+		<segment6>Sundown.     </segment6>
+	</english>
+</song>

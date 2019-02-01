@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Might Have Ben Hur </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Everything I know. Tells me she's everything. That I could hope for. Everything I know. Tells me I can't let her walk away </segment1>
+		<segment2>I took my time to find the words. I hope she'd feel the same </segment2>
+		<segment3>'Cause I want someone to share my smile. To share the pain. To be there when the sea turns gray. To share the joy. For better or worse </segment3>
+		<segment4>{chorus}: And I thought that it might have been her. I thought that it might have been her </segment4>
+		<segment5>Wonder if she knows. The way I saw her soul. Light up my life. Wonder if she knows. of the pain I feel tonight    </segment5>
+	</english>
+</song>

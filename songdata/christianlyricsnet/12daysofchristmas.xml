@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>12 Days Of Christmas </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12,segment13,segment14</order>
+	<english>
+		<segment1>On the first day of christmas. my true love gave to me. a Partridge in a Pear Tree</segment1>
+		<segment2>On the second day of Christmas, My true love gave to me, Two Turtle Doves, And a Partridge in a Pear Tree.</segment2>
+		<segment3>On the third day of Christmas, My true love gave to me, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree</segment3>
+		<segment4>On the fourth day of Christmas, My true love gave to me, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.</segment4>
+		<segment5>On the fifth day of Christmas, My true love gave to me, Five Golden Rings, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.</segment5>
+		<segment6>whats a partridge?. and whats a pear tree?. I don't know so please don't ask me. But I can bet those are terrible gifts to get.</segment6>
+		<segment7>On the sixth day of Christmas, My true love gave to me, Six Geese-a-Laying, Five Golden Rings, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.</segment7>
+		<segment8>On the seventh day of Christmas, My true love gave to me, Seven Swans-a-Swimming, Six Geese-a-Laying, Five Golden Rings, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.</segment8>
+		<segment9>On the eighth day of Christmas, My true love gave to me, Eight Maids-a-Milking, Seven Swans-a-Swimming, Six Geese-a-Laying, Five Golden Rings, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.</segment9>
+		<segment10>On the ninth day of Christmas, My true love gave to me, Nine Ladies Dancing, Eight Maids-a-Milking, Seven Swans-a-Swimming, Six Geese-a-Laying, ohhh, awww-e-awww, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.</segment10>
+		<segment11>whats a partridge?. and whats a pear tree?. I don't know so please don't ask me. But I can bet those are terrible gifts to get.</segment11>
+		<segment12>On the tenth day of Christmas, My true love gave to me, Ten Lords-a-Leaping, Nine Ladies Dancing, Eight Maids-a-Milking, Seven Swans-a-Swimming, Six Geese-a-Laying, Five Golden Rings, Four. Three French. Two Doves, And a Partridge in a Pear Tree.</segment12>
+		<segment13>On the eleventh day of Christmas, My true love gave to me, Eleven Pipers Piping, Ten Lords-a-Leaping, Nine Ladies Dancing, Eight Maids-a-Milking, Seven Swans-a-Swimming, Six Geese-a-Laying, Five Golden Rings, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.</segment13>
+		<segment14>On the twelvth day of Christmas, My true love gave to me, Twelve Drummers Drumming, Eleven Pipers Piping, Ten Lords-a-Leaping, Nine Ladies Dancing, Eight Maids-a-Milking, Seven Swans-a-Swimming, Six Geese-a-Laying, Five Golden Rings, Four Calling Birds, Three French Hens, Two Turtle Doves, And a Partridge in a Pear Tree.    </segment14>
+	</english>
+</song>

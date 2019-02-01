@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Every Nation </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Every nation, every kindred. Every tribe, every tongue</segment1>
+		<segment2>Every nation, every kindred. Every tribe, every tongue</segment2>
+		<segment3>Every nation, every people. Every tribe, every tongue</segment3>
+		<segment4>Every nation, Every nation</segment4>
+		<segment5>Every nation, every kindred. Every tribe, every tongue. Will be there    </segment5>
+	</english>
+</song>

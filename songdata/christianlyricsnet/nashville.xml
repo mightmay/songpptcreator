@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Nashville </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>I haven't seen you in a thousand sunsets. Haven't heard your voice in what feels like years. Haven't seen your face since we went separate ways. But I'm glad that I found you here</segment1>
+		<segment2>Last I heard you'd moved to Nashville. Chasing that dream like so many do. Last I heard you'd found a bad deal. But you know I still believe in you</segment2>
+		<segment3>And I know it sounds crazy cause it's been so long. But you're standing here before me and I can't move on. Without knowing you're surviving that you'll be ok. No I never stopped singing your name</segment3>
+		<segment4>Downtown you see the lights are blinding. They caught your eye and made you lose your way. I'm here to tell you that you can't keep hiding. You cannot outrun the arms of grace     </segment4>
+	</english>
+</song>

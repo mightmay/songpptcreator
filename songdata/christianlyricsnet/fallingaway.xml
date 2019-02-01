@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>falling away </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>Oh star fall down on me. Let me make a wish upon you. Hold on, let me think. Think of what I'm wishing for</segment1>
+		<segment2>Wait, don't go away. Just not yet. Cause I thought, I had it. But I forget.</segment2>
+		<segment3>And I won't let you fall away, From me. You will never fade. And I won't let you fall away. From me. You will never fade away from me.</segment3>
+		<segment4>And now I let my dreams consume me, And tell me what to think. But hold on, Hold on. What am I dreaming?</segment4>
+		<segment5>Wait, don't go away. Just not yet. Cause I thought, That I had it. But I forget.</segment5>
+		<segment6>And I won't let you fall away, From me. You will never fade away. I won't let you fall away. You will never fade away.</segment6>
+		<segment7>And I won't let you fall away. You will never fade away. And I won't let you fall away from me, You will never fade..</segment7>
+		<segment8>Oh star fall down on me.    </segment8>
+	</english>
+</song>

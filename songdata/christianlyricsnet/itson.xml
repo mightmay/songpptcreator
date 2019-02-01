@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>It's On </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9</order>
+	<english>
+		<segment1>It all comes down to this. You take your best shot, might miss. You take it anyway. You're gonna make your move today. Got the will, you'll find the way. To change the world some day. Grab this moment before it's gone. Today's your day</segment1>
+		<segment2>It's on and on. It's on and on. It's on and on. Today's your day. So c'mon bring it on. It's on and on. It's on and on. It's on and on. Today's your day. So c'mon bring it on</segment2>
+		<segment3>And the view will never change. Unless you decide to change it. Don't feel like it today. Just show up anyways. And though life will take you down. It only matters if you let it. Get up, go through, press on. Today's your day</segment3>
+		<segment4>Chorus</segment4>
+		<segment5>(echo) Bring it on</segment5>
+		<segment6>And though you want to quit. Don't think you can get through it. You've come to far to walk away. It's not gonna be today. And no matter how you feel. It's what you do that matters. This is your moment to be strong. Today's your day</segment6>
+		<segment7>Chorus</segment7>
+		<segment8>And no matter how you feel. It's what you do that matters. It's your moment to be strong. Today's your day</segment8>
+		<segment9>Chorus    </segment9>
+	</english>
+</song>

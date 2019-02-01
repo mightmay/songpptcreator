@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Sad Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>There's always music in my mind. Orchestrations for my life. Oh this symphony sometimes. Plays like a sad song, sad song. September morning on my couch. Trembling hand across my mouth. Watching life go down in flames. I sang a sad song, sad song</segment1>
+		<segment2>Chorus: Can you hear the old broken melody. Blowing through the trees of Eden. Out across the heart of all humanity. Such a sad song, sad song</segment2>
+		<segment3>Now the sun sets on the sands. Bombs like rain spill over man. While orphans made of flags and steel. Cry out a sad song, sad song. . Repeat Chorus</segment3>
+		<segment4>I can see the Man of Sorrows through this pain. Broken body, bloodied face. He's crying out and making way. To end our sad song, sad song     </segment4>
+	</english>
+</song>

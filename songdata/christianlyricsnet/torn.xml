@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Torn </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>It's excruciating. I know you need to know where we stand. Is there harm in waiting?. Is this my only chance to take your hand?</segment1>
+		<segment2>(Chorus:). I'm torn in two. By what I should. Or should not do. Torn, torn in two. Will you wait for me. If I run from you</segment2>
+		<segment3>I really must confess. It feels like there's a war in me. I'm drawn to those who offer less. But is this really where I need to be?</segment3>
+		<segment4>(Repeat Chorus)</segment4>
+		<segment5>(Bridge:). Over this I'm loosing rest. I can't bear to turn away. If I try a second guess. Oh, I gamble it away. I'm torn</segment5>
+		<segment6>(Repeat Chorus)    </segment6>
+	</english>
+</song>

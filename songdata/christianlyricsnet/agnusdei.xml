@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Agnus Dei </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>. You are holy. Hallelujah. Hallelujah. For the Lord almighty reigns</segment1>
+		<segment2>Hallelujah. Hallelujah. For the Lord God Almighty reigns. Hallelujah. Hallelujah. For the Lord God Almighty reigns</segment2>
+		<segment3>Holy, holy. Are you Lord God Almighty. Worthy is the lamb. Worthy is the lamb. For you are holy, holy. Are you Lord God Almighty. Worthy is the lamb. Worthy is the lamb. Amen</segment3>
+		<segment4>Hallelujah. You are holy. Holy and lifted high. Hallelujah. You are holy. Holy and lifted high     </segment4>
+	</english>
+</song>

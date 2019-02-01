@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>New Drug </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10</order>
+	<english>
+		<segment1>(Ready for take off)</segment1>
+		<segment2>Breath!</segment2>
+		<segment3>I want it, I need it, I taste it, I breathe it, It fuels my aggression, And fuels all my questions. I cannot conceal it, it hits me, I feel it, It kills me, I bleed it, now I believe it</segment3>
+		<segment4>I, I want it, I, I need it, I, I breathe it, You are the New Drug, I, I want You, I, I need You, I, believe You, You are the New Drug</segment4>
+		<segment5>Vs 2. I want it, I need it, I trust it, I breathe it, It fuels my aggression, And fuels all my questions. I cannot conceal it, it drives me, I feel it, It fills me, I need it, now I believe it</segment5>
+		<segment6>I want to let it go</segment6>
+		<segment7>I, I want it, I, I need it, I, I breathe it, You are the New Drug, I, I want You, I, I need You, I, believe You, You are the New Drug</segment7>
+		<segment8>Breakdown. Don't hold your breathe (X4). Breathe</segment8>
+		<segment9>I, I want it, I, I need it, I, I breathe it, You are the New Drug, I, I want You, I, I need You, I, believe You, You are the New Drug</segment9>
+		<segment10>I want it, I need it, I breathe it. You are the New Drug. I want it, I need it, I bleed it, You are the New Drug    </segment10>
+	</english>
+</song>

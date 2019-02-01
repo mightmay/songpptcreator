@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Wire </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Turn on the spotlight, strike up the band. Everyone's looking my way. They came to see the excitement firsthand. And hear all that I've got to say</segment1>
+		<segment2>Oh, it makes me wonder. What if I slip, will they catch me. Or watch me fall?</segment2>
+		<segment3>I am walking on a wire. I tiptoe in through the fire. Never looking down to see that. I am walking on a wire. The pressure's getting higher. But I don't look around</segment3>
+		<segment4>Everyone roots for the winner. The others well maybe next time. Your time at the top only lasts fifteen minutes. Then they just leave you behind</segment4>
+		<segment5>Oh, it makes me wonder. What if I slip, will they catch me. Or watch me fall?</segment5>
+		<segment6>I am walking on a wire. I tiptoe in through the fire. Never looking down to see that. I am walking on a wire. The pressure's getting higher. But I don't look around. It's so far to the ground.     </segment6>
+	</english>
+</song>

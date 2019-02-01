@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Santa Claus Is Coming To Town </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Oh! You better watch out. You better not cry. You better not pout. I'm telling you why. Santa Claus is coming to town</segment1>
+		<segment2>He's making a list. Checking it twice. Gonna find out who's naughty or nice. Santa Claus is coming to town!</segment2>
+		<segment3>He sees you when you're sleeping. He knows when you're awake. He knows if you've been bad or good. So be good for goodness sake</segment3>
+		<segment4>Oh! You better watch out. You better not cry. You better not pout. I'm telling you why. Santa Claus is coming to town!    </segment4>
+	</english>
+</song>

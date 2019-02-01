@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Amazing Grace </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9</order>
+	<english>
+		<segment1>Amazing grace, how sweet the sound. That saved a wretch like me. I once was lost, but now I'm found. Was blind but now I see </segment1>
+		<segment2>Amazing grace, how sweet the sound. That saved a wretch like me. I once was lost, but now I'm found. Was blind but now I see </segment2>
+		<segment3>(Chorus). Because your love came down. Your love came down. Your love came down. And it saved, it saved me</segment3>
+		<segment4>. Through many dangers, toils and snares. I have already come. 'Twas grace that brought me safe this far. And grace will lead me home </segment4>
+		<segment5>(Chorus)</segment5>
+		<segment6>(Chorus 2). Cause your love came down. And you turned me around. And your love came down. And it saved me, it saved me</segment6>
+		<segment7>When we've been there ten thousand years. Bright-shining as the sun. We've no less days to sing God's praise. Than when we first begun</segment7>
+		<segment8>(Chorus). (Chorus 2). (Chorus). (Chorus 2)</segment8>
+		<segment9>Thanks to KJM for these lyrics.     </segment9>
+	</english>
+</song>

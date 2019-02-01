@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Here With You </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Verse 1: You bring the sunshine that brightens up my day, You hold the key that fits my heart. I'll never worry, I'll cast on You all of my cares, as the future unfolds, I know You'll be there.</segment1>
+		<segment2>Chorus: So I want to spend tomorrow here with You, there's no one else beside You, who can love me the way You do. </segment2>
+		<segment3>No one else knows my future. or cares for me like You do, so I want to spend my tomorrows right here with You.</segment3>
+		<segment4>Verse 2: You make me happy, You bring me joy, Your love's the light that lights my way. With You beside me I can conquer everything, I can face anything as long as You're here.</segment4>
+		<segment5>Chorus</segment5>
+		<segment6>Bridge: The road before me is filled with winding turns. I need Your light to guide my way, I won't last one day, I won't last one day, I won't last one day with out You.</segment6>
+		<segment7>Chorus    </segment7>
+	</english>
+</song>

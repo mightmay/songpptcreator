@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Will Give Thanks to The Lord </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>I will give thanks to the lord. With all my heart. I wil tell of all thy wonders. I will be glad and exult in thee</segment1>
+		<segment2>I will trust in you my god. Who delivered me. And lifted me from the gates of death. I will be glad and exult in thee</segment2>
+		<segment3>I will give thanks to the lord. With all my heart. I will tell of all thy wonders. I will be glad and exult in thee</segment3>
+		<segment4>I will tell of all thy wonders. I will be glad and exult in thee    </segment4>
+	</english>
+</song>

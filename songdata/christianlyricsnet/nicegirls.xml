@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Nice Girls </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Nice girls are out there. With quick wit and long hair. I'm here but she's there. I look but she stares</segment1>
+		<segment2>Send me one</segment2>
+		<segment3>Nice boys are in bands. They can sing but can't dance. I try to impress but. She laughs at my dress</segment3>
+		<segment4>Send me one</segment4>
+		<segment5>This song will soon end and. Time's up to pretend. What will be my fate. If I can't land this date</segment5>
+		<segment6>Send me one     </segment6>
+	</english>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Long Highway </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Verse 1: Drive into the unknown; we don't say a word turn up the radio. Miles of silent conversations, searching through the stations, we sink into the road. We just drive when it's not ok. We just drive accelerate..</segment1>
+		<segment2>Chorus: Down this long highway we'll find a way. On this long highway to say the things that we've been so afraid to say. We'll find our way through lies and pain, it'll be ok.</segment2>
+		<segment3>Verse 2: Headlights shine on the street signs. Watch them passing by reflections in your eyes. Hearts broken by the distance, love turned to resistance leaves me so alone. We just drive when it's not ok. We just drive accelerate..</segment3>
+		<segment4>Bridge: And we'll hold each other strong, as we weather through the storms. Even though the road is long, we'll drive all night just to make our way back home. Down this long highway..    </segment4>
+	</english>
+</song>

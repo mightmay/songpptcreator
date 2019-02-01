@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Deck The Halls </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2</order>
+	<english>
+		<segment1>Deck the halls with bought of holly. Fa la la la la, la la la la. Tis the season to be jolly. Fa la la la la, la la la la</segment1>
+		<segment2>Don we now our gay apparel. Fa la la la la, la la la la. Troll the ancient youletide carol, Fa la la la la, la la la la    </segment2>
+	</english>
+</song>

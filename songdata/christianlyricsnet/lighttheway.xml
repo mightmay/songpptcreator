@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Light The Way </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9,segment10,segment11,segment12,segment13,segment14,segment15,segment16,segment17,segment18,segment19,segment20,segment21,segment22,segment23,segment24,segment25,segment26,segment27,segment28,segment29</order>
+	<english>
+		<segment1>When we're lost inside the darkness</segment1>
+		<segment2>Afraid of what the future holds</segment2>
+		<segment3>You have promised not to leave us</segment3>
+		<segment4>You will never let us go</segment4>
+		<segment5>(So now)</segment5>
+		<segment6/>
+		<segment7>When I can't see my next step</segment7>
+		<segment8>Your love will light the way</segment8>
+		<segment9>When the path I'm on is all but gone</segment9>
+		<segment10>Your love will light the way</segment10>
+		<segment11/>
+		<segment12>We're out there searching for tomorrow</segment12>
+		<segment13>And barely hanging on today</segment13>
+		<segment14>And though we're overcome with questions</segment14>
+		<segment15>You have answered us with faith</segment15>
+		<segment16>(So now)</segment16>
+		<segment17/>
+		<segment18>When I can't see my next step</segment18>
+		<segment19>Your love will light the way</segment19>
+		<segment20>When the path I'm on is all but gone</segment20>
+		<segment21>Your love will light the way</segment21>
+		<segment22/>
+		<segment23>Your ways are higher</segment23>
+		<segment24>Your ways are greater</segment24>
+		<segment25>Your ways are not our own</segment25>
+		<segment26>Your ways are higher</segment26>
+		<segment27>Your ways are greater</segment27>
+		<segment28>Your ways will lead us home</segment28>
+		<segment29>Your way will lead me home    </segment29>
+	</english>
+</song>

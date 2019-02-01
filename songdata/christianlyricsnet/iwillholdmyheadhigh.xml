@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Will Hold My Head High </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Sometimes the night starts closing in. And I've lost my way home again. I'm running out of places I can turn. Enemies on every side. Not a friend around for miles. That's the time it really starts to hurt</segment1>
+		<segment2>Beat me up and drag me down. I'll never be afraid</segment2>
+		<segment3>I will hold my head high. Lift my hands to the sky. Rise above all who try to bring me down. I will hold my head high</segment3>
+		<segment4>I know you said it'd be okay. Sometimes I question just the same. I wonder if my problems are too small. Then I look back and realize. All your pain and sacrifice. Oh and how you suffered for us all</segment4>
+		<segment5>Beat me up and drag me down. I'll never be afraid</segment5>
+		<segment6>Beat me up and drag me down. And lock me in or keep me out. Whatever they may throw at me. I'll turn into a song for you.     </segment6>
+	</english>
+</song>

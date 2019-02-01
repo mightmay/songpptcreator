@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>A Kissing Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>let me take my life by the sewer side. a slip of the rails while I could've held</segment1>
+		<segment2>the pressure's on. a kissing song. well that'd make all my dreams</segment2>
+		<segment3>let me take the ride just to leave them all. I slip through the cracks while I could've held</segment3>
+		<segment4>the pressure's on. a kissing song. well that'd make all my dreams    </segment4>
+	</english>
+</song>

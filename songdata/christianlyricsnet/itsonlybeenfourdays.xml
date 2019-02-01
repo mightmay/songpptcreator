@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>It's Only Been Four Days </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>- verse 1 -. Im all alone, longing to see you. Cause this airport gray has got me blue. I want to go home. Cause these West Texas plains are far too plain a view. Compared to you.</segment1>
+		<segment2>- chorus -. Youd be a sight for my sore eyes.</segment2>
+		<segment3>- verse 2 -. Im all alone, longing to see you smile. But my heart knows as time slows, itll be a while. I watch the clock, and the minutes feel like days. So if my watch is right, then my flights still months away.</segment3>
+		<segment4>- chorus -</segment4>
+		<segment5>- bridge -. And theres an aching in my eyes, because they need to feel your gaze. They just dont realize its only been four days</segment5>
+		<segment6>- chorus -.     </segment6>
+	</english>
+</song>

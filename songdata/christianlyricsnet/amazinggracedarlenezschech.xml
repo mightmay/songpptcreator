@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Amazing Grace - Darlene Zschech </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Amazing grace! how sweet the sound. That saved a wretch like me!. I once was lost, but now am found. Was blind but now I see. </segment1>
+		<segment2>'Twas grace that taught my heart to fear. And grace my fears relieved: How precious did that grace appear. The hour I first believed! </segment2>
+		<segment3>Through many dangers, toils and snares. I have already come;. 'Tis grace has brought me safe thus far, And grace will lead me home.</segment3>
+		<segment4>The Lord has promised good to me. His word my hope secures;. He will my sheild and portion be. As long as life endures. </segment4>
+		<segment5>Yes, when this flesh and heart shall fail, And mortal life shall cease, I shall possess within the veil. A life of joy and peace. </segment5>
+		<segment6>When I've been there ten thousand years, Bright shining as the sun, I've no less days to sing God's praise. Than when I first begun.    </segment6>
+	</english>
+</song>

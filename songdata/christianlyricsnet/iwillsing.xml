@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Will Sing </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>Verse 1: I will sing. I will sing. I will sing. I will sing. Of His goodness. And His kindness. And His mercy. I will sing (Repeat)</segment1>
+		<segment2>Chorus: Holy,holy. Glory to the Lamb. Singing Praises to the awesome God. Ever I will sing</segment2>
+		<segment3>Verse 2: Let us sing. Let us sing. Let us sing. Let us sing. Of His goodness. And His kindness. And His mercy. Let us sing</segment3>
+		<segment4>Chorus: Holy,holy. Glory to the Lamb. Singing Praises to the awesome God. Ever I will sing</segment4>
+		<segment5>Verse 3: We will sing. We will sing. We will sing. We will sing. Of His goodness. And His kindness. And His mercy. We will sing</segment5>
+		<segment6>Chorus: Holy,holy. Glory to the Lamb. Singing Praises to the awesome God. Ever I will sing</segment6>
+		<segment7>Vamp: Sing His praises in the morning. Brand new mercy every dawning. Melody, harmony. I will sing (Repeat till fade)    </segment7>
+	</english>
+</song>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>The Big Time </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>There's a time for war. there's a time for peace. a time to live and a time to die. a time to grieve and a time to dance. this time is for you</segment1>
+		<segment2>chorus. ain't no use in looking back, no. keep on plowing straight ahead, yo. nothin' left back in Egypt land. when the big time comes around</segment2>
+		<segment3>there's a time to cry. and a time to laugh. a time for throwing away. there's a time for death and a time for life. now's the time for you</segment3>
+		<segment4>there's a time to run. and a time to stand. a time for looking ahead. there's a time to stay. and a time to go. this time it's for you</segment4>
+		<segment5>repeat chorus. bridge. there's a time for everything. and now's the time to serve the King. there's a time for all to see. and now's the time for you and me</segment5>
+		<segment6>repeat chorus 2x.     </segment6>
+	</english>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Good </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>What goes around, comes around. And I cant breathe. What holds me up is what holds me down. And I am more unstable than I seem</segment1>
+		<segment2>My heart is bare. Theres not much there</segment2>
+		<segment3>But I believe youve given me. More than I could know. But I know this. You are good</segment3>
+		<segment4>Ive fought the fight against myself. And Ive lost the fight again. My bodys broke from falling down. Just give me one more chance this time Ill win</segment4>
+		<segment5>My heart is bare. But I know that youre there</segment5>
+		<segment6>My eyes are weak I can barely see. A glimmer of your gold but its enough to know. You are good</segment6>
+		<segment7>And through it all youve given me. A peace that overflows. Oh how I know. That you are good</segment7>
+		<segment8>So good to me. You are good.     </segment8>
+	</english>
+</song>

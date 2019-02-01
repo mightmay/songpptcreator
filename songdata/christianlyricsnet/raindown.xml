@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Rain Down </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>holy holy is the Lord. Holy holy is the Lord. (x2)</segment1>
+		<segment2>Rain Down your love on us. Rain down your love</segment2>
+		<segment3>Rain down your greatness. and cover me. rain down your love on us, rain down your love. rain down your peace</segment3>
+		<segment4>holy holy is the Lord. holy holy is the Lord. (x2)</segment4>
+		<segment5>Rain Down your love on us. Rain down your love. rain down your greatness. o and cover me. rain down your love on us. o rain down your love. rain down your peace</segment5>
+		<segment6>rain down your love on us. rain down your love. rain down your greatness. o and cover me. rain down your love on us. rain down your love. rain down your peace. rain down</segment6>
+		<segment7>rain down your love on us. rain down your greatness. rain down your love on us. rain down your peace     </segment7>
+	</english>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Love Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Whenever I'm alone with you. You make me feel like I am home again. whenever I'm alone with you. You make me feel like I am whole again </segment1>
+		<segment2>Whenever I'm alone with you. You make me feel like I am young again. Whenever i'm alone with you. You make me feel like I am fun again </segment2>
+		<segment3>However far away, I will always love you. However long I stay, I will always love you. Whatever words I say, I will always love you. I will always love you </segment3>
+		<segment4>whenever I'm alone with you. you make me feel like I am free again. whenever I'm alone with you. you make me feel like I am clean again    </segment4>
+	</english>
+</song>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Break Me </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Broken pieces of the man I used to be are all that's left of who I am. A shattered mass of all my countless broken dreams. I wonder where I go from here</segment1>
+		<segment2>Chorus: But I'm on my way and I'm not falling. You're all the same. You tried to break me. I'm on my way and I'm not falling. You're all the same. You tried to break me down</segment2>
+		<segment3>I found the one that I was always searching for. No more empty promises. I've come to realize what I'm worth is so much more. More than how you made me feel</segment3>
+		<segment4>(Chorus)</segment4>
+		<segment5>First in line, I'm last in line, First to eat, I'm last to eat. First in line, I'm last in line. First to eat, I'm last to eat. First in line, I'm last in line, First to eat, I'm last to eat. It doesn't matter much to me. It doesn't matter much to me.</segment5>
+		<segment6>(Chorus)    </segment6>
+	</english>
+</song>

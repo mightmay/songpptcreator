@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>All That's Sweet </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>I will strike the chord. That's honey to your ears. All that's sweet is yours. I will hum a verse. Of melodies rehearsed. And all that's sweet is yours</segment1>
+		<segment2>So here is my offering. Just a downbeat and a string. But to you it's a beautiful thing. And here is what I bring. Only downbeats and a string. And to you. It's beautiful</segment2>
+		<segment3>I will strike the chord. That's honey to your ears. All that's sweet is yours. Loveliness you bring. I can't help but sing. All that's sweet is yours</segment3>
+		<segment4>When it seems I've broken down. When these chords are frail. You look with a smile and you say it's beautiful    </segment4>
+	</english>
+</song>

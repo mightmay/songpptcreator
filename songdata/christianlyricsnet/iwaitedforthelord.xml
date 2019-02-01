@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Waited for the Lord </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>(Chorus). I waited. For the Lord on high. I waited. And He heard my cry</segment1>
+		<segment2>He pulled me out of my despair. He taught me how to walk. From fear into security. From quicksand to the Rock</segment2>
+		<segment3>Repeat Chorus</segment3>
+		<segment4>I sing to let the people know. That I have been restored. And they will kneel and understand. To return and trust in the Lord</segment4>
+		<segment5>Repeat Chorus</segment5>
+		<segment6>And there's a new song. In my heart to sing. There's a new song. Praises for my King</segment6>
+		<segment7>I waited     </segment7>
+	</english>
+</song>

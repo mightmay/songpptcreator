@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>I Am Not Alone </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<english>
+		<segment1>You're Here. In My Heart. You're the Light. That Guides Me Through The Dark</segment1>
+		<segment2>You Walk Beside Me. The Night Seems Cold. Each Time I Fall. Your Arms Are There To Hold</segment2>
+		<segment3>Chorus: You Walk Beside Me. Giving Strength I've Never Known. I Am Not Alone. You Walk Beside Me</segment3>
+		<segment4>You're Here. In My Mind. I talk To You. And All My Fears Unwind. I Know I'm Loved For who I am. You Make Me Wanna Be The Best I can</segment4>
+		<segment5>Repeat Chorus</segment5>
+		<segment6>And I rely on your patience. When I face the unknown. and because of you. I am not alone</segment6>
+		<segment7>In the sun, In the rain. Through the good times and the pain. I reach out for your hand. I know that you understand</segment7>
+		<segment8>Repeat Chorus    </segment8>
+	</english>
+</song>

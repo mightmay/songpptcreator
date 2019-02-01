@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Jesus Is Coming </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8,segment9</order>
+	<english>
+		<segment1>Ho, oh, oh, oh</segment1>
+		<segment2>This is just a melody. That's comin' straight from the heart. Don't know why but I, I have a need to tell you. It's been heavy on my heart to tell my friends</segment2>
+		<segment3>We don't know when, we don't know where. We don't know how but oh, we know. He is comin' just like a thief. In the night</segment3>
+		<segment4>Oh, yeah, um, in the twinklin' of an eye</segment4>
+		<segment5>We don't know when, we don't know where. We don't know how but oh, we know. He is comin' like a thief. In the night</segment5>
+		<segment6>He is comin', He is comin'. He is comin', He is comin'. He is comin', He is comin'</segment6>
+		<segment7>He is comin', He is comin'. He is comin', He is comin'. He is comin', He is comin'</segment7>
+		<segment8>Jesus is. Jesus is. Jesus is comin'</segment8>
+		<segment9>Jesus is. Jesus is. Jesus is comin'    </segment9>
+	</english>
+</song>

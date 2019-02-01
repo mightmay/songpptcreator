@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>No New Kinda Story </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>This is what we want. You know we had to wait a good while. This is what we need. To live out all the love that we read</segment1>
+		<segment2>This aint no new kinda story</segment2>
+		<segment3>Things are not that bad. You know we had a hell of a dad. This is what we need. To live out all the love that we read</segment3>
+		<segment4>This ain't no new kinda story</segment4>
+		<segment5>This is what we want. You know we had to wait a good while. This is what we need. To live out all the love that we read</segment5>
+		<segment6>This ain't no new kinda story    </segment6>
+	</english>
+</song>

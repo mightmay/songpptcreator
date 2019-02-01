@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Take Everything </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Verse 1: Another melody. Another empty song. I tell myself that. I have praised you. And try and make believe. This is all you want. But once again. I know Ive missed it. Praising you is not just the songs I sing. Jesus here I am. Take everything</segment1>
+		<segment2>Chorus: Take the pain inside. Take the brokenness. Dont stop til theres nothing left. My arrogance. My pride. The loss of innocence. Jesus, take everything</segment2>
+		<segment3>(Repeat Verse 1/Chorus)</segment3>
+		<segment4>Bridge: Theres nothing left I need. Thats when I feel alive. Holy Spirit fall. Fresh upon me. You can have it all</segment4>
+		<segment5>(Repeat Chorus(x2))    </segment5>
+	</english>
+</song>

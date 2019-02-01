@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Rock N Roll </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I want you to know how I feel. About you about you about you. I want you to know</segment1>
+		<segment2>I want you to know how you feel. About me about me about me. I want you to know</segment2>
+		<segment3>Here I stand upon this stage. Surrounded by a see-through cage. I'm content to sing and shout. If you're content to hear me out. I've got a reason. to rock this place</segment3>
+		<segment4>And so I'm turning up my mic. I'm gonna Rock N Roll all night. In ultrasonic stereo. I'll tell you about the One I know. I've got a reason to rock this place</segment4>
+		<segment5>I want you to know. I want you to know. I want you to know I want you to know. I want you to know I want you to know. I want you to know I want you to know</segment5>
+		<segment6>I want you to know. It's more than Rock N Roll. I gotta superphonic saying. in my brain and it's gonna blow.     </segment6>
+	</english>
+</song>

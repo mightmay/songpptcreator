@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Beautiful Love </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Verse 1. Far away, I feel your beating heart. All alone, beneath the crystal stars. Staring into space, what a lonely face. I'll try to find my place with you</segment1>
+		<segment2>Chorus. What a beautiful smile. Can I stay for awhile. On this beautiful night. We'll make everything right. My beautiful love</segment2>
+		<segment3>Verse 2. Larger than the moon, my love for you. Worlds collide, as heaven pulls us through. The secret of the world is written in the stars. I'm carrying your heart in mine</segment3>
+		<segment4>Chorus. What a beautiful smile. Can I stay for awhile. On this beautiful night. We'll make everything right. My beautiful love</segment4>
+		<segment5>Bridge. Maybe a greater thing will happen. Maybe all will see. Maybe our love will catch like fire. As it burns through me</segment5>
+		<segment6>Chorus. What a beautiful smile. Can I stay for awhile. On this beautiful night. We'll make everything right. My beautiful love    </segment6>
+	</english>
+</song>

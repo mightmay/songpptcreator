@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>A Holiday Song (Happy Holidays) </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>You know what day it is?. The day we fell in love. Long and sad goodbyes. So sad you couldn't stay</segment1>
+		<segment2>You don't have to go. Spend the holidays</segment2>
+		<segment3>You know what time it is?. It's time to fall in love. Sad to see you go. So sad you couldn't stay</segment3>
+		<segment4>You don't have to go. Spend the holidays</segment4>
+		<segment5>(Happy Holidays)    </segment5>
+	</english>
+</song>

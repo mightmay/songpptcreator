@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Redemption Song </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Verse 1. Voice of mercy, breath of God. Life from life sustaining us. Earth below and skies above. Beautiful redemptions song</segment1>
+		<segment2>Verse 2. Melodies like morning rise. Darkness leaning toward the dawn . Into our sorrow sings the light. Beautiful redemption song</segment2>
+		<segment3>Chorus. Hallelujah, love is come. Hallelujah, God with us. Hope restored and death undone. Beautiful redemption song. Beautiful redemption song</segment3>
+		<segment4>Verse 3. Weeping will not last the night. Nor will sadness be for long. Joy was born of sacrifice. Beautiful redemption song</segment4>
+		<segment5>Verse 4. Let the wounded come and see. Empty grave and lifted stone. Sinners saved and captives, free. Beautiful redemption song. Beautiful redemption song    </segment5>
+	</english>
+</song>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Jesus </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>Verse1: Jesus, your name is enough for me. Jesus, your name is perfect and complete. Oh Jesus</segment1>
+		<segment2>. Chorus 1: You Are Enough, You are Enough, You are enough for me     (x2)</segment2>
+		<segment3>. Chorus 2: You Are Enough, You are Enough, You are enough for me     (x2). Oh, Jesus, Jesus. You are enough for me     (x2)</segment3>
+		<segment4>. Outro:</segment4>
+		<segment5>You are enough for me         </segment5>
+	</english>
+</song>

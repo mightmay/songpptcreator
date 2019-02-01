@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Late Great Planet Earth </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>The world ends without a tragedy. Time is melting into history</segment1>
+		<segment2>The sky is falling. Voices crying out in desperation. Hear them calling. Everybody, save yourself</segment2>
+		<segment3>The world plays its angered symphony. Lost inside eternal mystery</segment3>
+		<segment4>Doesn't matter what you say. Doesn't matter what you do. We all end up this way. There's one thing left to save you</segment4>
+		<segment5>The sky is falling. Voices crying out in desperation. Here them calling. You can never save yourself</segment5>
+		<segment6>Save yourself..    </segment6>
+	</english>
+</song>

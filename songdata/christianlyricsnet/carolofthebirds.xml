@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Carol of the Birds </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>Upon this holy night, When God's star appears, And floods the earth with brightness, Birds' voices rise in song, And, warbling all night long, Express their glad heats' lightness. Birds' boices rise in song, And, warbling all night long, Express their glad heart's lightness.</segment1>
+		<segment2>The Nightingale is first. To bring his son of cheer, And tell us of his gladness: &quot;Jesus, our Lord, is born. To free us from all sin, And banish ev'ry sadness!. Jesus, our Lord, is born. To free us from all sin, And banish ev'ry sadness!&quot;</segment2>
+		<segment3>The answ'ring Sparrow cries: &quot;God comes to earth this day. Amid the angels flying.&quot;. Trilling in sweetest tones, The Finch his Lord now owns: &quot;To Him be all thanksgiving.&quot;. Trilling in sweetest tones, The Finch his Lord now owns: &quot;To Him be all thanksgiving.&quot;</segment3>
+		<segment4>The Partridge adds his note: &quot;To Bethlehem I'll fly, Where in the stall He'l lying. There, near the manger blest, I'll build myself a nest, And sing my love undying. There, near the manger blest, I'll build myself a nest, And sing my love undying.&quot;    </segment4>
+	</english>
+</song>

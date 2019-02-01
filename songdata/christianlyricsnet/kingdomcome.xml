@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Kingdom Come </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>Ashes, ashes we fall down. It always feels too soon. But when we walk on golden ground. All will be made new</segment1>
+		<segment2>Hallelujah. Hallelujah ah ah. Hallelujah ah ah ah ah ah ah. All will be made new</segment2>
+		<segment3>Life is but a dream at best. Morning's coming soon. Kingdom come will bring us rest. All will be made new</segment3>
+		<segment4>Hallelujah. Hallelujah ah ah. Hallelujah ah ah ah ah ah ah. All will be made new</segment4>
+		<segment5>All sorrows inside. Will fade away into the night. And all will be made new</segment5>
+		<segment6>Hallelujah. Hallelujah ah ah. Hallelujah ah ah ah ah ah ah. All will be made new    </segment6>
+	</english>
+</song>

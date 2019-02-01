@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Lead The Way </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7</order>
+	<english>
+		<segment1>I'm not above asking. Asking for your help. I'm not above asking. I know myself. For you to find a way</segment1>
+		<segment2>I'm not above trying to understand. I'm not above trying to take your hand. I'm not above (I'm not above). I'm not above trying to understand. I'm not above trying to take your hand. I'm not above (I'm not above)</segment2>
+		<segment3>You come closer to me. Breaking through to you. And closer, hiding all</segment3>
+		<segment4>You know me better than i do. It's better if you lead the way</segment4>
+		<segment5>You know me better than i do. It's better if you lead the way</segment5>
+		<segment6>You know me better than i do. It's better if you lead the way</segment6>
+		<segment7>You know me better than i do. It's better if you lead the way    </segment7>
+	</english>
+</song>

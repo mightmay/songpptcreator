@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>40 </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<english>
+		<segment1>I waited patiently for the Lord. He inclined and heard my cry. He brought me up out of the pit. Out of the miry clay</segment1>
+		<segment2>I will sing, sing a new song. I will sing, sing a new song</segment2>
+		<segment3>How long to sing this song?. How long to sing this song?. How long..how long..how long.. How long..to sing this song</segment3>
+		<segment4>He set my feet upon a rock. And made my footsteps firm. Many will see. Many will see and fear</segment4>
+		<segment5>I will sing, sing a new song. I will sing, sing a new song. I will sing, sing a new song. I will sing, sing a new song</segment5>
+		<segment6>How long to sing this song?. How long to sing this song?. How long..how long..how long..    </segment6>
+	</english>
+</song>

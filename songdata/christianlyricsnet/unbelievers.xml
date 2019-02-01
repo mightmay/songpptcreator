@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Unbelievers </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4,segment5</order>
+	<english>
+		<segment1>I took the long long way to help you. I never took my eyes off the trail. I never say goodbye so I ask myself why. this is what I got in the mail</segment1>
+		<segment2>I took the long long way to stop you. I never thought that you'd really fail. we never said goodbye so I'm asking you why. this is what I got in the mail</segment2>
+		<segment3>the golden lights. I love you still</segment3>
+		<segment4>I took the long long way to help you. I never took my eyes off your trail. I never say goodbye so I ask myself why. this is what I got in the mail</segment4>
+		<segment5>the golden lights. I love you still    </segment5>
+	</english>
+</song>
