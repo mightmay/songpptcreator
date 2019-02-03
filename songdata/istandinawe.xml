@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>I Stand in Awe</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,verse3,verse4</order>
+
+<thai>
+</thai>
+
+<english>
+    <verse1>You are beautiful beyond description. Too marvelous for words. Too wonderful for comprehension. Like nothing ever seen or heard.</verse1>
+    <verse2>Who can grasp Your infinite wisdom? Who can fathom the depth of Your love? You are beautiful beyond description. Majesty, enthroned above.</verse2>
+    <verse3>You are beautiful beyond description. Yet God crushed You for my sin. In agony and deep affliction. Cut off that I might enter in.</verse3>
+    <verse4>Who can grasp such tender compassion? Who can fathom this mercy so free? You are beautiful beyond description. Lamb of God who died for me.</verse4>
+    <chorus>And I stand, I stand in awe of You. I stand, I stand in awe of You. Holy God, to whom all praise is due. I stand in awe of You.</chorus>
+</english>
+
+
+    
+<mienthai>
+</mienthai>
+
+<chord>
+    <verse1>C G F C C G F G (Em)</verse1>
+    <verse2>Am7 F C G C G F G C</verse2>
+    <verse3>C G F C C G F G (Em)</verse3>
+    <verse4>Am7 F C G C G F G C</verse4>
+    <chorus>C G F C G F Am7 G Am7 G F Dm7 G C G F</chorus>
+</chord>
+
+</song>

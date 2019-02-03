@@ -300,6 +300,8 @@
 <song name="lordiliftyournameonhigh">lordiliftyournameonhigh.xml</song>    
 <song name="youcamefromheaventoearthtoshowtheway">lordiliftyournameonhigh.xml</song> 
 <song name="lordiliftyournameonhi">lordiliftyournameonhigh.xml</song> 
+<song name="โอข้ายกพระนามพระองค์">lordiliftyournameonhigh.xml</song> 
+<song name="ลงจากสวรรค์ถึงโลกาสำแดงหนทาง">lordiliftyournameonhigh.xml</song> 
 
 <song name="whoami">whoami.xml</song>    
 <song name="iamaflowerquicklyfadingheretodayandgonetomorrow">whoami.xml</song> 
@@ -510,6 +512,16 @@
 <song name="ฤทธิ์อำนาจมีในโลหิตพระคริสต์">thereispowerintheblood.xml</song>
 <song name="เชื่อฤทธิ์พระโลหิต">thereispowerintheblood.xml</song>
 
+<song name="ความยินดีเปี่ยมล้นในใจฉัน">ความยินดีเปี่ยมล้นในใจฉัน.xml</song>
+<song name="จะบอกว่าฮาเลลูยา">ความยินดีเปี่ยมล้นในใจฉัน.xml</song>
+<song name="การคร่ำครวญเปลี่ยนเป็นเพลงสรรเสริญ">ความยินดีเปี่ยมล้นในใจฉัน.xml</song>
+<song name="จะบอกว่าฮาเลูยาอาเมน">ความยินดีเปี่ยมล้นในใจฉัน.xml</song>
+
+<song name="istandinawe">istandinawe.xml</song>
+<song name="istandinaweofyou">istandinawe.xml</song>
+<song name="beautifulbeyonddescription">istandinawe.xml</song>
+<song name="youarebeautifulbeyonddescription">istandinawe.xml</song>
+<song name="youarebeautifulbeyonddescriptions">istandinawe.xml</song>
 
 
 <!--ThaiWorshipCom-->

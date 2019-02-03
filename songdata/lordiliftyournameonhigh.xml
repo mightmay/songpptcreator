@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
 
-<thainame>none</thainame>
+<thainame>โอ ข้ายกพระนามพระองค์</thainame>
 <englishname>Lord, I Lift Your Name on High</englishname>
 <mienthainame>none</mienthainame>
 <order>verse1,chorus</order>
 
 <thai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <verse1>โอ ข้ายกพระนามพระองค์ โอ ข้ารักจึงร้องเพลงสรรเสริญ พระเยซูทรงอยู่ภายใน ข้ายินดีพระองค์ทรงช่วยให้รอด</verse1>
+    <chorus>ลงจากสวรรค์ถึงโลกา สำแดงหนทาง จากโลกา ถึงกางเขน ชำระความบาป จากกางเขนสู่อุโมงค์ จากอุโมงค์สู่สวรรค์ ข้ายกนามพระองค์ สูง สุด</chorus>
+
 </thai>
 
 <english>

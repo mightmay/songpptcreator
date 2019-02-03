@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ความยินดีเปี่ยมล้นในใจฉัน</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,chorus2</order>
+
+<thai>
+    <verse1>ความยินดีเปี่ยมล้นในใจฉัน ดังดอกไม้ผลิบาน แย้มกลีบออก เหตุเพราะความขื่นขม เมื่อวันก่อน พระบันดาลเปลี่ยนเป็น พระคุณพระพร</verse1>
+    <verse2>การคร่ำครวญเปลี่ยนเป็น เพลงสรรเสริญ ทุกวันฉันจะเดินกับพระองค์ จะทำตามพระทัยและเชื่อฟัง ชีวิตนี้ถวายแด่พระองค์</verse2>
+    <chorus>จะบอกว่า ฮาเลลูยา จะบอกว่า ฮาเลูยา อาเมน ให้ดวงใจสรรเสริญพระองค์ ทุกวัน ทุกเวลา</chorus>
+        <chorus2>จะบอกว่า ฮาเลูยา อาเมน สรรเสริญพระนาม พระองค์ จะสรรเสริญ พระนาม ฮาเลลูยา</chorus2>
+
+</thai>
+
+<english>
+  
+</english>
+    
+<mienthai>
+  
+</mienthai>
+
+<chord>
+    <verse1>D F#m Em A7 G F#m Bm Em A7</verse1>
+    <verse2>D F#m Em A7 G F#m Bm Em A7 D D7</verse2>
+    <chorus>G A7 F#m Bm G A7 D D7</chorus>
+        <chorus2>G A7 F#m Bm G A7 D</chorus2>
+</chord>
+
+</song>
