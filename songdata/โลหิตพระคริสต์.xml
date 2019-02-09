@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>โลหิตพระคริสต์</thainame>
+<englishname>It’s Your blood that cleanses me</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2</order>
+
+<thai>
+    <verse1>โลหิตพระคริสต์ ทรงชำระข้า โลหิตพระองค์ ทรงให้ชีวิต โดยพระโลหิต ข้ารับการไถ่ จากความบาปทั้งหลายของข้า</verse1>
+    <verse2>ทรงชำระข้า ขาวยิ่งกว่าหิมะ กว่าหิมะ โดยพระคุณ ทรงการุณ แก่ตัวข้า</verse2>
+
+</thai>
+
+<english>
+    <verse1>It’s Your blood that cleanses me. It’s Your blood that gives me life. It’s Your blood that took my place. In redeeming sacrifice.</verse1>
+    <verse2>Washes me whiter than the snow (Than the snow) My Jesus, God’s precious sacrifice.</verse2>
+
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+
+</mienthai>
+
+<chord>
+    <verse1>C Em Am F G F G C Em Am</verse1>
+    <verse2>C Em Am F G F Fm C Em Am Dm G C</verse2>
+
+</chord>
+
+</song>
