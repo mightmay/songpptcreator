@@ -533,7 +533,11 @@
 <song name="yoursteadfastlovedonmoen">yoursteadfastlove.xml</song>
 <song name="donmoenyoursteadfastlove">yoursteadfastlove.xml</song>
 
-
+<song name="powerofyourlove">powerofyourlove.xml</song>
+<song name="thepowerofyourlove">powerofyourlove.xml</song>
+<song name="holdmecloseletyourlovesurroundme">powerofyourlove.xml</song>
+<song name="กำลังในความรักพระองค์">powerofyourlove.xml</song>
+		
 <!--ThaiWorshipCom-->
 <!--Downloaded from http://www.thaiworship.com/ -->
 
@@ -1789,7 +1793,6 @@
 	<song name="lordiliftyournameonhigh">christianlyricsnet/lordiliftyournameonhigh.xml</song>
 	<song name="alltheearthwillsingyourpraises">christianlyricsnet/alltheearthwillsingyourpraises.xml</song>
 	<song name="majesticradiomix">christianlyricsnet/majesticradiomix.xml</song>
-	<song name="thepowerofyourlove">christianlyricsnet/thepowerofyourlove.xml</song>
 	<song name="shouttothelord">christianlyricsnet/shouttothelord.xml</song>
 	<song name="hesallineed">christianlyricsnet/hesallineed.xml</song>
 	<song name="everydayradiomix">christianlyricsnet/everydayradiomix.xml</song>
@@ -3919,7 +3922,10 @@
 	<song name="jesusloverofmysoul">christianlyricsnet/jesusloverofmysoul.xml</song>
 	<song name="showmeyourways">christianlyricsnet/showmeyourways.xml</song>
 	<song name="allthepoweryouneed">christianlyricsnet/allthepoweryouneed.xml</song>
-	<song name="powerofyourlove">christianlyricsnet/powerofyourlove.xml</song>
+	
+
+
+
 	<song name="thiskingdom">christianlyricsnet/thiskingdom.xml</song>
 	<song name="fatherofcreation">christianlyricsnet/fatherofcreation.xml</song>
 	<song name="shouttothelord">christianlyricsnet/shouttothelord.xml</song>

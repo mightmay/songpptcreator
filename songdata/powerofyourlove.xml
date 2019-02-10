@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>กำลังในความรักพระองค์</thainame>
+	<englishname>Power of Your Love </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,chorus1,chorus2,segment3,segment4,chorus1,chorus2</order>
+	<thai>
+		<segment1>พระบิดาเบื้องบน โปรดประทานดวงใจ ชื่นบาน ขอพระคุณพระองค์ โปรดสัมผัสหัวใจ</segment1>
+		<segment2>และโปรดให้ความเศร้าตรม ได้หลุดจากภายในใจของข้า ล้นด้วยความชื่นบาน ด้วยความรักของพระองค์</segment2>
+		
+		<chorus1>โปรดยึดข้า อบอุ่นในความรักเมตตา อย่าให้ไกล ในอ้อมกอดพระองค์</chorus1>
+		<chorus2>และโปรดให้ข้า โบกโบยบินเหมือนดังนกอินทรีย์ และรับกำลังเรี่ยวแรง และล้นในพระวิญญาณ ด้วยความรักของพระองค์</chorus2>
+		
+		<segment3>พระบิดาเบื้องบน โปรดประทานดวงใจ ชื่นบาน ขอพระคุณพระองค์ โปรดสัมผัสหัวใจ</segment3>
+    	<segment4>และโปรดให้ความเศร้าตรม ได้หลุดจากภายในใจของข้า ล้นด้วยความชื่นบาน ด้วยความรักของพระองค์</segment4>
+	
+	</thai>
+	<english>
+		<segment1>Lord I come to You. Let my heart be changed, renewed. Flowing from the grace. That I found in You.</segment1>
+		<segment2>And Lord I've come to know. The weaknesses I see in me. Will be stripped away. By the power of Your love.</segment2>
+		
+		<chorus1>Hold me close. Let Your love surround me. Bring me near. Draw me to Your side.</chorus1>
+		<chorus2>And as I wait. I'll rise up like the eagle. And I will soar with You. Your Spirit leads me on. In the power of Your love.</chorus2>
+		
+		<segment3>Lord unveil my eyes. Let me see You face to face. The knowledge of Your love. As You live in me.</segment3>
+    	<segment4>Lord renew my mind. As Your will unfolds in my life. In living every day. In the power of Your love.</segment4>
+	
+	</english>
+</song>
