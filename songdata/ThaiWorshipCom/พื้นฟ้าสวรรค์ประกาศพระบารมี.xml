@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>พื้นฟ้าสวรรค์ประกาศพระบารมี</thainame>
-	<englishname>none</englishname>
+	<englishname>All Heaven Declares</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2,verse3,verse4</order>
 	<thai>
 		<verse1>พื้นฟ้าสวรรค์ ประกาศพระบารมีพระเจ้า ผู้ใดเปรียบปาน พระองค์ผู้ทรงงดงามตระการ</verse1>
 		<verse2>เพราะพระองค์ทรงพระชนม์ สถิตอยู่เหนือบัลลังก์ ล้อมรอบด้วยเสียงสรรเสริญ นมัสการพระองค์</verse2>
 		<verse3>ฉันจึงกราบลง ต่อองค์ผู้ทรงสง่าราศี ผู้พลีพระชนม์ นำเราให้คืนดีกับพระเจ้า</verse3>
-		<verse4>และพระองค์ฟื้นพระชนม์ สถิตอยู่เหนือบัลลังก์ ล้อมรอบด้วยเสียงสรรเสริญ นมัสการพระองค์  พื้นฟ้าสวรรค์ ประกาศพระบารมีพระเจ้า ผู้ใดเปรียบปาน พระองค์ผู้ทรงงดงามตระการ ฉันจึงกราบลง ต่อองค์ผู้ทรงสง่าราศี ผู้พลีพระชนม์ นำเราให้คืนดีกับพระเจ้า เพราะพระองค์ทรงพระชนม์ สถิตอยู่เหนือบัลลังก์ ล้อมรอบด้วยเสียงสรรเสริญ นมัสการพระองค์</verse4>
+		<verse4>และพระองค์ฟื้นพระชนม์ สถิตอยู่เหนือบัลลังก์ ล้อมรอบด้วยเสียงสรรเสริญ นมัสการพระองค์</verse4>
 	</thai>
+	<english>
+		<verse1>All heaven declares the glory of the risen Lord. Who can compare with the beauty of the Lord?</verse1>
+		<verse2>Forever He will be. The Lamb upon the throne. I gladly bow the knee. And worship Him alone.</verse2>
+		<verse3>I will proclaim the glory of the risen Lord. Who once was slain to reconcile man to God.</verse3>
+		<verse4>Forever You will be The Lamb upon the throne. I gladly bow the knee. And worship You alone.</verse4>
+	</english>
+	
 </song>

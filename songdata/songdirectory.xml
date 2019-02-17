@@ -538,6 +538,12 @@
 <song name="holdmecloseletyourlovesurroundme">powerofyourlove.xml</song>
 <song name="กำลังในความรักพระองค์">powerofyourlove.xml</song>
 		
+<song name="รักในโครินธ์">รักในโครินธ์.xml</song>
+<song name="ความรักในโครินธ์">รักในโครินธ์.xml</song>
+<song name="ความรักจริงแท้รักต้องอดทนทุกอย่าง">powerofyourlove.xml</song>
+<song name="ความรักในโคริน">powerofyourlove.xml</song>
+		
+
 <!--ThaiWorshipCom-->
 <!--Downloaded from http://www.thaiworship.com/ -->
 
@@ -937,7 +943,12 @@
 	<song name="พันธกิจ">ThaiWorshipCom/พันธกิจ.xml</song>
 	<song name="พันธสัญญา">ThaiWorshipCom/พันธสัญญา.xml</song>
 	<song name="พำนักพักพิงในพระนิเวศน์">ThaiWorshipCom/พำนักพักพิงในพระนิเวศน์.xml</song>
+	
 	<song name="พื้นฟ้าสวรรค์ประกาศพระบารมี">ThaiWorshipCom/พื้นฟ้าสวรรค์ประกาศพระบารมี.xml</song>
+	<song name="พื้นฟ้าสวรรค์">ThaiWorshipCom/พื้นฟ้าสวรรค์ประกาศพระบารมี.xml</song>
+	<song name="allheavendeclares">ThaiWorshipCom/พื้นฟ้าสวรรค์ประกาศพระบารมี.xml</song>
+	<song name="allheavendeclare">ThaiWorshipCom/พื้นฟ้าสวรรค์ประกาศพระบารมี.xml</song>
+
 	<song name="เพราะทรงสัญญา">ThaiWorshipCom/เพราะทรงสัญญา.xml</song>
 	<song name="เพราะเป็นผู้เดียวที่ฉันรัก">ThaiWorshipCom/เพราะเป็นผู้เดียวที่ฉันรัก.xml</song>
 	<song name="เพราะพระองค์ทรงอยู่">ThaiWorshipCom/เพราะพระองค์ทรงอยู่.xml</song>
