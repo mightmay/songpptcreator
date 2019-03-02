@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เมื่อมีปัญหาอย่าตกใจ</thainame>
+<englishname>He Will Carry You</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse1-2,chorus,outro</order>
+
+<thai>
+    <verse1>เมื่อมีปัญหาอย่าตกใจ พระเจ้าทรงชิดใกล้ ยามความลำบากดั่งภูผา พระองค์ทรงช่วยได้</verse1>
+    <verse1-2>พายุชีวิต แม้มืดมัว จะทรงช่วยพ้นภัย ยามทุกข์และโศกเศร้าสุดฝืน ทรงปลอบประโลมใจ</verse1-2>
+    <chorus>เมื่อทรงรับเอาภาระทั้งโลกไว้ ด้วยความเต็มพระทัย ใจฉันนั้นรู้ จะอุ้มชู ท่านไว้ตลอดไป</chorus>
+    <outro>ตรัสว่า จงมาหาเราคนที่อ่อนเหนื่อยล้า จะให้พักผ่อนสบาย</outro>
+
+</thai>
+
+<english>
+    <verse1>There is no problem too big. God cannot solve. There is no mountain too tall. He cannot move.</verse1>
+    <verse1-2>There is not storm too dark. God cannot calm. There is no sorrow too deep. He cannot soothe</verse1-2>
+    <chorus>If He carried the weight of the world upon His shoulders. I know, my brother that He will carry you.</chorus>
+    <outro>He said, Come on to me all who are weary. And I will give you rest, rest, rest, rest.</outro>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse1-2></verse1-2>
+    <chorus></chorus>
+    <outro></outro>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse1-2></verse1-2>
+    <chorus></chorus>
+    <outro></outro>
+</chord>
+
+</song>

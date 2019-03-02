@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>บ้านหลังนี้</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,chorus2,verse3,chorus,chorus2</order>
+
+<thai>
+    <verse1>จากวันวานที่ผ่านมาจดและจำในพระคุณที่พระองค์ทรงเมตตา ให้เราได้มีบ้านนี้ร่วมกันให้เราดูแลซึ่งกันและกัน รวมใจเป็นน้ำเป็นหนึ่งเดียวกัน</verse1>
+    <verse2>อยู่ที่ไหนไม่อุ่นใจเท่าอยู่ใจพระองค์ ผู้ทรงนำพาพวกเรา หากมีใครที่สิ้นหวังและหากมีใครที่หลงทางให้เข้ามาพักในบ้านพระองค์</verse2>
+    <verse3>เมื่อได้รู้น้ำพระทัย จะจดจำในพระคำ จะเดินในทางพระองค์ หากหนึ่งคำเป็นดังแสงเราจะร่วมส่องสว่างให้งดงาม ประกาศความรักยิ่งใหญ่ของพระองค์</verse3>
+    <chorus>แม้เวลาได้ล่วงเลยมา ความรักพระองค์ที่มีให้เรามั่นคงไม่เคยเปลี่ยนแปลง</chorus>
+    <chorus2>จากนี้สัญญาว่าจะรับใช้ จะให้พระองค์ทั้งกายและใจ สุดตัวสุดใจกำลังที่มี บ้านนี้พระองค์ประทานให้ไว้ เราจะรักษาดังดวงใจ ให้สมกับที่พระองค์รักเราทุกคน</chorus2>
+
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>

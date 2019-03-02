@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+<song name="พระเยซูเป็นที่รักของข้า">พระเยซูเป็นที่รักของข้า.xml</song>
+<song name="jesusloverofmysoul ">พระเยซูเป็นที่รักของข้า.xml</song>
+<song name="hillsongjesusloverofmysoul">พระเยซูเป็นที่รักของข้า.xml</song>
+
+
+<song name="เมื่อมีปัญหาอย่าตกใจ">เมื่อมีปัญหาอย่าตกใจ.xml</song>
+<song name="hewillcarryyou">เมื่อมีปัญหาอย่าตกใจ.xml</song>
+<song name="เมื่อมีปัญหาอย่าตกใจพระเจ้าทรงชิดใกล้">เมื่อมีปัญหาอย่าตกใจ.xml</song>
+
+
+<song name="โฮซันนาแด่พระเจ้าสูงสุด">โฮซันนาแด่พระเจ้าสูงสุด.xml</song>
+<song name="โฮซันนาแด่องค์พระเจ้าสูงสุด">โฮซันนาแด่พระเจ้าสูงสุด.xml</song>
+<song name="hosannainthehighest">โฮซันนาแด่พระเจ้าสูงสุด.xml</song>
+
+<song name="พระเยซูพระองค์บริสุทธิ์">พระเยซูพระองค์บริสุทธิ์.xml</song>
+<song name="พระเยซูพระองค์บริสุท">พระเยซูพระองค์บริสุทธิ์.xml</song>
+<song name="พระเยซูพระองค์บริสุธ">พระเยซูพระองค์บริสุทธิ์.xml</song>
+<song name="พระเยซูพระองบริสุธ">พระเยซูพระองค์บริสุทธิ์.xml</song>
+
+
+<song name="บ้านหลังนี้">บ้านหลังนี้.xml</song>
+<song name="บ้านหลังนี้boypeacemaker">บ้านหลังนี้.xml</song>
+<song name="boypeacemakerบ้านหลังนี้">บ้านหลังนี้.xml</song>
+
+<song name="โปรดเถิดพระวิญญาณ">โปรดเถิดพระวิญญาณ.xml</song>
+<song name="comeholyspirit">โปรดเถิดพระวิญญาณ.xml</song>
+<song name= "โปรดเถิดพระวิญญาณผู้เสด็จมา" >โปรดเถิดพระวิญญาณ.xml</song>
+<song name= "โปรดเถิดพระวิญญาณเชิญเสด็จมา" >โปรดเถิดพระวิญญาณ.xml</song>
+
+<song name="heisexalted">heisexalted.xml</song>
+<song name="heisexalt">heisexalted.xml</song>
+<song name= "heisexaltedthekingisexalted" >heisexalted.xml</song>
+<song name= "heisexaltedthekingisexaltedonhigh" >heisexalted.xml</song>
+
 <song name="amazinggrace">amazinggrace.xml</song>
 <song name="พระคุณพระเจ้า">amazinggrace.xml</song>
 <song name="หฒอยโฮลเญยเอน">amazinggrace.xml</song>
@@ -739,7 +774,14 @@
 	<song name="ไม่มีใครวิสุทธิ์เหมือนพระเจ้า">ThaiWorshipCom/ไม่มีใครวิสุทธิ์เหมือนพระเจ้า.xml</song>
 	<song name="ไม่มีสิ่งใดเกินพระเยซู">ThaiWorshipCom/ไม่มีสิ่งใดเกินพระเยซู.xml</song>
 	<song name="ไม่มีอะไรที่ยากสำหรับพระเจ้า">ThaiWorshipCom/ไม่มีอะไรที่ยากสำหรับพระเจ้า.xml</song>
+	
 	<song name="เมื่อมองดูความบริสุทธิ์ของพระองค์">ThaiWorshipCom/เมื่อมองดูความบริสุทธิ์ของพระองค์.xml</song>
+		<song name="เมื่อมองดูความบริสุทธิ์ของพระอง">ThaiWorshipCom/เมื่อมองดูความบริสุทธิ์ของพระองค์.xml</song>
+	<song name="เมื่อมองดูความบริสุทของพระองค์">ThaiWorshipCom/เมื่อมองดูความบริสุทธิ์ของพระองค์.xml</song>
+	<song name="whenilookintoyourholiness">ThaiWorshipCom/เมื่อมองดูความบริสุทธิ์ของพระองค์.xml</song>
+	<song name="whenilookintoyourholines">ThaiWorshipCom/เมื่อมองดูความบริสุทธิ์ของพระองค์.xml</song>
+
+	
 	<song name="เมื่อมองดูพระบิดา">ThaiWorshipCom/เมื่อมองดูพระบิดา.xml</song>
 	<song name="เมื่อรับการสวมทับ">ThaiWorshipCom/เมื่อรับการสวมทับ.xml</song>
 	<song name="เมื่อเราเดินกับพระเจ้า">ThaiWorshipCom/เมื่อเราเดินกับพระเจ้า.xml</song>
@@ -1063,7 +1105,12 @@
 	<song name="พระองค์เท่านั้นที่ฉันต้องการ">ThaiWorshipCom/พระองค์เท่านั้นที่ฉันต้องการ.xml</song>
 	<song name="พระองค์เป็นพระองค์ทรงเป็นพระเจ้า">ThaiWorshipCom/พระองค์เป็นพระองค์ทรงเป็นพระเจ้า.xml</song>
 	<song name="พระองค์เป็นพระองค์ทรงเป็นพระเจ้า">ThaiWorshipCom/พระองค์เป็นพระองค์ทรงเป็นพระเจ้า.xml</song>
+	
 	<song name="พระองค์เป็นที่กำบัง">ThaiWorshipCom/พระองค์เป็นที่กำบัง.xml</song>
+	<song name="youaremyhidingplace">ThaiWorshipCom/พระองค์เป็นที่กำบัง.xml</song>
+	<song name="youaremyhidingplaces">ThaiWorshipCom/พระองค์เป็นที่กำบัง.xml</song>
+	<song name="youaremyhiddingplace">ThaiWorshipCom/พระองค์เป็นที่กำบัง.xml</song>	
+	
 	<song name="พระองค์เป็นทุกสิ่ง">ThaiWorshipCom/พระองค์เป็นทุกสิ่ง.xml</song>
 	<song name="พระองค์ผู้เดียว">ThaiWorshipCom/พระองค์ผู้เดียว.xml</song>
 	<song name="พระองค์ผู้ทรงรักษาให้หาย">ThaiWorshipCom/พระองค์ผู้ทรงรักษาให้หาย.xml</song>
@@ -1125,8 +1172,12 @@
 	<song name="ลูกมีความสุขใจ">ThaiWorshipCom/ลูกมีความสุขใจ.xml</song>
 	<song name="ลูกยอมทุกสิ่ง">ThaiWorshipCom/ลูกยอมทุกสิ่ง.xml</song>
 	<song name="ลูกรักในที่พระองค์สถิต">ThaiWorshipCom/ลูกรักในที่พระองค์สถิต.xml</song>
+	
 	<song name="ลูกกระหายสุดใจ">ThaiWorshipCom/ลูกกระหายสุดใจ.xml</song>
 	<song name="ลูกกระหายสุดใจ">ThaiWorshipCom/ลูกกระหายสุดใจ.xml</song>
+	<song name="lordithirstforyou">ThaiWorshipCom/ลูกกระหายสุดใจ.xml</song>
+
+	
 	<song name="ลูกแกะพระเจ้า">ThaiWorshipCom/ลูกแกะพระเจ้า.xml</song>
 	<song name="ลูกเข้ามาและก้มกราบ">ThaiWorshipCom/ลูกเข้ามาและก้มกราบ.xml</song>
 	<song name="ลูกต้องการพระองค์">ThaiWorshipCom/ลูกต้องการพระองค์.xml</song>
@@ -1370,7 +1421,9 @@
 	<song name="happyday">christianlyricsnet/happyday.xml</song>
 	<song name="godandgodalone">christianlyricsnet/godandgodalone.xml</song>
 	<song name="allineedisyou">christianlyricsnet/allineedisyou.xml</song>
+	
 	<song name="opentheeyesofmyheart">christianlyricsnet/opentheeyesofmyheart.xml</song>
+
 	<song name="iwillrise">christianlyricsnet/iwillrise.xml</song>
 	<song name="charity">christianlyricsnet/charity.xml</song>
 	<song name="mademeglad">christianlyricsnet/mademeglad.xml</song>
@@ -2151,7 +2204,6 @@
 	<song name="iliveforyou">christianlyricsnet/iliveforyou.xml</song>
 	<song name="jesusgeneration">christianlyricsnet/jesusgeneration.xml</song>
 	<song name="iwillsing">christianlyricsnet/iwillsing.xml</song>
-	<song name="jesusloverofmysoul">christianlyricsnet/jesusloverofmysoul.xml</song>
 	<song name="joyfuljoyfulweadorethee">christianlyricsnet/joyfuljoyfulweadorethee.xml</song>
 	<song name="whatarethewords">christianlyricsnet/whatarethewords.xml</song>
 	<song name="hewhobeganagoodworkinyou">christianlyricsnet/hewhobeganagoodworkinyou.xml</song>

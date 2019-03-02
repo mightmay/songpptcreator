@@ -1,11 +1,18 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>เมื่อมองดูความบริสุทธิ์ของพระองค์</thainame>
-	<englishname>none</englishname>
+	<englishname>When I Look Into Your Holiness</englishname>
 	<mienthainame>none</mienthainame>
-	<order>verse1,chorus1</order>
+	<order>verse1,verse2,chorus1</order>
 	<thai>
-		<verse1>เมื่อมองดูความบริสุทธิ์ของพระองค์ เมื่อเพ่งดูความรักมั่นคงของพระองค์ ทุกสิ่งในชีวิตของข้าด้อยคุณค่าเมื่อเทียบกับพระองค์ เมื่อทำตามน้ำพระทัยของพระองค์ เมื่อเทิดทูนความรักมั่นคงของพระองค์ ทุกสิ่งในชีวิตของข้าด้อยคุณค่าเมื่อเทียบกับพระองค์</verse1>
-		<chorus1>*ข้าจึงสรรเสริญข้าจึงสรรเสริญพระองค์ ชีวิตข้าอยู่เพื่อสรรเสริญพระองค์ ข้าจึงสรรเสริญข้าจึงสรรเสริญพระองค์ ชีวิตข้าอยู่เพื่อสรรเสริญพระองค์  เมื่อมองดูความบริสุทธิ์ของพระองค์ เมื่อเพ่งดูความรักมั่นคงของพระองค์ ทุกสิ่งในชีวิตของข้าด้อยคุณค่า เมื่อเทียบกับพระองค์ เมื่อทำตามน้ำพระทัยของพระองค์ เมื่อเทิดทูนความรักมั่นคงของพระองค์ ทุกสิ่งในชีวิตของข้าด้อยคุณค่า เมื่อเทียบกับพระองค์ ข้าจึงสรรเสริญข้าจึงสรรเสริญพระองค์ ชีวิตข้าอยู่เพื่อสรรเสริญพระองค์</chorus1>
+		<verse1>เมื่อมองดูความบริสุทธิ์ของพระองค์ เมื่อเพ่งดูความรักมั่นคงของพระองค์ ทุกสิ่งในชีวิตของข้าด้อยคุณค่าเมื่อเทียบกับพระองค์ </verse1>
+		<verse2>เมื่อทำตามน้ำพระทัยของพระองค์ เมื่อเทิดทูนความรักมั่นคงของพระองค์ ทุกสิ่งในชีวิตของข้าด้อยคุณค่าเมื่อเทียบกับพระองค์</verse2>
+		<chorus1>*ข้าจึงสรรเสริญ ข้าจึงสรรเสริญพระองค์ ชีวิตข้าอยู่เพื่อสรรเสริญพระองค์ ข้าจึงสรรเสริญ ข้าจึงสรรเสริญพระองค์ ชีวิตข้าอยู่เพื่อสรรเสริญพระองค์</chorus1>
+	
 	</thai>
+	<english>
+		<verse1>When I look into Your holiness. When I gaze into Your loveliness. When all things that surround become shadows. In the light of You.</verse1>
+		<verse2>When I've found the joy of reaching Your heart. When my will becomes enthroned in Your love. When all things that surround become shadows. In the light of You.</verse2>
+		<chorus1>I worship You. I worship You. The reason I live is to worship You.</chorus1>
+</english>
 </song>

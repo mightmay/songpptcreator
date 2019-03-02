@@ -1,11 +1,18 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>ลูกกระหายสุดใจ</thainame>
-	<englishname>none</englishname>
+	<englishname>Lord I Thirst For You</englishname>
 	<mienthainame>none</mienthainame>
-	<order>verse1,chorus1</order>
+	<order>verse1,verse2,chorus1</order>
 	<thai>
-		<verse1>1.ลูกกระหายสุดใจ  เข้าไปในที่ทรงสถิต...อยู่  วิญญาณลูกคอยพระองค์  โปรดทรงนำลูกไปณนำลูกไปณ  ที่ความงามที่แสนจะบ..ริ..สุทธิ์</verse1>
-		<chorus1>*ลูกจะเฝ้ารอคอยพระเจ้ายิ่งใหญ่  ในความงามที่แสนจะบ...ริสุทธิ์  จะนมัสการพระเจ้ายิ่งใหญ่  ในความงามที่แสนจะบ...ริสุทธิ์</chorus1>
+		<verse1>ลูกกระหายสุดใจ  เข้าไปในที่ทรงสถิตอยู่  วิญญาณลูกคอยพระองค์</verse1>
+		<verse2>โปรดทรงนำลูกไป ณ นำลูกไป ณ ที่ความงามที่แสนจะบริสุทธิ์</verse2>
+		<chorus1>*ลูกจะเฝ้ารอคอยพระเจ้ายิ่งใหญ่  ในความงามที่แสนจะบริสุทธิ์  จะนมัสการพระเจ้ายิ่งใหญ่  ในความงามที่แสนจะบริสุทธิ์</chorus1>
 	</thai>
+	
+	<english>
+		<verse1>Lord I thirst for You. And I long to be in Your presence. My soul will wait on You.</verse1>
+		<verse2>Father draw me nearer. Draw me nearer. To the beauty of Your holiness.</verse2>
+		<chorus1>I will wait for You, Almighty God. In the beauty of Your holiness. I will worship You, Almighty God. In the beauty of Your holiness.</chorus1>
+	</english>
 </song>

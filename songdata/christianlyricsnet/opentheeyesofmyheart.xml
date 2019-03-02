@@ -1,17 +1,19 @@
 <?xml version="1.0" ?>
 <song>
-	<thainame>none</thainame>
+	<thainame>โปรดเปิดดวงตาแห่งดวงใจ</thainame>
 	<englishname>Open The Eyes Of My Heart </englishname>
 	<mienthainame>none</mienthainame>
-	<order>segment1,segment2,segment3,segment4,segment5,segment6,segment7,segment8</order>
+	<order>segment1,segment2,segment3</order>
 	<english>
-		<segment1>Open the eyes of my heart, Lord. Open the eyes of my heart. I want to see you, I want to see you. (repeat 4x)</segment1>
+		<segment1>Open the eyes of my heart, Lord. Open the eyes of my heart. I want to see you, I want to see you.</segment1>
 		<segment2>To see you high and lifted up, Shining in the light of your glory. Lord, Pour out your power and love, As we sing holy, holy, holy.</segment2>
-		<segment3>(repeat first part 2x). (then sing the second part 3x)</segment3>
-		<segment4>Holy, holy, holy. (you are). Holy, holy, holy. Holy, holy, holy. I want to see you. (repeat)</segment4>
-		<segment5>Open the eyes of my heart, Lord. Open the eyes of my heart. I want to see you, I want to see you</segment5>
-		<segment6>To see you high and lifted up, Shining in the light of your glory. Pour out your power and love, As we sing holy, holy, holy. (repeat)</segment6>
-		<segment7>Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. I want to see you. (repeat 2x)</segment7>
-		<segment8>I want to see you. (Lord I want to). I want to see you    </segment8>
+		<segment3>Holy, holy, holy. We cry holy, holy, holy. You are holy, holy, holy. I want to see you.</segment3>
 	</english>
+	
+	<thai>
+		<segment1>โปรดเปิดดวงตาแห่งดวงใจออก โปรดเปิดดวงตาแห่งดวงใจ ลูกต้องการได้เห็น ลูกต้องการได้เห็น</segment1>
+		<segment2>ได้เห็นพระองค์ ประทับอยู่สูง ฉายยังลูกด้วยแสงแห่งพระสิริ เทลงด้วยฤทธิ์และความรัก เมื่อร้องว่า วิสุทธิ์ วิสุทธิ์ วิสุทธิ์</segment2>
+		<segment3>วิสุทธิ์ วิสุทธิ์ วิสุทธิ์ (x3) ลูกต้องการได้เห็น</segment3>
+	</thai>
+	
 </song>

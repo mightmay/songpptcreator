@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระเยซู พระองค์บริสุทธิ์</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus</order>
+
+<thai>
+    <verse1>พระเยซู พระองค์บริสุทธิ์ เป็นพระเจ้าสูงสุด เราขอก้มกราบบูชา พระเยซู พระองค์ผู้โสภา เราขอน้อมวันทา นมัสการพระองค์</verse1>
+    <verse2>พระเยซู พระองค์พลีพระชนม์ ทรงช่วยเราทุกคน รอดพ้นจากสิ่งเลวร้าย พระเยซู มีพระคุณมากมาย เราน้อมใจและกาย ถวายให้พระเยซู</verse2>
+    <chorus>*เราขอชูมือสรรเสริญ นมัสการ ด้วยวิญญาณและความจริง เพราะพระองค์เป็นทุกสิ่ง เราขอพึ่งพิง มอบชีวิตรับใช้พระองค์ (ตามน้ำพระทัย)</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</chord>
+
+</song>
