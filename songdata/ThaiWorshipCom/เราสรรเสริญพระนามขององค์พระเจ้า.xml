@@ -1,11 +1,15 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>เราสรรเสริญพระนามขององค์พระเจ้า</thainame>
-	<englishname>none</englishname>
+	<englishname>I Sing Praises to Your Name</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2</order>
 	<thai>
 		<verse1>1.เราสรรเสริญพระนามขององค์พระเจ้า  เราสรรเสริญพระนามพระเจ้า  เพราะพระนามยิ่งใหญ่  เกรียงไกรสมคำสรรเสริญ(ซ้ำข้อ1)</verse1>
 		<verse2>2.ถวายเกียรติแด่นามขององค์พระเจ้า  ถวายเกียรติแด่นามพระเจ้า  เพราะพระนามยิ่งใหญ่  เกรียงไกรสมคำสรรเสริญ(ซ้ำข้อ2)</verse2>
 	</thai>
+	<english>
+		<verse1>I sing praises to Your name, O Lord, praises to Your name, O Lord, for Your name is great and greatly to be praised.</verse1>
+		<verse2>I give glory to Your name, O Lord, glory to Your name, O Lord, for Your name is great and greatly to be praised.</verse2>
+	</english>
 </song>

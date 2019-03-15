@@ -885,7 +885,13 @@
 	<song name="ผู้สูงสุด">ThaiWorshipCom/ผู้สูงสุด.xml</song>
 	<song name="เผชิญได้ทุกปัญหา">ThaiWorshipCom/เผชิญได้ทุกปัญหา.xml</song>
 	<song name="เรายินดีแสนยินดี">ThaiWorshipCom/เรายินดีแสนยินดี.xml</song>
+	
 	<song name="เราสรรเสริญพระนามขององค์พระเจ้า">ThaiWorshipCom/เราสรรเสริญพระนามขององค์พระเจ้า.xml</song>
+	<song name="isingpraisestoyourname">ThaiWorshipCom/เราสรรเสริญพระนามขององค์พระเจ้า.xml</song>
+	<song name="isingpraisetoyourname">ThaiWorshipCom/เราสรรเสริญพระนามขององค์พระเจ้า.xml</song>
+	<song name="isingpraisetoyournameolord">ThaiWorshipCom/เราสรรเสริญพระนามขององค์พระเจ้า.xml</song>
+	<song name="isingpraisetoyournameohlord">ThaiWorshipCom/เราสรรเสริญพระนามขององค์พระเจ้า.xml</song>
+
 	<song name="เราสรรเสริญพระองค์บนบัลลังก์">ThaiWorshipCom/เราสรรเสริญพระองค์บนบัลลังก์.xml</song>
 	<song name="เราสู้ยอมตายเพื่อท่าน">ThaiWorshipCom/เราสู้ยอมตายเพื่อท่าน.xml</song>
 	<song name="เราหวงแหนเจ้า โอ้ ศิโยน">ThaiWorshipCom/เราหวงแหนเจ้า โอ้ ศิโยน.xml</song>
