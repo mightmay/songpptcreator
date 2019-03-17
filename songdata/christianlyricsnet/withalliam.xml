@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <song>
-	<thainame>none</thainame>
-	<englishname>With All I Am </englishname>
+	<thainame>หมดทั้งดวงใจ</thainame>
+	<englishname>With All I Am</englishname>
 	<mienthainame>none</mienthainame>
-	<order>segment1,segment2,segment3,segment4</order>
+	<order>verse1,chorus,verse2,outro</order>
 	<english>
-		<segment1>Into Your hands. I commit again. With all I am, for You, Lord. You hold my world. In the palm of Your hand. And I am Yours forever </segment1>
-		<segment2>Jesus I believe in You. Jesus I belong to You. Youre the reason that I live. The reason that I sing. With all I am </segment2>
-		<segment3>Ill walk with You. Wherever You go. Through tears and joy. Ill trust in You. And I will live. In all of Your ways. And Your promises, forever </segment3>
-		<segment4>I will worship. I will worship You    </segment4>
+    <verse1>Into your hands. I commit again With all I am, for you, lord. You hold my world. In the palm of your hand. And I am yours forever.</verse1>
+    <chorus>Jesus I believe in you. Jesus I belong to you. You're the reason that I live. The reason that I sing. With all I am.</chorus>
+    <verse2>I'll walk with you. Wherever you go. Through tears and joy. I'll trust in you. And I will live. In all of your ways. And your promises, forever.</verse2>
+    <outro>I will worship. I will worship you. I will worship. I will worship you.</outro>
 	</english>
+	
+	<thai>
+    <verse1>ฝากทั้งชีวิต วางลงที่พระหัตถ์ มอบแด่พระองค์ ทั้งชีวิต หมดชีวิตข้า พยุงในพระหัตถ์ อุ้มชูรักข้า ชั่วนิจรันดร</verse1>
+    <chorus>* พระเยซูข้าเชื่อ พระองค์ พระองค์ทรงเป็นเจ้าของ ชีวิต พระองค์นั้นคือเหตุผล ที่ชีวิตข้า สรรเสริญ (หมดทั้งดวงใจ)</chorus>
+    <verse2>ติดตามพระองค์ ไปในทุกหนแห่ง ทุกข์สุขไม่หวั่น วางใจพระองค์ จะใช้ชีวิต ในทางของพระองค์ ในพระสัญญาตราบนิรันดร</verse2>
+    <outro>ข้านมัสการ จะสรรเสริญพระองค์ ข้านมัสการ จะสรรเสริญพระองค์</outro>
+	</thai>
 </song>

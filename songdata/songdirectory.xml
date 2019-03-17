@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+<song name="วันต่อวัน">วันต่อวัน.xml</song>
+<song name="วันต่อวันฉันเดินไปกับองค์พระเยซู">วันต่อวัน.xml</song>
+
 <song name="ด้วยความเชื่อ">ด้วยความเชื่อ.xml</song>
 <song name="ด้วยความเชื่อโต๋">ด้วยความเชื่อ.xml</song>
 <song name="โต๋ด้วยความเชื่อ">ด้วยความเชื่อ.xml</song>
@@ -2049,7 +2053,12 @@
 	<song name="forallyouvedone">christianlyricsnet/forallyouvedone.xml</song>
 	<song name="oneway">christianlyricsnet/oneway.xml</song>
 	<song name="evermore">christianlyricsnet/evermore.xml</song>
+	
 	<song name="withalliam">christianlyricsnet/withalliam.xml</song>
+		<song name="withalliamhillsong">christianlyricsnet/withalliam.xml</song>
+	<song name="หมดทั้งดวงใจ">christianlyricsnet/withalliam.xml</song>
+
+
 	<song name="singyourlove">christianlyricsnet/singyourlove.xml</song>
 	<song name="hallelujah">christianlyricsnet/hallelujah.xml</song>
 	<song name="youareworthy">christianlyricsnet/youareworthy.xml</song>
