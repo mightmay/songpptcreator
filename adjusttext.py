@@ -44,12 +44,12 @@ def autoaddnewline(inputstring,fontsize,langcount,language):
 
 def autolinespacing(inputstring,fontsize,langcount,language):
     totalchar=len(inputstring)
-    linesize=48
+    linesize=52
     if(langcount==1):
         linesize = 230-totalchar+math.ceil(fontsize*0.15)
         print("line size = 230 -"+str(totalchar) +"+"+str(math.ceil(fontsize*0.15)))
-        if(linesize<48):
-            linesize=48
+        if(linesize<52):
+            linesize=52
         if(linesize>70):
             linesize=70
     

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
 
+<song name="comethoufountofeveryblessing">comethoufountofeveryblessing.xml</song>
+<song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>
+<song name="comethoufountofeveryblessings">comethoufountofeveryblessing.xml</song>
+
+
+
 <song name="วันต่อวัน">วันต่อวัน.xml</song>
 <song name="วันต่อวันฉันเดินไปกับองค์พระเยซู">วันต่อวัน.xml</song>
 
@@ -174,6 +180,7 @@
 <song name="foreverchristomlin">forever.xml</song>
 <song name="hisloveenduresforever">forever.xml</song>
 <song name="hisloveendureforever">forever.xml</song>
+<song name="ชั่วนิรันดร์">forever.xml</song>
 
 <song name="จงสรรเสริญพระเจ้าเถิด">จงสรรเสริญพระเจ้าเถิด.xml</song>
 <song name="จงสรรเสริญพระเจ้าเถิดเปล่งเสียงโห่ร้องถวาย">จงสรรเสริญพระเจ้าเถิด.xml</song>
@@ -2152,7 +2159,8 @@
 	<song name="immortalinvisible">christianlyricsnet/immortalinvisible.xml</song>
 	<song name="takeheartmyfriend">christianlyricsnet/takeheartmyfriend.xml</song>
 	<song name="morelovetothee">christianlyricsnet/morelovetothee.xml</song>
-	<song name="comethoufountofeveryblessing">christianlyricsnet/comethoufountofeveryblessing.xml</song>
+	
+	
 	<song name="nothingbuttheblood">christianlyricsnet/nothingbuttheblood.xml</song>
 	<song name="praisetothelordthealmighty">christianlyricsnet/praisetothelordthealmighty.xml</song>
 	<song name="believemenow">christianlyricsnet/believemenow.xml</song>
