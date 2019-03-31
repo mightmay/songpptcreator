@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
 
+<song name="เหนือโลกา">เหนือโลกา.xml</song>
+<song name="แผ่นดินร่วมร้องเปรมปรีด์">เหนือโลกา.xml</song>
+<song name="เรายกย่องพระนามพระองค์เราสรรเสริญถึงความยิ่งใหญ่">เหนือโลกา.xml</song>
+
 <song name="comethoufountofeveryblessing">comethoufountofeveryblessing.xml</song>
 <song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>
 <song name="comethoufountofeveryblessings">comethoufountofeveryblessing.xml</song>
@@ -293,6 +297,7 @@
 <song name="youarethepotteriamtheclay">changemyheartohgod.xml</song>
 <song name="changemyheartogodmayibelikeyou">changemyheartohgod.xml</song>
 <song name="changemyheartohgodmayibelikeyou">changemyheartohgod.xml</song>
+<song name="เปลี่ยนแปลงชีวิตข้า">changemyheartohgod.xml</song>
 
 <song name="เราเป็นหนึ่งในความรักพระคริสต">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="เราเป็นหนึ่งในความรักพระคริส">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
@@ -398,6 +403,7 @@
 <song name="throughitallhillsong">throughitall.xml</song> 
 <song name="hillsongthroughitall">throughitall.xml</song> 
 <song name="youwillneverletmegothroughitall">throughitall.xml</song> 
+<song name="พระองค์ทรงอยู่ในชีวิตฉัน">throughitall.xml</song> 
 
 
 <song name="นี่เป็นคำอธิษฐาน">นี่เป็นคำอธิษฐาน.xml</song> 
@@ -586,6 +592,7 @@
 <song name="thepowerofyourlove">powerofyourlove.xml</song>
 <song name="holdmecloseletyourlovesurroundme">powerofyourlove.xml</song>
 <song name="กำลังในความรักพระองค์">powerofyourlove.xml</song>
+<song name="โดยอำนาจความรักพระองค์">โดยอำนาจความรักพระองค์.xml</song>
 		
 <song name="รักในโครินธ์">รักในโครินธ์.xml</song>
 <song name="ความรักในโครินธ์">รักในโครินธ์.xml</song>
@@ -892,7 +899,11 @@
 	<song name="เปิดตาข้า">ThaiWorshipCom/เปิดตาข้า.xml</song>
 	<song name="โปรดจูงมือ">ThaiWorshipCom/โปรดจูงมือ.xml</song>
 	<song name="โปรดช่วยไทยแลนด์">ThaiWorshipCom/โปรดช่วยไทยแลนด์.xml</song>
+	
 	<song name="โปรดชำระดวงใจของข้า">ThaiWorshipCom/โปรดชำระดวงใจของข้า.xml</song>
+	<song name="createinmeacleanheart">ThaiWorshipCom/โปรดชำระดวงใจของข้า.xml</song>
+
+
 	<song name="โปรดดลหัวใจ">ThaiWorshipCom/โปรดดลหัวใจ.xml</song>
 	<song name="โปรดทรงเปิดตา">ThaiWorshipCom/โปรดทรงเปิดตา.xml</song>
 	<song name="โปรดทรงสำแดง">ThaiWorshipCom/โปรดทรงสำแดง.xml</song>

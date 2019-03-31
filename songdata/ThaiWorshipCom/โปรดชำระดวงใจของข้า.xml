@@ -1,11 +1,19 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>โปรดชำระดวงใจของข้า</thainame>
-	<englishname>none</englishname>
+	<englishname>Create In Me a Clean Heart</englishname>
 	<mienthainame>none</mienthainame>
-	<order>verse1,verse2</order>
+	<order>verse1,verse2,verse3</order>
 	<thai>
 		<verse1>โปรดชำระดวงใจของข้าให้สะอาด และฟื้นน้ำใจขึ้นใหม่ในดวงใจข้า(2)</verse1>
-		<verse2>ขออย่าทรงทิ้งข้า จากพระพักตร์ของพระองค์ แต่ขอองค์พระวิญญาณสถิตภายใน ทรงฟื้นน้ำใจข้า ด้วยพระโลหิตแห่งการไถ่ และฟื้นน้ำใจขึ้นใหม่ในดวงใจข้า</verse2>
+		<verse2>ขออย่าทรงทิ้งข้า จากพระพักตร์ของพระองค์ แต่ขอองค์พระวิญญาณสถิตภายใน</verse2>
+		<verse3>ทรงฟื้นน้ำใจข้า ด้วยพระโลหิตแห่งการไถ่ และฟื้นน้ำใจขึ้นใหม่ในดวงใจข้า</verse3>
+
 	</thai>
+	<english>
+		<verse1>Create in me a clean heart Oh God. And renew a right spirit Within me (2x)</verse1>
+		<verse2>Cast me not away From Thy presence oh Lord. And take not Thy Holy Spirit From me.</verse2>
+		<verse3>Restore unto me The joy of They salvation. And renew a right spirit within me.</verse3>
+
+	</english>
 </song>

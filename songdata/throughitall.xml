@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
 
-<thainame>none</thainame>
+<thainame>พระองค์ทรงอยู่ในชีวิตฉัน</thainame>
 <englishname>Through it all</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1,chorus,outro</order>
+<order>verse1,verse1-2,chorus,chorus-2,outro</order>
 
 <thai>
+<verse1>พระองค์ทรงอยู่ในชีวิตฉัน ทรงเฝ้ามองอยู่ทุกเวลา พระหัตถ์พระองค์ล้อมชีวา</verse1>
+<verse1-2>นำฉันให้อยู่ในความชอบธรรม และฉันจึงจับตา รอคอยพระศิลา</verse1-2>
+<chorus>จะร้องเพลงสรรเสริญ เพราะรักพระองค์ เพราะความรักพระองค์มั่นคง</chorus>
+<chorus-2>ประคองฉันให้อยู่ในอ้อมแขนนิรันดร์ ไม่เคยทอดทิ้งฉันไป ไม่ว่าอย่างไร</chorus-2>
+<outro>ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา</outro>
+
 </thai>
 
 <english>
-    <verse1>You are forever in my life. You see me through the seasons. Cover me with Your hand. And lead me in Your righteousness. And I look to You. And I wait on You.</verse1>
-    <chorus>I will sing to You, Lord. A hymn of love. For Your faithfulness to me. I'm carried in everlasting arms. You'll never let me go. Through it all.</chorus>
+<verse1>You are forever in my life. You see me through the seasons. Cover me with Your hand.</verse1>
+<verse1-2>And lead me in Your righteousness. And I look to You. And I wait on You.</verse1-2>
+
+<chorus>I will sing to You, Lord. A hymn of love. For Your faithfulness to me.</chorus>
+<chorus-2>I'm carried in everlasting arms. You'll never let me go. Through it all.</chorus-2>
+
         <outro>Hallelujah, hallelujah</outro>
 
 </english>
