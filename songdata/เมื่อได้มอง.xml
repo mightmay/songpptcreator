@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เมื่อได้มอง</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus</order>
+
+<thai>
+    <verse1>เมื่อได้มองแสงทองที่ส่องสวยงาม มีภูเขา พื้นดิน มีดอกไม้บาน มีต้นไม้ร่มเย็น มีทะเลลำธาร มีท้องฟ้าที่ยังสดสวยงาม</verse1>
+    <verse2>เมื่อได้มองเห็นปลาที่แหวกว่ายไป เมื่อได้มองทะเลที่ใหญ่กว้างไกล เมื่อมีลมพัดมา พาให้ใจชื่นบาน มีตะวันที่ยังส่องแสงมา</verse2>
+    <chorus>พระเจ้าของเรายิ่งใหญ่ เกินอธิบายเข้าใจ สร้างบันดาลทุกสิ่ง เป็นความรักและเป็นความจริง พระองค์ทรงยิ่งใหญ่เหนือใคร</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</chord>
+
+</song>
