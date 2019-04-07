@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>องค์พระเจ้าอยู่ที่นี่</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>intro,verse1,chorus,verse2,chorus2</order>
+
+<thai>
+    <intro>โหว่ โว โว๊... โว โอ๊ โว โอ... โว โอ่ โว๊</intro>
+
+    <verse1>1. ขอให้เราได้เห็น ได้พบกับพระองค์ ขอทรงให้ใจเรา เข้าใจน้ำพระทัย ขอให้เราได้ยิน อยากฟังเสียงพระองค์ ขอพระองค์สำแดง ขอพระองค์สำแดง</verse1>
+    <verse2>2. ขอทรงเปิดหนทาง พระสิริสำแดง ทรงนำประชาชาติ สู่แผ่นดินของพระองค์ ขอฟ้าสวรรค์เปิด เทไฟพระวิญญาณ ขอพระองค์สำแดง ขอพระองค์สำแดง</verse2>
+    <chorus>** (ว่า)องค์พระเจ้า อยู่ที่นี่ พระองค์ทรง มีฤทธิ์อำนาจ เราจึงเข้า มาเพื่อพบพระพักตร์พระองค์ องค์พระเจ้า อยู่ที่นี่ ทรงซื่อตรง ในพระสัญญา นำเรามา พบกับความจริง ว่าพระ เยซู เป็นพระเจ้า</chorus>
+    <chorus2>*** บริสุทธิ์ ร้องว่า บริสุทธิ์ ฮาเลลูยา ประทับที่นี่ บริสุทธิ์ ร้องว่า บริสุทธิ์ ฮาเลลูยา ประทับที่นี่</chorus2>
+
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>
