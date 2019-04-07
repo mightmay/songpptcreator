@@ -2,7 +2,7 @@
 <song>
 
 <thainame>องค์พระเจ้าอยู่ที่นี่</thainame>
-<englishname>none</englishname>
+<englishname>God is Here</englishname>
 <mienthainame>none</mienthainame>
 <order>intro,verse1,chorus,verse2,chorus2</order>
 
@@ -17,12 +17,12 @@
 </thai>
 
 <english>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <intro>Oh, Oh, Oh, Oh, Oh Oh, Oh, Oh, Oh, Oh</intro>
+
+    <verse1>Open our eyes Lord, we want to see You. Open our hearts Lord, we want to know You. Open our ears Lord, we need to hear You. Jesus be revealed, Jesus be revealed.</verse1>
+    <verse2>Open the gates Lord, reveal Your glory. Open the Nations, establish Your Kingdom. Open the Heavens, pour out Your Spirit. Jesus be revealed, Jesus be revealed.</verse2>
+    <chorus>God is here, God is here, God is here, He is able. We draw near, to see Jesus face to face. God is here, God is here, God is here, He is faithful. We draw near, to see Jesus, Oh Jesus be revealed.</chorus>
+    <chorus2>Holy, we cry holy. Hallelujah, God is here. Holy, we cry holy. Hallelujah, God is here.</chorus2>
 </english>
     
 <mienthai>
