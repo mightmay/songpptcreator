@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>พระเยซูผู้งามเลิศ</thainame>
-	<englishname>none</englishname>
+	<englishname>Fairest Lord Jesus</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2,verse3,verse4,verse5</order>
 	<thai>
@@ -11,4 +11,11 @@
 		<verse4>แสงแดดส่องงามสดสีแสงดวงจันทร์ยิ่งงามกว่านี้ ยังแสงดวงดาวซึ่งส่องเป็นประกาย</verse4>
 		<verse5>พระเยซูบริสุทธิ์งามเลิศด้วยรัศมี เหล่าฑูตสวรรค์จึงกราบถวาย</verse5>
 	</thai>
+		<english>
+		<verse1>Fairest Lord Jesus! Ruler of all nature! O Thou of God and man the Son! Thee will I cherish, Thee will I honor, Thou, my soul's glory, joy, and crown!</verse1>
+		<verse2>Fair are the meadows; Fairer still the woodlands, Robed in the blooming garb of spring.</verse2>
+		<verse3>Jesus is fairer, Jesus is purer, Who makes the woeful heart to sing.</verse3>
+		<verse4>Fair is the sunshine, Fairer still the moonlight, And all the twinkling, starry host.</verse4>
+		<verse5>Jesus shines brighter, Jesus shines purer, Than all the angels Heav'n can boast.</verse5>
+	</english>
 </song>
