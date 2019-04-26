@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+<song name="oneway">oneway.xml</song>
+<song name="onewayjesus">oneway.xml</song>
+<song name="onewayhillsong">oneway.xml</song>
+<song name="ทางเดียวเยซู ">oneway.xml</song>
+
 <song name="องค์พระเจ้าอยู่ที่นี่truewoshipper">องค์พระเจ้าอยู่ที่นี่.xml</song>
 <song name="องค์พระเจ้าอยู่ที่นี่">องค์พระเจ้าอยู่ที่นี่.xml</song>
 <song name="godishere">องค์พระเจ้าอยู่ที่นี่.xml</song>
@@ -2078,7 +2084,6 @@
 	<song name="withyou">christianlyricsnet/withyou.xml</song>
 	<song name="shouttotheking">christianlyricsnet/shouttotheking.xml</song>
 	<song name="forallyouvedone">christianlyricsnet/forallyouvedone.xml</song>
-	<song name="oneway">christianlyricsnet/oneway.xml</song>
 	<song name="evermore">christianlyricsnet/evermore.xml</song>
 	
 	<song name="withalliam">christianlyricsnet/withalliam.xml</song>
