@@ -3,9 +3,15 @@
 	<thainame>ตั้งแต่ดวงตะวันเบิกฟ้า</thainame>
 	<englishname>none</englishname>
 	<mienthainame>none</mienthainame>
-	<order>verse1,chorus1</order>
+	<order>verse1,chorus1,chorus2</order>
 	<thai>
-		<verse1>ตั้งแต่ดวงตะวันเบิกฟ้าแสงนภาเลื่อนกลับอัสดง นามพระองค์ จะเป็นที่สรรเสริญ(2)</verse1>
-		<chorus1>*สรรเสริญพระนามเถิดบรรดาผู้รับใช้พระเจ้าเอ๋ย จงสรรเสริญพระนามพระองค์ สาธุการพระนามแด่พระเจ้าในกาลวันนี้ และชั่วนิจนิรันดร  ตั้งแต่ดวงตะวันเบิกฟ้า แสงนภาเลื่อนกลับอัสดง นามพระองค์จะเป็นที่สรรเสริญ สรรเสริญพระนาม เถิดบรรดาผู้รับใช้พระเจ้าเอ๋ย จงสรรเสริญนามพระองค์ สาธุการพระนามแด่พระเจ้า ในกาลวันนี้และชั่วนิจนิรันดร์</chorus1>
+		<verse1>ตั้งแต่ดวงตะวันเบิกฟ้า แสงนภาเลื่อนกลับ อัสดง นามพระองค์จะเป็นที่สรรเสริญ</verse1>
+		<chorus1>สรรเสริญพระนาม เถิดบรรดาผู้รับใช้พระเจ้าเอ๋ย จงสรรเสริญนามพระองค์</chorus1>
+		<chorus2>สาธุการพระนามแด่พระเจ้า ในกาลวันนี้และชั่วนิจนิรันดร์</chorus2>
 	</thai>
+	<english>
+		<verse1>From the rising of the sun. To the going down of the same. The Lord's name is to be praised.</verse1>
+		<chorus1>Praise ye the Lord. Praise Him all ye servants of the Lord. Praise the name of the Lord.</chorus1>
+		<chorus2>Blessed be the name of the Lord. From this time forth and forever more.</chorus2>
+	</english>
 </song>
