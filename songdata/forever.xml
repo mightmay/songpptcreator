@@ -4,19 +4,30 @@
 <thainame>ชั่วนิรันดร์</thainame>
 <englishname>Forever</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1,verse2,chorus,verse3,chorus</order>
+<order>verse1,verse1-2,verse2,verse2-2,chorus,verse3,verse3-2,chorus</order>
 
 <thai>
-    <verse1>1. พระเจ้าจอมราชา เราโมทนา ความรักพระองค์ดำรงนิรันดร์ พระองค์ทรงดี และทรงอยู่เหนือทุกสิ่ง ความรักพระองค์ดำรงนิรันดร์ เราร้อง สรรเสริญ</verse1>
-    <verse2>2. ด้วยพระหัตถ์ทรงฤทธิ์ โอบล้อมชีวี ความรักพระองค์ดำรงนิรันดร์ ทรงประทาน (และ) ให้ชีวิตใหม่ ความรักพระองค์ดำรงนิรันดร์ เราร้อง สรรเสริญ</verse2>
-    <verse3>3. จากดวงตะวัน ขึ้นจนลับลาไป ความรักพระองค์ดำรงนิรันดร์ โดยพระคุณพระองค์ ทรงนำเราก้าวไป ความรักพระองค์ดำรงนิรันดร์ เราร้อง สรรเสริญ</verse3>
+    <verse1>1. พระเจ้าจอมราชา เราโมทนา ความรักพระองค์ดำรงนิรันดร์ </verse1>
+	<verse1-2>พระองค์ทรงดี และทรงอยู่เหนือทุกสิ่ง ความรักพระองค์ดำรงนิรันดร์ เราร้อง สรรเสริญ</verse1-2>
+
+    <verse2>2. ด้วยพระหัตถ์ทรงฤทธิ์ โอบล้อมชีวี ความรักพระองค์ดำรงนิรันดร์ </verse2>
+	<verse2-2>ทรงประทาน (และ) ให้ชีวิตใหม่ ความรักพระองค์ดำรงนิรันดร์ เราร้อง สรรเสริญ</verse2-2>
+
+    <verse3>3. จากดวงตะวัน ขึ้นจนลับลาไป ความรักพระองค์ดำรงนิรันดร์</verse3>
+	<verse3-2>โดยพระคุณพระองค์ ทรงนำเราก้าวไป ความรักพระองค์ดำรงนิรันดร์ เราร้อง สรรเสริญ</verse3-2>
+
     <chorus>** ชั่วนิรันดร์ พระองค์สัตย์ซื่อ ชั่วนิรันดร์ ทรงฤทธา ชั่วนิรันดร์ ทรงอยู่กับเรา ชั่วนิรันดร์ และนิรันดร์ นิจนิรันดร์</chorus>
 </thai>
 
 <english>
-    <verse1>Give thanks to the Lord our God and King. His love endures forever. For He is good, He is above all things. His love endures forever. Sing praise, sing praise.</verse1>
-    <verse2>With a mighty hand and outstretched arm. His love endures forever. For the life that’s been reborn. His love endures forever. Sing praise, sing praise.</verse2>
-    <verse3>From the rising to the setting sun. His love endures forever. By the grace of God we will carry on. His love endures forever. Sing praise, sing praise.</verse3>
+    <verse1>Give thanks to the Lord our God and King. His love endures forever.</verse1>
+    <verse1-2>For He is good, He is above all things. His love endures forever. Sing praise, sing praise.</verse1-2>
+
+    <verse2>With a mighty hand and outstretched arm. His love endures forever.</verse2>
+    <verse2-2>For the life that’s been reborn. His love endures forever. Sing praise, sing praise.</verse2-2>
+
+    <verse3>From the rising to the setting sun. His love endures forever.</verse3-2>
+    <verse3-2>By the grace of God we will carry on. His love endures forever. Sing praise, sing praise.</verse3-2>
 
     <chorus>Forever God is faithful. Forever God is strong. Forever God is with us. Forever</chorus>
 </english>
