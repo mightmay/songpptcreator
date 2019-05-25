@@ -954,6 +954,10 @@
 	<song name="เรานำเครื่องบูชาสรรเสริญ">ThaiWorshipCom/เรานำเครื่องบูชาสรรเสริญ.xml</song>
 	<song name="เราจะเข้ามาสรรเสริญ">ThaiWorshipCom/เราจะเข้ามาสรรเสริญ.xml</song>
 	<song name="เราจะติดตามพระองค์">ThaiWorshipCom/เราจะติดตามพระองค์.xml</song>
+	
+		<song name="iwillgivethankstothee">ThaiWorshipCom/เราจะโมทนาพระคุณ.xml</song>
+		<song name="iwillgivethanktothee">ThaiWorshipCom/เราจะโมทนาพระคุณ.xml</song>
+
 	<song name="เราจะโมทนาพระคุณ">ThaiWorshipCom/เราจะโมทนาพระคุณ.xml</song>
 	<song name="เราจะยกพระนามของพระองค์">ThaiWorshipCom/เราจะยกพระนามของพระองค์.xml</song>
 	<song name="เราจะยินดีและเราจะเปรมปรีดิ์">ThaiWorshipCom/เราจะยินดีและเราจะเปรมปรีดิ์.xml</song>

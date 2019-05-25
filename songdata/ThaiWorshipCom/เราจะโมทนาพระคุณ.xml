@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>เราจะโมทนาพระคุณ</thainame>
-	<englishname>none</englishname>
+	<englishname>I Will Give Thanks to Thee</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2,verse3,verse4</order>
 	<thai>
 		<verse1>เราจะโมทนาพระคุณ ทรงการุณอยู่เหนือชนนานา เราจะร้องเพลงสรรเสริญ ท่ามกลางปวงประชา</verse1>
 		<verse2>เพราะความรักพระองค์มั่นคง ดำรงพร้อมทุกเวลา เพราะพระองค์ดำรง ความสัตย์ซื่อตรง สุดล้ำพรรณา</verse2>
 		<verse3>เราจึงสรรเสริญ เทิดทูนพระองค์สุดดวงใจ ขอให้พระเกียรติ จงมีแด่องค์จอมราชา</verse3>
-		<verse4>เราจึงสรรเสริญเทอดทูน พระองค์สุดดวงใจ ขอให้พระเกียรติ ขอให้พระเกียรติ ขอให้พระเกียรติ จงมีแด่องค์จอมราชา  เราจะโมทนาพระคุณ ทรงการุณอยู่เหนือชนนานา เราจะร้องเพลงสรรเสริญ ท่ามกลางปวงประชา เพราะความรักพระองค์มั่นคง ดำรงพร้อมทุกเวลา และพระองค์ดำรงความสัตย์ซื่อตรง สุดล้ำพรรณา เราจึงสรรเสริญเทิดทูน พระองค์สุดดวงใจ ขอให้พระเกียรติ จงมีแด่องค์จอมราชา เราจึงสรรเสริญเทิดทูน พระองค์สุดดวงใจ ขอให้พระเกียรติขอให้พระเกียรติ ขอให้พระเกียรติ จงมีแด่องค์จอมราชา</verse4>
+		<verse4>เราจึงสรรเสริญเทอดทูน พระองค์สุดดวงใจ ขอให้พระเกียรติ ขอให้พระเกียรติ ขอให้พระเกียรติ จงมีแด่องค์จอมราชา</verse4>
 	</thai>
+		<english>
+		<verse1>I will give thanks to Thee O Lord, among the people. I will sing praises to Thee. Among the nations.</verse1>
+		<verse2>For Thy steadfast love is great. Is great to the heavens. And Thy faithfulness. Thy faithfulness to the clouds.</verse2>
+		<verse3>Be exalted, O God. Above the heavens. Let Thy glory be over all the earth.</verse3>
+		<verse4>Be exalted, O God. Above the heavens. Let Thy glory. Let Thy glory. Let Thy glory be over all the earth.</verse4>
+	</english>
+
 </song>
