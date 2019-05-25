@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เราจะร้องสรรเสริญพระนามพระองค์</thainame>
+<englishname>I Sing Praises To Your Name</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2</order>
+
+<thai>
+    <verse1>เราจะร้องสรรเสริญ พระนามพระองค์ ร้องสรรเสริญ พระนามพระองค์ เพราะพระองค์ประเสริฐ ล้ำเลิศกว่านามอื่นใด</verse1>
+    <verse2>เราจะร้องสรรเสริญ พระนามพระองค์ ร้องสรรเสริญ พระนามพระองค์ เพราะพระองค์ประเสริฐ ล้ำเลิศกว่านามทั้งปวง</verse2>
+</thai>
+
+<english>
+    <verse1>I sing praises to Your name, O Lord, Praises to Your name, O Lord, For Your name is great and greatly to be praised.</verse1>
+    <verse2>I give glory to Your name, O Lord, Glory to Your name, O Lord, For Your name is great and greatly to be praised.</verse2>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+</mienthai>
+
+<chord>
+    <verse1>G Cmaj7 D/C Bm7 Em Am7 C/D D C/D D Gmaj7 G/B</verse1>
+    <verse2>G Cmaj7 D/C Bm7 Em Am7 C/D D C/D D Gmaj7 G/B</verse2>
+</chord>
+
+</song>
