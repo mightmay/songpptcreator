@@ -4,33 +4,36 @@
 <thainame>เชิญพระวิญญาณแห่งความรักยิ่งใหญ่</thainame>
 <englishname>Spirit Song</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1,chorus,verse2,chorus</order>
+<order>verse1,verse1-2,chorus,verse2,verse2-2,chorus</order>
 
 <thai>
-    <verse1>เชิญพระวิญญาณแห่งความรักยิ่งใหญ่ ทรงเคลื่อนไหวเหนือเราทุกคน ให้เต็มล้นภายในสันติสุข อิ่มเอมใจ ขอทรงครอบครองความคิดและชีวิต ให้เป็นของพระองค์ทุกสิ่ง โดยพระวิญญาณบริสุทธิ์ เป็นผู้ทรงนำ</verse1>
-    <verse2>...</verse2>
+    <verse1>เชิญพระวิญญาณแห่งความรักยิ่งใหญ่ ทรงเคลื่อนไหวเหนือเราทุกคน ให้เต็มล้นภายในสันติสุข อิ่มเอมใจ </verse1>
+	<verse1-2>ขอทรงครอบครองความคิดและชีวิต ให้เป็นของพระองค์ทุกสิ่ง โดยพระวิญญาณบริสุทธิ์ เป็นผู้ทรงนำ</verse1-2>
+    <verse2>เชิญพระวิญญาณแห่งความรักยิ่งใหญ่ ทรงเคลื่อนไหวเหนือเราทุกคน ให้เต็มล้นภายในสันติสุข อิ่มเอมใจ </verse2>
+	<verse2-2>ขอทรงครอบครองความคิดและชีวิต ให้เป็นของพระองค์ทุกสิ่ง โดยพระวิญญาณบริสุทธิ์ เป็นผู้ทรงนำ</verse2-2>
 
-    <chorus>เย...ซู โอ้เย....ซู โปรด เจิม เราด้วยไฟ เย..ซู โอ้เย....ซู โปรด เจิมเรา ด้วยไฟ</chorus>
+
+    <chorus>เยซู โอ้เยซู โปรด เจิม เราด้วยไฟ เยซู โอ้เยซู โปรด เจิมเรา ด้วยไฟ</chorus>
 </thai>
 
 <english>
-    <verse1>Oh let the Son of God enfold you. With His Spirit and His love. Let Him fill your heart and satisfy your soul. Oh let Him have those things that hold you. And His Spirit like a dove. Will descend upon your life and make you whole.</verse1>
-    <verse2>Oh come and sing the song of gladness. As your hearts are filled with joy. Lift your hands in sweet surrender to His name. Oh give Him all your tears and sadness. Give Him all your years of pain. And you'll enter into life in Jesus' name.</verse2>
+    <verse1>Oh let the Son of God enfold you. With His Spirit and His love. Let Him fill your heart and satisfy your soul.</verse1>
+	    <verse1-2> Oh let Him have those things that hold you. And His Spirit like a dove. Will descend upon your life and make you whole.</verse1-2>
+
+    <verse2>Oh come and sing the song of gladness. As your hearts are filled with joy. Lift your hands in sweet surrender to His name. </verse2>
+    <verse2-2>Oh give Him all your tears and sadness. Give Him all your years of pain. And you'll enter into life in Jesus' name.</verse2-2>
 
     <chorus>Jesus oh Jesus, Come and fill Your lambs. Jesus oh Jesus, Come and fill Your lambs.</chorus>
 </english>
     
 <mienthai>
-    <verse1></verse1>
-    <verse2></verse2>
-
-    <chorus></chorus>
 </mienthai>
 
 <chord>
-    <verse1>D G A F#m Bm G A7 D D7 G A F#m Bm G A D</verse1>
-    <verse2>D G A F#m Bm G A7 D D7 G A F#m Bm G A D</verse2>
-
+    <verse1>D G A F#m Bm G A7 D D7 </verse1>
+	<verse1-2>G A F#m Bm G A D</verse1-2>
+    <verse2>D G A F#m Bm G A7 D D7</verse2>
+<verse2-2> G A F#m Bm G A D</verse2-2>
     <chorus>G A F#m Bm G A D D7 G A F#m Bm G A D</chorus>
 </chord>
 
