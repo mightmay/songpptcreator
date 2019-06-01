@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>สรรเสริญ สรรเสริญ สรรเสริญ</thainame>
+<englishname>Holy, Holy, Holy</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,verse3,verse4</order>
+
+<thai>
+    <verse1>1.สรรเสริญ สรรเสริญ สรรเสริญ ผู้เป็นเจ้าทรงเดชา เวลาเช้าควรข้าพเจ้าร้องเพลง สรรเสริญพระนาม สรรเสริญ สรรเสริญ สรรเสริญ แด่พระเจ้าผู้เมตตา ปรากฏเป็นสามนั้นคือพระเจ้าเดียวกัน</verse1>
+    <verse2>2.สรรเสริญ สรรเสริญ สรรเสริญ ชาวสวรรค์ชาวโลกา ชวนกันมาถวายพระเกียรติแด่ผู้เป็นเจ้าองค์เดียว องค์ผู้บริสุทธิ์นั้น ควรมนุษย์จะบูชา ผู้ทรงสภาพอยู่ตลอดกาลเวลา</verse2>
+    <verse3>3.สรรเสริญ สรรเสริญ สรรเสริญ แม้บางครั้งความมืดบัง ทำให้ตาคนบาปเรานี้ไม่อาจเห็นรัศมี แต่พระองค์ยังเป็นอยู่ไม่มีใครเทียบเทียมได้ สมบูรณ์ด้วยฤทธิ์เดชความรักความเมตตา</verse3>
+    <verse4>4.สรรเสริญ สรรเสริญ สรรเสริญ ผู้เป็นเจ้าทรงฤทธา ราชกิจพระองค์สำแดงอำนาจในจักรวาล สรรเสริญ สรรเสริญ สรรเสริญ ผู้ทรงรักชาวโลกา ปรากฏเป็นสามนั้นคือพระเจ้าเดียวกัน</verse4>
+</thai>
+
+<english>
+    <verse1>1 Holy, holy, holy! Lord God Almighty! Early in the morning our song shall rise to thee. Holy, holy, holy! Merciful and mighty! God in three Persons, blessed Trinity!</verse1>
+    <verse2>2 Holy, holy, holy! All the saints adore thee, casting down their golden crowns around the glassy sea; cherubim and seraphim falling down before thee, who wert, and art, and evermore shalt be.</verse2>
+    <verse3>3 Holy, holy, holy! Though the darkness hide thee, though the eye of sinful man thy glory may not see, only thou art holy; there is none beside thee perfect in pow'r, in love, and purity.</verse3>
+    <verse4>3 Holy, holy, holy! Though the darkness hide thee, though the eye of sinful man thy glory may not see, only thou art holy; there is none beside thee perfect in pow'r, in love, and purity.</verse4>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>

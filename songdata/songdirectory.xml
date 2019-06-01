@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="holyholyholy">holyholyholy.xml</song>
+<song name="สรรเสริญสรรเสริญสรรเสริญ">holyholyholy.xml</song>
+<song name="holyholyholylordgodalmighty">holyholyholy.xml</song>
+
 <song name="เราจะร้องสรรเสริญพระนามพระองค์">เราจะร้องสรรเสริญพระนามพระองค์.xml</song>
 <song name="isingpraisestoyourname">เราจะร้องสรรเสริญพระนามพระองค์.xml</song>
 <song name="isingpraisestoyournameolord">เราจะร้องสรรเสริญพระนามพระองค์.xml</song>
@@ -1558,7 +1562,6 @@
 	<song name="makingmelody">christianlyricsnet/makingmelody.xml</song>
 	<song name="drawme">christianlyricsnet/drawme.xml</song>
 	<song name="glorylordjesus">christianlyricsnet/glorylordjesus.xml</song>
-	<song name="holyholyholy">christianlyricsnet/holyholyholy.xml</song>
 	<song name="howmajesticisthyname">christianlyricsnet/howmajesticisthyname.xml</song>
 	<song name="iwillgivethankstothelord">christianlyricsnet/iwillgivethankstothelord.xml</song>
 	<song name="jesusislordofall">christianlyricsnet/jesusislordofall.xml</song>
