@@ -993,7 +993,11 @@
 	<song name="ยืนขึ้นและร้องเพลง">ThaiWorshipCom/ยืนขึ้นและร้องเพลง.xml</song>
 	<song name="ยืนบนพระคำ">ThaiWorshipCom/ยืนบนพระคำ.xml</song>
 	<song name="ยุคสุดท้าย">ThaiWorshipCom/ยุคสุดท้าย.xml</song>
+	
 	<song name="เรานำเสียงการสรรเสริญ">ThaiWorshipCom/เรานำเสียงการสรรเสริญ.xml</song>
+	<song name="webringthesacrificeofpraise">ThaiWorshipCom/เรานำเสียงการสรรเสริญ.xml</song>
+	
+	
 	<song name="เราบัญชาเจ้า">ThaiWorshipCom/เราบัญชาเจ้า.xml</song>
 	<song name="เราบูชาพระนาม">ThaiWorshipCom/เราบูชาพระนาม.xml</song>
 	<song name="เราประกาศ">ThaiWorshipCom/เราประกาศ.xml</song>

@@ -1,12 +1,17 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>เรานำเสียงการสรรเสริญ</thainame>
-	<englishname>none</englishname>
+	<englishname>We Bring The Sacrifice Of Praise</englishname>
 	<mienthainame>none</mienthainame>
-	<order>verse1,chorus1,verse2</order>
+	<order>verse1,chorus1,chorus2</order>
 	<thai>
 		<verse1>เรานำเสียงการสรรเสริญ  มายังวิหารของพระองค์ เรานำเสียงการสรรเสริญ  มายังวิหารของพระองค์</verse1>
 		<chorus1>*เราถวายคำโมทนาเป็นเครื่องบูชา แด่พระผู้เป็นเจ้า</chorus1>
-		<verse2>เราถวายคำสดุดีเป็นเครื่องบูชา แด่พระองค์</verse2>
+		<chorus2>เราถวายคำสดุดีเป็นเครื่องบูชา แด่พระองค์</chorus2>
 	</thai>
+	<english>
+		<verse1>We bring the sacrifice of praise. Unto the house of the Lord.We bring the sacrifice of praise. Unto the house of the Lord.</verse1>
+		<chorus1>*And we offer up to You, The sacrifices of thanksgiving;</chorus1>
+		<chorus2>And we offer up to You, The sacrifices of praise.</chorus2>
+	</english>
 </song>
