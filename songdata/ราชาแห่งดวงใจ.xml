@@ -2,32 +2,36 @@
 <song>
 
 <thainame>ราชาแห่งดวงใจ</thainame>
-<englishname>none</englishname>
+<englishname>The King Of My Heart</englishname>
 <mienthainame>none</mienthainame>
 <order>verse1,chorus</order>
 
 <thai>
-    <verse1>พระสิริเป็นของพระองค์ พระเจ้าผู้เที่ยงธรรมข้าขอนมัสการ ให้แผ่นดินเปรมปรีดิ์โห่ร้อง เปล่งเสียงถวายสรรเสริญ และก้มกราบลง นมัสการพระองค์</verse1>
+    <verse1>พระสิริเป็นของพระองค์ พระเจ้าผู้เที่ยงธรรมข้าขอนมัสการ</verse1>
+    <verse1-2>ให้แผ่นดินเปรมปรีดิ์โห่ร้อง เปล่งเสียงถวายสรรเสริญ และก้มกราบลง นมัสการพระองค์</verse1-2>
 
-    <chorus>ข้าจะนมัสการ ด้วยจิตวิญญาณและความจริง เพราะพระองค์คือทั้งสิ้น ที่หัวใจข้าต้องการ ข้าขอถวายวิญญาณ จะมอบวางชีวิตแทบพระบาท พระเจ้าของข้า ราชาแห่งดวงใจ</chorus>
+    <chorus>ข้าจะนมัสการ ด้วยจิตวิญญาณและความจริง เพราะพระองค์คือทั้งสิ้น ที่หัวใจข้าต้องการ </chorus>
+	    <chorus-2>ข้าขอถวายวิญญาณ จะมอบวางชีวิตแทบพระบาท พระเจ้าของข้า ราชาแห่งดวงใจ</chorus-2>
+
 </thai>
 
 <english>
-    <verse1></verse1>
+    <verse1>All the glory belong to You Lord of creation, I long to worship You.</verse1>
+    <verse1-2>Let the heaven and earth rejoice, singing song of praise. I will bow down and worship You alone.</verse1-2>
 
-    <chorus></chorus>
+    <chorus>Lord I will worship You, in spirit and in truth. For You alone are all my heart is yearning for.</chorus>
+    <chorus-2>Lord, I will give my heart. I lay down my life at Your feet. Oh Lord, my God You're the King of my heart.</chorus-2>
 </english>
     
 <mienthai>
-    <verse1></verse1>
-
-    <chorus></chorus>
 </mienthai>
 
 <chord>
-    <verse1>Bb Dm7 Eb F Bb Eb F Dsus D Gm7 Cm7 F Bb</verse1>
+    <verse1>Bb Dm7 Eb F Bb</verse1>
+    <verse1-2>Eb F Dsus D Gm7 Cm7 F Bb</verse1-2>
 
-    <chorus>Ebmaj7 F/Eb Dm7 Gm7 Cm7 F Bb Ab/Bb Ebmaj7 F/Eb Dm7 Gm7 Cm7 F Bb</chorus>
+    <chorus>Ebmaj7 F/Eb Dm7 Gm7 Cm7 F Bb Ab/Bb </chorus>
+    <chorus-2>Ebmaj7 F/Eb Dm7 Gm7 Cm7 F Bb</chorus-2>
 </chord>
 
 </song>
