@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เข้ามา</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,prechorus,chorus,chorus-2</order>
+
+<thai>
+    <verse1>ใจที่กระหาย การเยียวยา มือที่อ่อนล้า ไร้กำลัง เราปรารถนาเพียง จะได้หยุดพักในพระองค์</verse1>
+    <verse2>อยากมีชีวิตที่เริ่มใหม่ อยู่ในพระทัยของพระองค์ เรามีแต่หัวใจ ที่อยากจะร้องเป็นบทเพลง</verse2>
+    <prechorus>พระเยซู พระเยซู ข้าทูลร้องขอการรักษา ขอวางลง ทุกเรื่องที่ผ่านมา</prechorus>
+    <chorus>เข้ามา  หาพระองค์อย่างที่เราเป็น  มารับการเจิม มารับกำลังใหม่ ร้องด้วยใจทั้งหมดจะร้องทูลพระองค์</chorus>
+    <chorus-2>เข้ามาหาพระองค์อย่างที่เราเป็น นมัสการพระเจ้าผู้ยิ่งใหญ่ ขอพระองค์สัมผัส และขอทรงเจิมหัวใจ ด้วยไฟแห่งพระวิญญาณ</chorus-2>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>
