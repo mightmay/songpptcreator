@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>I Will Celebrate</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,verse3</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+
+</thai>
+
+<english>
+    <verse1>I will celebrate, Sing unto the Lord, I will sing to Him a new song (x2)</verse1>
+    <verse2>I will pra-ise Him, I will sing to Him a new song (x2)</verse2>
+    <verse3>Halleluiah, Halleluiah, Halleluiah, Halleluiah, Hal -le-lu, Halleluiah (x2)</verse3>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>
