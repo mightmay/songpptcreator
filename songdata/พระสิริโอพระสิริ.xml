@@ -2,20 +2,25 @@
 <song>
 
 <thainame>พระสิริ โอ พระสิริ</thainame>
-<englishname>none</englishname>
+<englishname>Glorius</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1,chorus</order>
+<order>verse1,chorus,chorus-2</order>
 
 <thai>
     <verse1>พระสิริ โอ พระสิริ พระเจ้าจอมราชา บริสุทธิ์ งดงามสง่า จอมราชาของเรา</verse1>
 
-    <chorus>*เราจึงก้มกราบเทิดทูน นมัสการ ด้วยวิญญาณ ที่ยกย่องและบูชา ด้วยเรามีพระเจ้าเดียว องค์ผู้เที่ยงธรรม ผู้ทรงครอบครองทั่วฟ้าและสวรรค์</chorus>
-</thai>
+    <chorus>*เราจึงก้มกราบเทิดทูน นมัสการ ด้วยวิญญาณ ที่ยกย่องและบูชา</chorus>
+    <chorus-2>ด้วยเรามีพระเจ้าเดียว องค์ผู้เที่ยงธรรม ผู้ทรงครอบครองทั่วฟ้าและสวรรค์</chorus-2>
+
+	</thai>
 
 <english>
-    <verse1></verse1>
+    <verse1>Glorious, so glorious Christ, our King of Kings. Beautiful in holiness, Lord of everything.</verse1>
 
-    <chorus></chorus>
+    <chorus>We will bow down on our knees to worship You. With a heart of praise and sacrifice.</chorus>
+	    <chorus-2>For You are the Lord, our righteousness. Ruling heaven and earth from on high.
+</chorus-2>
+
 </english>
     
 <mienthai>
@@ -27,7 +32,9 @@
 <chord>
     <verse1>G Bm C D G G Bm C D G</verse1>
 
-    <chorus>C D Bm Em C D G C D Bm Em C D G</chorus>
+    <chorus>C D Bm Em C D G</chorus>
+	    <chorus-2>C D Bm Em C D G</chorus-2>
+
 </chord>
 
 </song>

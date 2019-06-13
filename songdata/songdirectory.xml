@@ -143,10 +143,11 @@
 <song name="ข้าแต่พระบิดา">ข้าแต่พระบิดา.xml</song>
 <song name="ข้าแต่พระบิดาบงกช">ข้าแต่พระบิดา.xml</song>
 
+<song name="Color Songs 22">พระบิดาในสรรค์เรารักพระองค์.xml</song>
 <song name="พระบิดาในสรรค์เรารักพระองค์">พระบิดาในสรรค์เรารักพระองค์.xml</song>
 <song name="พระบิดาในสรรค์">พระบิดาในสรรค์เรารักพระองค์.xml</song>
 <song name="พระบิดาในสวรรค์">พระบิดาในสรรค์เรารักพระองค์.xml</song>
-<song name="พระบิดาในสวรรค์เรารักพระองค์อฟ13">พระบิดาในสรรค์เรารักพระองค์.xml</song>
+<song name="พระบิดาในสวรรค์เรารักพระองค์">พระบิดาในสรรค์เรารักพระองค์.xml</song>
 <song name="fatherinheavenhowweloveyoublessedbethelordgodalmighty">พระบิดาในสรรค์เรารักพระองค์.xml</song>
 <song name="fatherinheavenhowweloveyou">พระบิดาในสรรค์เรารักพระองค์.xml</song>
 <song name="blessedbethelordgodalmighty">พระบิดาในสรรค์เรารักพระองค์.xml</song>
@@ -188,7 +189,7 @@
 <song name="godwillmakeawaywherethereseemstobenoway">godwillmakeaway.xml</song>
 
 <song name="ข้ายกพระนามพระเจ้าของข้า">ข้ายกพระนามพระเจ้าของข้า.xml</song>
-
+<song name="พระสิริโอ้พระสิริ">พระสิริโอพระสิริ.xml</song>
 <song name="พระสิริโอพระสิริ">พระสิริโอพระสิริ.xml</song>
 <song name="พระสิริ">พระสิริโอพระสิริ.xml</song>
 
@@ -1107,7 +1108,6 @@
 	<song name="พระบารมี">ThaiWorshipCom/พระบารมี.xml</song>
 	<song name="พระบิดา">ThaiWorshipCom/พระบิดา.xml</song>
 	<song name="พระบิดาที่รัก - Let the peace of God">ThaiWorshipCom/พระบิดาที่รัก - Let the peace of God.xml</song>
-	<song name="พระบิดาในสวรรค์เรารักพระองค์">ThaiWorshipCom/พระบิดาในสวรรค์เรารักพระองค์.xml</song>
 	<song name="พระบิดาโปรดฟังคำร้องทูล">ThaiWorshipCom/พระบิดาโปรดฟังคำร้องทูล.xml</song>
 	<song name="พระบิดาผู้ทรงเมตตา">ThaiWorshipCom/พระบิดาผู้ทรงเมตตา.xml</song>
 	<song name="พระบิดาเราเชื่อวางใจ">ThaiWorshipCom/พระบิดาเราเชื่อวางใจ.xml</song>
@@ -1141,7 +1141,6 @@
 	<song name="พระสิริ">ThaiWorshipCom/พระสิริ.xml</song>
 	<song name="พระสิริ โอ พระสิริ">ThaiWorshipCom/พระสิริ โอ พระสิริ.xml</song>
 	<song name="พระสิริขององค์พระเจ้า">ThaiWorshipCom/พระสิริขององค์พระเจ้า.xml</song>
-	<song name="พระสิริโอ้พระสิริ">ThaiWorshipCom/พระสิริโอ้พระสิริ.xml</song>
 	<song name="พระสุรเสียงพระเจ้า">ThaiWorshipCom/พระสุรเสียงพระเจ้า.xml</song>
 	<song name="พระหัตถ์ของพระเจ้าห้าวหาญนัก">ThaiWorshipCom/พระหัตถ์ของพระเจ้าห้าวหาญนัก.xml</song>
 	<song name="พระองค์คือจอมราชา">ThaiWorshipCom/พระองค์คือจอมราชา.xml</song>
