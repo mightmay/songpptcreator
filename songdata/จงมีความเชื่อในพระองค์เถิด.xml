@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>จงมีความเชื่อในพระองค์เถิด</thainame>
+<englishname>Come And Put Your Trust</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
+
+<thai>
+    <verse1>จงมีความเชื่อในพระองค์เถิด พระองค์เป็นทุกสิ่ง เป็นทุกอย่าง ที่ใจของเราเข้าพึ่งพิง</verse1>
+    <prechorus1>มีความเชื่อสักนิด ภูเขาก็เคลื่อนได้ เปลี่ยนสิ่งร้ายหนักใจกลายเป็นดี</prechorus1>
+	<prechorus2>ร่วมความเชื่อร่วมใจร่วมกันใช้ฤทธิ์เดช จะได้เห็นถึงการอัศจรรย์</prechorus2>
+    <chorus1>ดูคนนั้นที่เขาหาย พระเยซูทรงรักษา ตามพระสัญญาที่ทรงประทานให้</chorus1>
+    <chorus2>ไม่มีเหลืออะไรแล้ว ที่ยากเกินไป มาร่วมใจเชื่อในพระเยซู</chorus2>
+
+</thai>
+
+<english>
+    <verse1>Come And Put Your Trust In The Lord, He Is Everything, All You Need, You Can Safely Trust In Him.</verse1>
+    <prechorus1>Faith As Small As A Seed Can Move A Mountain, And Hard Times can Turn Into Good.</prechorus1>
+	<prechorus2>Let’s Unite Our Faith and Serve With His Power, His Signs And Wonders We Will See.</prechorus2>
+    <chorus1>Look! The Man Who Is Healed; Jesus Has Made Him Well, According to The Promise He Gave</chorus1>
+    <chorus2>There Is Nothing Else That’s Too Hard For Him Put Your Trust In Jesus, Our Lord</chorus2>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>รักพระเยซู</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus</order>
+
+<thai>
+    <verse1>อยาก อยากจะค้นหาความจริง มองแลดูความหมายรักคืออะไร รักยั่งยืนแค่ไหน ทำให้ใครพบสุข รักนั้นทำให้ทุกข์หรือทำให้ดี</verse1>
+    <verse2>อยู่ อยู่ในรักพระเยซู มองแลดูความงามของชีวิตใหม่ รักนั้นมีความหมาย เกินกว่าใจรู้สึก รักมั่นคงหยั่งลึกลงในชีวิต</verse2>
+    <chorus>** อยากแบ่งความรักให้ทุกคน บอกสิ่งที่ดีๆ ที่มีอยู่ อยากบอกความหมายให้ทั้งโลกได้รู้ รักพระเยซู คือความจริง</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</chord>
+
+</song>
