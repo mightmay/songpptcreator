@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>ในพระนามพระเยซู</thainame>
-	<englishname>none</englishname>
+	<englishname>In The Name Of Jesus</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2,verse3</order>
 	<thai>
@@ -9,4 +9,10 @@
 		<verse2>ในพระนามพระเยซูในพระนามพระเยซู  ผีร้ายจะต้องหนีไป</verse2>
 		<verse3>เมื่อเราสู้โดยนามพระเยซู  ใครสามารถต่อสู้เราได้ เมื่อเราสู้โดยนามพระเยซู  เราจะเป็นผู้มีชัย</verse3>
 	</thai>
+		<english>
+		<verse1>In the name of Jesus(x2) We have the victory</verse1>
+		<verse2>In the name of Jesus(x2) Demons will have to flee</verse2>
+		<verse3>When we stand on the name of Jesus tell me who can stand before. In the mighty name of Jesus we have the victory.</verse3>
+	</english>
+
 </song>
