@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="สแสนยินดีเยซูเรายินดี">celebratejesuscelebrate.xml</song>
+<song name="celebratejesuscelebrate">celebratejesuscelebrate.xml</song>
+<song name="แสนยินดีพระเยซูเรายินดี">celebratejesuscelebrate.xml</song>
+
 <song name="สิ่งเดียว">สิ่งเดียว.xml</song>
 <song name="สิ่งเดียวw501">สิ่งเดียว.xml</song>
 <song name="w501สิ่งเดียว">สิ่งเดียว.xml</song>
