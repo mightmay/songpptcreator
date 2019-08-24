@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
-<song name="สแสนยินดีเยซูเรายินดี">celebratejesuscelebrate.xml</song>
+<song name="นี่คือเวลาw501">นี่คือเวลา.xml</song>
+
+<song name="แสนยินดีเยซูเรายินดี">celebratejesuscelebrate.xml</song>
 <song name="celebratejesuscelebrate">celebratejesuscelebrate.xml</song>
 <song name="แสนยินดีพระเยซูเรายินดี">celebratejesuscelebrate.xml</song>
 
@@ -918,7 +920,7 @@
 	<song name="ทางเดียว">ThaiWorshipCom/ทางเดียว.xml</song>
 	<song name="ทางใดในโลกาที่ท่านเฝ้าหาทางใด">ThaiWorshipCom/ทางใดในโลกาที่ท่านเฝ้าหาทางใด.xml</song>
 	<song name="ท่านเป็นพระวิหารของพระวิญญาณ">ThaiWorshipCom/ท่านเป็นพระวิหารของพระวิญญาณ.xml</song>
-	<song name="ทิ้งอวน">ThaiWorshipCom/ทิ้งอวน.xml</song>
+	<song name="ทิ้งอวน">ทิ้งอวน.xml</song>
 	<song name="ที่กางเขน">ThaiWorshipCom/ที่กางเขน.xml</song>
 	<song name="ทรงเป็นพระเจ้า">ThaiWorshipCom/ทรงเป็นพระเจ้า.xml</song>
 	<song name="ทรงเป็นราชา">ThaiWorshipCom/ทรงเป็นราชา.xml</song>
