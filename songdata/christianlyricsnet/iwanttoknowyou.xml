@@ -1,13 +1,18 @@
 <?xml version="1.0" ?>
 <song>
-	<thainame>none</thainame>
-	<englishname>I Want To Know You </englishname>
+	<thainame>ในที่ลึกลับ </thainame>
+	<englishname>I Want To Know You</englishname>
 	<mienthainame>none</mienthainame>
-	<order>segment1,segment2,segment3,segment4</order>
+	<order>segment1,segment2,segment3</order>
 	<english>
 		<segment1>In the secret. In the quiet place. In the stillness. You are there. In the secret. In the quiet hour I wait only for You. Cause, I want to know You more</segment1>
-		<segment2>Chorus: I want to know You. I want to hear Your voice. I want to know You more. I want to touch You. I want to see Your face. I want to know You more</segment2>
+		<segment2>I want to know You. I want to hear Your voice. I want to know You more. I want to touch You. I want to see Your face. I want to know You more</segment2>
 		<segment3>I am reaching for the highest goal. That I might receive the prize. Pressing onward. Pushing every hindrance aside. Out of my way. Cause, I want to know You more.</segment3>
-		<segment4>Chorus (4x)    </segment4>
 	</english>
+		<thai>
+		<segment1>ในที่ลึกลับ ในที่เงียบสงัด ณ ที่นั่นพระองค์ทรงอยู่ ในที่ลึกลับช่วงเวลาที่ข้ากำลังรอ เฝ้าแต่พระองค์ เพราะอยากรู้จักพระองค์</segment1>
+		<segment2>ข้าอยากรู้จักพระองค์ อยากได้ยินเสียงพระองค์ ข้าอยากรู้จักพระองค์เจ้า ข้าอยากรู้จักพระองค์ ข้าอยากจะได้สัมผัส ข้าอยากรู้จักพระเจ้า</segment2>
+		<segment3>ข้ากำลังไขว่คว้าไปถึงที่สูง เพื่อข้าจะได้รางวัล ดำเนินต่อไป ข้าจะก้าวไป ไม่มีสิ่งใด ที่จะขวางได้ เพราะอยากรู้จักมากขึ้น</segment3>
+	</thai>
+
 </song>
