@@ -105,21 +105,26 @@ def createpptxfile():
         song_itr_cleaned = song_itr_cleanedcomma.replace(" ", "")
         filepathlist.append(getsongxmlfilename(song_itr_cleaned))
     
-    print(filepathlist)
+    #print(filepathlist)
+    
+    #pptx info dict {song_name:slide_Number[1,2,3,],....}
+    pptx_info_dict = dict()
+    # value to keep track of the current slide number
+    current_slide_number = 1
 
     # create the pptx file
     for counter,fp_itr in  enumerate(filepathlist):
         if fp_itr == -1:
             return("<br> cannot find this song: "+songlist[counter]+ "<br><br> หาเนื้อเพลงอันนี้ไม่เจอ" +songlist[counter])
-        getsongdata(prs,fp_itr,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolorrgb,secondttextcolorrgb,thirdtextcolorrgb,0,linespace1,linespace2,linespace3,linespaceauto)
-        
+        current_slide_number=getsongdata(prs,fp_itr,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolorrgb,secondttextcolorrgb,thirdtextcolorrgb,0,linespace1,linespace2,linespace3,linespaceauto,current_slide_number,pptx_info_dict)
+    print(pptx_info_dict)
     prs.save(savefile)
     try:
         return send_file(savefile,as_attachment=True)
     except Exception as e:
         return str(e)
 
-    return(returnstring)
+    return()
 
 if __name__ == '__main__':
     app.run(debug=True)

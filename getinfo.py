@@ -32,10 +32,11 @@ def getsongxmlfilename(searchname):
   
             xmlfilename=song.firstChild.data
             xmlfilename= str(xmlfilename)
+            #print(xmlfilename)
             APP_ROOT = os.path.dirname(os.path.abspath(__file__))
             songdirectory2 = os.path.join(APP_ROOT, 'songdata')
             pathtoxmlfile = os.path.join(songdirectory2, xmlfilename)
-            print(pathtoxmlfile)
+            #print(pathtoxmlfile)
             return(pathtoxmlfile)
     print("song not found in directory")
     return(-1)

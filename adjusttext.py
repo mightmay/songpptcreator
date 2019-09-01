@@ -36,7 +36,7 @@ def autoaddnewline(inputstring,fontsize,langcount,language):
            return (-1)
            
     returnstr= "".join(slist)
-    print(returnstr)
+    #print(returnstr)
     if(addedline==False):
         return (-1)
     return returnstr

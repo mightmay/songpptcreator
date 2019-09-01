@@ -36,8 +36,11 @@ chord=1
 
 
 
-def getsongdata(prs,songname,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolor,secondtextcolor,thirdtextcolor,chord,linespace1,linespace2,linespace3,linespaceauto):
+def getsongdata(prs,songname,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolor,secondtextcolor,thirdtextcolor,chord,linespace1,linespace2,linespace3,linespaceauto,current_slide_number,pptx_info_dict):
     
+    current_slide_number = current_slide_number
+    
+    list_of_slide_number_for_this_song = []
 
     # create presentation
 #    prs = Presentation()
@@ -68,16 +71,10 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
     # add song name to pptx slides
     title_slide_layout = prs.slide_layouts[0]
     slide = prs.slides.add_slide(title_slide_layout)
+    
+    list_of_slide_number_for_this_song.append(current_slide_number)
+    current_slide_number+=1
 
-    '''    
-# add  image so it can be background image
-    background_left = background_top = Inches(0)
-    background_imag_path = os.path.join(APP_ROOT, 'images/1001.jpg')
-    background_img= slide.shapes.add_picture(background_imag_path, background_left, background_top, width=prs.slide_width, height=prs.slide_height)
-# move the image to back position
-    slide.shapes._spTree.remove(background_img._element)
-    slide.shapes._spTree.insert(2, background_img._element)
-    '''
     title = slide.shapes.title
     subtitle = slide.placeholders[1]
    
@@ -145,7 +142,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
         title.text = ""
         
     subtitle.text_frame.paragraphs[0].font.color.rgb = secondtextcolor
-    subtitle.text_frame.paragraphs[0].font.size = Pt(int(40))
+    subtitle.text_frame.paragraphs[0].font.size = Pt(int(46))
 
     # count how many language
     language_count= 0
@@ -190,6 +187,9 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
         vnum=str(versenum)
         print(vnum)
         
+        list_of_slide_number_for_this_song.append(current_slide_number)
+        current_slide_number+=1
+
 
         if language_count==1:
             firstdata=songdata.getElementsByTagName(first_language)
@@ -202,13 +202,14 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 blank_slide_layout = prs.slide_layouts[6]
                 slide = prs.slides.add_slide(blank_slide_layout)
                 
+                
                 txBox1 = slide.shapes.add_textbox(left1, top1, width1, height1)
                 tf1 = txBox1.text_frame
                 tf1.clear()
                 para1 = tf1.paragraphs[0]
                 firstlyricaddedlinebreak=autoaddnewline(firstlyric,int(firsttextsizeint),language_count,first_language)
                 print('font size: '+firsttextsizeint)
-                print('line break: '+str(firstlyricaddedlinebreak))
+               # print('line break: '+str(firstlyricaddedlinebreak))
                 
                 # no new line char added, then keep word wrap
                 if(firstlyricaddedlinebreak==-1):
@@ -225,7 +226,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 para1.alignment=PP_ALIGN.CENTER
                 if(linespaceauto=='auto'):
                     linespace1=autolinespacing(firstlyric,int(firsttextsizeint),language_count,first_language)
-                    print("auto line space calculated: "+str(linespace1))
+              #      print("auto line space calculated: "+str(linespace1))
                 para1.line_spacing = Pt(int(linespace1))
                 
 
@@ -255,7 +256,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 
                 firstlyricaddedlinebreak=autoaddnewline(firstlyric,int(firsttextsizeint),language_count,first_language)
                 print('font size: '+firsttextsizeint)
-                print('line break: '+str(firstlyricaddedlinebreak))
+                #print('line break: '+str(firstlyricaddedlinebreak))
                 
                 # no new line char added, then keep word wrap
                 if(firstlyricaddedlinebreak==-1):
@@ -278,7 +279,7 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                               
                 secondlyricaddedlinebreak=autoaddnewline(secondlyric,int(secondtextsizeint),language_count,second_language)
                 print('font size: '+secondtextsizeint)
-                print('line break: '+str(secondlyricaddedlinebreak))
+                #print('line break: '+str(secondlyricaddedlinebreak))
                 
                 # no new line char added, then keep word wrap
                 if(secondlyricaddedlinebreak==-1):
@@ -344,9 +345,10 @@ def getsongdata(prs,songname,first_language,second_language,third_language,first
                 para2.line_spacing = Pt(int(linespace2))
                 para3.line_spacing = Pt(int(linespace3))
 
-                
-#    prs.save(savefile)
-
+    dict_length= len(pptx_info_dict)
+    dict_length_str = str(dict_length)
+    pptx_info_dict["song_"+dict_length_str]=list_of_slide_number_for_this_song
+    return current_slide_number
                 
 def download_file():
     return send_from_directory(savedirectory,savefile, as_attachment=True)                
