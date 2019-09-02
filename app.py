@@ -12,7 +12,8 @@ app = Flask(__name__)
 from createppt import getsongdata
 from getinfo import getsongxmlfilename,getrgbcolorcode
 from pptx import Presentation
-
+from add_slide_background import *
+from random import *
 
 APP_ROOT = os.path.dirname(os.path.abspath(__file__)) 
 lyricfile = os.path.join(APP_ROOT, 'songdata/amazing grace.xml')
@@ -65,6 +66,10 @@ def createpptxfile():
         linespaceauto='none' #default is not auto linespace
         if request.form.get('autolinespace'):
             linespaceauto='auto'
+        addbackgroundauto='none' #default is not auto background image
+        if request.form.get('autorandombackgroundimage'):
+            addbackgroundauto='auto'
+
     else:
         songlistinput = request.args.get('songlist')
         firsttextsizeint = request.args.get['textsize1']
@@ -76,7 +81,6 @@ def createpptxfile():
         firsttextcolor = request.args.get['choosecolor1']
         secondtextcolor = request.args.get['choosecolor2']
         thirdtextcolor = request.args.get['choosecolor3']
-        
 
         linespace1 = request.args.get['linespace1']
         linespace2 = request.args.get['linespace2']
@@ -84,6 +88,11 @@ def createpptxfile():
         linespaceauto='none' #default is not auto linespace
         if request.args.get('autolinespace'):
             linespaceauto='auto'
+
+        addbackgroundauto='none' #default is not auto background image
+        if request.form.get('autorandombackgroundimage'):
+            addbackgroundauto='auto'
+    
 
 
     firsttextcolorrgb= getrgbcolorcode(firsttextcolor)
@@ -119,6 +128,29 @@ def createpptxfile():
         current_slide_number=getsongdata(prs,fp_itr,first_language,second_language,third_language,firsttextsizeint,secondtextsizeint,thirdtextsizeint,firsttextcolorrgb,secondttextcolorrgb,thirdtextcolorrgb,0,linespace1,linespace2,linespace3,linespaceauto,current_slide_number,pptx_info_dict)
     print(pptx_info_dict)
     prs.save(savefile)
+    
+    if addbackgroundauto == 'auto':
+        #add backgroudn to slide
+        slide_image_dict = {}
+    
+    
+        list_of_image_already_added=[]
+        for key_pptx_info_dict, value_pptx_info_dict in pptx_info_dict.items(): 
+    
+            rand_int = randint(1001, 1014)    # Pick a random number for image name.
+            image_file_path = 'images/'+str(rand_int)+'.jpg'
+            while image_file_path in list_of_image_already_added:
+                rand_int = randint(1001, 1014)
+                image_file_path = 'images/'+str(rand_int)+'.jpg'
+                
+            slide_image_dict[image_file_path]=value_pptx_info_dict
+            list_of_image_already_added.append(image_file_path)
+            print(key_pptx_info_dict,image_file_path)
+        save_location =savefile
+        print("slide_image_dict")
+        print(slide_image_dict)
+        add_background_to_slide_main(savefile,save_location,**slide_image_dict)
+
     try:
         return send_file(savefile,as_attachment=True)
     except Exception as e:

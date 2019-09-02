@@ -105,7 +105,7 @@ def zip_files(src, dst, arcname=None):
 
     zip_.close()
     
-def main(pptx_file,**kwarg):
+def add_background_to_slide_main(pptx_file,save_location,**kwarg):
     
     '''
     input dict
@@ -120,9 +120,10 @@ def main(pptx_file,**kwarg):
         }
     '''
 
+
+
     # path of the pptx file to add background image too
     filepath = pptx_file
-    filepath = 'temp-folder/WorshipSongs.pptx'
 
     # extract pptx file    
     extractzipfile(filepath)
@@ -146,15 +147,18 @@ def main(pptx_file,**kwarg):
     
     pptxfilespath = 'temp-folder/unpacked-pptx'
     file_paths = get_all_file_paths(pptxfilespath) 
-    zip_files(file_paths, 'temp-folder/worship-song-slides-added-bground.pptx', arcname=None)
-
-if __name__ == '__main__':
+    zip_files(file_paths, save_location, arcname=None)
+    import shutil
+    shutil.rmtree(pptxfilespath)
+    
+if __name__ == '__add_background_to_slide_main__':
    filepath = 'temp-folder/WorshipSongs.pptx'
    kwarg  = {
 		'images/1001.jpg' : [1,2],
          'images/1002.jpg':[3]
 	}
-   main(filepath,**kwarg)
+   save_location= 'temp-folder/worship-song-slides-added-bground.pptx'
+   add_background_to_slide_main(filepath,save_location,**kwarg)
    
    
    
