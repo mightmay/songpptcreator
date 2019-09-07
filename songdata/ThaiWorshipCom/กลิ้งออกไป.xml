@@ -1,11 +1,16 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>กลิ้งออกไป</thainame>
-	<englishname>none</englishname>
+	<englishname>Rolled Away</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,chorus1</order>
 	<thai>
 		<verse1>กลิ้งออกไปกลิ้งออกไปกลิ้งออกไป บรรดาภาระหนักแห่งใจกลิ้งออกไป</verse1>
-		<chorus1>*บนกางเขนบุตรพระเจ้าต้องเลือดไหลเพื่อไถ่เรา ฮาเลลูยากลิ้งออกไปกลิ้งออกไปกลิ้งออกไป บรรดาภาระหนักแห่งใจกลิ้งออกไป  กลิ้งออกไปกลิ้งออกไปกลิ้งออกไป บรรดาภาระหนักในใจกลิ้งออกไป บนกางเขนบุตรพระเจ้าทรงเลือดไหลเพื่อไถ่เราฮาเลลูยา</chorus1>
+		<chorus1>*บนกางเขนบุตรพระเจ้าต้องเลือดไหลเพื่อไถ่เรา ฮาเลลูยา กลิ้งออกไปกลิ้งออกไปกลิ้งออกไป บรรดาภาระหนักแห่งใจกลิ้งออกไป</chorus1>
 	</thai>
+	<english>
+		<verse1>Rolled away, rolled away, rolled away Every burden of my heart rolled away (2 x)</verse1>
+		<chorus1>All My Sin Had To Go, ‘Neath the Crimson Flow Hallelujah. Rolled Away Rolled Away Rolled Away. All the Burdens of My Heart Rolled Away.</chorus1>
+	</english>
+
 </song>
