@@ -1,13 +1,16 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>จงแสวงหาแผ่นดินของพระเจ้า</thainame>
-	<englishname>none</englishname>
+	<englishname>Seek Ye First The Kingdom of God</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2,verse3,verse4</order>
 	<thai>
-		<verse1>จงแสวงหาแผ่นดินของพระเจ้า และความชอบธรรมของพระองค์ก่อน แล้วพระองค์จะทรงเพิ่มเติมสิ่งทั้งปวงให้</verse1>
-		<verse2>ฮาเลลูฮาเลลูยา</verse2>
-		<verse3>ฮาเลลูยาฮาเลลูยา</verse3>
-		<verse4>ฮาเลลูยาฮาเลลูฮาเลลูยา  จงแสวงหาแผ่นดินของพระเจ้า และความชอบธรรมของพระองค์ก่อน แล้วพระองค์จะเพิ่มเติมสิ่งทั้งปวงให้ ฮาเลลูฮาเลลูยา ฮาเลลูยาฮาเลลูยาฮาเลลูยา ฮาเลลูฮาเลลูยา</verse4>
+		<verse1>จงแสวงหาแผ่นดินของพระเจ้า และความชอบธรรมของพระองค์ก่อน แล้วพระองค์จะเพิ่มเติมสิ่งทั้งปวงให้ ฮาเลลูฮาเลลูยา</verse1>
+		<chorus>ฮาเลลูยา ฮาเลลูฮาเลลูยา   ฮาเลลูยา ฮาเลลูยาฮาเลลูยา ฮาเลลู ฮาเลลูยา</chorus>
 	</thai>
+	<english>
+		<verse1>Seek ye first the Kingdom of God. And His righteousness. And all these things shall be added unto you. Allelu Alleluia.</verse1>
+		<chorus>Al - le - lu - ia Al - le - lu - ia Al - le - lu - ia Al - le - lu Al - le - lu - ia</chorus>
+	</english>
+
 </song>
