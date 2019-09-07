@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="gloriousday">gloriousdaycastingcrowns.xml</song>
+<song name="gloriousdaycastingcrowns">gloriousdaycastingcrowns.xml</song>
+<song name="castingcrownsgloriousday">gloriousdaycastingcrowns.xml</song>
+<song name="livinghelovedme">gloriousdaycastingcrowns.xml</song>
+
+<song name="comeasyouarecrowder">comeasyouarecrowder.xml</song>
+<song name="crowdercomeasyouare">comeasyouarecrowder.xml</song>
+<song name="comeasyouaredavidcrowder">comeasyouarecrowder.xml</song>
+<song name="davidcrowdercomeasyouare">comeasyouarecrowder.xml</song>
+
 <song name="นี่คือเวลาw501">นี่คือเวลา.xml</song>
 
 <song name="แสนยินดีเยซูเรายินดี">celebratejesuscelebrate.xml</song>
