@@ -104,7 +104,19 @@ def zip_files(src, dst, arcname=None):
             zip_.write(src[i], arcname[i], compress_type = zipfile.ZIP_STORED)
 
     zip_.close()
+ 
     
+
+def zipdir(path, ziph):
+    length = len(path)
+
+    # ziph is zipfile handle
+    for root, dirs, files in os.walk(path):
+        folder = root[length:] # path without "parent"
+        for file in files:
+            ziph.write(os.path.join(root, file), os.path.join(folder, file))
+
+            
 def add_background_to_slide_main(pptx_file,save_location,**kwarg):
     
     '''
@@ -146,13 +158,20 @@ def add_background_to_slide_main(pptx_file,save_location,**kwarg):
         counter +=1
     
     pptxfilespath = 'temp-folder/unpacked-pptx'
-    file_paths = get_all_file_paths(pptxfilespath) 
-    zip_files(file_paths, save_location, arcname=None)
+#    file_paths = get_all_file_paths(pptxfilespath) 
+    #zip_files(file_paths, save_location, arcname=None)
+    
+    zipf = zipfile.ZipFile(save_location, 'w', zipfile.ZIP_STORED)
+    zipdir(pptxfilespath, zipf)
+    zipf.close()
+    
     import shutil
     shutil.rmtree(pptxfilespath)
-    
+ 
+#if __name__ == '__main__':
+
 if __name__ == '__add_background_to_slide_main__':
-   filepath = 'temp-folder/WorshipSongs.pptx'
+   filepath = 'finishedppt/WorshipSongs.pptx'
    kwarg  = {
 		'images/1001.jpg' : [1,2],
          'images/1002.jpg':[3]
