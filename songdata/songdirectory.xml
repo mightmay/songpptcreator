@@ -2124,7 +2124,14 @@
 	<song name="emptyme">christianlyricsnet/emptyme.xml</song>
 	<song name="isurrendertoyou">christianlyricsnet/isurrendertoyou.xml</song>
 	<song name="reviveme">christianlyricsnet/reviveme.xml</song>
-	<song name="youreworthyofmypraise">christianlyricsnet/youreworthyofmypraise.xml</song>
+
+		<song name="davidruisyouareworthyofmypraise">christianlyricsnet/youreworthyofmypraise.xml</song>
+<song name="davidruisyoureworthyofmypraise">christianlyricsnet/youreworthyofmypraise.xml</song>
+		<song name="youareworthyofmypraisedavidruis">christianlyricsnet/youreworthyofmypraise.xml</song>
+<song name="youreworthyofmypraisedavidruis">christianlyricsnet/youreworthyofmypraise.xml</song>
+		<song name="youareworthyofmypraise">christianlyricsnet/youreworthyofmypraise.xml</song>
+<song name="youreworthyofmypraise">christianlyricsnet/youreworthyofmypraise.xml</song>
+
 	<song name="longing">christianlyricsnet/longing.xml</song>
 	<song name="carriedme">christianlyricsnet/carriedme.xml</song>
 	<song name="restored">christianlyricsnet/restored.xml</song>

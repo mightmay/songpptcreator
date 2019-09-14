@@ -1,10 +1,17 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>none</thainame>
-	<englishname>You're Worthy Of My Praise </englishname>
+	<englishname>You're Worthy Of My Praise</englishname>
 	<mienthainame>none</mienthainame>
-	<order>segment1</order>
+	<order>verse1-1,verse1-2,chorus,verse2-1,verse2-2,chorus</order>
 	<english>
-		<segment1>I will worship with all of my heart. I will praise You with all my strength. I will seek You all of my days. And I will follow all of Your ways. Chorus: I will give You all my worship. I will give You all my praise. You alone I long to worship. You alone are worthy of my praise. I will bow down and hail You as King. I will serve You, I'll give You everything. I will lift up my eyes to Your throne. I will trust You, I will trust You alone. I will worship, I will bow down. I will give You all my praise. &lt;small&gt; 1991 Shade Tree Publishing/Marnatha Praise Inc.&lt;/small&gt;    </segment1>
+		<verse1-1>I will worship (I will worship) With all of my heart (with all of my heart) I will praise You (I will praise You) With all of my strength (with all of my strength)</verse1-1>
+		<verse1-2>I will seek You (I will seek You) All of my days (all of my days) I will follow (I will follow) All of Your ways (all Your ways)</verse1-2>
+<chorus>I will give You all my worship. I will give You all my praise. You alone I long to worship. You alone are worthy of my praise.</chorus>
+
+<verse2-1>I will bow down (I will bow down) Hail You as King (hail You ask King) I will serve You (I will serve You) Give You everything (give You everything)</verse2-1>
+<verse2-2>I will lift up (I will lift up) My eyes to Your throne (my eyes to Your throne) I will trust You (I will trust You) Trust You alone (trust in You alone)</verse2-2>
+
+
 	</english>
 </song>
