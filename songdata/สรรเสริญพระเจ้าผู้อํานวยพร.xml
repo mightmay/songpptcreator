@@ -4,22 +4,42 @@
 <thainame>สรรเสริญพระเจ้าผู้อำนวยพร</thainame>
 <englishname>Praise God From Whom All Blessings Flow</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1</order>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
 
 <thai>
-    <verse1>สรรเสริญพระเจ้าผู้อำนวยพร สรรเสริญพระเจ้าเหล่าประชากร สรรเสริญองค์พระบิดา พระบุตร สรรเสริญพระวิญญาณบริสุทธิ์ อาเมน</verse1>
+    <verse1>dd</verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
 </thai>
 
 <english>
-    <verse1>Praise God, from whom all blessing flow. Praise Him, all creatures here below. Praise Him above, ye heavnly host. Praise Father, Son and Holy Ghost. Amen</verse1>
+    <verse1>dd</verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
 </english>
     
 <mienthai>
     <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
 </mienthai>
 
 <chord>
     <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
 </chord>
 
 </song>
