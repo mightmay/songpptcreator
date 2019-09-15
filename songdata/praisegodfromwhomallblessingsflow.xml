@@ -4,15 +4,15 @@
 <thainame>สรรเสริญพระเจ้าผู้อำนวยพร</thainame>
 <englishname>none</englishname>
 <mienthainame>none</mienthainame>
-<order>verse1,chorus,bridge</order>
+<order>verse1</order>
 
 <thai>
-    <verse1>พระบิดา พระเจ้าแห่งฟ้าสวรรค์ ขอพระนามพระองค์ เป็นที่สรรเสริญบูชา พระเยซูเราร่วมคำอธิษฐาน ขอแผ่นดินพระองค์ สำแดงเป็นจริง</verse1>
-    <bridge>อาเมน อาเมน ขอพระสิริและพระเกียรติเป็นของพระองค์ อาเมน อาเมน ขอพระสิริและพระเกียรติเป็นของพระองค์</bridge>
-    <chorus>ให้แผ่นดินพระองค์ มาตั้งอยู่ท่ามกลางเรา ให้พระทัยพระองค์ เป็นจริงในเรา ในสวรรค์นั้นเป็นเช่นไร ให้แผ่นดินโลกเป็นไปอย่างนั้น ให้พระเกียรติเป็นของพระองค์ พระเจ้านิรันดร์</chorus>
+    <verse1>สรรเสริญพระเจ้าผู้อำนวยพร สรรเสริญพระเจ้าเหล่าประชากร สรรเสริญองค์พระบิดา พระบุตร สรรเสริญพระวิญญาณบริสุทธิ์ อาเมน</verse1>
 </thai>
 
 <english>
+    <verse1>Praise God, from whom all blessing flow. Praise Him, all creatures here below. Praise Him above, ye heavnly host. Praise Father, Son and Holy Ghost. Amen</verse1>
+
 </english>
     
 <mienthai>
