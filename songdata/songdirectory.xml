@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
 
-<song name="สรรเสริญพระเจ้าผู้อำนวยพร">praisegodfromwhomallblessingsflow.xml</song>
-<song name="praisegodfromwhomallblessingsflow">praisegodfromwhomallblessingsflow.xml</song>
-<song name="praisegodfromwhomallblessingflow">praisegodfromwhomallblessingsflow.xml</song>
-<song name="praisegodfromwhoallblessingsflow">praisegodfromwhomallblessingsflow.xml</song>
-<song name="praisegodfromwhoallblessingflow">praisegodfromwhomallblessingsflow.xml</song>
 
-<song name="praisegodfromwhomallblessingsflows">praisegodfromwhomallblessingsflow.xml</song>
-
+<song name="สรรเสริญพระเจ้าผู้อำนวยพร">คำอธิษฐานw501.xml</song>
+<song name="praisegodfromwhomallblessingsflow">คำอธิษฐานw501.xml</song>
 
 <song name="คำอธิษฐานw501">คำอธิษฐานw501.xml</song>
 <song name="w501คำอธิษฐาน">คำอธิษฐานw501.xml</song>
