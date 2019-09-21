@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="ขอบคุณพระเจ้า">ขอบคุณพระเจ้า.xml</song>
+
+<song name="allmyhopedavidcrowder">allmyhope.xml</song>
+<song name="davidcrowderallmyhope">allmyhope.xml</song>
+<song name="crowderallmyhope">allmyhope.xml</song>
+<song name="allmyhopecrowder">allmyhope.xml</song>
+<song name="allmyhope">allmyhope.xml</song>
+
 <song name="hallelujahpraiseyethelord">hallelujahpraiseyethelord.xml</song>
 <song name="praiseyethelordhallelujah">hallelujahpraiseyethelord.xml</song>
 
