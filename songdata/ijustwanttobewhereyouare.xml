@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>I Just Want To Be Where You Are</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus,verse3,verse1,verse2,ending</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>I just want to be where You are, dwelling daily in Your presence I don't want to worship from afar, draw me near to where You are</verse1>
+    <verse2>I just want to be where You are, in Your dwelling place forever. Take me to the place where You are, I just want to be with You.</verse2>
+    <verse3>I just want to be where You are, to enter boldly in Your presence. I don't want to worship from afar, draw me near to where You are.</verse3>
+    <coda>Oh, my God, You are my strength and my song. And when I'm in Your presence. Though I'm weak You're always strong.</coda>
+    <chorus>I want to be where You are, dwelling in Your presence. Feasting at Your table, surrounded by Your glory. In Your presence, that's where I always want to be. I just want to be, I just want to be with You.</chorus>
+	    <ending>I just want to be. I just want to be with You.</ending>
+
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>

@@ -2,7 +2,7 @@
 <song>
 
 <thainame>ไม่ว่าอยู่แห่งหนไหน</thainame>
-<englishname>none</englishname>
+<englishname>Wherever I am</englishname>
 <mienthainame>none</mienthainame>
 <order>verse1,chorus,verse2,outro</order>
 
@@ -16,6 +16,11 @@
 </thai>
 
 <english>
+    <verse1>When the eyes of my heart See the Spirit of God. I have found precious peace that’s encompassing my life. How my heart delight in You.</verse1>
+    <verse2>I have seen Your great light Light of truth and of love. I have found precious peace that’s encompassing my life. I will be in Your great love.</verse2>
+
+    <chorus>Wherever I am I will always worship. And however I am I will always worship. (x2)</chorus>
+	<outro>And in every path I walk and press on. And that all the days of my life will worship you forevermore.(x2)</outro>
 </english>
     
 <mienthai>
