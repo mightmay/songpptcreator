@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
 
+<song name="ijustwanttobewhereyouaredonmoen">ijustwanttobewhereyouare.xml</song>
+<song name="ijustwanttobewhereyouare">ijustwanttobewhereyouare.xml</song>
+<song name="donmoenijustwanttobewhereyouare">ijustwanttobewhereyouare.xml</song>
+
 <song name="forgivendavidcrowder">forgivendavidcrowder.xml</song>
 <song name="forgivencrowder">forgivendavidcrowder.xml</song>
 <song name="davidcrowderforgiven">forgivendavidcrowder.xml</song>
