@@ -6,19 +6,19 @@
 <mienthainame>none</mienthainame>
 <order>verse1,verse2,verse3,verse4</order>
 
-<thai>
+<english>
     <verse1>O give thanks to the Lord; call upon his name: make known his deeds among the people.</verse1>
-    <verse2>Sing to him, sing priases to him: tell of all his wondrous works.</verse2>
+    <verse2>Sing to him, sing praises to him: tell of all his wondrous works.</verse2>
     <verse3>Glory in his holy name: let the heart of those who seek the Lord.</verse3>
     <verse4>Rejoice Rejoice Rejoice Rejoice Rejoice Rejoice Rejoice Rejoice</verse4>
-</thai>
+</english>
 
-<english>
+<thai>
     <verse1>ขอบพระคุณ องค์พระเจ้า ร้อง ทูลออกพระนาม ประชา ทั้งหลาย ได้รู้กิจพระองค์</verse1>
     <verse2>ร้องถวาย ร้องสรรเสริญพระองค์ บอกถึงราชกิจของพระองค์</verse2>
     <verse3>จงเทิดทูน นามบริสุทธิ์ ให้จิตใจ ผู้แสวงหาพระเจ้า</verse3>
     <verse4>ชื่นชม ยินดี ชื่นชม ยินดี ชื่นชม ยินดี ชื่นชม ยินดี</verse4>
-</english>
+</thai>
     
 <mienthai>
 </mienthai>
