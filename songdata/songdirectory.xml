@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+<song name="holyspirit">holyspirit.xml</song>
+
+<song name="givethanksseedsfamilyworship">givethanksseedsfamilyworship.xml</song>
+
+<song name="blessedassurance">blessedassurance.xml</song>
+<song name="thisismystorythisismysong">blessedassurance.xml</song>
+<song name="ทรงสัญญาให้พรแก่ข้า">blessedassurance.xml</song>
+
+
+
+
 <song name="amazinggracemychainsaregone">amazinggracemychainsaregone.xml</song>
 <song name="mychainsaregone">amazinggracemychainsaregone.xml</song>
 <song name="mychainaregone">amazinggracemychainsaregone.xml</song>
