@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>Jesus Name Above All Names</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,bridge,verse1,ending</order>
+
+<thai>
+</thai>
+
+<english>
+    <verse1>Jesus, name above all names Beautiful Savior, Glorius Lord. Emmanuel, God is with us, Blessed Redeemer,  Living Word.</verse1>
+    <bridge>Oh! I praise your name. Jesus, name of all names.</bridge>
+    <ending>Blessed Redeemer, Living Word. Blessed Redeemer, Living Word.</ending>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>

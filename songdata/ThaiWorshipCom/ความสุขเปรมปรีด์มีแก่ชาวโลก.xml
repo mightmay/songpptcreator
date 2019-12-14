@@ -1,13 +1,20 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>ความสุขเปรมปรีด์มีแก่ชาวโลก</thainame>
-	<englishname>none</englishname>
+	<englishname>Joy to the World</englishname>
 	<mienthainame>none</mienthainame>
 	<order>verse1,verse2,verse3,verse4</order>
 	<thai>
 		<verse1>ชาวโลกทั้งหลายชื่นใจยินดีมีพระราชาประสูติ คือพระเยซูเสด็จลงมาให้เราร้องเพลงสรรเสริญ ให้เราร้องเพลงสรรเสริญให้เราให้เราร้องเพลงสรรเสริญ</verse1>
 		<verse2>ความสุขเปรมปรีด์มีแก่ชาวโลกพ้นทุกข์พ้นโศกเบิกบาน พฤกษาไร่นาภูเขาลำธารประสานสำเนียงยินดี ประสานสำเนียงยินดีประสานประสานสำเนียงยินดี</verse2>
 		<verse3>อย่าให้บาปชั่วและความเลวทรามเป็นหนามเสียดแทงในใจ ความรักเมตตาของพระเยซูบันดาลให้เรากลับใจ บันดาลให้เรากลับใจบันดาลบันดาลให้เรากลับใจ</verse3>
-		<verse4>พระองค์ครองโลกด้วยความเที่ยงธรรมทรงนำด้วยกรุณา รังสีชอบธรรมประจักษ์แก่ตาความรักประหลาดหนักหนา ความรักประหลาดหนักหนาความรักความรักประหลาดหนักหนา  ชาวโลกทั้งหลายชื่นใจยินดีมีพระราชาประสูติ คือพระเยซูเสด็จลงมา ให้เราร้องเพลงสรรเสริญ(2X) ให้เราให้เราร้องเพลงสรรเสริญ ความสุขเปรมปรีดิ์มีแก่ชาวโลกพ้นทุกข์พ้นโศกเบิกบาน พฤกษาไร่นาภูเขาลำธาร ประสานสำเนียงยินดี(2X) ประสานประสานสำเนียงยินดี อย่าให้บาปชั่วและความเลวทรามเป็นหนามเสียดแทงในใจ ความรักเมตตาของพระเยซู บันดาลให้เรากลับใจ(2X) บันดาลบันดาลให้เรากลับใจ พระองค์ครองโลกด้วยความเที่ยงธรรมทรงนำด้วยกรุณา รังสีชอบธรรมประจักษ์แก่ตา ความรักประหลาดนักหนา(2X) ความรักความรักประหลาดนักหนา</verse4>
+		<verse4>พระองค์ครองโลกด้วยความเที่ยงธรรมทรงนำด้วยกรุณา รังสีชอบธรรมประจักษ์แก่ตาความรักประหลาดหนักหนา ความรักประหลาดหนักหนา ความรัก ความรัก ประหลาดหนักหนา</verse4>
 	</thai>
+	<english>
+    <verse1>Joy to the world, the Lord has come. Let earth receive her King. Let every heart prepare Him room. And heaven and nature sing, and heaven and nature sing. And heaven, and heaven and nature sing.</verse1>
+    <verse2>Joy to the world, the Savior reigns. Let men their songs employ. While fields and floods, rocks, hills, and plains. Repeat the sounding joy, repeat the sounding joy. Repeat, repeat the sounding joy.</verse2>
+    <verse3>No more let sins and sorrows grow. Nor thorns infest the ground. He comes to make His blessings flow. Far as the curse is found, far as the curse is found. Far as, far as the curse is found.</verse3>
+    <verse4>He rules the world with truth and grace. And makes the nations prove. The glories of His righteousness. And wonders of His love, and wonders of His love. And wonders, wonders of His love.</verse4>
+</english>
+
 </song>

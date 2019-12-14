@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="jesusnameaboveallnames">jesusnameaboveallnames.xml</song>
 
 <song name="holyspirit">holyspirit.xml</song>
 
@@ -1457,7 +1458,11 @@
 	<song name="อีกครั้ง">ThaiWorshipCom/อีกครั้ง.xml</song>
 	<song name="แอ็กนัส เดอี">ThaiWorshipCom/แอ็กนัส เดอี.xml</song>
 	<song name="โอ วิญญาณ จงสรรเสริญ">ThaiWorshipCom/โอ วิญญาณ จงสรรเสริญ.xml</song>
+	
 	<song name="ความสุขเปรมปรีด์มีแก่ชาวโลก">ThaiWorshipCom/ความสุขเปรมปรีด์มีแก่ชาวโลก.xml</song>
+	<song name="ความสุขเปรมปรีดิ์มีแก่ชาวโลก">ThaiWorshipCom/ความสุขเปรมปรีด์มีแก่ชาวโลก.xml</song>
+	<song name="ความสุขเปรมปรีดิ์มีแก่ชาวโลก">joytotheworld</song>
+	
 	<song name="องค์พระบิดาแห่งสวรรค์">ThaiWorshipCom/องค์พระบิดาแห่งสวรรค์.xml</song>
 	<song name="องค์พระวิญญาณโปรดประทาน">ThaiWorshipCom/องค์พระวิญญาณโปรดประทาน.xml</song>
 	<song name="องค์พระเยซูคริสต์ที่รัก">ThaiWorshipCom/องค์พระเยซูคริสต์ที่รัก.xml</song>
@@ -2306,7 +2311,6 @@
 	<song name="jesuskingofangels">christianlyricsnet/jesuskingofangels.xml</song>
 	<song name="comethoulongexpectedjesus">christianlyricsnet/comethoulongexpectedjesus.xml</song>
 	<song name="carolofthebirds">christianlyricsnet/carolofthebirds.xml</song>
-	<song name="joytotheworld">christianlyricsnet/joytotheworld.xml</song>
 	<song name="gotellitonthemountain">christianlyricsnet/gotellitonthemountain.xml</song>
 	<song name="whatchildisthis">christianlyricsnet/whatchildisthis.xml</song>
 	<song name="bringatorchjeanetteisabella">christianlyricsnet/bringatorchjeanetteisabella.xml</song>
