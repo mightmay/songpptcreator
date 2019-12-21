@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="oceans">oceans.xml</song>
+<song name="oceanshillsong">oceans.xml</song>
+<song name="hillsongoceans">oceans.xml</song>
+<song name="oceanswherefeetmayfail">oceans.xml</song>
+<song name="wherefeetmayfail">oceans.xml</song>
+
+<song name="feliznavidad">feliznavidad.xml</song>
+
+<song name="jinglebells">jinglebells.xml</song>
+<song name="jinglebell">jinglebells.xml</song>
+
 <song name="jesusnameaboveallnames">jesusnameaboveallnames.xml</song>
 
 <song name="holyspirit">holyspirit.xml</song>
@@ -1555,7 +1566,13 @@
 	<song name="ขอจงถวายมงกุฎแด่พระคริสต์">ThaiWorshipCom/ขอจงถวายมงกุฎแด่พระคริสต์.xml</song>
 	<song name="ขอเจิมเถิด">ThaiWorshipCom/ขอเจิมเถิด.xml</song>
 	<song name="คนโง่คนที่เข้าใจ">ThaiWorshipCom/คนโง่คนที่เข้าใจ.xml</song>
+	
 	<song name="คริสตมาสเป็นเวลา">ThaiWorshipCom/คริสตมาสเป็นเวลา.xml</song>
+	<song name="คริสมาสเป็นเวลา">ThaiWorshipCom/คริสตมาสเป็นเวลา.xml</song>
+	<song name="คริสต์มาสเป็นเวลา">ThaiWorshipCom/คริสตมาสเป็นเวลา.xml</song>
+	<song name="christmasisthetimetolove">ThaiWorshipCom/คริสตมาสเป็นเวลา.xml</song>
+	<song name="christmasisatimetolove">ThaiWorshipCom/คริสตมาสเป็นเวลา.xml</song>
+	
 	<song name="จิตวิญญาณข้ากระหาย">ThaiWorshipCom/จิตวิญญาณข้ากระหาย.xml</song>
 	<song name="ขอพระวิญญาณเทลงมา">ThaiWorshipCom/ขอพระวิญญาณเทลงมา.xml</song>
 	<song name="ฉันเป็นที่รักยิ่ง">ThaiWorshipCom/ฉันเป็นที่รักยิ่ง.xml</song>
@@ -6970,7 +6987,11 @@
 	<song name="makemeover">christianlyricsnet/makemeover.xml</song>
 	<song name="livefortoday">christianlyricsnet/livefortoday.xml</song>
 	<song name="bringitalltogetherwwynonna">christianlyricsnet/bringitalltogetherwwynonna.xml</song>
+
+	<song name="ขอเชิญท่านผู้วางใจ">christianlyricsnet/ocomeallyefaithful.xml</song>
+	<song name="ohcomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
 	<song name="ocomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
+
 	<song name="letitsnow">christianlyricsnet/letitsnow.xml</song>
 	<song name="santaclausiscomingtotown">christianlyricsnet/santaclausiscomingtotown.xml</song>
 	<song name="ibelieve">christianlyricsnet/ibelieve.xml</song>

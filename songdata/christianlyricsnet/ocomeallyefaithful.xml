@@ -1,15 +1,35 @@
 <?xml version="1.0" ?>
 <song>
-	<thainame>none</thainame>
+	<thainame>ขอเชิญท่านผู้วางใจ</thainame>
 	<englishname>O Come All Ye Faithful </englishname>
 	<mienthainame>none</mienthainame>
-	<order>segment1,segment2,segment3,segment4,segment5,segment6</order>
+	<order>segment1,chorus,segment2,chorus,segment3,chorus,segment4,chorus</order>
+	<thai>
+		<segment1>ขอเชิญท่านผู้วางใจ ชื่นใจยินดีมีชัย เชิญมา เชิญมาไว สู่หมู่บ้านเบธเลเฮม มาเฝ้าพระกุมาร ราชาแห่งทูตปรีดิ์เปรม</segment1>
+		<chorus>**เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู ผู้ทรงพระคุณ</chorus>
+
+		<segment2>สว่างแสงแห่งพระธรรม ส่องแจ้งอยู่นิรันดร์กาล ความต่ำช้าสามานย์ มิได้ทรงคิดหน่ายแหนง พระบุตร พระบิดา พระดำรัสไม่เปลี่ยนแปลง</segment2>
+		<chorus>**เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู ผู้ทรงพระคุณ</chorus>
+
+		<segment3>จงสรรเสริญพระองค์เถิด ทูตสวรรค์ในวิมาน ให้ดังก้องกังวาน ทั่วแหล่งหล้าและสากล รังสีอันรุ่งเรือง จงมีแด่ผู้ทรงธรรม</segment3>
+		<chorus>**เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู ผู้ทรงพระคุณ</chorus>
+
+		<segment4>สรรเสริญข้าถวายชัย พระเยซูผู้ช่วยได้ พระนามอันยิ่งใหญ่ ข้าวันทาด้วยภักดี ดำรัสพระบิดา มาปรากฏเป็นภูมี</segment4>
+		<chorus>**เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู ผู้ทรงพระคุณ</chorus>
+		</thai>
+
 	<english>
-		<segment1>O come, All ye Faithful. O come, all ye faitful. Joyful and triumphant. Come all ye citizens of Bethlehem. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment1>
-		<segment2>Come and behold him. Born the King of Angels. Sing all ye citizens of Bethlehem. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment2>
-		<segment3>Sing choirs of angels. Sing in exultation. O sing all ye citizens of heaven above. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment3>
-		<segment4>Glory to God in the highest. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment4>
-		<segment5>Yea Lord we greet Thee. Born this happy morning. Jesus to Thee be all glory giving. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord</segment5>
-		<segment6>Word of the Father. Now in flesh appearing. O come let us adore Him. O come let us adore Him. O come let us adore Him. Christ the Lord.    </segment6>
-	</english>
+		<segment1>O come all ye faithful, Joyful and triumphant, O come ye, O come ye to Bethlehem; Come and behold Him, Born the King of angels:</segment1>
+		<chorus>O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ the Lord</chorus>
+
+		<segment2>True God of true God, Light of light, eternal, Lo! He abhors not The virgin's womb; Son of the Father, Begotten not created:</segment2>
+		<chorus>O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ the Lord</chorus>
+
+		<segment3>Sing, choirs of angels, Sing in exultation, O sing, all ye citizen Host of heav'n above: Glory to God All Glory in the highest:</segment3>
+		<chorus>O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ the Lord</chorus>
+
+		<segment4>Yea, Lord, we greet Thee, Born this happy morning, Jesus, to Thee Be all glory giv'n. Word of the Father, Now in flesh appearing.</segment4>
+		<chorus>O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ the Lord</chorus>
+
+		</english>
 </song>

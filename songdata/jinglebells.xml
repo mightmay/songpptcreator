@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Jingle Bells</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1></verse1>
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>Dashing through the snow In a one-horse open sleigh. O'er the fields we go. Laughing all the way. Bells on bobtails ring. Making spirits bright. What fun it is to ride and sing. A sleighing song tonight.</verse1>
+    <chorus>Jingle bells, jingle bells. Jingle all the way. Oh, what fun it is to ride. In a one-horse open sleigh, hey. Jingle bells, jingle bells. Jingle all the way. Oh, what fun it is to ride. In a one-horse open sleigh.</chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <chorus></chorus>
+</chord>
+
+</song>

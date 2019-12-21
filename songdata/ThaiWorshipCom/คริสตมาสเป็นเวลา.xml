@@ -1,10 +1,18 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>คริสตมาสเป็นเวลา</thainame>
-	<englishname>none</englishname>
+	<englishname>Christmas Is a Time to Love</englishname>
 	<mienthainame>none</mienthainame>
-	<order>verse1</order>
+	<order>verse1,chorus,chorus2</order>
 	<thai>
-		<verse1>คริสตมาสเป็นเวลาคริสตมาสเป็นเวลา คริสตมาสเป็นเวลาแห่งความรัก(2) บ่อยครั้งที่เรามัวกลุ้มใจทิ้งให้ชีวิตหม่นหมอง เฝ้ามองมีใครบ้างไหมที่จะเข้าใจ ข่าวดีวันนี้พระเจ้าให้สายใยใจรักผูกพัน พระเยซูบังเกิดในรางหญ้า</verse1>
+		<verse1>คริสตมาสเป็นเวลาคริสตมาสเป็นเวลา คริสตมาสเป็นเวลาแห่งความรัก (x2) </verse1>
+		<chorus>บ่อยครั้งที่เรามัวกลุ้มใจ  ทิ้งให้ชีวิตหม่นหมอง เฝ้ามองมีใครบ้างไหมที่จะเข้าใจ</chorus>
+		<chorus2>ข่าวดีวันนี้พระเจ้าให้  สายใยใจรักผูกพัน พระเยซูบังเกิดในรางหญ้า</chorus2>
 	</thai>
+	<english>
+		<verse1>Christmas is a time. Christmas is a time. Christmas is a time to love. (x2)</verse1>
+		<chorus>We often start to worry. And people get upset if things don't go alright on Christmas day.</chorus>
+		<chorus2>What we should remember. In all the push and shove. Is Christmas is a time to love.</chorus2>
+	</english>
+
 </song>
