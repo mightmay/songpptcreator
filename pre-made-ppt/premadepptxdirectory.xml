@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
-<song name="jinglebells">jinglebells.xml</song>
-<song name="jinglebell">jinglebells.xml</song>
+<song name="jinglebells">jinglebells.pptx</song>
+<song name="jinglebell">jinglebells.pptx</song>
 
-<song name="feliznavidad">feliznavidad.xml</song>
+<song name="thefirstnoel">thefirstnoel.pptx</song> 
+<song name="noel">thefirstnoel.pptx</song> 
+<song name="noelnoel">thefirstnoel.pptx</song> 
+<song name="firstnoel">thefirstnoel.pptx</song> 
 
 
-	<song name="ขอเชิญท่านผู้วางใจ">christianlyricsnet/ocomeallyefaithful.xml</song>
-	<song name="ohcomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
-	<song name="ocomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
+
+<song name="oceans">oceans.pptx</song>
+<song name="oceanshillsong">oceans.pptx</song>
+<song name="hillsongoceans">oceans.pptx</song>
+<song name="oceanswherefeetmayfail">oceans.pptx</song>
+<song name="wherefeetmayfail">oceans.pptx</song>
+
+
+<song name="feliznavidad">feliznavidad.pptx</song>
+
+	<song name="คริสตมาสเป็นเวลา">คริสตมาสเป็นเวลา.pptx</song>
+	<song name="คริสมาสเป็นเวลา">คริสตมาสเป็นเวลา.pptx</song>
+	<song name="คริสต์มาสเป็นเวลา">คริสตมาสเป็นเวลา.pptx</song>
+	<song name="christmasisthetimetolove">คริสตมาสเป็นเวลา.pptx</song>
+	<song name="christmasisatimetolove">คริสตมาสเป็นเวลา.pptx</song>
+
+	<song name="ขอเชิญท่านผู้วางใจ">christianlyricsnet/ocomeallyefaithful.pptx</song>
+	<song name="ohcomeallyefaithful">christianlyricsnet/ocomeallyefaithful.pptx</song>
+	<song name="ocomeallyefaithful">christianlyricsnet/ocomeallyefaithful.pptx</song>
 
 <song name="สรรเสริญพระผู้ไถ่">สรรเสริญพระผู้ไถ่.pptx</song>
 
