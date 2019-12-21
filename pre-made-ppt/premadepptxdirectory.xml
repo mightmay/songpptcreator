@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="jinglebells">jinglebells.xml</song>
+<song name="jinglebell">jinglebells.xml</song>
+
+<song name="feliznavidad">feliznavidad.xml</song>
+
+
+	<song name="ขอเชิญท่านผู้วางใจ">christianlyricsnet/ocomeallyefaithful.xml</song>
+	<song name="ohcomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
+	<song name="ocomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
+
 <song name="สรรเสริญพระผู้ไถ่">สรรเสริญพระผู้ไถ่.pptx</song>
 
 <song name="jesusnameaboveallnames">jesusnameaboveallnames.pptx</song>
