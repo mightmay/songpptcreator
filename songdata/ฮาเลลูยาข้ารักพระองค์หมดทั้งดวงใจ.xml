@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ฮาเลลูยา</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,verse2,chorus</order>
+
+<thai>
+    <verse1>ข้ารักพระองค์หมดทั้งดวงใจ พระองค์ประทานความหวังในใจ ข้าจะร้องสรรเสริญถวายแด่พระองค์ พระกรุณานำข้าผ่านพ้น สิ่งเดิมเลยไป สิ่งใหม่ได้พบ จิตใจของข้าสรรเสริญว่า ฮาเลลูยา (x4)</verse1>
+    <verse2>ข้ารู้พระองค์ทรงเป็นพระเจ้า   พระองค์เติมเต็มความรักพระคุณ ข้าจะร้องสรรเสริญโมทนา  ขอบพระคุณโปรดนำข้าจากแดนความตาย และประทานให้ข้าเป็นไท  บัดนี้ข้าร้องสรรเสริญว่า ฮาเลลูยา</verse2>
+    <chorus>ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา ฮาเลลูยา</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</chord>
+
+</song>

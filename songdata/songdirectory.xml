@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+<song name="hillsongisurrender">hillsongisurrender.xml</song>
+<song name="isurrenderhillsong">hillsongisurrender.xml</song>
+
+<song name="ฮาเลลูยาข้ารักพระองค์หมดทั้งดวงใจ">ฮาเลลูยาข้ารักพระองค์หมดทั้งดวงใจ.xml</song>
+<song name="ข้ารักพระองค์หมดทั้งดวงใจ">ฮาเลลูยาข้ารักพระองค์หมดทั้งดวงใจ.xml</song>
+
 <song name="oceans">oceans.xml</song>
 <song name="oceanshillsong">oceans.xml</song>
 <song name="hillsongoceans">oceans.xml</song>
@@ -778,7 +784,9 @@
 	<song name="ลุกขึ้นสรรเสริญพระเจ้า">ThaiWorshipCom/ลุกขึ้นสรรเสริญพระเจ้า.xml</song>
 	<song name="ลุกขึ้นส่องแสง">ThaiWorshipCom/ลุกขึ้นส่องแสง.xml</song>
 	<song name="ฮาเล ลู...ยา">ThaiWorshipCom/ฮาเล ลู...ยา.xml</song>
+	
 	<song name="ฮาเลลูยา">ThaiWorshipCom/ฮาเลลูยา.xml</song>
+	
 	<song name="ฮาเลลูยา (ร้องเพราะรักพระองค์)">ThaiWorshipCom/ฮาเลลูยา (ร้องเพราะรักพระองค์).xml</song>
 	<song name="ฮาเลลูยา พระเยซูเป็นขึ้นแล้ว">ThaiWorshipCom/ฮาเลลูยา พระเยซูเป็นขึ้นแล้ว.xml</song>
 	<song name="โฮซันนา">ThaiWorshipCom/โฮซันนา.xml</song>
