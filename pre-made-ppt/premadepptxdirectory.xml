@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
 
+<song name="ข้าสรรเสริญพระองค์">ข้าสรรเสริญพระองค์.xml</song>
+
+<song name="เวลาของพระองค์">เวลาของพระองค์.xml</song>
+
+<song name="อยู่เพื่อรับใช้">อยู่เพื่อรับใช้.xml</song>
+
+<song name="holyholyholy">holyholyholy.xml</song>
+<song name="สรรเสริญสรรเสริญสรรเสริญ">holyholyholy.xml</song>
+<song name="holyholyholylordgodalmighty">holyholyholy.xml</song>
+
+
 <song name="stepbystep">stepbystep.pptx</song>    
 <song name="ohgodyouaremygod">stepbystep.pptx</song> 
 <song name="ogodyouaremygod">stepbystep.pptx</song> 

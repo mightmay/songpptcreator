@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+<song name="อยู่เพื่อรับใช้">อยู่เพื่อรับใช้.xml</song>
+
+<song name="ข้าสรรเสริญพระองค์">ข้าสรรเสริญพระองค์.xml</song>
+
+<song name="เวลาของพระองค์">เวลาของพระองค์.xml</song>
+
+
 <song name="hillsongisurrender">hillsongisurrender.xml</song>
 <song name="isurrenderhillsong">hillsongisurrender.xml</song>
 
@@ -6046,7 +6054,7 @@
 	<song name="lights">christianlyricsnet/lights.xml</song>
 	<song name="vast">christianlyricsnet/vast.xml</song>
 	<song name="imback">christianlyricsnet/imback.xml</song>
-	<song name="holyholyholy">christianlyricsnet/holyholyholy.xml</song>
+
 	<song name="theholyghostismoving">christianlyricsnet/theholyghostismoving.xml</song>
 	<song name="anyway">christianlyricsnet/anyway.xml</song>
 	<song name="hisgoodness">christianlyricsnet/hisgoodness.xml</song>
@@ -7093,7 +7101,7 @@
 	<song name="dontwannamakeamove">christianlyricsnet/dontwannamakeamove.xml</song>
 	<song name="tofindmystrength">christianlyricsnet/tofindmystrength.xml</song>
 	<song name="finallyhome">christianlyricsnet/finallyhome.xml</song>
-	<song name="holyholyholy">christianlyricsnet/holyholyholy.xml</song>
+
 	<song name="letitrise">christianlyricsnet/letitrise.xml</song>
 	<song name="highandexalted">christianlyricsnet/highandexalted.xml</song>
 	<song name="crownyouwithpraise">christianlyricsnet/crownyouwithpraise.xml</song>
@@ -8263,7 +8271,7 @@
 	<song name="hallelujah">christianlyricsnet/hallelujah.xml</song>
 	<song name="youdeserve">christianlyricsnet/youdeserve.xml</song>
 	<song name="speakingofsilence">christianlyricsnet/speakingofsilence.xml</song>
-	<song name="holyholyholy">christianlyricsnet/holyholyholy.xml</song>
+
 	<song name="holyisourlord">christianlyricsnet/holyisourlord.xml</song>
 	<song name="thelight">christianlyricsnet/thelight.xml</song>
 	<song name="curtain">christianlyricsnet/curtain.xml</song>
@@ -8903,7 +8911,7 @@
 	<song name="waiting">christianlyricsnet/waiting.xml</song>
 	<song name="stand">christianlyricsnet/stand.xml</song>
 	<song name="justalittletalkwithjesus">christianlyricsnet/justalittletalkwithjesus.xml</song>
-	<song name="holyholyholy">christianlyricsnet/holyholyholy.xml</song>
+
 	<song name="searchmelord">christianlyricsnet/searchmelord.xml</song>
 	<song name="jesusthementionofyourname">christianlyricsnet/jesusthementionofyourname.xml</song>
 	<song name="speaktomyheart">christianlyricsnet/speaktomyheart.xml</song>
