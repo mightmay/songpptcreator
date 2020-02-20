@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+<song name="그사랑">รักแท้คือซาราง.xml</song>
+<song name="ความรักแท้">รักแท้คือซาราง.xml</song>
+<song name="รักแท้">รักแท้คือซาราง.xml</song>
+<song name="คือซาราง">รักแท้คือซาราง.xml</song>
+<song name="รักแท้คือซาราง">รักแท้คือซาราง.xml</song>
+
+<song name="นานเท่าไร">นานเท่าไร.xml</song>
+
 <song name="ทางในใจ">ทางในใจ.xml</song>
 
 <song name="iamthegodthathealeththee">iamthegodthathealeththee.xml</song>
@@ -312,6 +321,7 @@
 <song name="เราชูมือขึ้นโห่ร้องเป็นเพลงนมัสการ">วันแห่งการสรรเสริญ.xml</song>
     
 <song name="รักวิเศษ">รักวิเศษ.xml</song>
+<song name="ข้ารักพระองค์พระเจ้าของข้า">รักวิเศษ.xml</song>
 
 <song name="น่าจะสรรเสริญพระนามพระเจ้า">น่าจะสรรเสริญพระนามพระเจ้า.xml</song>
 <song name="singingpraiseuntoyoulord">น่าจะสรรเสริญพระนามพระเจ้า.xml</song>
