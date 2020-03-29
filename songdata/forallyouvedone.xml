@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>เม่ย เหยียด ฒู้ง โหฒว เหฒียง</thainame>
+	<englishname>For All You've Done </englishname>
+	<mienthainame>none</mienthainame>
+	<order>segment1,segment2,segment3,segment4</order>
+	<english>
+		<segment1>My Saviour, Redeemer. Lifted me from the miry clay. Almighty forever. I will never be the same </segment1>
+		<segment2>Cause You came near. From the everlasting. To the world we live. The Father's only Son</segment2>
+		<segment3>You lived and You died. You rose again on high. You opened the way. For the world to live again. Hallelujah. For all You've done.</segment3>
+		<segment4>Hallelujah. For all You've done</segment4>
+		
+		<thai>
+		<segment1></segment1>
+		<segment2></segment2>
+		<segment3></segment3>
+		<segment4></segment4>
+</thai>
+    
+<mienthai>
+		<segment1>เหฌียว เฒี้ยว อ่า, เม่ย เหฌี่ย ต้าย เหฌียว เยีย ดุ๊ด ไล่ ฮลบ เญย แหม่ง เน่น เญย เฒี้ยว, เยีย เหยียด ลิ์ว ไม้ ต๋าว ฆาง โล์-เจ๊า,</segment1>
+		<segment2>เหว่ย เม่ย ต้าย ฟัด เยีย. กวั่ง เจี๊ยน ทิน-ต้อง เญย ฌัง เปียะ บัว เยียม เญย ต๋อง, หฒั่ง เตี๋ย เญย โดะ ตอน.</segment2>
+		<segment3>เม่ย ตุ๊ เฒี่ยง, หย่า ไต่ มี่ง, แอ๋ง นั่ง ต้าย ตุ๊ ฝาว ฮลัง. เม่ย คอย เจ๊า ปุน ป้าม เมี่ยน ฟี้ง เจี์ย ต้าย ตุ๊ เฒี่ยง แหม่ง. ฮา^เล^ลู^ยา, เม่ย ฒู้ง โหฒว เหฒียง.</segment3>
+		<segment4>ฮา^เล^ลู^ยา, เหยียด ฒู้ง โหฒว เหฒียง. (x3)</segment4>
+</mienthai>
+
+<chord>
+		<segment1></segment1>
+		<segment2></segment2>
+		<segment3></segment3>
+		<segment4></segment4>
+</chord>
+
+
+	</english>
+</song>

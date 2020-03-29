@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>จงชื่นชมยินดี ในพระเป็นเจ้า</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus,verse2,chorus</order>
+
+<thai>
+    <verse1>จงชื่นชมยินดี ในพระเป็นเจ้า   จงชื่นชมยินดี ในพระองค์ (X2)</verse1>
+    <verse2>อย่าทุกข์ร้อน  ในสิ่งใดใด  แต่จงทูลทุกสิ่งต่อพระองค์ (X2)</verse2>
+    <chorus>แล้วสันติสุขแห่งพระเจ้า จะครองจิตใจ แล้วสันติสุขแห่งพระเจ้า จะครองจิตใจ ไว้ในพระองค์</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</chord>
+
+</song>

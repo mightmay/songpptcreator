@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+	<song name="จงชื่นชมยินดีในพระเป็นเจ้า">จงชื่นชมยินดีในพระเป็นเจ้า.xml</song>
+	<song name="จงชื่นชมยินดี">จงชื่นชมยินดีในพระเป็นเจ้า.xml</song>
+
+	<song name="อย่ากลัวเลย">อย่ากลัวเลย.xml</song>
+	<song name="อย่ากลัวเลยเพราะเราอยู่กับเจ้า">อย่ากลัวเลย.xml</song>
+
+	<song name="ซ่อนข้าไว้">still.xml</song>
+	<song name="เมื่อพายุพัดมาและฟ้าคำราม">still.xml</song>
+	<song name="still">still.xml</song>
+	<song name="ปี๋งเจี๊ยนเยีย">still.xml</song>
+	<song name="เหฑียะฑี์งเฮญี้ยว">still.xml</song>
+	
+	<song name="aboveall">aboveall.xml</song>
+	<song name="ฮลังเจี๋ยหม่านหมวด">aboveall.xml</song>
+	<song name="เก้าฮลังหัดม์า">aboveall.xml</song>
+
+	
 <song name="thinkabouthislove">thinkabouthislove.xml</song>
 
 <song name="그사랑">รักแท้คือซาราง.xml</song>
@@ -175,6 +192,8 @@
 <song name="onewayjesus">oneway.xml</song>
 <song name="onewayhillsong">oneway.xml</song>
 <song name="ทางเดียวเยซู ">oneway.xml</song>
+<song name="ดุตี่วเจ๊าฮนั้ง">oneway.xml</song>
+<song name="ดุตี่วเจ๊า">oneway.xml</song>
 
 <song name="องค์พระเจ้าอยู่ที่นี่truewoshipper">องค์พระเจ้าอยู่ที่นี่.xml</song>
 <song name="องค์พระเจ้าอยู่ที่นี่">องค์พระเจ้าอยู่ที่นี่.xml</song>
@@ -564,11 +583,17 @@
 <song name="iwillworshipyouforwhoyouare">forwhoyouare.xml</song> 
 <song name="standinghereinyourpresence">forwhoyouare.xml</song> 
 
+<song name="ฉันเห็นราชาแห่งพระสิริ">hosanna.xml</song>   
 <song name="hosanna">hosanna.xml</song>   
 <song name="hillsonghosanna">hosanna.xml</song>    
- <song name="healmyheartandmakeitclean">hosanna.xml</song> 
+<song name="healmyheartandmakeitclean">hosanna.xml</song> 
 <song name="iseethekingofglory">hosanna.xml</song> 
 <song name="hosannahillsong">hosanna.xml</song> 
+<song name="โฮซานา">hosanna.xml</song> 
+<song name="โฮ^ซา^นา">hosanna.xml</song> 
+<song name="เยียปวัดเย^ซูเญยฌัง-หล่าง">hosanna.xml</song> 
+<song name="เยียปวัดเยซูเญยฌังหล่าง">hosanna.xml</song> 
+
 
 <song name="เราจะเดินในทางของพระเยซู">เราจะเดินในทางของพระเยซู.xml</song> 
 <song name="เราจะเป็นดั่งนกอินทรีแข็งแกร่ง">เราจะเดินในทางของพระเยซู.xml</song> 
@@ -1696,7 +1721,6 @@
 	<song name="blessedbeyourname">christianlyricsnet/blessedbeyourname.xml</song>
 	<song name="rainbowsong">christianlyricsnet/rainbowsong.xml</song>
 	<song name="surrender">christianlyricsnet/surrender.xml</song>
-	<song name="aboveall">christianlyricsnet/aboveall.xml</song>
 	<song name="championfeaturingisraelhoughton">christianlyricsnet/championfeaturingisraelhoughton.xml</song>
 	<song name="youaremyworld">christianlyricsnet/youaremyworld.xml</song>
 	<song name="abbafather">christianlyricsnet/abbafather.xml</song>
@@ -2299,7 +2323,16 @@
 	<song name="magnificent">christianlyricsnet/magnificent.xml</song>
 	<song name="withyou">christianlyricsnet/withyou.xml</song>
 	<song name="shouttotheking">christianlyricsnet/shouttotheking.xml</song>
-	<song name="forallyouvedone">christianlyricsnet/forallyouvedone.xml</song>
+	
+<song name="meihyietczungvzouxziangx">forallyouvedone.xml</song>
+<song name="forallyouvedone">forallyouvedone.xml</song>
+<song name="forallyouhavedone">forallyouvedone.xml</song>
+<song name="เม่ยเหยียดฒู้งโหฒวเหฒียง">forallyouvedone.xml</song>
+<song name="เม่ยเหยียดฒู้งโหฒวเหฒียง">forallyouvedone.xml</song>
+<song name="เหฌียวเฒี้ยวอ่าเม่ยเหฌี่ยต้ายเหฌียวเยียดุ๊ดไล่ฮลบเญยแหม่ง">forallyouvedone.xml</song>
+<song name="เหฌียวเฒี้ยวอ่าเม่ยเหฌี่ยต้าย">forallyouvedone.xml</song>
+
+
 	<song name="evermore">christianlyricsnet/evermore.xml</song>
 	
 	<song name="withalliam">christianlyricsnet/withalliam.xml</song>
@@ -4215,7 +4248,6 @@
 	<song name="igiveyoumyheart">christianlyricsnet/igiveyoumyheart.xml</song>
 	<song name="everyday">christianlyricsnet/everyday.xml</song>
 	<song name="nowthatyourenear">christianlyricsnet/nowthatyourenear.xml</song>
-	<song name="still">christianlyricsnet/still.xml</song>
 	<song name="alltheheavens">christianlyricsnet/alltheheavens.xml</song>
 	<song name="highest">christianlyricsnet/highest.xml</song>
 	<song name="worthyisthelamb">christianlyricsnet/worthyisthelamb.xml</song>

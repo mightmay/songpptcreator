@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>อย่ากลัวเลย</thainame>
+<englishname>none</englishname>
+<mienthainame>none</mienthainame>
+<order>verse1,chorus</order>
+
+<thai>
+    <verse1>อย่ากลัวเลย  เพราะเราอยู่กับเจ้า  อย่าขยาด  เพราะเราเป็นพระเจ้าของเจ้า</verse1>
+    <chorus>เราจะหนุนกำลังของเจ้า  เราจะช่วยเจ้า  เราจะชูเจ้าด้วยมือขวา    อันมีชัยของเรา เราจะชูเจ้าด้วยมือขวา  อันมีชัยของเรา</chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1></verse1>
+    <chorus></chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <chorus></chorus>
+</chord>
+
+</song>

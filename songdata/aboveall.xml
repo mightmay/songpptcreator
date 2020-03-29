@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Above All</englishname>
+	<mienthainame>เก้า ฮลัง เจี๋ย หม่าน หมวด</mienthainame>
+	<order>verse1,verse2,chorus</order>
+	
+	<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</thai>
+	<english>
+		<verse1>Above all powers, above all kings. Above all nature and all created things. Above all wisdom and all the ways of man. You were here before the world began</verse1>
+		<verse2>Above all kingdoms, above all thrones. Above all wonders the world has ever known. Above all wealth and treasures of the earth. There's no way to measure what You're worth</verse2>
+		<chorus>Crucified. Laid behind the stone. You lived to die, rejected and alone. Like a rose trampled on the ground. You took the fall and thought of me. Above all</chorus>
+	</english>
+
+    
+<mienthai>
+    <verse1>เก้า ฮลัง หัด ม์า เก้า ฮลัง ฮู่ง เก้า ฮลัง เจี๋ย นิ่น เหฒย ธ้วด ต้าย เญย หม่าน หมวด เก้า ฮลัง เมี่ยน เญย ธง-เม่ง เหธา นิ่น เญย หฒะเอ๋ย ไม้ แก้ง เหฒย ลู่ง เม่ย หย่า ฒู้ง เฒี่ยง เจี๊ยน</verse1>
+    <verse2>เก้า ฮลัง ฮู่ง เตี๋ย เก้า ฮลัง กวั๊ะ เก้า ฮลัง ลู่ง เดี๊ย เญย เหยียด ฒู้ง บัวะ ฮ่อง สี่ เก้า ฮลัง ป้าม เกน เญย จ๋าย ไห่ เญย กะน้าย เม่ย เก้ง จ๋าย ไม้ ม่าย หาย หญู่ง เป๊ย ตุ๊</verse2>
+    <chorus>เหฒียบ หฑั่ง จ๋า, เยียม วั้ว หฒุ ไต๋ ปย๊บ (เม่ย) ธ้วด เสย ต้าย เม่ย หฒุ ไต๋ หฒุ กวั่ง ฮนั้ง เปี้ยง เหฑ่วย เยีย ธ้าย ลิ์ว แอ๋ง เฒาะ กวั่ง เม่ย ตี๊ เยีย ไต่ เหว่ย เม่ย ฝุน เยีย…เก้า จ๋าย เจี๋ย</chorus>
+</mienthai>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <chorus></chorus>
+</chord>
+
+</song>
