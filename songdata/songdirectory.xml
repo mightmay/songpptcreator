@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+	<song name="ขอบคุณพระเยซู">ขอบคุณพระเยซู.xml</song>
+	<song name="แล์งฒี่งเฒี้ยวเยซู">ขอบคุณพระเยซู.xml</song>
+
+
+
+
+
+
+
+
+	<song name="ชัยชนะโลกนี้">ชัยชนะโลกนี้.xml</song>
+	<song name="ฮี่งเจี๋ยน้ายป้ามเกน">ชัยชนะโลกนี้.xml</song>
+
+	<song name="พระเจ้าแสนดี">พระเจ้าแสนดี.xml</song>
+	<song name="godissogood">พระเจ้าแสนดี.xml</song>
+	<song name="เฒี้ยวเก้งหลงไห่">พระเจ้าแสนดี.xml</song>
+	<song name="เฒี้ยวเก่งหลงไห่">พระเจ้าแสนดี.xml</song>
+
 	<song name="จงชื่นชมยินดีในพระเป็นเจ้า">จงชื่นชมยินดีในพระเป็นเจ้า.xml</song>
 	<song name="จงชื่นชมยินดี">จงชื่นชมยินดีในพระเป็นเจ้า.xml</song>
 
@@ -407,6 +426,8 @@
 <song name="มานี่เป็นเวลานมัสการ">comenowisthetimetoworship.xml</song>
 <song name="มานี่เป็นเวลา">comenowisthetimetoworship.xml</song>
 
+<song name="เยียบัวม่ายเต้าเธียนฮนั้มเญยเฒี้ยว">whatafriendwehaveinjesus.xml</song>
+<song name="เยียบัวม่ายเต้าเจียนฮนั้มเญยเฒี้ยว">whatafriendwehaveinjesus.xml</song>
 <song name="whatafriendwehaveinjesus">whatafriendwehaveinjesus.xml</song>
 <song name="มีสหายเลิศคือพระเยซู">whatafriendwehaveinjesus.xml</song>
 <song name="มีสหายเลิศ">whatafriendwehaveinjesus.xml</song>
@@ -426,7 +447,8 @@
 <song name="หนึ่งหมื่นเหตุผล">10000reasons.xml</song>
 <song name="หมื่นเหตุผล">10000reasons.xml</song>
 
- 
+<song name="เยียอ๋อยเปียะเฒี้ยวเญยเปย๊าเหว่ยอ๋อยป๋าวฑูงเธงเหฌียวเฒี้ยว">เราจะเข้ามาสรรเสริญ.xml</song>
+<song name="เยียอ๋อยเปียะเฒี้ยวเญยเปย๊า">เราจะเข้ามาสรรเสริญ.xml</song>
 <song name="iwillenterhisgates">เราจะเข้ามาสรรเสริญ.xml</song>
 <song name="iwillenterhisgate">เราจะเข้ามาสรรเสริญ.xml</song>
 <song name="เราจะเข้ามาสรรเสริญ">เราจะเข้ามาสรรเสริญ.xml</song>
@@ -509,6 +531,9 @@
 <song name="changemyheartohgodmayibelikeyou">changemyheartohgod.xml</song>
 <song name="เปลี่ยนแปลงชีวิตข้า">changemyheartohgod.xml</song>
 
+<song name="ล่มฑ่อยเยียมกีตู่ต้งติ่วเฮญี้ยว">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
+<song name="ล่มฑ่อยเยียมกีตู่">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
+<song name="ล่มย่อยเยียมกีตู่ต้งติ่วเฮญี้ยว">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="เราเป็นหนึ่งในความรักพระคริสต">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="เราเป็นหนึ่งในความรักพระคริส">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="เราเป็นหนึ่งในความรักพระคริสต์">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
@@ -857,7 +882,8 @@
 	<song name="ฮาเลลูยา พระเยซูเป็นขึ้นแล้ว">ThaiWorshipCom/ฮาเลลูยา พระเยซูเป็นขึ้นแล้ว.xml</song>
 	<song name="โฮซันนา">ThaiWorshipCom/โฮซันนา.xml</song>
 	<song name="โฮซันนา">ThaiWorshipCom/โฮซันนา.xml</song>
-	<song name="ขอบคุณพระเยซู">ThaiWorshipCom/ขอบคุณพระเยซู.xml</song>
+	
+
 	<song name="ขอให้พระเกียรติจงมีแด่พระองค์">ThaiWorshipCom/ขอให้พระเกียรติจงมีแด่พระองค์.xml</song>
 	<song name="ขอบคุณขอบคุณพระเจ้า">ThaiWorshipCom/ขอบคุณขอบคุณพระเจ้า.xml</song>
 	<song name="ขอบพระคุณองค์พระเจ้า">ThaiWorshipCom/ขอบพระคุณองค์พระเจ้า.xml</song>
@@ -1156,7 +1182,7 @@
 	<song name="เรานมัสการ">ThaiWorshipCom/เรานมัสการ.xml</song>
 	<song name="เรานมัสการพระเจ้า">ThaiWorshipCom/เรานมัสการพระเจ้า.xml</song>
 	<song name="เรานำเครื่องบูชาสรรเสริญ">ThaiWorshipCom/เรานำเครื่องบูชาสรรเสริญ.xml</song>
-	<song name="เราจะเข้ามาสรรเสริญ">ThaiWorshipCom/เราจะเข้ามาสรรเสริญ.xml</song>
+
 	<song name="เราจะติดตามพระองค์">ThaiWorshipCom/เราจะติดตามพระองค์.xml</song>
 	
 		<song name="iwillgivethankstothee">ThaiWorshipCom/เราจะโมทนาพระคุณ.xml</song>
@@ -1207,7 +1233,7 @@
 	<song name="เราเป็นพระเจ้า">ThaiWorshipCom/เราเป็นพระเจ้า.xml</song>
 	<song name="เราเป็นยิ่งกว่าผู้พิชิต">ThaiWorshipCom/เราเป็นยิ่งกว่าผู้พิชิต.xml</song>
 	<song name="เราเป็นหนึ่งเดียวกัน">ThaiWorshipCom/เราเป็นหนึ่งเดียวกัน.xml</song>
-	<song name="เราเป็นหนึ่งในความรักพระคริสต์">ThaiWorshipCom/เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
+
 	<song name="เราพบพระเยซูคริสต์">ThaiWorshipCom/เราพบพระเยซูคริสต์.xml</song>
 	<song name="เรามาเต้นรำในบ้านหลังนี้">ThaiWorshipCom/เรามาเต้นรำในบ้านหลังนี้.xml</song>
 	<song name="เรามาเต้นรำ">ThaiWorshipCom/เรามาเต้นรำ.xml</song>
@@ -1230,7 +1256,11 @@
 	<song name="พระเจ้าทรงเป็นผู้เลี้ยงที่รัก">ThaiWorshipCom/พระเจ้าทรงเป็นผู้เลี้ยงที่รัก.xml</song>
 	<song name="พระเจ้าทรงยิ่งใหญ่">ThaiWorshipCom/พระเจ้าทรงยิ่งใหญ่.xml</song>
 	<song name="พระเจ้าทรงสถิตกับฉัน">ThaiWorshipCom/พระเจ้าทรงสถิตกับฉัน.xml</song>
-	<song name="พระเจ้าทรงสัมผัสฉันวันนี้">ThaiWorshipCom/พระเจ้าทรงสัมผัสฉันวันนี้.xml</song>
+	
+	<song name="พระเจ้าทรงสัมผัสฉันวันนี้">พระเจ้าทรงสัมผัสฉันวันนี้.xml</song>
+	<song name="เฒี้ยวเยียไฮ์เม่ยอี้ฮนอย">พระเจ้าทรงสัมผัสฉันวันนี้.xml</song>
+	<song name="เฒี้ยวอี้ฮนอยหมั่งเจี้ยนเยีย">พระเจ้าทรงสัมผัสฉันวันนี้.xml</song>
+
 	<song name="พระเจ้าเที่ยงแท้">ThaiWorshipCom/พระเจ้าเที่ยงแท้.xml</song>
 	<song name="พระเจ้านั้นทรงสร้างเยรูซาเล็ม">ThaiWorshipCom/พระเจ้านั้นทรงสร้างเยรูซาเล็ม.xml</song>
 	<song name="พระเจ้าประทาน">ThaiWorshipCom/พระเจ้าประทาน.xml</song>
@@ -1283,7 +1313,8 @@
 	<song name="พระเจ้าลุกขึ้น">ThaiWorshipCom/พระเจ้าลุกขึ้น.xml</song>
 	<song name="พระเจ้าลุกขึ้น">ThaiWorshipCom/พระเจ้าลุกขึ้น.xml</song>
 	<song name="พระเจ้าลุกขึ้น">ThaiWorshipCom/พระเจ้าลุกขึ้น.xml</song>
-	<song name="พระเจ้าแสนดี">ThaiWorshipCom/พระเจ้าแสนดี.xml</song>
+
+
 	<song name="พระเจ้าแห่งฟ้าสวรรค์">ThaiWorshipCom/พระเจ้าแห่งฟ้าสวรรค์.xml</song>
 	<song name="พระเจ้าแห่งฟ้าสวรรค์">ThaiWorshipCom/พระเจ้าแห่งฟ้าสวรรค์.xml</song>
 	<song name="พระเจ้าอัศจรรย์">ThaiWorshipCom/พระเจ้าอัศจรรย์.xml</song>
@@ -1401,7 +1432,8 @@
 	<song name="ฉันเป็นไท">ThaiWorshipCom/ฉันเป็นไท.xml</song>
 	<song name="ฉันได้วางใจในพระเจ้า">ThaiWorshipCom/ฉันได้วางใจในพระเจ้า.xml</song>
 	<song name="ชนะชนะชนะ">ThaiWorshipCom/ชนะชนะชนะ.xml</song>
-	<song name="ชัยชนะโลกนี้">ThaiWorshipCom/ชัยชนะโลกนี้.xml</song>
+	
+	
 	<song name="ชื่นชมยินดี">ThaiWorshipCom/ชื่นชมยินดี.xml</song>
 	<song name="ความรักมั่นคง">ThaiWorshipCom/ความรักมั่นคง.xml</song>
 	<song name="คนปกติไม่ต้องการหมอ">ThaiWorshipCom/คนปกติไม่ต้องการหมอ.xml</song>

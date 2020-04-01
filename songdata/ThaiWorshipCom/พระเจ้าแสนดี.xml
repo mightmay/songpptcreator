@@ -1,10 +1,38 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>พระเจ้าแสนดี</thainame>
-	<englishname>none</englishname>
-	<mienthainame>none</mienthainame>
-	<order>verse1</order>
-	<thai>
-		<verse1>พระเจ้าแสนดีพระเจ้าแสนดี พระเจ้าแสนดีพระทรงดีต่อข้า พระเจ้าประเสริฐพระเจ้าประเสริฐ พระเจ้าประเสริฐพระทรงดีต่อข้า</verse1>
-	</thai>
+	<englishname>God is So Good</englishname>
+	<mienthainame>เฒี้ยว เก้ง หลง ไห่</mienthainame>
+	<order>verse1,verse2,verse3</order>
+<thai>
+    <verse1>พระเจ้าแสนดี     พระเจ้าแสนดี     พระเจ้าแสนดี   ทรงแสนดี ต่อฉัน </verse1>
+    <verse2>พระเจ้าดูแล    พระเจ้าดูแล       พระเจ้าดูแล    ทรงดูแล ตัว ฉัน</verse2>
+    <verse3>พระเจ้ารักฉัน     พระเจ้ารักฉัน       พระเจ้ารักฉัน   ทรงรักฉัน เสมอ</verse3>
+	    <verse4></verse4>
+
+</thai>
+
+<english>
+    <verse1>God is so good,  God is so good; God is so good, He’s so good to me.</verse1>
+    <verse2>He cares for me so,  He cares for me so; He cares for me so, He’s so good to me.</verse2>
+    <verse3>I love Him so,  I love Him so; I love Him so, He’s so good to me.</verse3>
+	    <verse4>I praise His Name,  I praise His Name; I praise His Name, He’s so good to me.</verse4>
+
+</english>
+    
+<mienthai>
+    <verse1>1. เฒี้ยว เก้ง หลง ไห่, (อา^เล^ลู^ยา)   เฒี้ยว เก้ง หลง ไห่, (อา^เล^ลู^ยา) เฒี้ยว เก้ง หลง ไห่,   เก้ง เหธย ฟุ ปุน บัว.</verse1>
+    <verse2>2. เยีย ฮนั้มไห่ เฒี้ยว,   (อา^เล^ลู^ยา,)     เม่ย ฮนั้ม ไห่ เฒี้ยว,   (อา^เล^ลู^ยา,) เยีย ฮนั้มไห่ เฒี้ยว,   เม่ย ฮนั้ม เฒี้ยว เญย ไฟ ?</verse2>
+    <verse3>3. ตอ-เหฒี่ย ทิน-ฮู่ง, (อา^เล^ลู^ยา,)     ตอ-เหฒี่ย ทิน-ฮู่ง, (อา^เล^ลู^ยา,) ตอ-เหฒี่ย ทิน-ฮู่ง,  เก้ง เหธย ฟุ ปุน บัว.</verse3>
+	    <verse4></verse4>
+
+</mienthai>
+
+<chord>
+    <verse1>E        F#m      B7         E         C#m     F#m           E  B7  E    </verse1>
+    <verse2>E        F#m      B7         E         C#m     F#m           E  B7  E    </verse2>
+    <verse3>E        F#m      B7         E         C#m     F#m           E  B7  E    </verse3>
+		    <verse4>E        F#m      B7         E         C#m     F#m           E  B7  E    </verse4>
+
+</chord>
 </song>

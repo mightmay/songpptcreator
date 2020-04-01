@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ขอบคุณพระเยซู</thainame>
+	<englishname>none</englishname>
+	<mienthainame>แล์ง ฒี่ง เฒี้ยว เย^ซู</mienthainame>
+	<order>verse1,chorus</order>
+	<thai>
+		<verse1>ขอบคุณพระเยซู มอบความรักแก่เรา ขอบคุณพระเยซู ทรงพระคุณมากมี</verse1>
+		<chorus>*เราเปล่งเสียงร้องสรรเสริญพระนาม ร้องสรรเสริญโมทนาพระองค์เป็นทุกสิ่ง เป็นพระเจ้าของเรา</chorus>
+	</thai>
+	
+<english>
+    <verse1></verse1>
+    <chorus></chorus>
+</english>
+    
+<mienthai>
+
+	    <verse1>แล์ง ฒี่ง เฒี้ยว เย^ซู, ฮู.. นิ่น ปุน บัว ฮนั้ม เมี่ยน. แล์ง ฒี่ง เฒี้ยว เย^ซู, ฮู..   นิ่น เอน เหธย โฮล ไห่.</verse1>
+    <chorus>เยีย เห่ว เจี้ยน ก๊อง เธง นิ่น เญย เม่ง. ต้าย เธง นิ่น เญย เม่ง. เหฌียว เฒี้ยว เถง หญู่งๆ, ต้ง เยีย เญย ทิน-ฮู่ง.</chorus>
+
+</mienthai>
+
+<chord>
+    <verse1>C       Dm      G7           C        C            Dm       G7                   C</verse1>
+    <chorus>C       F            G7       C           Am F         G7                    C</chorus>
+</chord>
+
+</song>

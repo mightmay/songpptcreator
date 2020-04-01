@@ -3,34 +3,30 @@
 
 <thainame>เราจะเข้ามาสรรเสริญ</thainame>
 <englishname>I will enter His gates</englishname>
-<mienthainame>none</mienthainame>
-<order>verse1,verse2,chorus,chorus</order>
+<mienthainame>เยีย อ๋อย เปียะ เฒี้ยว เญย เปย๊า</mienthainame>
+<order>verse1,verse2,chorus</order>
 
 <thai>
     <verse1>เราจะเข้ามาสรรเสริญ ด้วยใจโมทนาพระคุณ เราจะเข้ามาด้วยการร้องเพลง</verse1>
     <verse2>เราจะร้องวันนี้เป็นวัน ที่พระเจ้าทรงสร้าง ให้เราเปรมปรีดิ์และยินดีในพระองค์</verse2>
-
     <chorus>จงชื่นชมยินดี จงชื่นชมยินดี ให้เราเปรมปรีดิ์ และยินดีในพระองค์</chorus>
 </thai>
 
 <english>
     <verse1>I will enter His gates. With thanksgiving in my heart. I will enter His courts with praise.</verse1>
     <verse2>I will say this is the day, that the Lord has made. I will rejoice for He has made me glad.</verse2>
-
     <chorus>He has made me glad, He has made me glad. I will rejoice for He has made me glad.</chorus>
 </english>
     
 <mienthai>
-    <verse1></verse1>
-    <verse2></verse2>
-
-    <chorus></chorus>
+    <verse1>เยีย อ๋อย เปียะ เฒี้ยว เญย เปย๊า, เหว่ย อ๋อย ป๋าว  ฑูง เธง เหฌียว เฒี้ยว เยีย เปียะ ต้าย หล่ง เฮญี้ยว เธง เฒี้ยว ทิน-ฮู่ง.</verse1>
+    <verse2>เยีย อ๋อย ก๊อง น้าย นอม ฮนอย เซ เฒี้ยว เหธย ต้าย เหว่ย ปุน บัว. เยีย เก้ง อะเฮน้ย เหว่ย เฒี้ยว ปุน บัว  เฌียน-โย่ว.</verse2>
+    <chorus>*เฒี้ยว ปุน เยีย เฌียน-โย่ว. เฒี้ยว ปุน เม่ย  เฌียน-โย่ว. ล่ม ฑ่อย อะเฮน้ย เซ เหว่ย ม่าย เฒียน เฌียน-โย่ว.   (ป๋าว อี หฑุ่น)</chorus>
 </mienthai>
 
 <chord>
     <verse1>D G D G A A7</verse1>
     <verse2>D G D Bm G Em A D</verse2>
-
     <chorus>G D G Em A7 D</chorus>
 </chord>
 
