@@ -2,7 +2,7 @@
 <song>
 	<thainame>เรานำเสียงการสรรเสริญ</thainame>
 	<englishname>We Bring The Sacrifice Of Praise</englishname>
-	<mienthainame>none</mienthainame>
+	<mienthainame>บัว ต้อ เฉีย เปียะ ต้าย เธง เฒี้ยว</mienthainame>
 	<order>verse1,chorus1,chorus2</order>
 	<thai>
 		<verse1>เรานำเสียงการสรรเสริญ  มายังวิหารของพระองค์ เรานำเสียงการสรรเสริญ  มายังวิหารของพระองค์</verse1>
@@ -14,4 +14,18 @@
 		<chorus1>*And we offer up to You, The sacrifices of thanksgiving;</chorus1>
 		<chorus2>And we offer up to You, The sacrifices of praise.</chorus2>
 	</english>
+	    
+<mienthai>
+    <verse1>บัว ต้อ เฉีย เปียะ ต้าย เธง เฒี้ยว, เปียะ เถา ทิน-ฮู่ง เญย สีง ติ่น.(2 หฑุ่น)</verse1>
+	<chorus1>ฝ่ง ห่อ บัว เญย เฉีย เธง เฒี้ยว เป้น กะน้าย เหฒี่ย ปุน เหฌียว เฒี้ยว ทิน-ฮูง.</chorus1>
+	<chorus2>อ๋อย ฝ่ง ห่อ เธง เฒี้ยว เญย หว่า. เป๋น กะน้าย เหฒี่ย ปุน ทิน-ฮู่ง.</chorus2>
+</mienthai>
+
+<chord>
+    <verse1>D        D       G           D</verse1>
+	<chorus1>G        D            A7    D   </chorus1>
+	<chorus2>G         D           A7              D</chorus2>
+</chord>
+
+
 </song>

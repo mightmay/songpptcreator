@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+	<song name="เรานำเสียงการสรรเสริญ">เรานำเสียงการสรรเสริญ.xml</song>
+	<song name="webringthesacrificeofpraise">เรานำเสียงการสรรเสริญ.xml</song>
+	<song name="บัวต้อเฉียเปียะต้ายเธงเฒี้ยวเปียะเถาทินฮู่งเญยสีงติ่น">เรานำเสียงการสรรเสริญ.xml</song>
+	<song name="บัวต้อเฉียเปียะต้ายเธงเฒี้ยว">เรานำเสียงการสรรเสริญ.xml</song>
+
+	<song name="พระผู้เลิศ">พระผู้เลิศ.xml</song>
+	<song name="ฮี่งเญยเฒี้ยวเคนเยียปั์ว">พระผู้เลิศ.xml</song>
+	<song name="ฮี่งเญยเฒี้ยวเคนเยียปั์วต้อเยียยั่งว้วนเญยเจ๊า">พระผู้เลิศ.xml</song>
+	<song name="takemyhandpreciouslord">พระผู้เลิศ.xml</song>
+	<song name="preciouslordtakemyhand">พระผู้เลิศ.xml</song>
+
+	<song name="เชื่อและฟังคำ">เชื่อและฟังคำ.xml</song>
+	<song name="เสียนเขาหมัวงหว่าไม้ม่ายเหญี่ยเญยหฒะเอ๋ย">เชื่อและฟังคำ.xml</song>
+	<song name="เยียยั่งเจ๊ากันเยซูเบ่นสี่เอยนิ่นเญยโซว">เชื่อและฟังคำ.xml</song>
+	<song name="trustandobey">เชื่อและฟังคำ.xml</song>
+
+
+	<song name="พระคริสต์นำหน้า">พระคริสต์นำหน้า.xml</song>
+	<song name="heleadethme">พระคริสต์นำหน้า.xml</song>
+	<song name="เฒี้ยวเยซูกีตู่ต้อเจี๊ยนเยีย">พระคริสต์นำหน้า.xml</song>
+	<song name="กีตู่ต้อเยีย">พระคริสต์นำหน้า.xml</song>
+
+	<song name="ข้ามอบทุกสิ่งแด่พระเยซู">ข้ามอบทุกสิ่งแด่พระเยซู.xml</song>
+	<song name="alltojesusisurrender">ข้ามอบทุกสิ่งแด่พระเยซู.xml</song>
+	<song name="เยียเฒาะเหยียดฒู้งฝูงปุนเยซู">ข้ามอบทุกสิ่งแด่พระเยซู.xml</song>
+
+	<song name="เฒี้ยวเยซูบั๋วบัวอ๋อยหฒุมี่งฒุ่นคู้เฝียน">คู้เฝียนก๋อมลู่งเดี๊ย.xml</song>
+	<song name="บัวอ๋อยหฒุมี่งฒุ่นคู้เฝียน">คู้เฝียนก๋อมลู่งเดี๊ย.xml</song>
+	<song name="คู้เฝียนก๋อมลู่งเดี๊ย">คู้เฝียนก๋อมลู่งเดี๊ย.xml</song>
 
 	<song name="ขอบคุณพระเยซู">ขอบคุณพระเยซู.xml</song>
 	<song name="แล์งฒี่งเฒี้ยวเยซู">ขอบคุณพระเยซู.xml</song>
 
+	<song name="jesuslovesme">jesuslovesme.xml</song>
+	<song name="jesuslovesmethisiknow">jesuslovesme.xml</song>
+	<song name="jesuslovemethisiknow">jesuslovesme.xml</song>
+	<song name="jesusloveme">jesuslovesme.xml</song>
+	<song name="พระเยซูรักฉันรู้แน่">jesuslovesme.xml</song>
+	<song name="พระเยซูรักฉันรู้แน่พระคัมภีร์มีสอนไว้แท้">jesuslovesme.xml</song>
+	<song name="เยซูฮนั้มเยียเยียเฒียนฮิ้ว">jesuslovesme.xml</song>
+	<song name="เยซูฮนั้มเยียเยียเฒียนฮิ้วเหว่ยหฒุกีงโซวก๊องบั๋วเยีย">jesuslovesme.xml</song>
 
 
 
+	<song name="วันนี้เป็นวันที่พระเจ้าตั้งไว้">วันนี้เป็นวันที่พระเจ้าตั้งไว้.xml</song>
+	<song name="อี้ฮนอยเซต้ง">วันนี้เป็นวันที่พระเจ้าตั้งไว้.xml</song>
+	<song name="อี้ฮนอยเซต้งทินฮู่งกั้นเหลียบต้าย">วันนี้เป็นวันที่พระเจ้าตั้งไว้.xml</song>
+	<song name="thisistheday">วันนี้เป็นวันที่พระเจ้าตั้งไว้.xml</song>
+	<song name="thisisthedaythattheLordhasmade">วันนี้เป็นวันที่พระเจ้าตั้งไว้.xml</song>
 
 
 
@@ -152,6 +194,8 @@
 
 <song name="elshaddai">elshaddai.xml</song>
 
+<song name="เธงเฒี้ยวทินฮู่งหม่านฟุเญยกอน">praisegodfromwhomallblessingsflow.xml</song>
+<song name="เฉงเฒี้ยวทินฮู่งหม่านฟุเญยกอน">praisegodfromwhomallblessingsflow.xml</song>
 <song name="สรรเสริญพระเจ้าผู้อำนวยพร">praisegodfromwhomallblessingsflow.xml</song>
 <song name="praisegodfromwhomallblessingsflow">praisegodfromwhomallblessingsflow.xml</song>
 <song name="praisegodfromwhomallblessingflow">praisegodfromwhomallblessingsflow.xml</song>
@@ -228,8 +272,9 @@
 <song name="เรายกย่องพระนามพระองค์เราสรรเสริญถึงความยิ่งใหญ่">เหนือโลกา.xml</song>
 
 <song name="comethoufountofeveryblessing">comethoufountofeveryblessing.xml</song>
-<song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>
 <song name="comethoufountofeveryblessings">comethoufountofeveryblessing.xml</song>
+<song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>
+<song name="โท้เหธยลู่งหฒั่งเญยฟุเหฌี่ยต้าย">comethoufountofeveryblessing.xml</song>
 
 
 
@@ -331,6 +376,8 @@
 <song name="แต่ข้ารู้จักพระองค์ที่ข้าเชื่อ">iknowwhomihavebelieved.xml</song>
 <song name="เพลงชีวิตคริสเตียนบทที่193">iknowwhomihavebelieved.xml</song>
 <song name="เพลงชีวิตคริสเตียน193">iknowwhomihavebelieved.xml</song>
+<song name="เยียไม้ฮิ้วเหว่ยหายติ่วทินฮู่งปิ๋วเม่งเฒี้ยวกั้นเญยเอน">iknowwhomihavebelieved.xml</song>
+<song name="เยียไม้ฮิ้วเหว่ยหายติ่วทินฮู่ง">iknowwhomihavebelieved.xml</song>
 <song name="iknowwhomihavebelieved">iknowwhomihavebelieved.xml</song>
 
 <song name="ข้าแต่พระบิดา">ข้าแต่พระบิดา.xml</song>
@@ -543,7 +590,9 @@
 <song name="wereoneinthebondoflove">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="weare1inthebondoflove">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
 <song name="weareoneinthebondoflove">เราเป็นหนึ่งในความรักพระคริสต์.xml</song>
-    
+
+<song name="โอเยียฮนั้มเม่ยหล่งทินฮู่งเญยเฒียนฮนั้ม">ฉันรักคุณด้วยความรักของพระเจ้า.xml</song>
+<song name="เยียฮนั้มเม่ยหล่งทินฮู่งเญยเฒียนฮนั้ม">ฉันรักคุณด้วยความรักของพระเจ้า.xml</song>    
 <song name="ฉันรักคุณด้วยความรักของพระเจ้า">ฉันรักคุณด้วยความรักของพระเจ้า.xml</song>
 <song name="ฉันเห็นภายในคุณราศีของพระเป็นเจ้า">ฉันรักคุณด้วยความรักของพระเจ้า.xml</song>
 <song name="iloveyouwiththeloveofthelord">ฉันรักคุณด้วยความรักของพระเจ้า.xml</song>
@@ -571,6 +620,8 @@
 <song name="ogodyouaremygod">stepbystep.xml</song> 
 <song name="stepbystepyouleadme">stepbystep.xml</song> 
 
+<song name="ทินฮู่งเหธยนิ่นเญยตอนเฒี้ยวเยซู">becausehelives.xml</song> 
+<song name="เหว่ยเฒี้ยวเฒี่ยงเจี๊ยน">becausehelives.xml</song> 
 <song name="พระเจ้าประทานพระเยซูพระบุตร">becausehelives.xml</song> 
 <song name="เพราะพระองค์ทรงอยู่">becausehelives.xml</song>    
 <song name="เพราะพระองค์ทรงอยู่ข้าเผชิญพรุ่งนี้ได้">becausehelives.xml</song> 
@@ -683,6 +734,9 @@
 <song name="พระองค์จะมาด้วยเมฆท่ามกลางนภา">เวลาของเอลียาห์.xml</song> 
 <song name="jubilee">เวลาของเอลียาห์.xml</song> 
 
+<song name="หายหฒั่นปวั้งเฑ่าโค้วหย่าม่ายขวนน่านเญยสี่">นับพระพร.xml</song> 
+<song name="หายหฒั่นปวั้งเฑ่าโค้ว">นับพระพร.xml</song> 
+<song name="ซ้าวทินฮู่งเหธยปุนเญยฟุ">นับพระพร.xml</song> 
 <song name="นับพระพร">นับพระพร.xml</song> 
 <song name="นับพะพร">นับพระพร.xml</song> 
 <song name="แม้นความทุกข์ลำบากเกิดขึ้นแก่ท่านเมื่อใด">นับพระพร.xml</song> 
@@ -896,7 +950,6 @@
 	<song name="วันเดียวที่ลูกมีในพระนิเวศน์">ThaiWorshipCom/วันเดียวที่ลูกมีในพระนิเวศน์.xml</song>
 	<song name="วันเดียวในพระนิเวศ">ThaiWorshipCom/วันเดียวในพระนิเวศ.xml</song>
 	<song name="วันนี้เป็นวันที่พระเจ้าจัดไว้">ThaiWorshipCom/วันนี้เป็นวันที่พระเจ้าจัดไว้.xml</song>
-	<song name="วันนี้เป็นวันที่พระเจ้าตั้งไว้">ThaiWorshipCom/วันนี้เป็นวันที่พระเจ้าตั้งไว้.xml</song>
 	<song name="วันนี้เป็นวัน">ThaiWorshipCom/วันนี้เป็นวัน.xml</song>
 	<song name="วางใจพระเจ้าด้วยสิ้นสุดใจ">ThaiWorshipCom/วางใจพระเจ้าด้วยสิ้นสุดใจ.xml</song>
 	<song name="วางชีวิต">ThaiWorshipCom/วางชีวิต.xml</song>
@@ -959,7 +1012,9 @@
 	<song name="บนบัลลัง">ThaiWorshipCom/บนบัลลังก์.xml</song>
 	
 	<song name="บริสุทธิ์ องค์บริสุทธิ์">ThaiWorshipCom/บริสุทธิ์ องค์บริสุทธิ์.xml</song>
+	
 	<song name="บริสุทธิ์บริสุทธิ์">ThaiWorshipCom/บริสุทธิ์บริสุทธิ์.xml</song>
+	
 	<song name="บริสุทธิ์">ThaiWorshipCom/บริสุทธิ์.xml</song>
 	<song name="บางสิ่งซึ่งอยู่ข้างใน">ThaiWorshipCom/บางสิ่งซึ่งอยู่ข้างใน.xml</song>
 	<song name="นมัสการ">ThaiWorshipCom/นมัสการ.xml</song>
@@ -1220,8 +1275,6 @@
 	<song name="ยืนบนพระคำ">ThaiWorshipCom/ยืนบนพระคำ.xml</song>
 	<song name="ยุคสุดท้าย">ThaiWorshipCom/ยุคสุดท้าย.xml</song>
 	
-	<song name="เรานำเสียงการสรรเสริญ">ThaiWorshipCom/เรานำเสียงการสรรเสริญ.xml</song>
-	<song name="webringthesacrificeofpraise">ThaiWorshipCom/เรานำเสียงการสรรเสริญ.xml</song>
 	
 	
 	<song name="เราบัญชาเจ้า">ThaiWorshipCom/เราบัญชาเจ้า.xml</song>
@@ -1324,7 +1377,6 @@
 	<song name="พระเป็นแสงสว่าง">ThaiWorshipCom/พระเป็นแสงสว่าง.xml</song>
 	<song name="พระผู้ไถ่ทรงอยู่">ThaiWorshipCom/พระผู้ไถ่ทรงอยู่.xml</song>
 	<song name="พระผู้ไถ่">ThaiWorshipCom/พระผู้ไถ่.xml</song>
-	<song name="พระผู้เลิศ">ThaiWorshipCom/พระผู้เลิศ.xml</song>
 	<song name="พระผู้เสด็จมา">ThaiWorshipCom/พระผู้เสด็จมา.xml</song>
 	<song name="พระบารมี">ThaiWorshipCom/พระบารมี.xml</song>
 	<song name="พระบิดา">ThaiWorshipCom/พระบิดา.xml</song>
@@ -1611,7 +1663,8 @@
 	<song name="ฉันเงยหน้ามองที่ภูผา">ThaiWorshipCom/ฉันเงยหน้ามองที่ภูผา.xml</song>
 	<song name="ข้ายกเสียงขึ้น">ThaiWorshipCom/ข้ายกเสียงขึ้น.xml</song>
 	<song name="ฉันรักคุณด้วยความรักของพระเจ้า">ThaiWorshipCom/ฉันรักคุณด้วยความรักของพระเจ้า.xml</song>
-	<song name="ข้ามอบทุกสิ่งแด่พระเยซู">ThaiWorshipCom/ข้ามอบทุกสิ่งแด่พระเยซู.xml</song>
+	
+	
 	<song name="ฉันเดินด้วยความเชื่อ">ThaiWorshipCom/ฉันเดินด้วยความเชื่อ.xml</song>
 	<song name="ข้าได้สวมใส่วิญญาณการสรรเสริญ">ThaiWorshipCom/ข้าได้สวมใส่วิญญาณการสรรเสริญ.xml</song>
 	<song name="ข้าสรรเสริญพระเจ้ายิ่งใหญ่">ThaiWorshipCom/ข้าสรรเสริญพระเจ้ายิ่งใหญ่.xml</song>
@@ -3974,7 +4027,7 @@
 	<song name="againstmybetterjudgement">christianlyricsnet/againstmybetterjudgement.xml</song>
 	<song name="newyearsproject">christianlyricsnet/newyearsproject.xml</song>
 	<song name="howtostartafire">christianlyricsnet/howtostartafire.xml</song>
-	<song name="thisistheday">christianlyricsnet/thisistheday.xml</song>
+	<song name="imnotthesameihavebeenchangedbythepowerofchrist">christianlyricsnet/thisistheday.xml</song>
 	<song name="hewantsitall">christianlyricsnet/hewantsitall.xml</song>
 	<song name="getready">christianlyricsnet/getready.xml</song>
 	<song name="heaven">christianlyricsnet/heaven.xml</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>พระผู้เลิศ</thainame>
+	<englishname>Take My Hand Precious Lord</englishname>
+	<mienthainame>ฮี่ง เญย เฒี้ยว เคน เยีย ปั์ว</mienthainame>
+	<order>verse1,verse2,verse3,verse4,verse5,verse6</order>
+	<thai>
+		<verse1>พระผู้เลิศยึดมือข้า นำข้าเดินก้าวมั่นคง ข้าเหน็ดเหนื่อย ข้าอ่อนแอข้าระโหย</verse1>
+		<verse2>พายุกล้าราตรีกาล นำข้าไปสู่สว่าง ยึดมือข้าพระผู้เลิศ นำกลับบ้าน</verse2>
+		<verse3>เมื่อหนทางวิกฤต พระผู้เลิศโปรดสถิต เมื่อชีวิตดังแสงริบหรี่</verse3>
+		<verse4>ข้าร่ำไห้โปรดสดับ ยึดข้ามั่นไม่ล้มลง ยึดมือข้าพระผู้เลิศ นำกลับบ้าน</verse4>
+		<verse5>...</verse5>
+        <verse6>...</verse6>
+	</thai>
+	
+<english>
+    <verse1>Precious Lord, take my hand, Lead me on, let me stand, I am tired, I am weak, I am worn;</verse1>
+    <verse2>Through the storm, through the night, Lead me on to the light. Take my hand, precious Lord, Lead me home.</verse2>
+    <verse3>When my way grows drear, Precious Lord, linger near, When my life is almost gone,</verse3>
+    <verse4>Hear my cry, hear my call, Hold my hand lest I fall: Take my hand, precious Lord, Lead me home.</verse4>
+	<verse5>When the darkness appears and the night draws near. And the day is past and gone.</verse5>
+    <verse6>At the river I stand. Guide my feet, hold my hand. Take my hand precious Lord, lead me home.</verse6>
+</english>
+    
+<mienthai>
+    <verse1>ฮี่ง เญย เฒี้ยว เคน เยีย ปั์ว ต้อ เยีย ยั่ง ว้วน เญย เจ๊า  เยีย เมา ไห่   เยีย ขวน โค้ว  ไม้ ม่าย ชะ</verse1>
+    <verse2>ลูง ม์วน หฒั่น ม่าย ต้ม หฑยาว  ต้อ เยีย มี่ง ฌัง เญย ต๋อง เคน เยีย ปั์ว  อี่ง เญย เฒี้ยว อ้า ต้อ หฑวน เปย๊า.</verse2>
+    <verse3>เยียม ด้าม เจ๊า เฮยี๊ยน ไห่  ฮี่ง เญย เฒี้ยว เหธา เยีย เยียม หาย หฒั่น เยีย  ฮนั้ง ตัง อ๋อย ไต่</verse3>
+    <verse4>เยีย เฑ่า เญี๊ยม โท้ เฒี้ยว หมวัง  ป๊า เจี๊ยน เยีย ไม้ ปุน ดอบ เคน เยีย ปั์ว ฮี่ง เญย เฒี้ยว อ่า, ต้อ หฑวน เปย๊า.</verse4>
+	<verse5>...</verse5>
+    <verse6>...</verse6>
+</mienthai>
+
+<chord>
+    <verse1>G      Em          Am                 C G           Em              Am</verse1>
+    <verse2>G            Em         Am C           G                 D7 G</verse2>
+    <verse3>G      Em          Am                 C G           Em              Am</verse3>
+    <verse4>G            Em         Am C           G                 D7 G</verse4>
+	<verse5>G      Em          Am                 C G           Em              Am</verse5>
+    <verse6>G            Em         Am C           G                 D7 G</verse6>		
+</chord>
+
+
+</song>

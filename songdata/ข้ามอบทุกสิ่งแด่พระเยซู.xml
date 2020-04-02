@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ข้ามอบทุกสิ่งแด่พระเยซู</thainame>
+	<englishname>All to Jesus I Surrender</englishname>
+	<mienthainame>เยีย เฒาะ เหยียด ฒู้ง ฝูง ปุน เย^ซู</mienthainame>
+	<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+	<thai>
+		<verse1>ข้ามอบทุกสิ่งแด่พระเยซู มอบถวายด้วยความยินดี ข้าจะรักและพึ่งพระเยซู ต่อพระพักตร์ตลอดชึวี</verse1>
+		<chorus>*ข้าขอมอบถวาย ข้าขอมอบถวาย มอบถวายหมดแด่พระเยซู พระผู้ช่วยประเสริฐ</chorus>
+		<verse2>ข้ามอบทุกสิ่งแด่พระเยซู ขอนอบน้อมกราบพระบาทา ความสุขโลกนี้ข้าละทิ้งแล้ว ขอพระองค์ทรงโปรดรับข้า</verse2>
+	    <verse3>ข้ามอบทุกสิ่งแด่พระเยซู ให้เป็นสมบัติของพระองค์ ขอพระวิญญาณบริสุทธา ทรงนำข้าตามพระประสงค์</verse3>
+		<verse4>ข้ามอบทุกสิ่งแด่พระเยซู ข้าถวายทั้งใจกายา โปรดประทานความรักและฤทธา ขอพระพรไหลหลั่งลงมา</verse4>
+	</thai>
+	
+<english>
+    <verse1>All to Jesus I surrender, All to Him I freely give. I will ever love and trust Him In His presence daily live.</verse1>
+	<chorus>I surrender all , I surrender all All to Thee , my blessed Savior.  I surrender all.</chorus>
+    <verse2>All to Jesus I surrender Humbly at His feet I bow. Worldly pleasures all forsaken Take me , Jesus , take me now.</verse2>
+    <verse3>All to Jesus I surrender Make me , Savior , wholly Thine. Let me feel the Holy Spirit Truly know that Thou art mine.</verse3>
+    <verse4>All to Jesus I surrender Lor , I give myself to Thee. Fill me with Thy love and power Let Thy blessing fall on me.</verse4>
+</english>
+    
+<mienthai>
+    <verse1>เยีย เฒาะ เหยียด ฒู้ง ฝูง ปุน เย^ซู, อะเฮน้ย เฒาะ เหยียด ฒู้ง ฝูง เหฑ่ง. เหว่ย หฒุ เยีย ฮนั้ม นิ่น หย่า เขา นิ่น, เหยียด เสย เยียม นิ่น เญย หฑะเฮมียน.</verse1>
+	<chorus>เยีย กั้น โท้ ฝ่ง ห่อ,   เยีย กั้น โท้ ฝ่ง ห่อ เฒาะ เหยียด ฒู้ง เญย ฝูง ปุน เย^ซู,  เหว่ย หฒุ นิ่น โหฒว เฒี้ยว.</chorus>
+    <verse2>เยีย เฒาะ เหยียด ฒู้ง ฝูง ปุน เย^ซู, เฒาะ เหยียด ฒู้ง เฮยี้ยด นิ่น หฑะเฮมียน. ป้าม เกน เญย เฌียน-โย่ว เยีย กวั่ง ลิ์ว, โท้ เย^ซู ซูง ปั๋ว ฒิบ เยีย.</verse2>
+    <verse3>เยีย เฒาะ เหยียด ฒู้ง ฝูง ปุน เย^ซู, โหฒว เฒี้ยว เย^ซู เญย เซียว-เซ้ด. โท้ ธีง-เหฑ่ง เญย สีง ลี่ง เหฌี่ย ต้าย, ต้อ เยีย ยั่ง เหฒียง เฒี้ยว เญย เจ๊า.</verse3>
+    <verse4>เยีย เฒาะ เหยียด ฒู้ง ฝูง ปุน เย^ซู, ฝูง เยีย เญย ซิน เหธา เยีย เฮญี้ยว. ปุน เยีย ฮนั้ม เมี่ยน ฮนั้ง เฒี้ยว ฮนั้ม นอ, เยียม เยีย เญย เฮญี้ยว เหลี่ยว ธ้วด ต้าย.</verse4>
+</mienthai>
+
+<chord>
+    <verse1>C     G C       F      G      C C   G C        F     G    C</verse1>
+	<chorus>C    G       C         F        C            G             C</chorus>
+    <verse2>C     G C       F      G      C C   G C        F     G    C</verse2>
+    <verse3>C     G C       F      G      C C   G C        F     G    C</verse3>
+    <verse4>C     G C       F      G      C C   G C        F     G    C</verse4>
+</chord>
+
+
+</song>

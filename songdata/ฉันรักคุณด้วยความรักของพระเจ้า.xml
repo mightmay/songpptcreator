@@ -3,7 +3,7 @@
 
 <thainame>ฉันรักคุณด้วยความรักของพระเจ้า</thainame>
 <englishname>I love you with the love of the Lord</englishname>
-<mienthainame>none</mienthainame>
+<mienthainame>โอ เยีย ฮนั้ม เม่ย หล่ง ทิน-ฮู่ง เญย เฒียน ฮนั้ม</mienthainame>
 <order>verse1,verse2</order>
 
 <thai>
@@ -19,8 +19,8 @@
 </english>
     
 <mienthai>
-    <verse1></verse1>
-    <verse2></verse2>
+    <verse1> เยีย  ฮนั้ม เม่ย เหว่ย ม่าย ทิน-ฮู่ง เญย เฒียน ฮนั้ม. เยีย ฮนั้ม เม่ย เหว่ย ม่าย ทิน-ฮู่ง เญย เฒียน ฮนั้ม.</verse1>
+    <verse2> เยีย  ปวัด เม่ย เญย แหม่ง, เฒียน เฒียน ท่าย ไห่ ทิน ฮู่ง. เยีย ฮนั้ม เม่ย เหว่ย ม่าย ทิน-ฮู่ง เญย เฒียน ฮนั้ม.</verse2>
 
 </mienthai>
 

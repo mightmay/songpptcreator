@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระคริสต์นำหน้า</thainame>
+<englishname>He Leadeth Me</englishname>
+<mienthainame>เฒี้ยว เย^ซู กี^ตู่ ต้อ เจี๊ยน เยีย</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1>พระเยซูคริสต์ทรงนำชีวิต ให้ข้าเดินทางชอบธรรมใกล้ชิด ข้าอยู่ที่ไหนหรือทำอะไร พระหัตถ์พระองค์ทรงจูงข้าไป</verse1>
+    <verse2>บางคราวต้องผ่านความทุกข์มืดมัว บางคราวโศกเศร้าบังเกิดความกลัว บางคราวราบรื่นชื่นใจยินดี พระหัตถพระองค์ทรงนำทุกที</verse2>
+    <verse3>ข้าขอพระเจ้าทรงจูงมือไป ไม่ว่าจะนำสู่ตำบลใด จะเกิดความทุกข์หรือสุขก็ดี พระหัตถ์พระเจ้าทรงนำทุกที</verse3>
+    <verse4>ครั้นเสร็จการงานต้องลาจากโลก จิตใจพ้นทุกข์พ้นความเศร้าโศก เพราะข้าจะได้อยู่เมืองสวรรค์ กับองค์พระคริสต์เป็นนิจนิรันดร์</verse4>
+    <chorus>พระคริสต์นำหน้า พระคริสต์นำหน้า พระหัตถ์พระองค์ทรงจูงมือข้า เต็มใจเดินตามด้วยความเปรมปรีดิ์ พระหัตถ์พระองค์ทรงนำทุกที</chorus>
+</thai>
+
+<english>
+    <verse1>He leadeth me! O blessed tho't! O words with heav'nly comfort fraught! Whatever I do, wherever I be, Still 'tis God's hand that leadeth me!</verse1>
+    <verse2>Sometimes 'mid scenes of deepest gloom. Sometimes where Eden's bowers bloom. By waters still, o'er troubled sea, Still 'tis His hand that leadeth me!</verse2>
+    <verse3>Lord, I would clasp Thy hand in mine, Nor ever murmur nor repine, Content, whatever lot I see, Since 'tis Thy hand that leadeth me!</verse3>
+    <verse4>And when my task on earth is done, When, by Thy grace, the vict'ry's won. E'en death's cold wave I will not flee. Since God thro' Jordan leadeth me</verse4>
+    <chorus>He leadeth me, He leadeth me. By His own hand He leadeth me. His faithful foll'wer I would be, For by His hand He leadeth me.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เฒี้ยว เย^ซู กี^ตู่ ต้อ เจี๊ยน เยีย. ปุน เยีย กัน เฒี้ยว เญย คู้ เจ๊า มี่ง. เยีย เยียม หาย เดา ไฟ โหฒว หาย หญู่ง, เฒี้ยว เญย ปั์ว ฯฒฯ เคน เจี๊ยน เยีย มี่ง.</verse1>
+    <verse2>ม่าย เต๋ย เฒี่ยง โห่ ปวั้ง หฒุ โค้ว หน่าน. ม่าย เต๋ย ปวั้ง หฒุ โย่ว-เฑ่า, กั้ม เหฑีย. ม่าย เต๋ย ปวั้ง หฒุ เฌียน-โย่ว ออน-เหลาะ. เฒี้ยว ซูง นิ่น เญย ปั์ว ต้าย เคน เยีย.</verse2>
+    <verse3>เยีย โท้ ทิน-ฮู่ง ต้อ เจ๊า เยีย มี่ง, ไม้ กุ๊น เยีย เยียม หาย นอม เต่ย-ปู่ง. ปวั้ง หลง ไฟ เธี้ยว เยีย ฒู้ง ไม้ กุ๊น, เหว่ย หฒุ ทิน-ฮู่ง หฒั่นๆ โก๋ว เยีย.</verse3>
+    <verse4>เยีย โหฒว เหฒียง กง เล่ย น้าย ป้าม เกน, เฮญี้ยว ฯฒฯ เล่ย ดุ๊ด โยว-เฑ่า, ขวน โค้ว. เหว่ย หฒุ ตุ๊ มี่ง เถา ทิน-ต้อง วั้ว, เหยียด ลิ์ว เหาะ เฒี้ยว กี-ตู่ ต้ง เยียม</verse4>
+    <chorus>* กี^ตู่ ต้อ เยีย, กี^ตู่ ต้อ เยีย, เฒี้ยว เญย ปั์ว ต้าย เคน เจี๊ยน เยีย มี่ง. อะเฮน้ย กัน เจี๊ยน ออน-เหลาะ เจ๊า มี่ง, เฒี้ยว ซูง นิ่น เญย ปั์ว ต้าย เคน เยีย.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>D         G            D             A D                  G         D                A   D</verse1>
+    <verse2>D         G            D             A D                  G         D                A   D</verse2>
+    <verse3>D         G            D             A D                  G         D                A   D</verse3>
+    <verse4>D         G            D             A D                  G         D                A   D</verse4>
+    <chorus>D                     A D                                        A    D</chorus>
+</chord>
+
+</song>

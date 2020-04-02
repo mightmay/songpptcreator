@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>พระเยซูรักฉันรู้แน่</thainame>
+<englishname>Jesus Loves Me</englishname>
+<mienthainame>เย^ซู ฮนั้ม เยีย, เยีย เฒียน ฮิ้ว</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1>พระเยซูรักฉันรู้แน่   พระคัมภีร์มีสอนไว้แท้  แม้ตัวฉันอ่อนหย่อนแรง   แต่พระคริสต์ทรงฤทธิ์เข้มแข็ง</verse1>
+    <verse2>พระเยซูเอ็นดูรักฉัน สิ้นพระชนม์เพื่อเปิดสวรรค์ โดยยอมตายบนไม้กางเขน ช่วยเด็กทั้งหลายพ้นบาปเวร</verse2>
+    <verse3>พระเยซูรักฉันหนักหนา เป็นดังนั้นทุกวันเวลา ฉันป่วยลงพระองค์แลเห็น เสด็จมารักษาเช้าเย็น</verse3>
+    <verse4>พระเยซูรักฉันอยู่ใกล้ มิทิ้งขว้างในทางใดๆ ฉันจะรักจนถึงวันนั้น พระองค์มาพาไปสวรรค์</verse4>
+    <chorus>พระเยซูรักฉัน พระเยซูรักฉัน พระคัมภีร์สั่งสอน จึงรู้ดังนั้นแน่นอน</chorus>
+</thai>
+
+<english>
+    <verse1>Jesus loves me! this I know, For the Bible tells me so; Little ones to Him belong; They are weak, but He is strong.</verse1>
+    <verse2>Jesus loves me! He who died, Heaven's gate to open wide; He will wash away my sin, Let His little child come in.</verse2>
+    <verse3>Jesus loves me! loves me still, Though I'm very weak and ill; From His shining throne on high, Comes to watch me where I lie.</verse3>
+    <verse4>Jesus loves me! He will stay. Close beside me all the way; If I loves Him, when I die, He will take me home on high.</verse4>
+    <chorus>Yes, Jesus loves me, Yes, Jesus loves me Yes, Jesus loves me, The Bible tells me so.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เย^ซู ฮนั้ม เยีย, เยีย เฒียน ฮิ้ว. เหว่ย หฒุ กีง-โซว ก๊อง บั๋ว เยีย. เหยียด ฒู้ง ฝุเจว๊ย เกวย นิ่น เหฑ่ง, เยีย ไม้ ม่าย ชะ, นิ่น ต้าย เถง.</verse1>
+    <verse2>เย^ซู ฮนั้ม เยีย, เซี้ย นิ่น แหม่ง, กัน ลู่ง เดี๊ย เมี่ยน คอย ลู่ง แก้ง. นิ่น เญย ฑย้าม หฑาว เหฑ่ง เยีย เฮญี้ยว, ปุน เยีย เปียะ มี่ง ตุ๊ เฌียน-โย่ว.</verse2>
+    <verse3>เย^ซู ฮนั้ม เยีย, ไม้ ไฮ่ กวั่ง, ไม้ ไฮ่ หละคุ เยีย เหยียด ตั้ง. ลู่ง ฮนอย หฒั่น เยี์ยน เยีย ยั่ง เจ๊า, ลู่ง ม์วน หฒั่น โก๋ว เยีย เญย เปย๊า.</verse3>
+    <verse4>นิ่น ฮนั้ม เยีย เถา ต้าว เถา เมว์ย, เยีย หฒะเก้ง ไม้ ผุย เหยียด เต๋ย. เยีย เยียม เสย หฒั่ง อ๋อย นิ่น ฮนั้ง, นิ่น อ๋อย ต้อ เยีย เถา ทิน-หฒั่ง.</verse4>
+    <chorus>เฒี้ยว เย^ซู ฮนั้ม เยีย,  เฒี้ยว เย^ซู ฮนั้ม เยีย, เฒี้ยว เย^ซู ฮนั้ม เยีย,  กีง-โซว ก๊อง บั๋ว เยีย บัว.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>C                            C               F           F         C         C C          C        C           C              F         C            G           C</verse1>
+    <verse2>C                            C               F           F         C         C C          C        C           C              F         C            G           C</verse2>
+    <verse3>C                            C               F           F         C         C C          C        C           C              F         C            G           C</verse3>
+    <verse4>C                            C               F           F         C         C C          C        C           C              F         C            G           C</verse4>
+    <chorus>C     C      F                   C     C      G C     C      F               C         G        C</chorus>
+</chord>
+
+</song>

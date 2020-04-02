@@ -3,7 +3,7 @@
 
 <thainame>สรรเสริญพระเจ้าผู้อำนวยพร</thainame>
 <englishname>Praise God, From Whom All Blessing Flow</englishname>
-<mienthainame>none</mienthainame>
+<mienthainame>เธง เฒี้ยว ทิน-ฮู่ง หม่าน ฟุ เญย กอน</mienthainame>
 <order>verse1</order>
 
 <thai>
@@ -16,9 +16,11 @@
 </english>
     
 <mienthai>
+    <verse1>เธง เฒี้ยว ทิน-ฮู่ง หม่าน ฟุ เญย กอน,  ลู่ง เดี๊ย หม่าน เมี่ยน เธง นิ่น เญย เอน. ลู่ง หฒั่ง ฟิน-เมี่ยน เธง นิ่น เญย เม่ง.   ล่ม ฑ่อย เธง เตีย,   ตอน, เธง สีง ลี่ง.   อา^เมน.</verse1>
 </mienthai>
 
 <chord>
+    <verse1>G                 Em          D       G              D              C          D7 D           C            D         G     Em         D                       Am D7        G    C    G</verse1>
 </chord>
 
 </song>

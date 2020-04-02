@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>วันนี้เป็นวันที่พระเจ้าตั้งไว้</thainame>
+	<englishname>This is the Day</englishname>
+	<mienthainame>อี้ ฮนอย เซ ต้ง ทิน-ฮู่ง กั้น เหลียบ ต้าย</mienthainame>
+	<order>verse1,chorus1</order>
+	<thai>
+		<verse1>วันนี้เป็นวัน วันนี้เป็นวันที่พระเจ้าตั้งไว้ ที่พระเจ้าตั้งไว้ จงชื่นชมยินดีจงชื่นชมยินดี และร้องเพลงสรรเสริญ และร้องเพลงสรรเสริญ</verse1>
+		<chorus1>*วันนี้เป็นวันที่พระเจ้าตั้งไว้ จงชื่นชมยินดีและร้องเพลงสรรเสริญ วันนี้เป็นวันวันนี้เป็นวัน ที่พระเจ้าตั้งไว้</chorus1>
+	</thai>
+	
+
+	<english>
+    <verse1>This is the day, this is the day. That the Lord has made, that the Lord has made. We will rejoice, we will rejoice, And be glad in it, and be glad in it.</verse1>
+    <chorus>This is the day that the Lord has made. We will rejoice and be glad in it. This is the day, this is the day That the Lord has made.</chorus>
+	</english>
+    
+	<mienthai>
+		<verse1>อี้ ฮนอย เซ ต้ง, อี้ ฮนอย เซ ต้ง ทิน-ฮู่ง กั้น เหลียบ ต้าย, ทิน-ฮู่ง กั้น เหลียบ ต้าย ปุน เยีย เฌียน โย่ว,ปุน เยีย เฌียน โย่ว เฮญี้ยว หย่า ตุ แป้ง ออน, เฮญี้ยว หย่า ตุ แป้ง ออน
+	</verse1>
+		<chorus>อี้ ฮนอย เซ ต้ง , ทิน-ฮู่ง กั้น เหลียบ ต้าย ปุน เยีย เฌียน โย่ว,เฮญี้ยว หย่า ตุ แป้ง ออน  อี้ ฮนอย เซ ต้ง, อี้ ฮนอย เซ ต้ง   ทิน-ฮู่ง กั้น เหลียบ ต้าย</chorus>
+	</mienthai>
+
+	<chord>
+		<verse1>D A7 A7 D</verse1>
+		<chorus>G          D G         D D             A7       D</chorus>
+	</chord>
+
+
+</song>
