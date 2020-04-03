@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ยามราตรีศรีหรรษา</thainame>
+	<englishname>Silent Night</englishname>
+	<mienthainame>แป้ง ออน ม์วน, ธีง-เหฑ่ง ม์วน</mienthainame>
+	<order>verse1,verse2,verse3,verse4</order>
+	<thai>
+		<verse1>ยามราตรีศรีหรรษามีราชามาประสูติ จากสาวพรหมจารีย์บริสุทธิ์เป็นกุมารน่ารักที่สุด มาเพื่อช่วยชาวโลกามาเพื่อช่วยชาวโลกา</verse1>
+		<verse2>ยามราตรีแสนดีเลิศ พระเยซูผู้ประเสริฐ เป็นพระเจ้าเสด็จลงมาบังเกิดทูตสวรรค์สรรเสริญชูเชิด เพราะผู้ไถ่ได้บังเกิดเพราะผู้ไถ่ได้บังเกิด</verse2>
+		<verse3>ยามราตรีศรีสำราญเมษบาลพากันไป เฝ้ากุมารที่หมู่บ้านเบธเลเฮมเห็นพระองค์ทรงสุขเกษม บรรทมอยู่ในรางหญ้าบรรทมอยู่ในรางหญ้า</verse3>
+		<verse4>ยามราตรีศรีสง่าเป็นเวลาเรารอดบาป เพราะพระเยซูช่วยพ้นคำแช่งสาปสมควรสรรเสริญโมทนา เราจึงกราบไหว้บูชา เราจึงกราบไหว้บูชา</verse4>
+	</thai>
+	
+<english>
+    <verse1>Silent night, holy night, All is calm, all is bright. Round yon virgin mother and child; Holy infant, so tender and mild, Sleep in heavenly peace; Sleep in heavenly peace.</verse1>
+    <verse2>Silent night, holy night, Son of God, love's pure light. Radiant beams from Thy holy face, With the dawn of redeeming grace. Jesus, Lord, at Thy birth; Jesus, Lord, at Thy birth.</verse2>
+    <verse3>Silent night, holy night, Shepherds quake at the sight. Glories stream from heaven afar, Heavenly hosts sing "Alleluia. Christ the Savior is born; Christ the Savior is born."</verse3>
+    <verse4>Silent night, holy night Wondrous star, lend thy light. With the angels, let us sing, Alleluia to our King. Christ the Savior is born;</verse4>
+</english>
+    
+<mienthai>
+    <verse1>แป้ง ออน ม์วน, ธีง-เหฑ่ง ม์วน, เหฑียะ ฑี์ง เหฑ่ง, เฒี้ยว เญย ฌัง. นิ่น เญย มา เหธา ธีง-เหฑ่ง เญย ตอน, ฌ่อม ตุ๊ โด เหว่ย ตุ๊ ทิน-ฮู่ง เญย เอน. ฒู้ง แป้ง ออน เญย เจี๋ย ม์วน, ฒู้ง แป้ง ออน เญย เจี๋ย ม์วน.</verse1>
+    <verse2>แป้ง ออน ม์วน, ธีง-เหฑ่ง ม์วน, หมั่ง ยู่ง เมี่ยน ตุ๊ ต้ม เอน, เลี่ยม เฒ่ย ปวัด ทิน-ฮู่ง เญย ฌัง หฒิว เจี๊ยน. ฟิน- เมี่ยน ป๋าว อา^เล^ลู^ยา เธง เฒี้ยว, อี้ ม์วน เหฌียว เฒี้ยว ธ้วด เสย, อี้ ม์วน เหฌียว เฒี้ยว ธ้วด เสย.</verse2>
+    <verse3>แป้ง ออน ม์วน, ธีง-เหฑ่ง ม์วน, เฒี้ยว เญย ตอน ต้อ แป้ง ออน. นิ่น เญย เฮมียน หิ่น ธ้วด ฮนั้ม เมี่ยน เญย ฌัง, ปุน ธีง เหฌียว เอน เญย ฌัง หฒิว ป้าม เมี่ยน. เยีย เญย เหฌียว เฒี้ยว ธ้วด เสย, เยีย เญย เหฌียว เฒี้ยว ธ้วด เสย.</verse3>
+    <verse4>...</verse4>
+</mienthai>
+
+<chord>
+    <verse1>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse1>
+    <verse2>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse2>
+    <verse3>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse3>
+    <verse4>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse4>
+</chord>
+
+</song>

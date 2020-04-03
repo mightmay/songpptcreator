@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>โลกนี้พระเจ้าประทาน</thainame>
+<englishname>This Is My Father’s World</englishname>
+<mienthainame>ป้าม เกน เฒี้ยว เหธย ปุน เมี่ยน</mienthainame>
+<order>verse1,verse2,verse3</order>
+
+<thai>
+    <verse1>โลกนี้พระเจ้าประทาน เป็นบ้านอาศัยชั่วคราว  เมื่อถึงเวลาคราต้องจากไป ใครๆ ไม่พ้นความตาย โลกนี้เราอยู่ไม่นาน สวรรค์คือบ้านของเรา           และที่นั่นเราไม่ต้องพรากจากกัน เราอยู่สวรรค์นิรันดร์</verse1>
+    <verse2>โลกนี้เป็นที่สวยงาม พระเจ้าทรงสร้างเพื่อเรา  คนโง่เขลาลืมว่าเขาต้องตาย จึงหลงงมงายหลายปี วันนี้เชิญท่านทั้งหลาย กลับใจเชื่อพระเยซู          พระองค์ทรงยอมตายบนไม้กางเขน เพื่อล้างบาปเวรของเรา</verse2>
+    <verse3>โลกนี้ล้วนอนิจจัง ไม่ยั้งไม่ยืนเสมอ หลายคนละเมอว่าของจีรัง แต่ท่านจะหวังอะไร ความรักพระเจ้าแน่นอน ไม่สั่นไม่คลอนปรวนแปร  ถ้าเราไว้ใจในองค์พระเยซู จิตใจเราสุขสบาย</verse3>
+</thai>
+
+<english>
+    <verse1>This is my Father’s world, And to my list’ning ears All nature sings, and round me rings The music of the spheres. This is my Father’s world: I rest me in the thought Of rocks and trees, of skies and seas— His hand the wonders wrought.</verse1>
+    <verse2>This is my Father’s world: The birds their carols raise, The morning light, the lily white, Declare their Maker’s praise. This is my Father’s world: He shines in all that’s fair; In the rustling grass I hear Him pass, He speaks to me everywhere.</verse2>
+    <verse3>This is my Father’s world: Oh, let me ne’er forget That though the wrong seems oft so strong, God is the ruler yet. This is my Father’s world, The battle is not done: Jesus who died shall be satisfied, And earth and Heav’n be one.</verse3>
+</english>
+    
+<mienthai>
+    <verse1>ป้าม เกน เฒี้ยว เหธย ปุน เมี่ยน, ก๊ม เปย๊า เยียม ตั้ง ป๊า ฮนั้ง. ฒั้ว เถา เฒี่ยง โห่ เยีย หฒุ เล่ย ฆอย น้าย, เต้าๆ เปย๋า ไม้ ดุ๊ด ไต่. ป้าม เกน เยีย เยียม ไม้ เล่า, เยีย เญย เปย๊า เยียม ทิน-ต้อง. เยีย เหยียด ลิ์ว เยียม วั้ว ไม้ มี่ง หาย, เหยียด ลิ์ว เยียม ทิน-ต้อง กั๊วะ.</verse1>
+    <verse2>ป้าม เกน เซ เหฑว่ย เญย ต๋อง, ทิน-ฮู่ง เหฒย ต้าย เถง เมี่ยน. เมี่ยน หฮงง เมี่ยน ไม้ จั๋ง กั้น ไฮ่ ไต่, หธีง ต้าย เยียม หฮมวัง เหฒีย ต่อย. อี้ ฮนอย โท้ หฒวัง เมี่ยน ต้าย ก๊อย เฮญี้ยว เสียน เฒี้ยว เย^ซู. เหฌียว เฒี้ยว แล์ง เยียม เหฒียบ หฑั่ง จ๋า ไต่, เหว่ย หฑาว บัว เญย ฒุ์ย-หนิบ.</verse2>
+    <verse3>ไม้ ว้วน เญย น้าย ป้าม เกน, หฒั่นๆ บู้ง เบี๊ยน ม่าย เฑ่า. เหฒีย ตอ เมี่ยน ปู๋ง หลอ กั้น เญย เฮญี้ยว, เม่ย กั้น หธ่อ ฮนั้ม หาย หญู่ง. ทิน-ฮู่ง หฒะเก้ง ฮนั้ม เมี่ยน, ฮนั้ม ซิน, ฮนั้ม เฮญี้ยว, ฮนั้ม ว่วน. สี ก๊อง ปู๋ง เฮญี้ยว เหฌียว เฒี้ยว เย^ซู, เฮญี้ยว ฯฒฯ เหยียด ลิ์ว แป้ง ออน.</verse3>
+</mienthai>
+
+<chord>
+    <verse1>C   G       C          F      C      G        C             Am   C       G         C C     F     C       F      C           Am      C     G    C</verse1>
+    <verse2>C   G       C          F      C      G        C             Am   C       G         C C     F     C       F      C           Am      C     G    C</verse2>
+    <verse3>C   G       C          F      C      G        C             Am   C       G         C C     F     C       F      C           Am      C     G    C</verse3>
+</chord>
+
+</song>

@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+	<song name="ที่กางเขน">ที่กางเขน.xml</song>
+	<song name="alasanddidmysaviorbleed">ที่กางเขน.xml</song>
+	<song name="เฒี้ยวเยซูเญยปู๊ฑย้ามเหลี่ยวธ้วดหย่าหฒุเตี๊ยโค้วเตี๊ยไญ้">ที่กางเขน.xml</song>
+	<song name="เฒี้ยวเยซูเญยปู๊ฑย้ามเหลี่ยวธ้วด">ที่กางเขน.xml</song>
+	<song name="เหฒียบหฑั่งจ๋าเหฒียบหฑั่งจ๋าเยียปวัดฌังตะเยี้ยดหฑุ่น">ที่กางเขน.xml</song>
+
+	<song name="nearermygodtothee">nearermygodtothee.xml</song>
+	<song name="เฝ้าชิดสนิทพระเจ้า">nearermygodtothee.xml</song>
+	<song name="เฝ้าชิดสนิทพระเจ้ายิ่งใกล้ยิ่งดี">nearermygodtothee.xml</song>
+	<song name="แอ๋งเก้านิดฟัดทินฮู่ง">nearermygodtothee.xml</song>
+	<song name="แอ๋งเก้านิดฟัดทินฮู่งเก้านิดฟัดเฒี้ยว">nearermygodtothee.xml</song>
+
+	<song name="ป้ามเกนเฒี้ยวเหธยปุนเมี่ยน">โลกนี้พระเจ้าประทาน.xml</song>
+	<song name="โลกนี้พระเจ้าประทาน">โลกนี้พระเจ้าประทาน.xml</song>
+	<song name="thisismyfathersworld">โลกนี้พระเจ้าประทาน.xml</song>
+	<song name="thisismyfatherworld">โลกนี้พระเจ้าประทาน.xml</song>
+
+	<song name="ครั้นเรียกชื่อที่เมืองเกษมสุข">ครั้นเรียกชื่อที่เมืองเกษมสุข.xml</song>
+	<song name="ฟินเมี่ยนปย๊มทินฮู่งเญยหฑัดบุยไห่">ครั้นเรียกชื่อที่เมืองเกษมสุข.xml</song>
+
+	<song name="ยามราตรีศรีหรรษา">ยามราตรีศรีหรรษา.xml</song>
+	<song name="silentnight">ยามราตรีศรีหรรษา.xml</song>
+	<song name="แป้งออนม์วนธีงเหฑ่งม์วน">ยามราตรีศรีหรรษา.xml</song>
+
+
+	<song name="เม่ยบัวอ๋อยหฒุล์อด่างทินฮู่งเญยเจ๊า">จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
+	<song name="จงแสวงหาแผ่นดินของพระเจ้า">จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
+	<song name="seekyefirstthekingdomofgod">จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
+	<song name="seekyefirst">จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
+
 	<song name="เรานำเสียงการสรรเสริญ">เรานำเสียงการสรรเสริญ.xml</song>
 	<song name="webringthesacrificeofpraise">เรานำเสียงการสรรเสริญ.xml</song>
 	<song name="บัวต้อเฉียเปียะต้ายเธงเฒี้ยวเปียะเถาทินฮู่งเญยสีงติ่น">เรานำเสียงการสรรเสริญ.xml</song>
@@ -326,6 +357,7 @@
     
 <song name="ความรักมั่นคง">thesteadfastloveofthelord.xml</song>
 <song name="ความรักมั่นคงของพระเจ้า">thesteadfastloveofthelord.xml</song>
+<song name="ความรักมั่นคงของพระเจ้าไม่เคยยั้งหยุด">thesteadfastloveofthelord.xml</song>
 <song name="thesteadfastlove">thesteadfastloveofthelord.xml</song>
 <song name="ทินฮู่งฮนั้มเมี่ยนหฒะเก้งว้วนไม้ไฮ่ก๊อยเหยี่ยน">thesteadfastloveofthelord.xml</song>
 <song name="ทินฮู่งฮนั้มเมี่ยน">thesteadfastloveofthelord.xml</song>
@@ -778,6 +810,8 @@
 <song name="wateryouturnintowine">ourgod.xml</song> 
 <song name="ourgodisgreaterourgodisstronger">ourgod.xml</song> 
 
+<song name="หมวังโอ่ทินไธเยียมด๊ามลู่ง">harktheheraldangelssing.xml</song> 
+<song name="หมวังโอ่ทินไธเยียมด๊ามลู่งป๋าวฑูงเธงโธะยู์งเญยฮู่ง">harktheheraldangelssing.xml</song> 
 <song name="จงฟังเพลงแห่งทูตสวรรค์">harktheheraldangelssing.xml</song> 
 <song name="จงฟังเพลงแห่งทูตสวรรค">harktheheraldangelssing.xml</song> 
 <song name="harktheheraldangelssing">harktheheraldangelssing.xml</song> 
@@ -1170,7 +1204,6 @@
 	<song name="ทางใดในโลกาที่ท่านเฝ้าหาทางใด">ThaiWorshipCom/ทางใดในโลกาที่ท่านเฝ้าหาทางใด.xml</song>
 	<song name="ท่านเป็นพระวิหารของพระวิญญาณ">ThaiWorshipCom/ท่านเป็นพระวิหารของพระวิญญาณ.xml</song>
 	<song name="ทิ้งอวน">ทิ้งอวน.xml</song>
-	<song name="ที่กางเขน">ThaiWorshipCom/ที่กางเขน.xml</song>
 	<song name="ทรงเป็นพระเจ้า">ThaiWorshipCom/ทรงเป็นพระเจ้า.xml</song>
 	<song name="ทรงเป็นราชา">ThaiWorshipCom/ทรงเป็นราชา.xml</song>
 	<song name="ทรงเปลี่ยนความเศร้าโศก">ThaiWorshipCom/ทรงเปลี่ยนความเศร้าโศก.xml</song>
@@ -1267,7 +1300,6 @@
 	<song name="เยซู เยซู เยซู">ThaiWorshipCom/เยซู เยซู เยซู.xml</song>
 	<song name="เยซูเยซู">ThaiWorshipCom/เยซูเยซู.xml</song>
 	<song name="เยโฮวาห์ยีเรห์">ThaiWorshipCom/เยโฮวาห์ยีเรห์.xml</song>
-	<song name="ยามราตรีศรีหรรษา">ThaiWorshipCom/ยามราตรีศรีหรรษา.xml</song>
 	<song name="ยาห์เวห์">ThaiWorshipCom/ยาห์เวห์.xml</song>
 	<song name="ยินดีในพระวิญญาณ">ThaiWorshipCom/ยินดีในพระวิญญาณ.xml</song>
 	<song name="ยิ้มกันเถิด">ThaiWorshipCom/ยิ้มกันเถิด.xml</song>
@@ -1477,7 +1509,8 @@
 	<song name="เวลานี้เราจะถ่อมตัวลง">ThaiWorshipCom/เวลานี้เราจะถ่อมตัวลง.xml</song>
 	<song name="เชื่อเถิดเท่านั้น">ThaiWorshipCom/เชื่อเถิดเท่านั้น.xml</song>
 	<song name="คริสตจักรพระเจ้าต้องเคลื่อนที่ไป">ThaiWorshipCom/คริสตจักรพระเจ้าต้องเคลื่อนที่ไป.xml</song>
-	<song name="ครั้นเรียกชื่อที่เมืองเกษมสุข">ThaiWorshipCom/ครั้นเรียกชื่อที่เมืองเกษมสุข.xml</song>
+	
+	
 	<song name="ฉันตัดสินใจแล้ว">ThaiWorshipCom/ฉันตัดสินใจแล้ว.xml</song>
 	<song name="ฉันคิดถึงคุณอยากจะบอกถึงความในใจ">ThaiWorshipCom/ฉันคิดถึงคุณอยากจะบอกถึงความในใจ.xml</song>
 	<song name="ฉันเชื่อในสิ่งอัศจรรย์">ThaiWorshipCom/ฉันเชื่อในสิ่งอัศจรรย์.xml</song>
@@ -1554,9 +1587,6 @@
 	<song name="ความชอบธรรม, สุข">ThaiWorshipCom/ความชอบธรรม, สุข.xml</song>
 	<song name="กลิ้งออกไป">ThaiWorshipCom/กลิ้งออกไป.xml</song>
 	
-	<song name="จงแสวงหาแผ่นดินของพระเจ้า">ThaiWorshipCom/จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
-	<song name="seekyefirstthekingdomofgod">ThaiWorshipCom/จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
-	<song name="seekyefirst">ThaiWorshipCom/จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
 
 	
 	<song name="เจ็ดวิธีสรรเสริญพระเจ้า">ThaiWorshipCom/เจ็ดวิธีสรรเสริญพระเจ้า.xml</song>
@@ -2680,7 +2710,6 @@
 	<song name="nightofyourreturn">christianlyricsnet/nightofyourreturn.xml</song>
 	<song name="livingwater">christianlyricsnet/livingwater.xml</song>
 	<song name="ineedtheeeveryhourjustasiamcomeyesinnerspoorandneedym">christianlyricsnet/ineedtheeeveryhourjustasiamcomeyesinnerspoorandneedym.xml</song>
-	<song name="nearermygodtothee">christianlyricsnet/nearermygodtothee.xml</song>
 	<song name="hereislove">christianlyricsnet/hereislove.xml</song>
 	<song name="godmadethemall">christianlyricsnet/godmadethemall.xml</song>
 	<song name="mysongisloveunknown">christianlyricsnet/mysongisloveunknown.xml</song>
@@ -6560,7 +6589,7 @@
 	<song name="angelswehaveheardonhigh">christianlyricsnet/angelswehaveheardonhigh.xml</song>
 	<song name="thelastchristmas">christianlyricsnet/thelastchristmas.xml</song>
 	<song name="ocomeocomeemmanuel">christianlyricsnet/ocomeocomeemmanuel.xml</song>
-	<song name="silentnight">christianlyricsnet/silentnight.xml</song>
+
 	<song name="riuriuchiu">christianlyricsnet/riuriuchiu.xml</song>
 	<song name="carolofthebells">christianlyricsnet/carolofthebells.xml</song>
 	<song name="christmasisland">christianlyricsnet/christmasisland.xml</song>
@@ -9318,7 +9347,7 @@
 	<song name="heworks">christianlyricsnet/heworks.xml</song>
 	<song name="illflyaway">christianlyricsnet/illflyaway.xml</song>
 	<song name="godisgoodallthetime">christianlyricsnet/godisgoodallthetime.xml</song>
-	<song name="atthecross">christianlyricsnet/atthecross.xml</song>
+
 	<song name="endofthebeginning">christianlyricsnet/endofthebeginning.xml</song>
 	<song name="searchin">christianlyricsnet/searchin.xml</song>
 	<song name="nessundorma">christianlyricsnet/nessundorma.xml</song>

@@ -2,15 +2,28 @@
 <song>
 	<thainame>จงแสวงหาแผ่นดินของพระเจ้า</thainame>
 	<englishname>Seek Ye First The Kingdom of God</englishname>
-	<mienthainame>none</mienthainame>
+	<mienthainame>เม่ย บัว อ๋อย หฒุ ล์อ ด่าง ทิน- ฮู่ง เญย เจ๊า</mienthainame>
 	<order>verse1,chorus</order>
+	
 	<thai>
 		<verse1>จงแสวงหาแผ่นดินของพระเจ้า และความชอบธรรมของพระองค์ก่อน แล้วพระองค์จะเพิ่มเติมสิ่งทั้งปวงให้ ฮาเลลูฮาเลลูยา</verse1>
 		<chorus>ฮาเลลูยา ฮาเลลูฮาเลลูยา   ฮาเลลูยา ฮาเลลูยาฮาเลลูยา ฮาเลลู ฮาเลลูยา</chorus>
 	</thai>
+	
 	<english>
 		<verse1>Seek ye first the Kingdom of God. And His righteousness. And all these things shall be added unto you. Allelu Alleluia.</verse1>
 		<chorus>Al - le - lu - ia Al - le - lu - ia Al - le - lu - ia Al - le - lu Al - le - lu - ia</chorus>
 	</english>
+	
+<mienthai>
+    <verse1>เม่ย บัว อ๋อย หฒุ ล์อ ด่าง ทิน- ฮู่ง เญย เจ๊า,   ปุน เฒี้ยว กุ๊น เหฑ่ง เม่ย เญย เสย. เฒี้ยว หธีง ต้าย ไฮ่ เหธย ฟุ ปุน ฑ่อย,   อา^เล^ลู,   อา^เล^ลู^ยา.</verse1>
+    <chorus>อา^เล^ลู^ยา,       อา^เล^ลู^ยา,       อา^เล^ลู^ยา,      อา^เล^ลู,      อา^เล^ลู^ยา</chorus>
+</mienthai>
+
+<chord>
+    <verse1>D      F#m    Bm       D      G D      Em A D       F#m      Bm        D        G       D         A  D</verse1>
+    <chorus>D F#m Bm D      G  D EmA7      D F#m Bm D      G       D        A7 D</chorus>
+</chord>
+
 
 </song>

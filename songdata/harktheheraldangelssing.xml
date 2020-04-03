@@ -3,33 +3,35 @@
 
 <thainame>จงฟังเพลงแห่งทูตสวรรค์</thainame>
 <englishname>Hark! The Herald Angels Sing</englishname>
-<mienthainame>none</mienthainame>
-<order>verse1,verse2,verse3</order>
+<mienthainame>หมวัง โอ่, ทิน-ไธ เยียม ด๊าม-ลู่ง</mienthainame>
+<order>verse1,verse2,verse3,verse4</order>
 
 <thai>
     <verse1>จงฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน พระเมตตาพระเจ้าสูงสุด สวัสดีแก่ชนมนุษย์ ทุกประเทศจงตื่นยินดี ร้องเพลงกับชาวฟ้ารังสี เปล่งเสียงขึ้นด้วยใจชื่นเต็ม พระคริสต์เกิดที่เบธเลเฮม เชิญฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน</verse1>
     <verse2>องค์พระคริสต์สถิตเบื้องบน เป็นพระเจ้า ผู้ทรงพระชนม์ ถ่อมพระทัยลงมาบังเกิด แด่มารีย์หญิงผู้ประเสริฐ องค์พระเจ้าใหญ่ยิ่งสูงสุด ลงมาทรงกายามนุษย์ จงสาธุผู้ปรากฎเป็น พระเยซูอิมมานูเอล เชิญฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน</verse2>
     <verse3>พระเยซูเป็นมิตรไมตรี ทรงพระนาม ผู้เลี้ยงอันดี เป็นสว่างแห่งความชอบธรรม ส่องทั่วทุกประเทศชูค้ำ ทรงมาหาคนผู้หลงหาย เกิดเพื่อช่วยปวงชนพ้นตาย และทรงยกบาปโทษให้พลัน รอดชีวิตตลอดนิรันดร์ เชิญฟังเพลงแห่งทูตสวรรค์ สาธุการพระเจ้าเบื้องบน</verse3>
-
+	<verse4>...</verse4>
 </thai>
 
 <english>
     <verse1>Hark! the herald angels sing, "Glory to the new born King; Peace on earth and mercy mild, God and sinners reconciled." Joyful, all ye nations, rise, Join the triumph of the skies; With angelic hosts proclaim, "Christ is born in Bethlehem." Hark! the herald angels sing, "Glory to the new born King."</verse1>
     <verse2>Christ, by highest heav'n adored, Christ, the everlasting Lord; Late in time behold Him come, Offspring of a virgin's womb. Veiled in flesh the Godhead see, Hail, the incarnate Deity! Pleased as man with men to dwell, Jesus our Emmanuel. Hark! the herald angels sing, "Glory to the new born King."</verse2>
     <verse3>Hail the heav'n born Prince of Peace! Hail the Sun of righteousness! Light and life to all He brings, Ris'n with healing in His wings Mild He lays His glory by Born that man no more may die; Born to raise the sons of earth, Born to give them second birth. Hark! the herald angels sing,"Glory to the newborn King</verse3>
-
+	<verse4>...</verse4>
 </english>
     
 <mienthai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
+    <verse1>หมวัง โอ่, ทิน-ไธ เยียม ด๊าม-ลู่ง, ป๋าว ฑูง เธง โธะ ยู์ง เญย ฮู่ง. ก๊อง ลู่ง เดี๊ย เมี่ยน ม่าย แป้ง ออน, เหว่ย ฒิบ หฒุ ทิน-ฮู่ง เญย ตอน. อี้ หฒั่น นิ่น เล่ย ฆอย ทิน-ต้อง, เหฌี่ย ต้าย เยียม หม่าน เมี่ยน บุด๋ง. ทิน- ไธ, เมี่ยน, ล่ม ฑ่อย ป๋าว ฑูง, เธง น้าย เต้า แป้ง ออน เญย ฮู่ง. หมวัง โอ่, ทิน-ไธ เยียม ด๊าม-ลู่ง, ป๋าว ฑูง เธง โธะ ยู์ง เญย ฮู่ง.</verse1>
+    <verse2>กี^ตู่ เยียม ฮลัง เจี๋ย เญย ต๋อง, ทิน- ไธ หฒั่นๆ เธง นิ่น ก๊อง, นิ่น หฒะเก้ง หม่าน หมวด เญย เฒี้ยว, อี้ หฒั่น หย่า เป๋น เมี่ยน เสี่ยว โค้ว. หมั่ง ไม้ ปวัด เญย เฒียน ทิน-ฮู่ง, อี้ หฒั่น ม่าย ป๊วน-ซิน เป๋น เมี่ยน. นิ่น ไม้ หมั่ง เผีย เมี่ยน เหยียด เต๋ย, ขูง อ๋อย โหฒว เหฒียง คู้ หฒะเอ๋ย. หมวัง โอ่, ทิน-ไธ เยียม ด๊าม-ลู่ง, ป๋าว ฑูง เธง โธะ ยู์ง เญย ฮู่ง.</verse2>
+    <verse3>เยียม ลู่ง ต้าย เญย แป้ง ออน ฮู่ง, เก้า ฮลัง เจี๋ย หย่า หฒิว เจี๊ยน ฌัง. นิ่น เญย ฌัง เถง เมี่ยน เฒี่ยง เจี๊ยน, นิ่น เญย ชะ หฒ่อ หลง แป่ง เมี่ยน. นิ่น ธ้วด เสย ปุน เมี่ยน ไม้ ไต่, เฒียน เสียน นิ่น ฯฒฯ หฒอย ยู์ง ต้าย, ไฮ่ ฝาว ทิน-ต้อง เหยียด ลิ์ว เยียม, เหว่ย นิ่น เหฌี่ย เถา เบด^เล^เฮม. หมวัง โอ่, ทิน-ไธ เยียม ด๊าม-ลู่ง, ป๋าว ฑูง เธง โธะ ยู์ง เญย ฮู่ง.</verse3>
+	<verse4>เหฌียว ฒุ์ย-เมี่ยน เญย ดุ เต้า เฒี้ยว, ต้าย ฝาว เหว่ย กุ๊น เยีย เญย เฮญี้ยว, หฒุ่น ซา^ตาน ธ้วด เยีย เญย เฮญี้ยว, เถง เยีย เบ๊าะ นาง เญย มฆ้อง. เยีย ธ้วด เสย ฒวั้ง อา^ดัม ฮนั้ง, ขูง ม่าย ป์าม ฒุ์ย เญย เฟียม-ฝีง. โท้ ปุน เยีย ฒวั้ง เฒี้ยว เย^ซู, ปุน เมี่ยน ขูง ไฮ่ หมั่ง ปวัด เฒี้ยว. หมวัง โอ่, ทิน-ไธ เยียม ด๊าม-ลู่ง, ป๋าว ฑูง เธง โธะ ยู์ง เญย ฮู่ง.</verse4>
 </mienthai>
 
 <chord>
     <verse1>E B7 F#m7 B7 E C#m7 F#m7 B7 E A B7 E A B7 A F#m B7 E A F#m B7 E</verse1>
     <verse2>E B7 F#m7 B7 E C#m7 F#m7 B7 E A B7 E A B7 A F#m B7 E A F#m B7 E</verse2>
     <verse3>E B7 F#m7 B7 E C#m7 F#m7 B7 E A B7 E A B7 A F#m B7 E A F#m B7 E</verse3>
+	<verse4>E B7 F#m7 B7 E C#m7 F#m7 B7 E A B7 E A B7 A F#m B7 E A F#m B7 E</verse4>
 </chord>
 
 </song>
