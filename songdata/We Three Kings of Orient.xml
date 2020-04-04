@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>เราทั้งสามคือพวกโหรา</thainame>
+<englishname>We Three Kings</englishname>
+<mienthainame>เยีย บัว ตง ปูง ต้าย เญย ฟิน-แซง</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
+
+<thai>
+    <verse1>เราทั้งสามคือพวกโหรา  เดินทางไกลนำเครื่องบรรณา ข้ามภูเขา ห้วยน้ำ ลำธาร ติดตามดาราข้างหน้า</verse1>
+    <verse2>เบธเลเฮ็มพระเจ้าบังเกิด เราได้นำทองคำดีเลิศ มากราบทูลถวายพระองค์  ขอทรงอวยพรเราเถิด</verse2>
+    <verse3>กำยานมีกลิ่นหอมวิเศษ  ซึ่งเป็นของจากต่างประเทศ เราคุกเข่าสรรเสริญกราบไหว้  พระองค์ผู้ทรงปกเกศ</verse3>
+    <verse4>มดยอบของขมเป็นเครื่องหอม  เราถวายแด่พระกุมาร ซึ่งผู้หญิงได้นำถวาย  ห่อพระกายพระภูบาล</verse4>
+    <verse5>เหล่ามนุษย์จงยินดีครัน  ในการสมภพองค์ทรงธรรม นำจิตใจเป็นของถวาย ร้องสาธุการพร้อมกัน</verse5>
+    <chorus>**โอ ดาวประหลาด ดาวอัศจรรย์ นำเราไปถึงพระกุมาร ในโลกนี้มืดมัวชั่วช้า ครันขอนำถึงสว่างสวรรค์**</chorus>
+</thai>
+
+<english>
+    <verse1>We three kings of Orient are Bearing gifts we traverse afar Field and fountain, moor and mountain Following yonder star</verse1>
+    <verse2>Born a King on Bethlehem's plain Gold I bring to crown Him again King forever, ceasing never Over us all to reign</verse2>
+    <verse3>Frankincense to offer have I Incense owns a Deity nigh Prayer and praising, all men raising Worship Him, God most high</verse3>
+    <verse4>Myrrh is mine, its bitter perfume Breathes of life of gathering gloom Sorrowing, sighing, bleeding, dying Sealed in the stone-cold tomb</verse4>
+    <verse5>Glorious now behold Him arise King and God and Sacrifice Alleluia, Alleluia Earth to heav'n replies</verse5>
+    <chorus>O Star of wonder, star of night Star with royal beauty bright Westward leading, still proceeding Guide us to thy Perfect Light</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เยีย บัว ตง ปูง ต้าย เญย ฟิน-แซง, ธ้วด เจ๊า ฒิ่ม เจี๊ยน นอม เหฮลย ฌัง เจี๋ย. ยั่ง แป้ง, ยั่ง บง, ยั่ง เต่ย-ปูง-ฮวาง, ล์อ น้าย เต้า ต้ม ฮู่ง เตี๋ย.</verse1>
+    <verse2>เหฌียว เฒี้ยว เยียม เบด^เล^เฮม ธ้วด เสย, เยีย บัว ล์อ นิ่น อ๋อย ฝูง ฒี่ง เหญ่ย. เจียม, ตี๊ เจียม-นี้ง, เฒียนๆ ปุน ธีง, ขูง นิ่น ปวั๊ง เมี่ยน เญย เอ๋ย.</verse2>
+    <verse3>เยีย กั้น ต้อ ดาง เญย เดีย-จ๋าย ต้าย, โหฒว ฮูง, ปั๊ว เจี๊ยน ดาง เญย ป๋าย นิ่น. ฮูง- เสียว ฝาว มี่ง, ปุน ธีง เธง นิ่น, ล่ม ฑ่อย ท่าย นิ่น จ๋าย ไห่.</verse3>
+    <verse4>เยีย ต้อ มู^หย่อ ดาง ฝูง ปุน นิ่น, เถา นิ่น ไต่ หล่ง เฮยี้ยด นิ่น เญย เซย. ฑย้าม หฒุ เหลี่ยว ธ้วด เหว่ย เมี่ยน เญย ฒุ์ย,  บัว ฯฒฯ ป๋าว ฑูง เธง นิ่น.</verse4>
+    <verse5>นิ่น ฮนั้ง น้าย โหฒว เหฒียง นิ่น เญย กง, เป๋น ฮู่ง เตี๋ย, ไซ เมี่ยน, ปะกี ยู่ง. ไต่ มี่ง, นั่ง ต้าย, ตุ๊ หม่าน ฌัง-หล่าง, หม่าน หมวด เญย ต้ม ฒิ่ว ฮู่ง.</verse5>
+    <chorus>เหฮลย, หฒอย ฌัง เจี๋ย เญย, หฒอย บัวะ ฮ่อง. ม์วนๆ มี่ง ด่าง เยี์ยน เยีย เจ๊า. เหยียด ลิ์ว มี่ง ด่าง, เหยียด ลิ์ว หฒิว ฌัง, ต้อ เยีย มี่ง เถา เย^ซู วั้ว.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>Em B7 Em B7 Em D G Am B7 Em</verse1>
+    <verse2>Em B7 Em B7 Em D G Am B7 Em</verse2>
+    <verse3>Em B7 Em B7 Em D G Am B7 Em</verse3>
+    <verse4>Em B7 Em B7 Em D G Am B7 Em</verse4>
+    <verse5>Em B7 Em B7 Em D G Am B7 Em</verse5>
+    <chorus>D7 G C G G C G Em D7 C D G C G</chorus>
+</chord>
+
+</song>

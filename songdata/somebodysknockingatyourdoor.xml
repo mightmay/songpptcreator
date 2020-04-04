@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Somebodys Knockin At Your Door</englishname>
+<mienthainame>หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง</mienthainame>
+<order>chorus,verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>Knocks like Jesus, Somebody's knockin' at your door; Knocks like Jesus, Somebody's knockin' at your door. O sinner, why don't you answer? Somebody's knockin' at your door.</verse1>
+    <verse2>Can't you hear him? Somebody's knockin' at your door; Can't you hear him? Somebody's knockin' at your door. O sinner, why don't you answer? Somebody's knockin' at your door.</verse2>
+    <verse3>Jesus calls you, Somebody's knockin' at your door; Jesus calls you, Somebody's knockin' at your door. O sinner, why don't you answer? Somebody's knockin' at your door.</verse3>
+    <verse4>Can't you trust him? Somebody's knockin' at your door; Can't you trust him? Somebody's knockin' at your door. O sinner, why don't you answer? Somebody's knockin' at your door.</verse4>
+    <chorus>Somebody's knockin' at your door, Somebody's knockin' at your door, O sinner, why don't you answer? Somebody's knockin' at your door.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>ฮนั้ง เย^ซู เญย เฉีย, หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง? ฮนั้ง เย^ซู เญย เฉีย, หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง?</verse1>
+    <verse2>เม่ย หมวัง ไม้ ไฮ์ ไฟ? หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง? เม่ย หมวัง ไม้ ไฮ์ ไฟ? หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง?</verse2>
+    <verse3>กุ๊น เตา เฒี้ยว เย^ซู, หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง? กุ๊น เตา เฒี้ยว เย^ซู, หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง?</verse3>
+    <verse4>...</verse4>
+    <chorus>หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง? หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง? โอ ฒุ์ย-เมี่ยน อ่า, เม่ย เหว่ย หาย ไม้ เตา? หาย เต้า ต้าย แง้ง เม่ย เฮญี้ยว เญย แก้ง?</chorus>
+</mienthai>
+
+<chord>
+    <verse1>D           G      D          G                D D           D      D          D                A D  G   D    Bm            G       D          G                D G/D  D</verse1>
+    <verse2>D           G      D          G                D D           D      D          D                A D  G   D    Bm            G       D          G                D G/D  D</verse2>
+    <verse3>D           G      D          G                D D           D      D          D                A D  G   D    Bm            G       D          G                D G/D  D</verse3>
+    <verse4>D           G      D          G                D D           D      D          D                A D  G   D    Bm            G       D          G                D G/D  D</verse4>
+    <chorus>D          G                D D          D                A D  G   D    Bm            G D          G                D G/D  D</chorus>
+</chord>
+
+</song>

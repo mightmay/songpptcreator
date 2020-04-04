@@ -3,7 +3,7 @@
 
 <thainame>ได้ยินเสียงของพระเจ้า</thainame>
 <englishname>I Hear Thy Welcome Voice (I Am Coming, Lord)</englishname>
-<mienthainame>none</mienthainame>
+<mienthainame>เยีย ไฮ์ เฒี้ยว เญย ซีง-เฉีย</mienthainame>
 <order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
 
 <thai>
@@ -25,12 +25,12 @@
 </english>
     
 <mienthai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <verse1>เยีย ไฮ์ เฒี้ยว เญย ซีง-เฉีย, เห่ว เยีย อ๋อย หฒุ ก๊าน ต้าย. เยียม เหฒียบ หฑั่ง จ๋า นิ่น ฑย้าม เหลี่ยว ธ้วด. น้าย ฑย้าม หฑาว เหฑ่ง เยีย ฒุ์ย.</verse1>
+    <verse2>เยีย โค้ว หลาย ม่าย ฒุ์ย ห่อย, เหฌียว เฒี้ยว ปุน ชะ เยีย เฮ้น. ไม้ กุ๊น ม่าย ฒุ์ย ด่ง หาย ไล่ ฮลบ, ไฮ่ หฑาว ตุ๊ ธีง-เหฑ่ง ต้าย.</verse2>
+    <verse3>เฒี้ยว แล์ง เญย หว่า เก้ง เฒียน, ปุน ส่วน เฮญี้ยว วั้ว เต๋ย เมี่ยน. ซา^ตาน ไม้ ไฮ่ หน่อย ตุ๊ ม่อ หลิ่น, เหว่ย ม่าย เย^ซู โก๋ว เจี๊ยน.</verse3>
+    <verse4>...</verse4>
+    <verse5>ตุ๊ ฮี่ง หลาย น้าย สีง ฑย้าม. ตุ๊ ฮี่ง หลาย เฒี้ยว ฮนั้ม เยีย. ตุ๊ ฮี่ง หลาย เย^ซู เญย เหฌียว เอน, ม่าย หัด ม์า, ม่าย เฒียน เล์ย.</verse5>
+    <chorus>โท้ เหฌียว เฒี้ยว ค้อ-เลี่ยน, เยีย อี้ หฒั่น เกว่ย เหฌี่ย. เยียม เหฒียบ หฑั่ง จ๋า เญย สีง ฑย้าม, หฑาว เยีย เป๋น ธีง-เหฑ่ง เมี่ยน.</chorus>
 </mienthai>
 
 <chord>

@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+	<song name="wethreekingsofOrientare">We Three Kings of Orient.xml</song>
+	<song name="wethreekingsofOrient">We Three Kings of Orient.xml</song>
+	<song name="wethreekings">We Three Kings of Orient.xml</song>
+	<song name="we3kings">We Three Kings of Orient.xml</song>
+	<song name="เราทั้งสามคือพวกโหรา">We Three Kings of Orient.xml</song>
+	<song name="เราทั้งสามคือพวกโหราจารย์">We Three Kings of Orient.xml</song>
+	<song name="เยียบัวตงปูงต้ายเญยฟินแซง">We Three Kings of Orient.xml</song>
+
+	<song name="somebodysknockingatyourdoor">somebodysknockingatyourdoor.xml</song>
+	<song name="somebodysknockinatyourdoor">somebodysknockingatyourdoor.xml</song>
+	<song name="หายเต้าต้ายแง้งเม่ยเฮญี้ยวเญยแก้ง">somebodysknockingatyourdoor.xml</song>
+	<song name="ฮนั้งเยซูเญยเฉียหายเต้าต้ายแง้งเม่ยเฮญี้ยวเญยแก้ง">somebodysknockingatyourdoor.xml</song>
+
+	<song name="ม่ายฒี้งปวั๊งเหฑ่ง">มีธารน้ำพุเต็มด้วยโลหิต.xml</song>
+	<song name="ม่ายฒี้งปวั๊งเหฑ่งเยซูปู๊ฑย้าม">มีธารน้ำพุเต็มด้วยโลหิต.xml</song>
+	<song name="มีธารน้ำพุเต็มด้วยโลหิต">มีธารน้ำพุเต็มด้วยโลหิต.xml</song>
+	<song name="thereisafountainfilledwithblood">มีธารน้ำพุเต็มด้วยโลหิต.xml</song>
+	<song name="thereisafountain">มีธารน้ำพุเต็มด้วยโลหิต.xml</song>
+
+	<song name="howfirmafoundation">howfirmafoundation.xml</song>
+	<song name="ความเชื่อศิษย์พระเยซู">howfirmafoundation.xml</song>
+	<song name="เยซูเญยไซก๋อเญยเสียนฟิมม่ายกอนโด๊ะ">howfirmafoundation.xml</song>
+	<song name="เยซูเญยไซก๋อเญยเสียนฟิม">howfirmafoundation.xml</song>
 
 	<song name="ที่กางเขน">ที่กางเขน.xml</song>
 	<song name="alasanddidmysaviorbleed">ที่กางเขน.xml</song>
@@ -378,6 +401,7 @@
 
 <song name="ไม่ใช่ฤทธิ์ไม่ใช่แรง">notbemightnotbypower.xml</song>
 <song name="notbemightnotbypower">notbemightnotbypower.xml</song>
+<song name="notbymightnotbypower">notbemightnotbypower.xml</song>
 
 
 <song name="asthedeer">asthedeer.xml</song>
@@ -482,6 +506,8 @@
 <song name="iamcominglord">ihearthywelcomevoice.xml</song>
 <song name="ได้ยินเสียงของพระเจ้า">ihearthywelcomevoice.xml</song>
 <song name="เพลงชีวิตคริสเตียนบทที่291">ihearthywelcomevoice.xml</song>
+<song name="โท้เหฌียวเฒี้ยวค้อเลี่ยนเยียอี้หฒั่นเกว่ยเหฌี่ย">ihearthywelcomevoice.xml</song>
+<song name="เยียไฮ์เฒี้ยวเญยซีงเฉีย">ihearthywelcomevoice.xml</song>
 
 <song name="เรานมัสการ">เรานมัสการ.xml</song>
 <song name="เราพึ่งพาพระองค์">เรานมัสการ.xml</song>
@@ -1157,8 +1183,6 @@
 	<song name="เมื่อมองดูความบริสุทธิ์ของพระองค์">ThaiWorshipCom/เมื่อมองดูความบริสุทธิ์ของพระองค์.xml</song>
 	<song name="มาเถิดให้เราพากันไป">ThaiWorshipCom/มาเถิดให้เราพากันไป.xml</song>
 	<song name="มีชีวิตเพื่อพระคริสต์">ThaiWorshipCom/มีชีวิตเพื่อพระคริสต์.xml</song>
-	<song name="มีธารน้ำพุเต็มด้วยโลหิต">ThaiWorshipCom/มีธารน้ำพุเต็มด้วยโลหิต.xml</song>
-	<song name="มีธารน้ำพุเต็มด้วยโลหิต">ThaiWorshipCom/มีธารน้ำพุเต็มด้วยโลหิต.xml</song>
 	<song name="มีน้ำแห่งชีวิต">ThaiWorshipCom/มีน้ำแห่งชีวิต.xml</song>
 	<song name="มีพระเยซูอยู่ในเรือ">ThaiWorshipCom/มีพระเยซูอยู่ในเรือ.xml</song>
 	<song name="มีมากเกินพอ">ThaiWorshipCom/มีมากเกินพอ.xml</song>
@@ -2849,7 +2873,6 @@
 	<song name="iwillpraisehimstill">christianlyricsnet/iwillpraisehimstill.xml</song>
 	<song name="allcreaturesofourgodandking">christianlyricsnet/allcreaturesofourgodandking.xml</song>
 	<song name="iwillsingofmyredeemer">christianlyricsnet/iwillsingofmyredeemer.xml</song>
-	<song name="howfirmafoundation">christianlyricsnet/howfirmafoundation.xml</song>
 	<song name="givemejesus">christianlyricsnet/givemejesus.xml</song>
 	<song name="graceandpeace2thessalonians12">christianlyricsnet/graceandpeace2thessalonians12.xml</song>
 	<song name="allfleshislikethegrassipeter12425">christianlyricsnet/allfleshislikethegrassipeter12425.xml</song>
