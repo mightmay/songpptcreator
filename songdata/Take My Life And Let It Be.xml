@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>Take My Life and Let it Be</englishname>
+	<mienthainame>เยีย เญย แหม่ง เยีย ฝูง ปุน เม่ย</mienthainame>
+<order>verse1,verse2,verse3,verse4,verse5,verse6</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <verse6></verse6>
+</thai>
+
+<english>
+    <verse1>Take my life and let it be consecrated, Lord, to thee. Take my moments and my days; let them flow in endless praise, let them flow in endless praise.</verse1>
+    <verse2>Take my hands and let them move at the impulse of thy love. Take my feet and let them be swift and beautiful for thee, swift and beautiful for thee.</verse2>
+    <verse3>Take my voice and let me sing always, only, for my King. Take my lips and let them be filled with messages from thee, filled with messages from thee.</verse3>
+    <verse4>Take my silver and my gold; not a mite would I withhold. Take my intellect and use every power as thou shalt choose, every power as thou shalt choose.</verse4>
+    <verse5>Take my will and make it thine; it shall be no longer mine. Take my heart it is thine own; it shall be thy royal throne, it shall be thy royal throne.</verse5>
+    <verse6>Take my love; my Lord, I pour at thy feet its treasure store. Take myself, and I will be ever, only, all for thee, ever, only, all for thee.</verse6>
+</english>
+    
+<mienthai>
+    <verse1>เยีย เญย แหม่ง เยีย ฝูง ปุน เม่ย โท้ เม่ย หฑาว เยีย ธีง-เหฑ่ง ต้าย. เยีย ฮนอยๆ อ๋อย ล์อ เฒี่ยง โห่, ตอ- เหฒี่ย, เธง เยีย เญย เหฌียว เฒี้ยว. ตอ- เหฒี่ย, เธง เยีย เญย เหฌียว เฒี้ยว.</verse1>
+    <verse2>โท้ เฒี้ยว, เม่ย กุ๊น เยีย เญย ปั์ว, หฒั่นๆ ขูง โหฒว หลง ปุน เมี่ยน. โท้ เม่ย กุ๊น เหฑ่ง เยีย เญย เหฒา, *ต้อ เยีย ยั่ง เหฒียง เม่ย เญย เจ๊า. (X 2)</verse2>
+    <verse3>อ๋อย หล่ง เฉีย เหยียด เสย ป๋าว ฑูง, เธง เฒี้ยว เย^ซู เยีย เญย ฮู่ง. กุ๊น เยีย เญย ฑุ่ย แป๋ง หัด เจี๊ยน, *หฒั่นๆ ฒุ่น เม่ย เญย คู้ เฝียน. (X 2)</verse3>
+    <verse4>เยีย เญย ญ่าน เหธา เยีย เญย เจียม, เหยียด ฒู้ง ฝ่ง ห่อ ปุน เม่ย กั้น. เยีย เญย ธง-เม่ง ฮิ้ว หาย หญู่ง, *เฒาะ ปุน เม่ย, เซว่ย เม่ย กั้น หล่ง. (X 2)</verse4>
+    <verse5>โท้ เฒี้ยว กุ๊น เจี๊ยน เยีย เญย เอ๋ย, เยียม น้าย มี่ง ไม้ ฝุน กั้น เญย. เยีย เญย เฮญี้ยว เยีย โท้ เม่ย เยียม, *โหฒว เม่ย ธีง-เหฑ่ง เญย สีง ติ่น. (X 2)</verse5>
+    <verse6>เยีย เฮญี้ยว ฮนั้ม ไห่ เญย หญู่งๆ, เหยียด ฒู้ง เยีย ต้อ ต้าย ปุน เม่ย. ฝุน เยีย กั้น โหฒว เม่ย เญย โปว, *โท้ เม่ย ฒิบ เยีย, โหฒว เยีย เฒี้ยว. (X 2)</verse6>
+</mienthai>
+
+<chord>
+    <verse1>D    G      D  Bm7   G Asus     D D     Asus    G    D         G    Asus   A D G    Asus  D</verse1>
+    <verse2>D    G      D  Bm7   G Asus     D D     Asus    G    D         G    Asus   A D G    Asus  D</verse2>
+    <verse3>D    G      D  Bm7   G Asus     D D     Asus    G    D         G    Asus   A D G    Asus  D</verse3>
+    <verse4>D    G      D  Bm7   G Asus     D D     Asus    G    D         G    Asus   A D G    Asus  D</verse4>
+    <verse5>D    G      D  Bm7   G Asus     D D     Asus    G    D         G    Asus   A D G    Asus  D</verse5>
+    <verse6>D    G      D  Bm7   G Asus     D D     Asus    G    D         G    Asus   A D G    Asus  D</verse6>
+</chord>
+
+
+	
+	
+	</song>

@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+
+	<song name="ได้ล้างด้วยโลหิตพระเยซู">Are You Washed in the Blood.xml</song>
+	<song name="จิตวิญญาณของท่านพระเยซูล้างแล้วหรือ">Are You Washed in the Blood.xml</song>
+	<song name="haveyoubeentoJesusforthecleansingpower">Are You Washed in the Blood.xml</song>
+	<song name="areyouwashedintheblood">Are You Washed in the Blood.xml</song>
+	<song name="เยียอ๋อยหน่ายเม่ยเม่ยเสียนเขาเฒี้ยวเยซูไฟ">Are You Washed in the Blood.xml</song>
+
+
+	<song name="nothingbuttheblood">Nothing but the Blood of Jesus.xml</song>
+	<song name="nothingbutthebloodofjesus">Nothing but the Blood of Jesus.xml</song>
+	<song name="whatcanwashawaymysin">Nothing but the Blood of Jesus.xml</song>
+	<song name="เล่ยดุ๊ดฒุ์ยหนิบฮนั้งหายนอ">Nothing but the Blood of Jesus.xml</song>
+
+	<song name="nothingbutthebloodmattredman">nothingbutthebloodmattredman.xml</song>
+	<song name="mattredmannothingbuttheblood">nothingbutthebloodmattredman.xml</song>
+	<song name="yourbloodspeaksabetterwordthanalltheemptyclaims">nothingbutthebloodmattredman.xml</song>
+
+	<song name="เยียเญยแหม่งเยียฝูงปุนเม่ย">Take My Life And Let It Be.xml</song>
+	<song name="เยียเญยแหม่งเยียฝูงปุนเม่ย">Take My Life And Let It Be.xml</song>
+
+	<song name="เยียเญยแหม่งเยียฝูงปุนเม่ย">Take My Life And Let It Be.xml</song>
+	<song name="takemylifeandletitbe">Take My Life And Let It Be.xml</song>
+
+
+	<song name="เมื่อข้าเพ่งดูกางเขนประหลาด">whenisurveythewondrouscross.xml</song>
+	<song name="whenisurveythewonderouscross">whenisurveythewondrouscross.xml</song>
+	<song name="whenisurveythewondrouscross">whenisurveythewondrouscross.xml</song>
+	<song name="หายหฒั่นเธาเฮมียนหมั่งเหฒียบหฑั่งจ๋า">whenisurveythewondrouscross.xml</song>
+
+	<song name="ขอเชิญท่านผู้วางใจ">ocomeallyefaithful.xml</song>
+	<song name="ohcomeallyefaithful">ocomeallyefaithful.xml</song>
+	<song name="ocomeallyefaithful">ocomeallyefaithful.xml</song>
+	<song name="ต้ายโอ่หฒวังไซก๋อต้าย">ocomeallyefaithful.xml</song>
+
+	<song name="ในคืนวันหนึ่งยามเงียบสงัด">itcameuponamidnightclear.xml</song>
+	<song name="ม่ายฮนอยด๊ามม์วนเปี๋ยนเสยวั้วหฒั่น">itcameuponamidnightclear.xml</song>
+	<song name="itcameuponamidnightclear">itcameuponamidnightclear.xml</song>
+	
 	<song name="wethreekingsofOrientare">We Three Kings of Orient.xml</song>
 	<song name="wethreekingsofOrient">We Three Kings of Orient.xml</song>
 	<song name="wethreekings">We Three Kings of Orient.xml</song>
@@ -46,6 +84,8 @@
 
 	<song name="ยามราตรีศรีหรรษา">ยามราตรีศรีหรรษา.xml</song>
 	<song name="silentnight">ยามราตรีศรีหรรษา.xml</song>
+	<song name="silencenight">ยามราตรีศรีหรรษา.xml</song>
+	<song name="silentnightholynight">ยามราตรีศรีหรรษา.xml</song>
 	<song name="แป้งออนม์วนธีงเหฑ่งม์วน">ยามราตรีศรีหรรษา.xml</song>
 
 
@@ -197,6 +237,7 @@
 <song name="blessedassurance">blessedassurance.xml</song>
 <song name="thisismystorythisismysong">blessedassurance.xml</song>
 <song name="ทรงสัญญาให้พรแก่ข้า">blessedassurance.xml</song>
+<song name="กีตู่โหฒวเหฌียวเฒี้ยวไม้ตู๋งบู้งเบี๊ยน">blessedassurance.xml</song>
 
 
 
@@ -1887,7 +1928,6 @@
 	<song name="allovertheworld">christianlyricsnet/allovertheworld.xml</song>
 	<song name="whenallissaidanddone">christianlyricsnet/whenallissaidanddone.xml</song>
 	<song name="praiseawaitsyou">christianlyricsnet/praiseawaitsyou.xml</song>
-	<song name="nothingbuttheblood">christianlyricsnet/nothingbuttheblood.xml</song>
 	<song name="seeingyou">christianlyricsnet/seeingyou.xml</song>
 	<song name="giftedresponsewewillworshipyou">christianlyricsnet/giftedresponsewewillworshipyou.xml</song>
 	<song name="dancinggeneration">christianlyricsnet/dancinggeneration.xml</song>
@@ -2403,7 +2443,7 @@
 	<song name="silverbells">christianlyricsnet/silverbells.xml</song>
 	<song name="winterwonderland">christianlyricsnet/winterwonderland.xml</song>
 	<song name="godrestyemerrygentlemen">christianlyricsnet/godrestyemerrygentlemen.xml</song>
-	<song name="itcameuponamidnightclear">christianlyricsnet/itcameuponamidnightclear.xml</song>
+
 	<song name="olittletownofbethlehem">christianlyricsnet/olittletownofbethlehem.xml</song>
 	<song name="thenightbeforechristmas">christianlyricsnet/thenightbeforechristmas.xml</song>
 	<song name="shaoeyandherdadwishyouamerrychristmas">christianlyricsnet/shaoeyandherdadwishyouamerrychristmas.xml</song>
@@ -7209,9 +7249,6 @@
 	<song name="livefortoday">christianlyricsnet/livefortoday.xml</song>
 	<song name="bringitalltogetherwwynonna">christianlyricsnet/bringitalltogetherwwynonna.xml</song>
 
-	<song name="ขอเชิญท่านผู้วางใจ">christianlyricsnet/ocomeallyefaithful.xml</song>
-	<song name="ohcomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
-	<song name="ocomeallyefaithful">christianlyricsnet/ocomeallyefaithful.xml</song>
 
 	<song name="letitsnow">christianlyricsnet/letitsnow.xml</song>
 	<song name="santaclausiscomingtotown">christianlyricsnet/santaclausiscomingtotown.xml</song>
@@ -8513,7 +8550,6 @@
 	<song name="didyoumeanit">christianlyricsnet/didyoumeanit.xml</song>
 	<song name="holyspirit">christianlyricsnet/holyspirit.xml</song>
 	<song name="livinforjesus">christianlyricsnet/livinforjesus.xml</song>
-	<song name="takemylife">christianlyricsnet/takemylife.xml</song>
 	<song name="praisesong">christianlyricsnet/praisesong.xml</song>
 	<song name="ivealwayslovedyou">christianlyricsnet/ivealwayslovedyou.xml</song>
 	<song name="believe">christianlyricsnet/believe.xml</song>
@@ -9383,7 +9419,6 @@
 	<song name="clean">christianlyricsnet/clean.xml</song>
 	<song name="thesearethey">christianlyricsnet/thesearethey.xml</song>
 	<song name="jesussaves">christianlyricsnet/jesussaves.xml</song>
-	<song name="whenisurveythewondrouscross">christianlyricsnet/whenisurveythewondrouscross.xml</song>
 	<song name="nobettafeatfaithevans&amp;deitrickhaddon">christianlyricsnet/nobettafeatfaithevans&amp;deitrickhaddon.xml</song>
 	<song name="newlifefeatfonzworthbentleynikkipotts&amp;deitrickhaddon">christianlyricsnet/newlifefeatfonzworthbentleynikkipotts&amp;deitrickhaddon.xml</song>
 	<song name="marchingordersfeatkierrakikisheardtgamejai&amp;deitrickhaddon">christianlyricsnet/marchingordersfeatkierrakikisheardtgamejai&amp;deitrickhaddon.xml</song>

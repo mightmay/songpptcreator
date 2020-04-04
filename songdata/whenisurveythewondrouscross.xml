@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>เมื่อข้าเพ่งดูกางเขนประหลาด</thainame>
+	<englishname>When I Survey The Wondrous Cross</englishname>
+	<mienthainame>หาย หฒั่น เธา เฮมียน หมั่ง เหฒียบ หฑั่ง จ๋า</mienthainame>
+
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1>เมื่อข้าเพ่งดูกางเขนประหลาด ที่พระเยซูทรงสิ้นชีวา ทรัพย์สินในโลกข้าไม่สวาท เมื่อเทียบกางเขนประเสริฐนักหนา</verse1>
+    <verse2>โปรดอย่าให้ข้าอวดอ้างโลกนี้ ขออวดถึงมรณาพระคริสต์ สิ่งของในโลกที่ข้าชอบชี้ มอบไว้หมดกับพระผู้พลีชีพ</verse2>
+    <verse3>เมื่อดูพระเศียรพระหัตถ์พระบาท ความทุกข์และความรักหลั่งลงมา ใครเคยทนทุกข์อันน่าอนาถ หรือสวมหนามแทนมงกฎโสภา</verse3>
+    <verse4>แม้เอาสมบัติทั้งสิ้นโลกา น้อยนักถวายองค์พระผู้ไถ่ ความรักพระองค์ประเสริฐนักหนา เรายอมถวายทั้งใจและกาย</verse4>
+    <chorus>โอ้ ไม้กางเขนประหลาด โอ้ ไม้กางเขนประหลาด นำข้าตายต่อบาปและพบ ชีวิตใหม่ในพระองค์ โอ้ ไม้กางเขนประหลาด โอ้ ไม้กางเขนประหลาด พวกเรามาเข้าเฝ้า ใกล้ชิดพระเจ้าสรรเสริญพระนาม</chorus>
+</thai>
+
+<english>
+    <verse1>When I survey the wondrous cross on which the Prince of glory died, my richest gain I count but loss, and pour contempt on all my pride.</verse1>
+    <verse2>When I survey the wondrous cross on which the Prince of glory died, my richest gain I count but loss, and pour contempt on all my pride.</verse2>
+    <verse3>When I survey the wondrous cross on which the Prince of glory died, my richest gain I count but loss, and pour contempt on all my pride.</verse3>
+    <verse4>When I survey the wondrous cross on which the Prince of glory died, my richest gain I count but loss, and pour contempt on all my pride.</verse4>
+    <chorus>Oh the wonderful cross. Oh the wonderful cross. Bids me come and die and find. That I may truely live. Oh the wonderful cross. Oh the wonderful cross. All who gather here. By grace draw near and bless Your name.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>หาย หฒั่น เธา เฮมียน หมั่ง เหฒียบ หฑั่ง จ๋า, ฌัง- หล่าง เญย ฮู่ง เซี้ย แหม่ง เญย จ๋า. เยีย ฝุน จ๋าย เจี๋ย เญย, ฒู้ง กวั่ง เหฑ่ง. เยีย กั้น เญย เม่ง โห่, ฒู้ง หมั่ง เผีย.</verse1>
+    <verse2>โท้ เฒี้ยว เถง เยีย ไม้ เธง หาย หญู่ง, ธี่ ธ้วด เฒี้ยว เยียม เหฒียบ หฑั่ง จ๋า ไต่. ลู่ง เดี๊ย เญย หญู่งๆ เผย ฝู่ เญย สี่, ไม้ ม่าย หาย หญู่ง, เป๊ย เฒี้ยว เญย ฑย้าม.</verse2>
+    <verse3>หมั่ง ก๋า, เย^ซู ด่ง หน่าย ฮนั้ม เมี่ยน, นิ่น เญย ปั์ว-เหฒา ม่าย ฑย้าม เหลี่ยว ธ้วด. แล์ง ด๋ง ฌิ้ม-นี้ง เก้า จ๋าย เจียม-นี้ง. โยว- เฑ่า เก้า โค้ว เจี๋ย น้าย ไม้ ม่าย.</verse3>
+    <verse4>สี ก๊อง หม่าน หมวด เกวย เยีย กั้น ฮนั้ง, เฒาะ เหฑ่ง เหยียด ฒู้ง ไม้ เก๋า ปุน เฒี้ยว. เฒี้ยว เก้ง ฮนั้ม เมี่ยน ฝูง หาย หญู่ง ไม้ ผุย, ขูง ไฮ่ หล่ง เหฑ่ง เฮญี้ยว ฮนั้ม นิ่น ฮนั้ง.</verse4>
+    <chorus>...</chorus>
+</mienthai>
+
+<chord>
+    <verse1>D G D D G D A D G D D A D</verse1>
+    <verse2>D                 G        D D            G         D     A D                 G         D D        Bm           A7     D</verse2>
+    <verse3>D G D D G D A D G D D A D</verse3>
+    <verse4>D G D D G D A D G D D A D</verse4>
+    <chorus>G D G D G D A G D G D G D A</chorus>
+</chord>
+
+	
+	
+</song>

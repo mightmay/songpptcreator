@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ขอเชิญท่านผู้วางใจ</thainame>
+	<englishname>O Come All Ye Faithful</englishname>
+	<mienthainame>ต้าย โอ่, หฒวัง ไซ-ก๋อ ต้าย</mienthainame>
+	<order>segment1,chorus,segment2,chorus,segment3,chorus,segment4,chorus</order>
+<thai>
+		<segment1>ขอเชิญท่านผู้วางใจ ชื่นใจยินดีมีชัย เชิญมา เชิญมาไว สู่หมู่บ้านเบธเลเฮม มาเฝ้าพระกุมาร ราชาแห่งทูตปรีดิ์เปรม</segment1>
+
+		<segment2>สว่างแสงแห่งพระธรรม ส่องแจ้งอยู่นิรันดร์กาล ความต่ำช้าสามานย์ มิได้ทรงคิดหน่ายแหนง พระบุตร พระบิดา พระดำรัสไม่เปลี่ยนแปลง</segment2>
+
+		<segment3>จงสรรเสริญพระองค์เถิด ทูตสวรรค์ในวิมาน ให้ดังก้องกังวาน ทั่วแหล่งหล้าและสากล รังสีอันรุ่งเรือง จงมีแด่ผู้ทรงธรรม</segment3>
+
+		<segment4>สรรเสริญข้าถวายชัย พระเยซูผู้ช่วยได้ พระนามอันยิ่งใหญ่ ข้าวันทาด้วยภักดี ดำรัสพระบิดา มาปรากฏเป็นภูมี</segment4>
+		<chorus>**เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู เชิญสาธุการพระเยซู ผู้ทรงพระคุณ</chorus>
+</thai>
+
+<english>
+		<segment1>O come all ye faithful, Joyful and triumphant, O come ye, O come ye to Bethlehem; Come and behold Him, Born the King of angels:</segment1>
+
+		<segment2>True God of true God, Light of light, eternal, Lo! He abhors not The virgin's womb; Son of the Father, Begotten not created:</segment2>
+
+		<segment3>Sing, choirs of angels, Sing in exultation, O sing, all ye citizen Host of heav'n above: Glory to God All Glory in the highest:</segment3>
+
+		<segment4>Yea, Lord, we greet Thee, Born this happy morning, Jesus, to Thee Be all glory giv'n. Word of the Father, Now in flesh appearing.</segment4>
+		<chorus>O come, let us adore Him, O come, let us adore Him, O come, let us adore Him, Christ the Lord</chorus>
+
+</english>
+		
+<mienthai>
+		<segment1>ต้าย โอ่, หฒวัง ไซ-ก๋อ ต้าย, อะเฮน้ย ออน-เหลาะ เญย ต้าย. หอบ ฟิม ต้ง เอ๋ย ก๊าน มี่ง ดา^วิด ฮู่ง เญย มู้ง. ปวัด เฒี้ยว เปว๋ย ม์า-โฒ่, นิ่น โธะ โหะ ธ้วด เสย ต้าย.</segment1>
+		<segment2>ไม้ กุ๊น นิ่น เซ ทิน-ฮู่ง, เหฒย ลู่ง, เดา, เหฒย หม่าน หมวด. เหว่ย หฒุ นิ่น ค้อ-เลี่ยน เยีย บัว, อี้ หฒั่น เป๋น เต้า เมี่ยน. กวั่ง นิ่น เญย ฌัง-หล่าง, หย่า กวั่ง เหฑ่ง นิ่น เน่น เญย ชะ.</segment2>
+		<segment3>เยียม ด๊าม-ลู่ง เญย ฟิน-เมี่ยน, ต้าย เถง ป๋าว ฑูง เธง นิ่น. ปุน ทิน-ต้อง เหยียด ฒู้ง เต่ย-ปูง หมวัง ไฮ์ เฒี้ยว เญย เอน. ทิน-ฮู่ง เญย ตอน- ฮนั้ม อี้ หฒั่น เป๋น ป้าม เมี่ยน เญย ตอน.</segment3>
+		<segment4>นิ่น ธ้วด เสย โหฒว เหฌียว เฒี้ยว, บัว เหยียด หฒวัง มี่ง ฒิบ นิ่น. ล่ม ฑ่อย เธง นิ่น, ท่าย นิ่น, ปุน นิ่น ตุ๊ เหฑ่ง ฌัง-หล่าง. ทิน-ฮู่ง เญย เฒียน โต์, อี้ หฒั่น ธ้วด เสย เป๋น ป้าม เมี่ยน.</segment4>
+		<chorus>ต้าย โอ่, มี่ง วั้ว ฮว้า ป๋าย นิ่น, ต้าย โอ่, มี่ง วั้ว ฮว้า ป๋าย นิ่น, ต้าย โอ่, มี่ง วั้ว ฮว้า ป๋าย นิ่น, เยีย บัว เญย เหฌียว เฒี้ยว.</chorus>
+</mienthai>
+
+<chord>
+		<segment1>G     D G    D Em   D  A     D G   C    G Em   C       D</segment1>
+		<segment2>G     D G    D Em   D  A     D G   C    G Em   C       D</segment2>
+		<segment3>G     D G    D Em   D  A     D G   C    G Em   C       D</segment3>
+		<segment4>G     D G    D Em   D  A     D G   C    G Em   C       D</segment4>
+		<chorus>G G            Em    D Em        Am  D    C G  D       G</chorus>
+</chord>
+
+</song>

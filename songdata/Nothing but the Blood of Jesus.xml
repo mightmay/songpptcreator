@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>none</thainame>
+<englishname>Nothing but the blood of Jesus</englishname>
+<mienthainame>เล่ย ดุ๊ด ฒุ์ย-หนิบ ฮนั้ง หาย นอ?</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <chorus></chorus>
+</thai>
+
+<english>
+    <verse1>What can wash away my sin? Nothing but the blood of Jesus. What can make me whole again? Nothing but the blood of Jesus.</verse1>
+    <verse2>For my pardon this I see: nothing but the blood of Jesus. For my cleansing this my plea: nothing but the blood of Jesus.</verse2>
+    <verse3>Nothing can for sin atone: nothing but the blood of Jesus. Naught of good that I have done: nothing but the blood of Jesus.</verse3>
+    <verse4>This is all my hope and peace: nothing but the blood of Jesus. This is all my righteousness: nothing but the blood of Jesus.</verse4>
+    <chorus>O precious is the flow that makes me white as snow; no other fount I know; nothing but the blood of Jesus.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เล่ย ดุ๊ด ฒุ์ย-หนิบ ฮนั้ง หาย นอ? อ๋อย หฒุ เขา เย^ซู เญย ปู๊-ฑย้าม. หาย หญู่ง ปุน เยีย เฮญี้ยว แป้ง ออน? ขูง ม่าย เฒี้ยว เย^ซู เญย ปู๊-ฑย้าม.</verse1>
+    <verse2>ฒุ์ย- เมี่ยน ฮนั้ง หาย นอ ตุ๊ เหฌียว? อ๋อย หฒุ เขา เย^ซู เญย ปู๊-ฑย้าม. หาย หญู่ง ปุน เยีย โหฒว คู้ เมี่ยน? ขูง ม่าย เฒี้ยว เย^ซู เญย ปู๊-ฑย้าม.</verse2>
+    <verse3>ฮนั้ง หาย นอ ไม้ ด๊อด เต่ย หญัวะ? อ๋อย หฒุ เขา เย^ซู เญย ปู๊-ฑย้าม. หาย หญู่ง ปุน เยีย ฝาว ทิน-ต้อง? ขูง ม่าย เฒี้ยว เย^ซู เญย ปู๊-ฑย้าม.</verse3>
+    <verse4>ฮนั้ง หาย นอ ฮี่ง เจี๋ย ซา^ตาน? อ๋อย หฒุ เขา เย^ซู เญย ปู๊-ฑย้าม. หาย หญู่ง ปุน เยีย ตุ๊ ฌัง-หล่าง? ขูง ม่าย เฒี้ยว เย^ซู เญย ปู๊-ฑย้าม.</verse4>
+    <chorus>เฒี้ยว เยียม เหฒียบ หฑั่ง เหลี่ยว ฑย้าม, หฑาว เยีย เญย เฮญี้ยว ธีง-เหฑ่ง. เหว่ย เยีย เขา นิ่น เญย ฑย้าม, เยีย เญย เฮญี้ยว ฯฒฯ หฑาว ตุ๊ แปะ หล่าง.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>G             Em G              C        D  G G                Em G              C        D  G</verse1>
+    <verse2>G             Em G              C        D  G G                Em G              C        D  G</verse2>
+    <verse3>G             Em G              C        D  G G                Em G              C        D  G</verse3>
+    <verse4>G             Em G              C        D  G G                Em G              C        D  G</verse4>
+    <chorus>G D       C G        Em G     C  D  G</chorus>
+</chord>
+
+</song>
