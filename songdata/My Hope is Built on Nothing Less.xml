@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ความหวังของข้า</thainame>
+<englishname>My Hope is Built on Nothing Less</englishname>
+<mienthainame>ธ้วด ลิ์ว เหฌียว เฒี้ยว เย^ซู เญย ฑย้าม</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1>ความหวังของข้า  มั่นคงอยู่ในพระโลหิตไถ่  และความชอบธรรม ข้าจึงไม่ขอพึ่งบุญพึ่งกรรม   พึ่งแต่พระนามของพระเยซู</verse1>
+    <verse2>เมื่อเกิดมืดมัวความชั่วบังตา  จิตใจของข้าต้องพึ่งพระคุณ เมื่อเกิดพายุข้ารอดปลอดภัย   เพราะทอดสมอด้วยความไว้ใจ</verse2>
+    <verse3>พระคริสต์สัญญา  ข้าปฏิญาณพระองค์ประทานโลหิต ไถ่ข้าเมื่ออันตรายมาใกล้กายา  ข้าไม่กลัวเพราะพระองค์รักษา</verse3>
+    <verse4>เมื่อพระเยซูเสด็จลงมา  แตรลั่นท้องฟ้าข้าแสนยินดี สวมเสื้อชอบธรรมสง่าราศี  ข้าคอยต้อนรับองค์พระภูมี</verse4>
+    <chorus>องค์พระเยซูเปรียบเหมือนศิลา   ข้าจึงยืนอยู่มั่นคงนักหนา ผู้อื่นทรายโคลนไม่ขอศรัทธา</chorus>
+</thai>
+
+<english>
+    <verse1>My hope is built on nothing less than Jesus' blood and righteousness; I dare not trust the sweetest frame, but wholly lean on Jesus' name.</verse1>
+    <verse2>When darkness veils his lovely face, I rest on his unchanging grace; in ev'ry high and stormy gale, my anchor holds within the veil.</verse2>
+    <verse3>His oath, his covenant, his blood support me in the whelming flood; when all around my soul gives way, he then is all my hope and stay.</verse3>
+    <verse4>When he shall come with trumpet sound, O may I then in him be found, dressed in his righteousness alone, faultless to stand before the throne.</verse4>
+    <chorus>On Christ, the solid rock, I stand; all other ground is sinking sand, all other ground is sinking sand.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>ธ้วด ลิ์ว เหฌียว เฒี้ยว เย^ซู เญย ฑย้าม, ไม้ ม่าย หาย หญู่ง ปุน เยีย แป้ง ออน. ธ้วด ลิ์ว นิ่น หล่ง นิ่น ฑย้าม หฑาว เยีย, เยีย เก้ง ม่าย ฒุ์ย, ไล่ ฮลบ เหฒีย จ๋า.</verse1>
+    <verse2>ไม้ ปวัด นิ่น เยียม ไม้ หฒุ กั้ม เหฑีย, นิ่น แล์ง เหยียด ลิ์ว ไม้ ไฮ่ กวั่ง เยีย. ม่าย หาย หญู่ง สี่, นิ่น เบ่น ตุ๊ ซูง, นิ่น เฒียน ม่าย ชะ, ธง-เม่ง เญย ฮู่ง.</verse2>
+    <verse3>นิ่น หล่ง นิ่น ฑย้าม เหลียบ เจี์ย แหง่ง หว่า, ไม้ ไฮ่ ก๊อย เหยี่ยน, เฒียน เหว่ย เหยียด ลิ์ว. หาย เต้า ก๊อย เฮญี้ยว, ฒิบ เฒี้ยว เย^ซู, ฒุ์ย ตุ๊ หฑาว เหฑ่ง, หฒะเก้ง ตุ๊ เหฌียว.</verse3>
+    <verse4>ม่าย เฉีย เห่ว เจี๊ยน, ม่าย หฑัด บุย ไห่, ปุน ธีง เย^ซู แอ๋ง ต้าย เถา น้าย. เยีย ฯฒฯ ฝาว ลู่ง เยียม วั้ว เหยียด ลิ์ว, ธีง- เหฑ่ง, ตุ้น ยุ่น หฒั่ง เฒี้ยว เย^ซู.</verse4>
+    <chorus>เยีย ม่าย กอน-โด๊ะ เยียม เฒี้ยว เย^ซู, หละเปย๊ย กอน-โด๊ะ, ไม้ เฒ์ย ซ้าย-เฒียว. เหญี่ย เญย กอน-โด๊ะ เหยียด ฒู้ง ซ้าย-เฒียว.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>F  C Bb  F F   C Bb   F</verse1>
+    <verse2>F  C Bb  F F   C Bb   F</verse2>
+    <verse3>F  C Bb  F F   C Bb   F</verse3>
+    <verse4>F  C Bb  F F   C Bb   F</verse4>
+    <verse5>F  C Bb  F F   C Bb   F</verse5>
+    <chorus>F      Bb      F      Dm   C7 F       C7    F</chorus>
+</chord>
+
+</song>

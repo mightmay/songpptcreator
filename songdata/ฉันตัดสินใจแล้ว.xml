@@ -2,11 +2,11 @@
 <song>
 	<thainame>ฉันตัดสินใจแล้ว</thainame>
 	<englishname>I Have Decided to Follow Jesus</englishname>
-	<mienthainame>none</mienthainame>
+	<mienthainame>เยีย อ๋อย ฒุ้น ตี่ง เฮญี้ยว กัน เจี๊ยน เฒี้ยว เย^ซู</mienthainame>
 	<order>verse1,verse2,verse3</order>
 	<thai>
 		<verse1>1.ฉันตัดสินใจแล้วจะตามพระเยซู  ฉันตัดสินใจแล้วจะตามพระเยซู  ฉันตัดสินใจแล้วจะตามพระเยซู  ไม่หันกลับเลยไม่หันกลับเลย</verse1>
-		<verse2>2.กางเขนอยู่เบื้องหน้าทิ้งโลกไว้เบื้องหลัง  กางเขนอยู่เบื้องหน้าทิ้งโลกไว้เบื้องหลัง  กางเขนอยู่เบื้องหน้าทิ้งโลกไว้เบื้องหลัง ไม่หันกลับเลยไม่หันกลับเลย</verse2>
+		<verse2>2.กางเขนอยู่เบื้องหน้า ทิ้งโลกไว้เบื้องหลัง  กางเขนอยู่เบื้อง หน้าทิ้งโลกไว้เบื้องหลัง  กางเขนอยู่เบื้องหน้า ทิ้งโลกไว้เบื้องหลัง ไม่หันกลับเลยไม่หันกลับเลย</verse2>
 		<verse3>3.แม้ใครไม่ไปด้วยฉันก็จะตามไป  แม้ใครไม่ไปด้วยฉันก็จะตามไป  แม้ใครไม่ไปด้วยฉันก็จะตามไป  ไม่หันกลับเลยไม่หันกลับเลย</verse3>
 	</thai>
 	<english>
@@ -14,4 +14,18 @@
 		<verse2>The world behind me, the cross before me. The world behind me, the cross before me. The world behind me, the cross before me. No turning back, no turning back.</verse2>
 		<verse3>Though none go with me, still I will follow. Though none go with me, still I will follow. Though none go with me, still I will follow. No turning back, no turning back.</verse3>
 	</english>
+	
+<mienthai>
+    <verse1>เยีย อ๋อย ฒุ้น ตี่ง เฮญี้ยว กัน เจี๊ยน เฒี้ยว เย^ซู, เยีย อ๋อย ฒุ้น ตี่ง เฮญี้ยว กัน เจี๊ยน เฒี้ยว เย^ซู, เยีย อ๋อย ฒุ้น ตี่ง เฮญี้ยว กัน เจี๊ยน เฒี้ยว เย^ซู, ไม้ ฮวิน ฆาง หฑวน, ไม้ ฮวิน ฆาง หฑวน.</verse1>
+    <verse2>ไม้ ม่าย หาย เต้า มี่ง, เยีย หย่า อ๋อย กัน มี่ง, ไม้ ม่าย หาย เต้า มี่ง, เยีย หย่า อ๋อย กัน มี่ง, ไม้ ม่าย หาย เต้า มี่ง, เยีย หย่า อ๋อย กัน มี่ง, ไม้ ฮวิน ฆาง หฑวน, ไม้ ฮวิน ฆาง หฑวน.</verse2>
+    <verse3>ป้าม เกน กวั่ง ฆะฮ้า, เหฒียบ หฑั่ง เยียม หฑะเฮมียน ป้าม เกน กวั่ง ฆะฮ้า, เหฒียบ หฑั่ง เยียม หฑะเฮมียน ป้าม เกน กวั่ง ฆะฮ้า, เหฒียบ หฑั่ง เยียม หฑะเฮมียน ไม้ ฮวิน ฆาง หฑวน, ไม้ ฮวิน ฆาง หฑวน.</verse3>
+</mienthai>
+
+<chord>
+    <verse1>G C    G Em G  D    G</verse1>
+    <verse2>G C    G Em G  D    G</verse2>
+    <verse3>G C    G Em G  D    G</verse3>
+</chord>
+
+	
 </song>

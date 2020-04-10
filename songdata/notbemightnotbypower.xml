@@ -3,29 +3,31 @@
 
 <thainame>ไม่ใช่ฤทธิ์ ไม่ใช่แรง</thainame>
 <englishname>Not Be Might, Not By Power</englishname>
-<mienthainame>none</mienthainame>
-<order>verse1,verse1,chorus</order>
+<mienthainame>ไม้ เฒ์ย ต้ม ชะ ไฟ ต้ม หัด ม์า,</mienthainame>
+<order>verse1,chorus,verse2</order>
 
 <thai>
     <verse1>ไม่ใช่ฤทธิ์ ไม่ใช่แรง แต่แข็งแกร่งด้วยพระวิญญาณ ไม่ใช่ฤทธิ์ ไม่ใช่แรง แต่แข็งแกร่งด้วยพระวิญญาณ</verse1>
+	<verse2>...</verse2>
     <chorus>ถึงภูเขาก็เลื่อนลอยไป ถึงภูเขาก็เลื่อนลอยไป ถึงภูเขาก็เลื่อนลอยไป ด้วยฤทธิ์เดชแห่งพระวิญญาณ</chorus>
 </thai>
 
 <english>
     <verse1>Not Be Might, Not By Power but By My Spirit Saith the Lord Not Be Might, Not By Power but By My Spirit Saith The Lord</verse1>
-
+	<verse2>...</verse2>
     <chorus>This Mountain Shall Be Removed By My Spirit Saith the Lord</chorus>
 </english>
     
 <mienthai>
-    <verse1>...</verse1>
+    <verse1>ไม้ เฒ์ย ต้ม ชะ ไฟ ต้ม หัด ม์า, มป่า เซ ทิน-ฮู่ง เญย สีง ลี่ง. ไม้ เฒ์ย ต้ม ชะ ไฟ ต้ม หัด ม์า, มป่า เซ ทิน-ฮู่ง เญย สีง ลี่ง.</verse1>
+    <chorus>ต้ม เก้ ฒอง ฮลัง อ๋อย หฒุ ถุย มี่ง, ต้ม เก้ ฒอง ฮลัง อ๋อย หฒุ ถุย มี่ง, ต้ม เก้ ฒอง ฮลัง อ๋อย หฒุ ถุย มี่ง, เหว่ย เขา ทิน-ฮู่ง เญย สีง ลี่ง.</chorus>
+	<verse2>หญู่งๆ เจ๊า หลิ่ว เล์ย เหฒียง เหฑ่ง, หญู่งๆ เจ๊า หลิ่ว เล์ย เหฒียง เหฑ่ง, หญู่งๆ เจ๊า หลิ่ว เล์ย เหฒียง เหฑ่ง, เหว่ย เขา ทิน-ฮู่ง เญย สีง ลี่ง.</verse2>
 
-    <chorus>...</chorus>
 </mienthai>
 
 <chord>
     <verse1> D Em A7 D  D Em A7 D</verse1>
-
+    <verse2> D Em A7 D  D Em A7 D</verse2>
     <chorus>  G D Em A7 D  G D A7 D </chorus>
 </chord>
 

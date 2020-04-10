@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
 
-<thainame>none</thainame>
+<thainame>มีแต่พระโลหิตพระเยซู</thainame>
 <englishname>Nothing but the blood of Jesus</englishname>
 <mienthainame>เล่ย ดุ๊ด ฒุ์ย-หนิบ ฮนั้ง หาย นอ?</mienthainame>
 <order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
 
 <thai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <chorus></chorus>
+    <verse1>มีอะไรล้างบาปข้าได้ มีแต่พระโลหิตพระเยซู มีอะไรช่วยพ้นบาปได้ มีแต่พระโลหิตพระเยซู</verse1>
+    <verse2>มีสิ่งเดียวล้างบาปข้าได้ สิ่งนั้นคือโลหิตพระเยซู ขอพระองค์ทรงยกโทษให้ ยกโทษด้วยโลหิตพระเยซู</verse2>
+    <verse3>ไม่มีทางอื่นล้างบาปได้ มีแต่พระโลหิตพระเยซู คุณความดีก็ช่วยไม่ได้ มีแต่พระโลหิตพระเยซู</verse3>
+    <verse4>มีความหวังและสันติภาพ เนื่องจากพระโลหิตพระเยซู เป็นคนชอบธรรมไม่มีบาป ก็เพราะพระโลหิตพระเยซู</verse4>
+    <chorus>โลหิตพระคริสต์ประเสริฐ ซึ่งทำให้ใจขาวเลิศ ไม่มีอะไรเชื่อเถิด มีแต่พระโลหิตพระเยซู</chorus>
 </thai>
 
 <english>

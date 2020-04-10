@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
 
-<thainame>none</thainame>
+<thainame>ฮาเลลูยาสรรเสริญพระเจ้า</thainame>
 <englishname>Hallelujah! Praise Ye the Lord!</englishname>
-<mienthainame>none</mienthainame>
-<order>verse1</order>
+<mienthainame>อา^เล^ลู^ยา, อ๋อย เธง ทิน-ฮู่ง</mienthainame>
+<order>verse1,chorus</order>
 
 <thai>
+    <verse1>ฮาเลลู ฮาเลลู ฮาเลลูฮาเลลูยา สรรเสริญพระเจ้า (x2)</verse1>
+    <chorus>สรรเสริญพระเจ้า ฮาเลลูยา x3 สรรเสริญพระเจ้า</chorus>
 </thai>
 
 <english>
-   
-<verse1>Hallelu, Hallelu, Hallelu, Hallelujah! Praise Ye the Lord! x2
-Praise Ye the Lord, Hallelujah! x3
-Praise Ye the Lord!</verse1>
-
-
+    <verse1>Hallelu, Hallelu, Hallelu, Hallelujah! Praise Ye the Lord! x2</verse1>
+    <chorus>Praise Ye the Lord, Hallelujah! x3 Praise Ye the Lord!</chorus>
 </english>
     
 <mienthai>
+    <verse1>อา^เล^ลู, อา^เล^ลู, อา^เล^ลู, อา^เล^ลู^ยา, อ๋อย เธง ทิน-ฮู่ง. x2</verse1>
+    <chorus>อ๋อย เธง ทิน-ฮู่ง, อา^เล^ลู^ยา, x3 อ๋อย เธง ทิน-ฮู่ง.</chorus>
 </mienthai>
 
 <chord>
+    <verse1>G  C C D  G</verse1>
+    <chorus>G   D  D7  G</chorus>
 </chord>
+
+
+
 
 </song>

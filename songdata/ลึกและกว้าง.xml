@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ลึกและกว้าง</thainame>
+	<englishname>Deep and Wide</englishname>
+	<mienthainame>เฒี้ยว เย^ซู เญย เอน เหธย โด หย่า จั๊ง</mienthainame>
+	<order>verse1,verse2</order>
+	<thai>
+		<verse1>ลึกและกว้าง ลึกและกว้าง ความรักของพระเยซูลึกและกว้าง</verse1>
+		<verse2>ลึกและกว้าง ลึกและกว้าง ความรักของพระเยซูลึกและกว้าง</verse2>
+	</thai>
+	
+<english>
+    <verse1>Deep and Wide Deep and Wide The Love of Jesus is Deep and Wide. Deep and Wide Deep and Wide The Love of Jesus is Deep and Wide.</verse1>
+    <verse2>Deep and wide, deep and wide, There’s a fountain flowing deep and wide. Deep and wide, deep and wide, There’s a fountain flowing deep and wide.</verse2>
+</english>
+    
+<mienthai>
+    <verse1>เฒี้ยว เย^ซู, เฒี้ยว เย^ซู, เฒี้ยว เย^ซู เญย เอน เหธย โด หย่า จั๊ง. โด หย่า จั๊ง, โด หย่า จั๊ง, เฒี้ยว เย^ซู เญย เอน เหธย โด หย่า จั๊ง.</verse1>
+    <verse2>เฒี้ยว ทิน-ฮู่ง, เฒี้ยว ทิน-ฮู่ง, เฒี้ยว ทิน-ฮู่ง เญย เอน เหธย โด หย่า จั๊ง. โด หย่า จั๊ง, โด หย่า จั๊ง, เฒี้ยว ทิน-ฮู่ง เญย เอน เหธย โด หย่า จั๊ง.</verse2>
+</mienthai>
+
+<chord>
+    <verse1>C        C7     F        Dm C            Am               Dm  G C         C7     F        Dm C            G7                C</verse1>
+    <verse2>C        C7     F        Dm C            Am               Dm  G C         C7     F        Dm C            G7                C</verse2>
+</chord>
+
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>โปรดนำไปถึงกางเขน</thainame>
+<englishname>Lead me to Calvary</englishname>
+<mienthainame>เฒี้ยว อ่า, เยีย อ๋อย เม่ย โหฒว เยีย ฮู่ง</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1>พระคริสต์เป็นเจ้าชีวิตของข้า ทรงเป็นสง่าราศี อย่าให้ข้าลืมเรื่องมงกุฎหนาม โปรดนำไปถึงกางเขน</verse1>
+    <verse2>ให้เห็นอุโมงค์ของพระองค์เจ้า ที่พวกผู้หญิงโศกเศร้า ที่ทูตสวรรค์พิทักษ์รักษา เมื่อบรรจุในอุโมงค์</verse2>
+    <verse3>อยากเหมือนมาเรียชาวมักดาลา ที่นำเครื่องหอมบูชา ขอให้ข้าเห็นอุโมงค์ว่างเปล่า โปรดนำไปถึงกางเขน</verse3>
+    <verse4>ให้ข้าเต็มใจแบกไม้กางเขน ทุกวันจะแบกเดินตาม ให้ข้าร่วมทุกข์กับพระเยซู เพราะพระองค์แบกแทนข้า</verse4>
+    <chorus>อย่าให้ข้าลืมเก็ธเซมาเน อย่าให้ข้าลืมความทรมาน อย่าให้ข้าลืมความรักอ่อนหวาน โปรดนำไปถึงกางเขน</chorus>
+</thai>
+
+<english>
+    <verse1>King of my life I crown thee now -- Thine shall the glory be; Lest I forget thy thorn-crowned brow, Lead me to Calvary.</verse1>
+    <verse2>Show me the tomb where thou wast laid, Tenderly mourned and wept; Angels in robes of light arrayed Guarded thee whilst thou slept.</verse2>
+    <verse3>Let me like Mary, thru the gloom, Come with a gift to thee; Show to me now the empty tomb -- Lead me to Calvary.</verse3>
+    <verse4>May I be willing, Lord, to bear Daily my cross for thee; Even thy cup of grief to share -- Thou hast borne all for me.</verse4>
+    <chorus>Lest I forget Gethsemane, Lest I forget thine agony, Lest I forget thy love for me, Lead me to Calvary.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เฒี้ยว อ่า, เยีย อ๋อย เม่ย โหฒว เยีย ฮู่ง, ฮนอยๆ กุ๊น เยีย เญย สี่. เยีย กั้น เญย แหม่ง เยีย ฝูง ปุน เม่ย, เธง ม่าย ฌัง-หล่าง เญย เฒี้ยว.</verse1>
+    <verse2>เยีย อ๋อย ธ้วด มี่ง หมั่ง เม่ย เญย โฒ้ว, เม่ย ปัว ฮนอย เปว๋ย เญย ต๋อง. เฑ่า ไห่ เญย ก๋อ-โย์ว ปย๊บ ลิ์ว เม่ย, ฟิน- เมี่ยน ฯฒฯ ต้าย หมั่ง โฒ้ว.</verse2>
+    <verse3>ฮนั้ง น้าย เต้า มา^ลี^ยา ต้อ นิ่น จ๋าย ไห่ เญย เดีย เถา โฒ้ว. เยีย อ๋อย ฝูง เยีย เญย เฮญี้ยว ปุน เม่ย, เหยียด ลิ์ว ปุน เม่ย โหฒว เฒี้ยว.</verse3>
+    <verse4>ปุน เยีย ฮนอยๆ ดาม เหฒียบ หฑั่ง จ๋า กัน เจี๊ยน เม่ย, เยีย เญย เฒี้ยว. ปุน เยีย เญย โล์-เมี่ยน เฒียนๆ ไต่, ขูง เฒี้ยว เยียม เฮญี้ยว เฒี่ยง เจี๊ยน.</verse4>
+    <chorus>ปุน เยีย ไม้ ไฮ่ หละคุ เม่ย ไต่, เยียม เหฒียบ หฑั่ง จ๋า เสี่ยว โค้ว หน่าน ไห่. หฒั่นๆ จั๋ง หฒุ เฒี้ยว, เม่ย ฮนั้ง น้าย เสี่ยว หม่าน เมี่ยน เญย ฒุ์ย ไต่.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>D                      G       D              Bm   Em   A D                     G          D                A        D</verse1>
+    <verse2>D                      G       D              Bm   Em   A D                     G          D                A        D</verse2>
+    <verse3>D                      G       D              Bm   Em   A D                     G          D                A        D</verse3>
+    <verse4>D                      G       D              Bm   Em   A D                     G          D                A        D</verse4>
+    <chorus>Em       A         D      Em        A         D G         F#m    Em        D                 A        D</chorus>
+</chord>
+
+</song>

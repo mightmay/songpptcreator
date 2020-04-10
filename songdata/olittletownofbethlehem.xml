@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>มีบ้านหมู่น้อยชื่อเบธเลเฮ็ม</thainame>
+	<englishname>O Little Town of Bethlehem </englishname>
+	<mienthainame>เบด^เล^เฮม เซ ดา^วิด เญย มู้ง</mienthainame>
+
+	<order>verse1,verse2,verse3,verse4,verse5</order>
+
+<thai>
+    <verse1>มีบ้านหมู่น้อยชื่อเบธเลเฮ็ม ความมืดปกคลุมหุ้มไว้ ชาวบ้านหลับไหลเงียบเชียบทั่วไป ดาราเต็มนภาลัย แต่ในเวลากลางคืนนั้น ปรากฎดวงรัศมี พระคริสต์เกิดมาตามพระสัญญา ทำนายสำเร็จคราวนี้</verse1>
+    <verse2>พระคริสต์กุมารบังเกิดคืนนั้น มาเรียผู้เป็นมารดา มีชาวสวรรค์ชุมนุมพร้อมกัน เหล่าบริวารชาวฟ้า ยามนั้นมีเสียงประกาศว่า ผู้ช่วยทรงเกิดวันนี้ สรร-เสริญพระเจ้ากษัตริย์ของเรา ให้โลกปิติยินดี</verse2>
+    <verse3>ราตรีสงบราตรีสงัด พระคริสต์เสด็จลงมา เป็นพรสวรรค์ประเสริฐล้ำเลิศ ประทานแก่ชาวโลกา ไม่มีผู้ใดได้ยินเสียง เมื่อพระองค์เสด็จมา คนผิดคนบาปที่สารภาพ พระองค์จะทรงเมตตา</verse3>
+    <verse4>...</verse4>
+    <verse5>พระองค์บังเกิดบ้านเบธเลเฮ็ม วันนี้ขอน้อมวันทา ขอพระองค์โปรดอวยพรยกโทษ สถิตในใจเหล่าข้า ขอโปรดชำระความผิดบาป ให้บริสุทธิ์ผ่องใส ในวันบังเกิดเป็นพรล้ำเลิศ ปิติยินดีทั่วไป</verse5>
+</thai>
+
+<english>
+    <verse1>O little town of Bethlehem, How still we see thee lie!. Above thy deep and dreamless sleep. The silent stars go by;. Yet in thy dark streets shineth. The everlasting Light;. The hopes and fears of all the years. Are met in thee tonight.</verse1>
+    <verse2>For Christ is born of Mary, And gathered all above, While mortals sleep, the angels keep. Their watch of wondering love. O morning stars, together. Proclaim the holy birth!. And praises sing to God the King, And peace to men on earth.</verse2>
+    <verse3>How silently, how silently, The wondrous gift is given!. So God imparts to human hearts. The blessings of his heaven. No ear may hear his coming, But in this world of sin, Where meek souls will receive him, still. The dear Christ enters in.</verse3>
+    <verse4>Where children pure and happy. Pray to the blessed Child, Where misery cries out to thee, Son of the mother mild;. Where charity stands watching. And faith holds wide the door, The dark night wakes, the glory breaks, And Christmas comes once more.</verse4>
+    <verse5>O holy Child of Bethlehem!. Descend to us, we pray;. Cast out our sin and enter in, Be born in us today. We hear the Christmas angels. The great glad tidings tell;. O come to us, abide with us, Our Lord Emmanuel!</verse5>
+</english>
+    
+<mienthai>
+    <verse1>เบด^เล^เฮม เซ ดา^วิด เญย มู้ง, อี้ ม์วน เซ้กๆ เหฑียะ ฑี์ง. หฒวัง เมี่ยน เปว๋ย เหฑ่ง, มป่า หฒวัง เหฮลย เฒี่ยง ม์วน เญย หฒิว เจี๊ยน ฌัง. จาย- ห่อง หฮมวัง ไห่, มป่า ม่าย เหยียด ลิ์ว เญย ฌัง หฒิว เจี๊ยน. เมี่ยน ฒั้ว อ๋อย ฒิบ วั้ว เต้า เหฌียว เฒี้ยว, อี้ ม์วน ธ้วด เสย เป๋น เมี่ยน.</verse1>
+    <verse2>มา^ลี^ยา ฮิด ม์า-ล่าน กะญั์ว เยียม วั้ว กี^ตู่ ธ้วด เสย. อี้ หฒั่น ฟิน-เมี่ยน เยียม ลู่ง กู้ หงว่าย อะเฮน้ย เญย หมั่ง เย^ซู. ด๊าม- ลู่ง หฒวัง เหฮลย ฒู้ง เธง นิ่น, เธง หม่าน ฮู่ง เตี๋ย เญย ฮู่ง. เอย โล์-แหง่ง หว่า, หม่าน หมวด เญย เฒี้ยว ธ้วด เสย เยียม ดา^วิด มู้ง.</verse2>
+    <verse3>ทิน-ฮู่ง เญย เอน, หฒอย จ๋าย เญย เอน, เฒี้ยว กั้น เหฌี่ย ต้าย เหฌียว เมี่ยน. เหว่ย ปุน เมี่ยน ตุ๊ เหฌียว แหม่ง เญย ฟุ ไฮ่ เปียะ ทิน-ต้อง ปวัด เฒี้ยว. เถา อี้ หฒั่น เอน ฟี่ ฮนั้ง เญย เยียม น้าย นอม เอ๊าะ ป้าม เกน. หาย เต้า เสียน นิ่น, เหฌียว เฒี้ยว ปุน หลี่ง ไฮ่ ตุ๊ เหธา นิ่น ต้ง เยียม.</verse3>
+    <verse4>...</verse4>
+    <verse5>เบด^เล^เฮม มู้ง เญย สีง กู้งว์า อี้ หฒั่น เหฌี่ย ต้าย เยียม น้าย. ปุน เมี่ยน หฒะเก้ง เหญี่ยม กวั่ง เหฑ่ง ฒุ์ย, อี้ ฮนอย ตุ๊ หฒอย ยู์ง ต้าย. เยีย บัว หมวัง ไฮ์ ฟิน-เมี่ยน ป๋าว เหฌียว เฒี้ยว ธ้วด เสย เญย ฑูง. โท้ เฒี้ยว ต้าย เยียม น้าย,อี^มา^นู^เอน, ทิน-ฮู่ง เหธา บัว เยียม.</verse5>
+</mienthai>
+
+<chord>
+    <verse1>D              G D        A        D B                  Em D      A        D Bm                  F# G           F# D         D7       G D      A      D</verse1>
+    <verse2>D              G D        A        D B                  Em D      A        D Bm                  F# G           F# D         D7       G D      A      D</verse2>
+    <verse3>D              G D        A        D B                  Em D      A        D Bm                  F# G           F# D         D7       G D      A      D</verse3>
+    <verse4>D              G D        A        D B                  Em D      A        D Bm                  F# G           F# D         D7       G D      A      D</verse4>
+    <verse5>D              G D        A        D B                  Em D      A        D Bm                  F# G           F# D         D7       G D      A      D</verse5>
+</chord>
+
+
+</song>

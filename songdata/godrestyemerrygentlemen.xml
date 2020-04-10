@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>none</thainame>
+	<englishname>God Rest Ye Merry Gentlemen</englishname>
+	<mienthainame>ทิน-ฮู่ง ปุน บัว ม่าย ลั่ม เขา ต๋อง</mienthainame>
+	<order>verse1,verse2,verse3,verse4,verse5,verse6,verse7</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <verse6></verse6>
+	<verse7></verse7>
+</thai>
+
+<english>
+    <verse1>God rest ye merry, gentlemen, Let nothing you dismay, For Jesus Christ our Saviour Was born upon this day, To save us all from Satan's power When we were gone astray: O tidings of comfort and joy, comfort and joy, O tidings of comfort and joy.</verse1>
+    <verse2>In Bethlehem, in Jury This blessed babe was born And laid within a manger Upon this blessed morn The which his mother Mary Nothing did take in scorn. O tidings of comfort and joy, For Jesus Christ, our Saviour was born on Christmas day.</verse2>
+    <verse3>From God our heavenly Father A blessed angel came, And unto certain shepherds Brought tidings of the same, How that in Bethlehem was born The Son of God by name: O tidings of comfort and joy, comfort and joy, O tidings of comfort and joy.</verse3>
+    <verse4>Fear not, then said the Angel, Let nothing you affright, This day is born a Saviour Of virtue, power and might; So frequently to vanquish all The friends of Satan quite. O tidings of comfort and joy, For Jesus Christ, our Saviour was born on Christmas day.</verse4>
+    <verse5>The shepherds at those tidings Rejoiced much in mind, And left their flocks a-feeding In tempest, storm and wind, And went to Bethlehem straightway, This blessed Babe to find: O tidings of comfort and joy, comfort and joy, O tidings of comfort and joy.</verse5>
+	<verse6>But when to Bethlehem they came, Whereat this Infant lay, They found Him in a manger, Where oxen feed on hay; His mother Mary kneeling, Unto the Lord did pray: O tidings of comfort and joy, comfort and joy, O tidings of comfort and joy.</verse6>
+    <verse7>Now to the Lord sing praises, All you within this place, And with true love and brotherhood Each other now embrace; This holy tide of Christmas All other doth deface: O tidings of comfort and joy, comfort and joy, O tidings of comfort and joy.</verse7>
+
+</english>
+    
+<mienthai>
+    <verse1>ทิน-ฮู่ง ปุน บัว ม่าย ลั่ม เขา ต๋อง, โหฒว หาย หญู่ง หธ่อ บู้ง เบี๊ยน. จั๋ง เจี๊ยน ทิน-ฮู่ง เถง บัว ฮี่ง เหยียด ฒู้ง ฒุ์ย-หนิบ เญย ชะ. ปุน เย^ซู เหฌี่ย ต้าย เถง บัว ต้ง บัว เล่ย โก ทิน-ฮู่ง. โอ๊ เฒี้ยว เญย คู้ เฝียน ปวั๊ง ลู่ง เดี๊ย, ปวั๊ง เหฑ่ง ลู่ง เดี๊ย. โอ๊ เฒี้ยว เญย คู้ เฝียน ปวั๊ง ลู่ง เดี๊ย.</verse1>
+    <verse2>...</verse2>
+    <verse3>กู้ หงว่าย ทิน-ต้อง ม่าย ฟิน-เมี่ยน ป๋าว ฑูง เธง เฒี้ยว เย^ซู. หมั่ง ยู่ง เญย เมี่ยน ไฮ์ ฟิน-เมี่ยน ป๋าว ฑูง เยียม กู้ หงว่าย ลู่ง. ทิน-ฮู่ง เญย ตอน เก้ง โฮล ไห่ ธ้วด เสย ต้าย เป๋น ป้าม เมี่ยน. โอ๊ เฒี้ยว เญย คู้ เฝียน ปวั๊ง ลู่ง เดี๊ย, ปวั๊ง เหฑ่ง ลู่ง เดี๊ย. โอ๊ เฒี้ยว เญย คู้ เฝียน ปวั๊ง ลู่ง เดี๊ย.</verse3>
+    <verse4>ฟิน- เมี่ยน ก๊อง บั๋ว ไม้ ตู๋ง กั้ม เหฑีย, ก๊าน ต้าย หมวัง คู้ เฝียน โอ่. อี้ ฮนอย เหฌียว เฒี้ยว เยียม มา^ลี^ยา ธีง-เหฑ่ง เซียะ ธ้วด เสย. นิ่น เซ ต้ง เหฌียว เฒี้ยว, หาย เต้า ปู๋ง เฮญี้ยว ฯฒฯ ฮี่ง ซา^ตาน. โอ๊ เฒี้ยว เญย คู้ เฝียน ปวั๊ง ลู่ง เดี๊ย, ปวั๊ง เหฑ่ง ลู่ง เดี๊ย. โอ๊ เฒี้ยว เญย คู้ เฝียน ปวั๊ง ลู่ง เดี๊ย.</verse4>
+    <verse5>...</verse5>
+    <verse6>...</verse6>
+	<verse7>...</verse7>
+</mienthai>
+
+<chord>
+    <verse1>Em                             C              B7 Em                           C              B7 Am               G                  Em            D G          B7          Em               D G          B7          Em</verse1>
+    <verse2>Em                             C              B7 Em                           C              B7 Am               G                  Em            D G          B7          Em               D G          B7          Em</verse2>
+    <verse3>Em                             C              B7 Em                           C              B7 Am               G                  Em            D G          B7          Em               D G          B7          Em</verse3>
+    <verse4>Em                             C              B7 Em                           C              B7 Am               G                  Em            D G          B7          Em               D G          B7          Em</verse4>
+    <verse5>Em                             C              B7 Em                           C              B7 Am               G                  Em            D G          B7          Em               D G          B7          Em</verse5>
+    <verse6>Em                             C              B7 Em                           C              B7 Am               G                  Em            D G          B7          Em               D G          B7          Em</verse6>
+	<verse7>Em                             C              B7 Em                           C              B7 Am               G                  Em            D G          B7          Em               D G          B7          Em</verse7>
+</chord>
+
+
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>เชิญเถิดเจ้าข้า อิมมานูเอล</thainame>
+	<englishname>O Come, O Come, Emmanuel </englishname>
+	<mienthainame>โอ ต้าย, โอ ต้าย อี^มา^นู^เอน</mienthainame>
+	<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus,verse6,chorus,verse7,chorus</order>
+
+<thai>
+    <verse1>เชิญเถิดเจ้าข้าอิมมานูเอล องค์พระผู้ไถ่ชนอิสราเอล ผู้แสนเปล่าเปลี่ยวคร่ำครวญอุรา เชิญเร่งเข้ามาพบองค์บุตรา</verse1>
+    <verse2>อัญเชิญพระองค์ผู้ทรงปัญญา ประทับในหมู่ชนชาวประชา ดำเนินทางธรรมโปรดนำครรไล ตลอดชีวีทำตามพระทัย</verse2>
+    <verse3>...</verse3>
+    <verse4>...</verse4>
+    <verse5>องค์ทรงฤทธิ์เดชผู้ถือกุญแจ เชิญไขประตูสวรรค์เบื้องบน ให้ชนมุ่งไปปลอดภัยนานา ปวงอันตรายอย่าได้ราวี</verse5>
+	<verse6>เชิญเถิดเจ้าข้าองค์แสงอรุณ เชิญมาชูจิตใจในพระคุณ พระองค์ขจัดเงามืดมลาย ความมรณาอย่ากล้ำกราย</verse6>
+    <verse7>ผู้เป็นความหวังของชาวโลกา ชนทุกพันธุ์เผ่าร่วมใจกายา ปรองดองเผื่อแผ่และสามัคคี ดั่งในวิมานสำราญฤดี</verse7>
+    <chorus>ยินดี ปรีดา อิมมานูเอล ทรงเป็นผู้ไถ่ชนอิสราเอล</chorus>
+</thai>
+
+<english>
+    <verse1>O come, O come, Immanuel, and ransom captive Israel that mourns in lonely exile here until the Son of God appear.</verse1>
+    <verse2>O come, O Wisdom from on high, who ordered all things mightily; to us the path of knowledge show and teach us in its ways to go. </verse2>
+    <verse3>O come, O come, great Lord of might, who to your tribes on Sinai's height in ancient times did give the law in cloud and majesty and awe. </verse3>
+    <verse4>O come, O Branch of Jesse's stem, unto your own and rescue them! From depths of hell your people save, and give them victory o'er the grave. </verse4>
+    <verse5>O come, O Key of David, come and open wide our heavenly home. Make safe for us the heavenward road and bar the way to death's abode. </verse5>
+	<verse6>O come, O Bright and Morning Star, and bring us comfort from afar! Dispel the shadows of the night and turn our darkness into light.</verse6>
+    <verse7>O come, O King of nations, bind in one the hearts of all mankind. Bid all our sad divisions cease and be yourself our King of Peace.</verse7>
+    <chorus>Rejoice, Rejoice, Emmanuel. Shall come to thee, O Israel!</chorus>
+</english>
+    
+<mienthai>
+    <verse1>โอ ต้าย, โอ ต้าย อี^มา^นู^เอน. หฒัวะ วั้ว เต๋ย อิ^สะ^ลา^เอน เมี่ยน หฑวน. โค้ว ไห่ หย่า เฑ่า ไห่ เญย เยียม วั้ว. ฯฒฯ เลี่ยม เฒ่ย ปวัด ทิน-ฮู่ง เญย ตอน.</verse1>
+    <verse2>โอ ต้าย, เม่ย เญย ธง-เม่ง เยียม ฮลัง. แอ๋ง เห่ว หม่าน หมวด เยียม โก เหธา ฟัด. ปุน บัว ไฮ่ ฮิ้ว ตุ๊ นิ่น หฒะเอ๋ย. แอ๋ง ปุน บัว กัน นิ่น เญย เจ๊า มี่ง.</verse2>
+    <verse3>โอ ต้าย, เฒี้ยว เย^ซู เญย หัด ม์า, ไม้ ปุน ซา^ตาน โหฒว ฮู่ง กุ๊น บัว. ไม้ อ๋อย ปุน เยีย บัว ด๊อด เต่ย หญัวะ. เสีย ธ้วด แหม่ง ปุน บัว ฮี่ง ซา^ตาน.</verse3>
+    <verse4>...</verse4>
+    <verse5>...</verse5>
+	<verse6>...</verse6>
+    <verse7>โอ ต้าย, ต้อ บัว หฒวัง เมี่ยน เญย เฮญี้ยว. กั๊บ เหยียด ฒู้ง เมี่ยน เป๋น ต้ง ติ่ว เฮญี้ยว. กวั่ง เบ๊าะ จ๋า, เหมว่ย เจี๊ยะ เหธา ฟิ้ว-แฑง. ปุน น้าย ป้าม เกน ปวั๊ง เหฑ่ง แป้ง ออน.</verse7>
+    <chorus>เฌียน-โย่ว. เฌียน-โย่ว. อี^มา^นู^เอน. นิ่น ต้าย เถง บัว, โอ, อิ^สะ^ลา^เอน.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>Am              G Em  Am C             Dm G   Am Dm               C Em    G Am             Dm  G   Am</verse1>
+    <verse2>Am              G Em  Am C             Dm G   Am Dm               C Em    G Am             Dm  G   Am</verse2>
+    <verse3>Am              G Em  Am C             Dm G   Am Dm               C Em    G Am             Dm  G   Am</verse3>
+    <verse4>Am              G Em  Am C             Dm G   Am Dm               C Em    G Am             Dm  G   Am</verse4>
+    <verse5>Am              G Em  Am C             Dm G   Am Dm               C Em    G Am             Dm  G   Am</verse5>
+	<verse6>Am              G Em  Am C             Dm G   Am Dm               C Em    G Am             Dm  G   Am</verse6>
+    <verse7>Am              G Em  Am C             Dm G   Am Dm               C Em    G Am             Dm  G   Am</verse7>
+    <chorus>G         Am      Dm G    Am C           Dm  Em   Am</chorus>
+</chord>
+
+</song>

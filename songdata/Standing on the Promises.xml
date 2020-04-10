@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>ข้ายึดมั่นในคำสัญญา</thainame>
+<englishname>Standing on the Promises</englishname>
+<mienthainame>เยีย เขา ว้วน เฒี้ยว กี^ตู่ แล์ง เจี๋ย เญย แหง่ง หว่า</mienthainame>
+<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
+
+<thai>
+    <verse1>ข้ายึดมั่นในคำสัญญา ขององค์พระคริสต์ ข้าจะสรรเสริญ พระองค์เสมอเป็นนิจ สรรเสริญยกย่อง พระองค์ผู้ทรงมีฤทธิ์ ยืดมั่นในคำสัญญาของพระเจ้า</verse1>
+    <verse2>ข้ายึดมั่นในคำสัญญาที่ไม่เหลวไหล แม้ความทุกข์อยู่รอบตัว ข้าก็ไม่ตกใจ มีชีวิตโดยพระเยชูผู้ให้มีชัย ยืดมั่นในคำสัญญาของพระเจ้า</verse2>
+    <verse3>...</verse3>
+    <verse4>ข้ายึดมั่นในคำสัญญาจะล้มไม่ได้ ฟังเสียงพระวิญญาณ เรียกข้าทุกเวลาไป ข้าเต็มใจจะมอบทุกสิ่ง กับพระผู้ไถ่ ยืดมั่นในคำสัญญาของพระเจ้า</verse4>
+    <chorus>เชื่อถือ เชื่อถือ เชื่อมั่นในคำสัญญา ของพระเจ้าผู้ช่วยเรา เชื่อถือ เชื่อถือ เราเชื่อมั่นในคำสัญญาของพระเจ้า</chorus>
+</thai>
+
+<english>
+    <verse1>Standing on the promises of Christ my king, through eternal ages let his praises ring; glory in the highest, I will shout and sing, standing on the promises of God.</verse1>
+    <verse2>Standing on the promises that cannot fail, when the howling storms of doubt and fear assail, by the living Word of God I shall prevail, standing on the promises of God.</verse2>
+    <verse3>Standing on the promises of Christ the Lord, bound to him eternally by love’s strong cord, overcoming daily with the Spirit’s sword, standing on the promises of God.</verse3>
+    <verse4>Standing on the promises I cannot fall, listening every moment to the Spirit’s call, resting in my Savior as my all in all, standing on the promises of God.</verse4>
+    <chorus>Standing, standing, standing on the promises of God my Savior; standing, standing, I’m standing on the promises of God.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เยีย เขา ว้วน เฒี้ยว กี^ตู่ แล์ง เจี๋ย เญย แหง่ง หว่า. เยีย อ๋อย หฒุ เหยียด ลิ์ว เธง เยีย เญย เฒี้ยว เย^ซู. เธง เฒี้ยว, ท่าย นิ่น, ต้ง ม่าย หัด ม์า วั้ว เต้า เฒี้ยว. เขา ว้วน ทิน-ฮู่ง แล์ง เจี๋ย เญย แหง่ง หว่า.</verse1>
+    <verse2>เยีย อ๋อย หฒุ เขา ว้วน ไม้ ไฮ่ เหฑ่ง เญย แหง่ง หว่า. ไม้ กุ๊น หน่าน ฒี่ง เว่ย เจี๊ยน เยีย ฒู้ง ไม้ กั้ม เหฒีย. เยีย เขา เฒี้ยว เย^ซู, นิ่น ฯฒฯ ปุน เยีย ฮี่ง เจี๋ย. เขา ว้วน ทิน-ฮู่ง แล์ง เจี๋ย เญย แหง่ง หว่า.</verse2>
+    <verse3>...</verse3>
+    <verse4>เยีย เขา ว้วน เฒี้ยว แล์ง เญย แหง่ง หว่า ฒู้ง ไม้ ด๊อด. หฒั่นๆ หมวัง เจี๊ยน สีง ลี่ง เญย ซีง-เฉีย เห่ว เยีย. เยีย ปวั๊ง เฮญี้ยว ฝ่ง ห่อ เหยียด ฒู้ง ปุน เยีย เญย เฒี้ยว. เขา ว้วน ทิน-ฮู่ง แล์ง เจี๋ย เญย แหง่ง หว่า.</verse4>
+    <chorus>เสียน หลง, เสียน หลง, อ๋อย หฒุ เสียน หลง ทิน-ฮู่ง แล์ง เญย แหง่ง หว่า ตุ๊ เหฌียว. เสียน หลง, เสียน หลง, เสียน ว้วน ทิน-ฮู่ง เหธา เยีย แล์ง เจี๋ย เญย หว่า.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>G C G Em  C D    G</verse1>
+    <verse2>G C G Em  C D    G</verse2>
+    <verse3>G C G Em  C D    G</verse3>
+    <verse4>G C G Em  C D    G</verse4>
+    <chorus> G C    D    G   C  G  C   G     D7    G</chorus>
+</chord>
+
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+
+<thainame>โอ้เพื่อนรักเรามาพบกัน</thainame>
+<englishname>none</englishname>
+<mienthainame>ฮนั้ม เญย ต่อย, บัว แอ๋ง ตุ๊ ปวัด</mienthainame>
+<order>verse1</order>
+
+<thai>
+    <verse1>โอเพื่อนรัก เรามาพบกัน    สวัสดี สวัสดี สบายดีหรือ สบายดี    เรายินดี ที่ได้พบกัน (x2)</verse1>
+</thai>
+
+<english>
+    <verse1></verse1>
+</english>
+    
+<mienthai>
+    <verse1>ฮนั้ม เญย ต่อย, บัว แอ๋ง ตุ๊ ปวัด. หลง เญย ซ่าะ? หลง เญย โอ่. แป้ง ออน ไฟ? แป้ง ออน เญย. อะเฮน้ย ไห่ บัว แอ๋ง ตุ๊ ปวั้ง. อะเฮน้ย ไห่ บัว แอ๋ง ตุ๊ ปวั้ง.</verse1>
+</mienthai>
+
+<chord>
+    <verse1>C C G   G    G   G   C    C C  F G   C C  G   G   C C  G    G    C</verse1>
+</chord>
+
+</song>

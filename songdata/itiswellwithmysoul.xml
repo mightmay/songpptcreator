@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>จิตใจข้าสุขสบาย</thainame>
+	<englishname>It Is Well With My Soul </englishname>
+	<mienthainame>เยีย เญย เฮญี้ยว เก้ง แป้ง ออน</mienthainame>
+
+	<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus,verse6,chorus</order>
+
+<thai>
+    <verse1>เมื่อความสุขสำราญ ผ่านมาทางใจของข้า เมื่อทุกข์ทรมานพัดผ่านมา ไม่ว่าเกิดเหตุใด พระองค์สอนให้พูดว่า “วิญญาณข้าสุขสบาย สุขหรรษา”</verse1>
+    <verse2>ซาตานอาจราวี ความทุกข์อาจประดังมา แต่ข้าชื่นใจเพราะคำสัญญา พระคริสต์ทรงรู้แล้ว ข้าเป็นผู้สู้ไม่ไหว จึงประทานพระโลหิตเพื่อไถ่ข้า</verse2>
+    <verse3>บาปหนาซึ่งข้ามี ได้ตรึงไว้ที่กางเขน พระองค์ทรงรับไว้ด้วยเอ็นดู เดี๋ยวนี้บาปยกแล้ว ไม่คำนึงถึงอีกเลย ใจของข้าโมทนาพระเยซู</verse3>
+    <verse4>...</verse4>
+    <verse5>...</verse5>
+	<verse6>ขอโปรดเร่งเวลา เพื่อตาข้าจะได้เห็น เมื่อท้องฟ้าเปิดออกหมอกหายไป พระคริสต์เสด็จมา พร้อมด้วยเสียงแตรสนั่น ในคราวนั้นวิญญาณข้าสุขสบาย</verse6>
+    <chorus>สุขสบาย จิตใจข้า สุขสบาย สุขสบาย จิตใจข้า</chorus>
+</thai>
+
+<english>
+    <verse1>When peace, like a river, attendeth my way, When sorrows like sea billows roll; Whatever my lot, Thou hast taught me to say, It is well, it is well with my soul.</verse1>
+    <verse2>Though Satan should buffet, though trials should come, Let this blest assurance control, That Christ hath regarded my helpless estate, And hath shed His own blood for my soul.</verse2>
+    <verse3>My sin—oh, the bliss of this glorious thought!— My sin, not in part but the whole, Is nailed to the cross, and I bear it no more, Praise the Lord, praise the Lord, O my soul!</verse3>
+    <verse4>For me, be it Christ, be it Christ hence to live: If Jordan above me shall roll, No pang shall be mine, for in death as in life Thou wilt whisper Thy peace to my soul.</verse4>
+    <verse5>But, Lord, ’tis for Thee, for Thy coming we wait, The sky, not the grave, is our goal; Oh, trump of the angel! Oh, voice of the Lord! Blessed hope, blessed rest of my soul!</verse5>
+	<verse6>And Lord, haste the day when the faith shall be sight, The clouds be rolled back as a scroll; The trump shall resound, and the Lord shall descend, Even so, it is well with my soul.</verse6>
+    <chorus>It is well with my soul, It is well, it is well with my soul.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>แป้ง ออน ฮนั้ง ติ้ว โด๊ะ เหลี่ยว เจี๊ยน ต้าย เยีย เญย เจ๊า. ปวั้ง โค้ว หน่าน ฮนั้ง ค้อย เญย ววม-หล่าง. เยีย ปวั้ง หาย หญู่ง สี่, เฒี้ยว หฌาว เยีย ฮนั้ง น้าย ก๊อง, "เยีย เญย เฮญี้ยว, เก้ง แป้ง ออน, เก้ง แป้ง ออน."</verse1>
+    <verse2>ไม้ กุ๊น ซา^ตาน ห่อย, ม่าย สี่ ธั้ม ต้าย เญ้า เยีย, ปุน ว้วน ไห่ เญย เอน ต้าย กุ๊น เยีย, เฒี้ยว กี^ตู่ ฮิ้ว ตุ๊ เยีย โหฒว ไม้ ธ้วด หาย หญู่ง, เฒี้ยว เหลี่ยว นิ่น กั้น เญย ฑย้าม เหว่ย เหฌียว เยีย.</verse2>
+    <verse3>เยีย เญย เหยียด ฒู้ง ฒุ์ย ตุ๊ ตีง เยียม เหฒียบ หฑั่ง จ๋า. เฒี้ยว หฑาว เยีย เญย ฒุ์ย เหว่ย ค้อ-เลี่ยน. อี้ หฒั่น ฒุ์ย ดุ๊ด เหฑ่ง, เยีย ไม้ หฒุ เหญีย ฒุ์ย อ๊ะ. เธง เหฌียว เฒี้ยว, เยีย ลี่ง ว่วน เธง เหฌียว เฒี้ยว.</verse3>
+    <verse4>...</verse4>
+    <verse5>...</verse5>
+	<verse6>โท้ ปุน เม่ย โหฒว เฒี้ยว กุ๊น เมี่ยน เญย ฮนอย เถา เซี้ยบ, บ๋วน ฯฒฯ หฌุ่น ต๋าว ฆาง ฮนั้ง โซว-หฌุ่น, หฑัด ฯฒฯ แอ๋ง บุย หฑุ่น. เฒี้ยว กี^ตู่ แอ๋ง เหฌี่ย ต้าย, เถา วั้ว หฒั่น เยีย ลี่ง ว่วน, เก้ง เฌียน-โย่ว.</verse6>
+    <chorus>เยีย เญย เฮญี้ยว, (เยีย เญย เฮญี้ยว) เก้ง แป้ง ออน, (เก้ง แป้ง ออน) เยีย เญย เฮญี้ยว เหว่ย เหฌียว เฒี้ยว เก้ง แป้ง ออน.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>C            F             Dm  G       C       Am      D7            G C             F             D7          G             C/E    F       G            C</verse1>
+    <verse2>C            F             Dm  G       C       Am      D7            G C             F             D7          G             C/E    F       G            C</verse2>
+    <verse3>C            F             Dm  G       C       Am      D7            G C             F             D7          G             C/E    F       G            C</verse3>
+    <verse4>C            F             Dm  G       C       Am      D7            G C             F             D7          G             C/E    F       G            C</verse4>
+    <verse5>C            F             Dm  G       C       Am      D7            G C             F             D7          G             C/E    F       G            C</verse5>
+	<verse6>C            F             Dm  G       C       Am      D7            G C             F             D7          G             C/E    F       G            C</verse6>
+    <chorus>C  G   G    C      F          G        C        (Dm7)</chorus>
+</chord>
+
+	
+</song>

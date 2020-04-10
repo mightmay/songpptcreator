@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<song>
+   <!--Generated from Trang Church Youtube-->
+   <thainame>ข้าฯร้องเพลงเรื่องพระผู้ไถ่บาป</thainame>
+   <englishname>My Redeemer</englishname>
+   <mienthai>none</mienthai>
+   <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+   <thai>
+      <verse1>ข้าฯร้องเพลงเรื่องพระผู้ไถ่บาป  ข้าฯสรรเสริญความรักประหลาด พระเยซูยอมตายบนกางเขน เพื่อให้ข้าฯพ้นบาปหมดเวร</verse1>
+      <verse2>ข้าฯจะสรรเสริญพระผู้ไถ่บาป  ข้าฯจะกล่าวถึงพระฤทธา พระเยซูยกโทษให้มีชัย เหนือความบาปและเหนือความตาย</verse2>
+      <verse3>ข้าฯร้องเพลงเรื่องพระผู้ไถ่บาป และความรักสวรรค์ชื่นใจ จากความตายทรงให้ชีวิตใหม่ ทรงอยู่ด้วยตลอดนิรันดร์</verse3>
+      <chorus>ข้าฯร้องเพลง เรื่องพระมหาไถ่ พระโลหิต ทรงไถ่ข้าฯไว้   บนกางเขน ประทับตรายกโทษ ข้าฯจึงรอดพ้นโทษเป็นไทย</chorus>
+   </thai>
+   <english>
+      <verse1>I will sing of my Redeemer, And His wondrous love to me;  On the cruel cross He suffered,  From the curse to set me free.</verse1>
+      <verse2>I will praise my dear Redeemer, His triumphant power I'll tell, How the victory He giveth  Over sin, and death, and hell.</verse2>
+      <verse3>I will sing of my Redeemer,  And His heav'nly love to me;  He from death to life hath brought me,  Son of God with Him to be.</verse3>
+      <chorus>Sing, oh sing, of my Redeemer  With His blood, He purchased me. On the cross, He sealed my pardon,  Paid the debt, and made me free.</chorus>
+   </english>
+   <mienthai>
+      <verse1/>
+      <verse2/>
+      <verse3/>
+      <chorus/>
+   </mienthai>
+   <chord>
+      <verse1/>
+      <verse2/>
+      <verse3/>
+      <chorus/>
+   </chord>
+</song>
