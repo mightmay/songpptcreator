@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<song>
+	<thainame>ข้ายกเสียงขึ้น</thainame>
+	<englishname>I Lift My Voice</englishname>
+	<mienthainame>เยีย โท้ ธ้วด เฉีย. เธง เฒี้ยว ทินฮู่ง เญย บั๋ว</mienthainame>
+	<order>verse1,chorus</order>
+	<thai>
+		<verse1>ข้ายกเสียงขึ้นด้วยเพลงสรรเสริญพระนาม ข้ายกมือขึ้นด้วยใจต้องการเดินตาม เติมข้าให้เต็มด้วยความรักของพระองค์ เพื่อให้ปากข้าร้องเพลงสรรเสริญมั่นคง</verse1>
+		<chorus>*ร้องว่าฮาเลลูยา ฮาเลลูยา สรรเสริญยกย่องพระนาม ร้องว่าฮาเลลู ยาฮาเลลูยา สรรเสริญยกย่องพระนาม</chorus>
+	</thai>
+	
+<english>
+    <verse1>I lift my voice, In song unto Thy name. I lift my hands, you're every day the same. Come fill me now, Lord Jesus, let it be Let now my lips. Speak new found praise to Thee.</verse1>
+    <chorus>Singing hallelujah, hallelujah. Praise and worship to thy name. Singing hallelujah, hallelujah. Praise and worship to thy name.</chorus>
+</english>
+    
+<mienthai>
+    <verse1>เยีย โท้ ธ้วด เฉีย. เธง เฒี้ยว ทินฮู่ง เญย บั๋ว. เยีย อ๋อย ซูง ปั๋ว เหว่ย เยีย อ๋อย กัน เจี๊ยน เฒี้ยว. ปุน เยีย เญย เฮญี้ยว ม่าย ฮนั้ม เหฌียว เฒี้ยว ดุ เต้า. ปุน เยีย เต๋า เก๋า. เหธา ปุน เยีย ป๋าว ฑูง เธง.</verse1>
+    <chorus>ป๋าว ก๊อง ฮา.... เล-ลู-ยา. ฮา.... เล-ลู-ยา. เธง เหฌียว เฒี้ยว ทินฮู่ง เญย บั๋ว ป๋าว ก๊อง ฮา.... เล-ลู-ยา. ฮา.... เล-ลู-ยา. เธง เหฌียว เฒี้ยว ทินฮู่ง เญย บั๋ว</chorus>
+</mienthai>
+
+<chord>
+    <verse1>F  Bb C7   F F    Bb C7          F</verse1>
+    <chorus>F  F7   Bb F      C7 F      F7     Bb F    C7         F</chorus>
+</chord>
+	
+</song>

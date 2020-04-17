@@ -1,9 +1,8 @@
-<?xml version="1.0" ?>
-<song>
+<?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
    <thainame>แสงสว่างส่องในใจ</thainame>
    <englishname>sunshine in my soul</englishname>
-   <mienthai>none</mienthai>
+   <mienthainame>none</mienthainame>
    <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
    <thai>
       <verse1>แสงสว่างส่องในใจข้าฯวันนี้ แสงกระจ่างสว่างสุกดี แสงกล้ายิ่งกว่าแสงสุริยา คือแสงของพระเยซู</verse1>

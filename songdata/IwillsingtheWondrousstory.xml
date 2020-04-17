@@ -1,9 +1,8 @@
-<?xml version="1.0" ?>
-<song>
+<?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
    <thainame>ข้าจะร้องเพลงน่าชื่นใจ</thainame>
    <englishname>I will sing the Wondrous story</englishname>
-   <mienthai>none</mienthai>
+   <mienthainame>none</mienthainame>
    <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
    <thai>
       <verse1>ข้าจะร้องเพลงเรื่องน่าอัศจรรย์ คือพระคริสต์วายชนม์เพื่อข้า พระองค์ทรงทอดทิ้งเมืองฟ้ามา สู่กางเขนจนมรณา</verse1>

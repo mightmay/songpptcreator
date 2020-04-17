@@ -1,9 +1,8 @@
-<?xml version="1.0" ?>
-<song>
+<?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
    <thainame>ข้าขอพึ่งพระองค์เจ้า</thainame>
    <englishname>I Need Thee Every Hour</englishname>
-   <mienthai>none</mienthai>
+   <mienthainame>none</mienthainame>
    <order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
    <thai>
       <verse1>ข้าขอพึ่งพระองค์เจ้า ทุกโมงทุกยาม ไม่มีผู้ใดจะปาน ที่ข้าควรตาม</verse1>

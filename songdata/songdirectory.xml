@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
 
+	<song name="ข้ายกเสียงขึ้น">ข้ายกเสียงขึ้น.xml</song>
+	<song name="ข้ายกเสียงขึ้นด้วยเพลงสรรเสริญพระนาม">ข้ายกเสียงขึ้น.xml</song>
+	<song name="เยียโท้ธ้วดเฉียเธงเฒี้ยวทินฮู่งเญยบั๋ว">ข้ายกเสียงขึ้น.xml</song>
+	<song name="เยียโท้ธ้วดเฉีย">ข้ายกเสียงขึ้น.xml</song>
+	<song name="iliftmyvoice">ข้ายกเสียงขึ้น.xml</song>
+	<song name="iliftmyvoiceinsonguntothyname">ข้ายกเสียงขึ้น.xml</song>
+
+
 	<song name="leadmetocalvary">Lead me to Calvary.xml</song>
 	<song name="kingofmylifeicrowntheenow">Lead me to Calvary.xml</song>
 	<song name="พระคริสต์เป็นเจ้าชีวิตของข้าทรงเป็นสง่าราศี">Lead me to Calvary.xml</song>
@@ -3730,7 +3738,6 @@
 	<song name="ฉันต้องการสรรเสริญพระองค์">ThaiWorshipCom/ฉันต้องการสรรเสริญพระองค์.xml</song>
 	<song name="ฉันรู้แล้ว ฉันรู้ดี">ThaiWorshipCom/ฉันรู้แล้ว ฉันรู้ดี.xml</song>
 	<song name="ฉันเงยหน้ามองที่ภูผา">ThaiWorshipCom/ฉันเงยหน้ามองที่ภูผา.xml</song>
-	<song name="ข้ายกเสียงขึ้น">ThaiWorshipCom/ข้ายกเสียงขึ้น.xml</song>
 	<song name="ฉันรักคุณด้วยความรักของพระเจ้า">ThaiWorshipCom/ฉันรักคุณด้วยความรักของพระเจ้า.xml</song>
 	
 	

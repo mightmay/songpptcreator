@@ -1,9 +1,8 @@
-<?xml version="1.0" ?>
-<song>
+<?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
    <thainame>ข้าเป็นทหารแห่งไม้กางเขน</thainame>
    <englishname>Am I a Soldier of the Cross</englishname>
-   <mienthai>none</mienthai>
+   <mienthainame>none</mienthainame>
    <order>verse1,verse2,verse3,verse4</order>
    <thai>
       <verse1>ข้าเป็นทหารแห่งไม้กางเขน เดินตามพระเยซูเจ้า  ไม่ควรกลัวที่จะเป็นพยาน หรืออายเมื่อออกพระนาม</verse1>
