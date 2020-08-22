@@ -1,8 +1,13 @@
 <?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
+         <!--Edited-->
+
+   
    <thainame>พระเยซูคืนชีพวันนี้</thainame>
    <englishname>Christ the Lord is Risen Today</englishname>
-   <mienthainame>none</mienthainame>
+   <mienthainame>อี้ ฮนอย เฒี้ยว เย^ซู นั่ง ต้าย</mienthainame>
+   <miennewromanname>Ih Hnoi Ziouv Yesu Nangh Daaih</miennewromanname>
+
    <order>verse1,verse2,verse3,verse4</order>
    <thai>
       <verse1>พระเยซูคืนชีพวันนี้ อาเลลูยา เป็นวันชัยอันสวัสดี อาเลลูยา ทรงยอมให้ศัตรูตรึงไว้ อาเลลูยา ไถ่เราให้เข้ามาพึ่งได้ อาเลลูยา</verse1>
@@ -16,16 +21,26 @@
       <verse3>But the pains that He endured, Alleluia! Our salvation have procured, Alleluia! Now above the sky He's King, Alleluia! Where the angels ever sing. Alleluia!</verse3>
       <verse4>Christ, the Lord, is risen today, Alleluia! Sons of men and angels say, Alleluia! Raise your joys and triumphs high, Alleluia! Sing, ye heavens, and earth, reply, Alleluia!</verse4>
    </english>
-   <mienthai>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-   </mienthai>
-   <chord>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-   </chord>
+
+	<mienthai>
+		<verse1>อี้ ฮนอย เฒี้ยว เย^ซู นั่ง ต้าย, อา^เล^ลู^ยา. เมี่ยน เหธา ทิน-ไธ ล่ม ฑ่อย ก๊อง, อา^เล^ลู^ยา. ม่าย เฌียน-โย่ว, ม่าย ออน-เหลาะ ธั้ม, อา^เล^ลู^ยา. ลู่ง เหธา เดา ล่ม ฑ่อย ป๋าว ฑูง, อา^เล^ลู^ยา.</verse1>
+		<verse2>ม่าย ฌัง-หล่าง เญย เฒี้ยว เฒี่ยง เจี๊ยน, อา^เล^ลู^ยา. นิ่น เฒาะ ไต่ เญย หลิ่ม ธุด ดุ๊ด, อา^เล^ลู^ยา. นิ่น ไต่ เหว่ย เถง บัว ตุ๊ เหฌียว, อา^เล^ลู^ยา. โฒ้ว เญย แก้ง กวน ไม้ เจี๊ยน, อา^เล^ลู^ยา.</verse2>
+		<verse3>นิ่น โหฒว เหฒียง ฮนั้ม เมี่ยน เญย กง, อา^เล^ลู^ยา. เบ๊าะ ลิ์ว จ๋า, ฮี่ง เจี๋ย วิน-วั้ง, อา^เล^ลู^ยา. เย^ซู คอย ทิน-ต้อง เญย แก้ง, อา^เล^ลู^ยา. ไต่ เญย ชะ ไม้ ไฮ่ กุ๊น นิ่น, อา^เล^ลู^ยา.</verse3>
+		<verse4>เยีย บัว เขา เย^ซู เฒี่ยง เจี๊ยน, อา^เล^ลู^ยา. เยีย อ๋อย กัน เจี๊ยน เฒี้ยว เย^ซู, อา^เล^ลู^ยา. เฒี้ยว ออน เฮญี้ยว เถา เยีย เจี๋ย เสย, อา^เล^ลู^ยา. ฆะฮ้า นั่ง ต้าย ฝาว ทิน-ต้อง, อา^เล^ลู^ยา.</verse4>
+	</mienthai>
+	
+	<miennewroman>
+    <verse1>Ih hnoi Ziouv Yesu nangh daaih, Aa^le^lu^yaa!  Mienh caux tin-cai lomh nzoih gorngv, Aa^le^lu^yaa! Maaih njien-youh, maaih orn-lorqc camv, Aa^le^lu^yaa! Lungh caux ndau-beih juangc nzung baaux, Aa^le^lu^yaa!</verse1>
+    <verse2>Maaih njang-laangc nyei Ziouv ziangh jienv, Aa^le^lu^yaa! Ninh zorqv daic nyei limc cutv ndutv.  Aa^le^lu^yaa! Ninh daic weic tengx mbuo duqv njoux.  Aa^le^lu^yaa! Zouv maiv haih biopv maiv jienv Ninh.  Aa^le^lu^yaa!</verse2>
+    <verse3>Ninh zoux ziangx hnamv mienh nyei gong.  Aa^le^lu^yaa!  Mborqv liuz jaax, hingh jiex win-wangv.  Aa^le^lu^yaa! Yesu koi tin-dorngh nyei gaengh.  Aa^le^lu^yaa! Daic nyei qaqv maiv haih gunv Ninh.  Aa^le^lu^yaa!         </verse3>
+    <verse4>Yie mbuo kaux Yesu ziangh jienv.  Aa^le^lu^yaa!  Yie oix gan jienv Ziouv Yesu.  Aa^le^lu^yaa!  Ziouv orn hnyouv taux yie jiex seix.  Aa^le^lu^yaa!  Nqa'haav nangh daaih faaux tin-dorngh.  Aa^le^lu^yaa!</verse4>
+</miennewroman>
+
+	<chord>
+		<verse1>G                      C     G    G/B  C      D7   G C       G/B       Am    D   G/B  C      D7   G D                       G           D  G      A7   D D           G           C      D    G  C      D7   G</verse1>
+		<verse2>G                      C     G    G/B  C      D7   G C       G/B       Am    D   G/B  C      D7   G D                       G           D  G      A7   D D           G           C      D    G  C      D7   G</verse2>
+		<verse3>G                      C     G    G/B  C      D7   G C       G/B       Am    D   G/B  C      D7   G D                       G           D  G      A7   D D           G           C      D    G  C      D7   G</verse3>
+		<verse4>G                      C     G    G/B  C      D7   G C       G/B       Am    D   G/B  C      D7   G D                       G           D  G      A7   D D           G           C      D    G  C      D7   G</verse4>
+	</chord>
+
 </song>

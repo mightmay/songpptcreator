@@ -1,31 +1,36 @@
 <?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
+      <!--Edited-->
    <thainame>พระผู้เล้าโลมลงมา</thainame>
    <englishname>The Comforter Has Come</englishname>
-   <mienthainame>none</mienthainame>
+   <mienthainame>ฒุ่น ย่าง เหฌียว เอน เญย เล์ย</mienthainame>
    <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
    <thai>
       <verse1>แพร่ข่าวแห่งความรอดไป ไม่ว่ามีคนที่ไหน ทุกแห่งที่มีดวงใจ  วิบากห้อมล้อมเขาไว้   จงให้คริสเตียนทั้งหลาย  ประกาศด้วยความชื่นใจ พระผู้เล้าโลมลงมา</verse1>
       <verse2>ดูเถิดกษัตริย์ยิ่งใหญ่  มีฤทธิ์รักษาให้หาย วิญญาณที่ถูกขังไว้ ทรงปล่อยให้เขาเป็นไท   ทุกแดนที่ในคุกใหญ่ เสียงเพลงชนะก้องไป พระผู้เล้าโลมลงมา</verse2>
       <verse3>ความรักพระเจ้ายิ่งใหญ่ ลิ้นข้าฯหมดสามารถไซร้ ประกาศข่าวนี้อย่างไร  เป็นคุณซ้อนคุณมากมาย   แก่ข้าฯผู้มีบาปหนา  ส่องแสงตามพระฉายา พระผู้เล้าโลมลงมา</verse3>
-      <chorus>พระผู้เล้าโลมลงมา             พระวิญญาณเสด็จมา            สัญญาของพระบิดา   ให้หญิงชายประกาศนา พระวิญญาณทรงนำพา พระผู้เล้าโลมลงมา</chorus>
+      <chorus>พระผู้เล้าโลมลงมา    พระวิญญาณเสด็จมา     สัญญาของพระบิดา   ให้หญิงชายประกาศนา พระวิญญาณทรงนำพา พระผู้เล้าโลมลงมา</chorus>
    </thai>
    <english>
       <verse1>O spread the tidings' round, wherever man is found, Wherever human hearts and human woes abound; Let every Christian tongue proclaim the joyful sound: The Comforter Has Come</verse1>
       <verse2>The long, long night is past, the morning breaks at last, And hushed the dreadful wail  and fury of the blast, As o'er the golden hills the day advances fast! The Comforter Has Come!</verse2>
       <verse3>O boundless love divine! How shall this tongue of mine To wond'ring mortals tell the matchless grace divine-  That I, a child of hell, should in His image shine! The Comforter has come!</verse3>
-      <chorus>The  Comforter  has  come,            The  Comforter  Has  Come!           The Holy Ghost from Heav'n,           the Father's promise giv'n; O spread the tidings 'round, wherever man is found The Comforter has come!</chorus>
+      <chorus>The  Comforter  has  come, The  Comforter  Has  Come! The Holy Ghost from Heav'n, the Father's promise giv'n; O spread the tidings 'round, wherever man is found The Comforter has come!</chorus>
    </english>
-   <mienthai>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <chorus/>
-   </mienthai>
-   <chord>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <chorus/>
-   </chord>
-</song>
+
+<mienthai>
+    <verse1>ฒุ่น ย่าง เหฌียว เอน เญย เล์ย, ไม้ กุ๊น เมี่ยน เยียม หาย เดา. ม่าย เฉีย เญย เมี่ยน เยียม หาย, ม่าย ธูง เว่ย เจี๊ยน นิ่น บัว. เหยียด ฒู้ง เญย กี^ตู่ เมี่ยน, จอม เฮญี้ยว มี่ง ฒุ่น คู้ เฝียน, ออน เฮญี้ยว เญย เฒี้ยว เหฌี่ย ต้าย.</verse1>
+    <verse2>หมวัง หลง น้าย เต้า ฮู่ง เตี๋ย, ม่าย หัด ม์า หฒ่อ แป่ง หลง. ลู่ง เดี๊ย เป๊ย ฮนั้ง ต้ม โล่, หฒุ ฒุ์ย กุ๊น เจี๊ยน เญย เมี่ยน. สีง ฑูง เญย เฉีย ฮี่ง เจี๋ย, ตุ๊ ปู๋ง ฆอย ม่าย เฌียน-โย่ว, ออน เฮญี้ยว เญย เฒี้ยว เหฌี่ย ต้าย.</verse2>
+    <verse3>ทิน-ฮู่ง ฮนั้ม ไห่ หฒวัง เมี่ยน, ปุน บัว เญย เฮญี้ยว ไฮ่ ฮิ้ว, ม่าย เฮญี้ยว ฒุ่น เฒี้ยว เญย เล์ย, เฒี้ยว เญย เอน เหฌียว ตุ๊ บัว, ปุน บัว ฒุ์ย-เมี่ยน ไฮ่ โหฒว, เหยียด นอม เย^ซู เญย ฌัง. ออน เฮญี้ยว เญย เฒี้ยว เหฌี่ย ต้าย.</verse3>
+    <chorus>ออน เฮญี้ยว เญย เฒี้ยว เหฌี่ย ต้าย. ออน เฮญี้ยว เญย เฒี้ยว เหฌี่ย ต้าย. เซ ต้ง สีง ลี่ง วั้ว เต้า, เอย เตีย แล์ง ปุน เญย หว่า. มจั่ง มเซียะ ฒุ่น โต์, สีง ลี่ง หย่า อ๋อย เยี์ยน เจ๊า, ออน เฮญี้ยว เญย เฒี้ยว เหฌี่ย ต้าย.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>A      D    A   F#m     E7  A      D   A  E7    A</verse1>
+    <verse2>A      D    A   F#m     E7  A      D   A  E7    A</verse2>
+    <verse3>A      D    A   F#m     E7  A      D   A  E7    A</verse3>
+    <chorus>A   D     A       F#m      E7 A        D       A          E7   A</chorus>
+</chord>
+
+   
+   </song>

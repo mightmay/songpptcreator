@@ -1,31 +1,42 @@
 <?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
+         <!--Edited-->
+
    <thainame>ขอเชิญไหว้กษัตริย์</thainame>
    <englishname>O Worship the King</englishname>
-   <mienthainame>none</mienthainame>
-   <order>verse1,verse2,verse3,verse4</order>
+   <mienthainame>เธง เยีย บัว เญย ฮู่ง, เยียม ฌัง-หล่าง เญย ต๋อง</mienthainame>
+   <order>verse1,verse2,verse3,verse4,verse5</order>
    <thai>
       <verse1>ขอเชิญไหว้กษัตริย์ ทรงรัศมีเมืองบน สรรเสริญปฏิบัติ ด้วยโสมนัสเหล่าชน พระเจ้าเป็นโล่ของข้าฯ เป็นป้อมแต่โบราณ สถิตป้องกันรักษา ข้าฯจึงพ้นภัยมาร</verse1>
       <verse2>สรรเสริญฤทธิ์พระองค์ ถวายผู้เมตตา ทรงรังสีมั่นคง ส่องไปทั่วเวหา เมื่อทรงพิโรธชนใด ดังหมอกใหญ่มืดมัว โดยเดชาอันเกรียงไกร ข้าฯจึงได้เกรงกลัว</verse2>
       <verse3>โลกนี้ของพระองค์ เต็มด้วยอัศจรรย์ สร้างตามพระประสงค์ โดยฤทธิ์ใหญ่อนันต์  ทรงตั้งแผ่นดินโลกไว้ ให้ เหล่าชนอาศัย  และสร้างน้ำสมุทรให้ ล้อมรอบโลกกว้างใหญ่</verse3>
       <verse4>ข้าฯเกิดมาในโลก เต็มด้วยบาปหยาบหลง  แต่พระเจ้าปรานี เมื่อวางใจ พระองค์ ทรงเมตตาค้ำชูข้าฯ แน่นหนาจนสุดปลาย พระผู้สร้าง ผู้รักษา ผู้ช่วย และสหาย.</verse4>
+	  <verse5>...</verse5>
    </thai>
    <english>
-      <verse1>O  Worship  the  king , All  glorious  a  bove And  gratefully   sing  His pow'r  and  his  love. Our  shield  and  defender  the ancient  of   days . Pavilioned  in  splendor ,  and  girded  with  praise.</verse1>
-      <verse2>O  tell  of his might ,  O sing  of  his  grace, Whose  robe  is the  light,  whose  can-o-py  space, His  chariots  of  wrath  the deep  thunder  clouds  form. And  dark  is  His path  on  the wings  of  the  storm.</verse2>
+      <verse1>O  Worship  the  king, All  glorious  above And  gratefully   sing  His pow'r  and  his  love. Our  shield  and  defender  the ancient  of   days. Pavilioned  in  splendor,  and  girded  with  praise.</verse1>
+      <verse2>O  tell  of his might,  O sing  of  his  grace, Whose  robe  is the  light,  whose  can-o-py  space, His  chariots  of  wrath  the deep  thunder  clouds  form. And  dark  is  His path  on  the wings  of  the  storm.</verse2>
       <verse3>The earth with its store of wonders untold, Almighty, Thy power hath founded of old; Established it fast by a changeless decree, And round it hath cast, like a mantle, the sea.</verse3>
       <verse4>Frail  children  of dust, and feeble  as frail, In  Thee  do we trust, nor  find Thee  to fail. Thy  mercies  how tender, how  firm to  the  end, Our  Marker, Defender, Redeemer  and  Friend.</verse4>
+	  <verse5>...</verse5>
    </english>
+
    <mienthai>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-   </mienthai>
-   <chord>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-   </chord>
-</song>
+    <verse1>เธง เยีย บัว เญย ฮู่ง, เยียม ฌัง-หล่าง เญย ต๋อง. ม่าย ชะ หย่า ฮนั้ม เมี่ยน. ทิน-ฮู่ง เซ ท้อง-ป้าย, เปว เจี๊ยน นิ่น เญย เมี่ยน. ม่าย ฌัง-หล่าง ปวั๊ง เหฑ่ง นิ่น, หล่ง เฮญี้ยว ป๋าว ฑูง เธง นิ่น, ล่ม ฑ่อย เธง ทิน-ฮู่ง.</verse1>
+    <verse2>ฒุ่น ย่าง นิ่น เญย ชะ, เหธา นิ่น เญย เอน เหธย, ทิน-ฮู่ง เยียม ทิน-ต้อง, ลู่ง ท้อง นิ่น เญย เหว่ย. ทิน-ฮู่ง โน์ว ฒุ์ย เซ ฮนั้ง บะอง บุย แฮะ เมี่ยน. เฮมียน เจี๊ยะ เซ ฮนั้ง บ๋วน-เจี๊ยะ, ปุน เมี่ยน กั้ม เหฑีย นิ่น.</verse2>
+    <verse3>โฮล เจี๋ย เญย เหฌียว เฒี้ยว, เหฒย หม่าน หมวด ธ้วด ต้าย. ป้าม เกน ม่าย ธั้ม-หญู่ง เผย ฝู่ ไห่ เญย เจ๊า. เอย เจี๊ยน เฒี้ยว เญย หฒะเอ๋ย, เดา- เป้ย เหลียบ ตุ๊ ว้วน. นิ่น ปุน ลู่ง เดี๊ย เญย ววม, เป๋น ค้อย เว่ย เจี๊ยน เดา.</verse3>
+    <verse4>หาย เต้า ไฮ่ ก๊อง เม่ง เฒี้ยว เหธย ปุน เญย เอน? เซ ฮนั้ง หฑยาว เหธา ฌัง, ปวั๊ง เหฑ่ง น้าย ป้าม เกน. เอน เหลี่ยว ธ้วด ฮนั้ง ติ้ว ด้าย, ตั๊บ เจี๊ยน เมี่ยน เญย เฮญี้ยว. เอน หย่า ฮนั้ง ลู่ง ตุ้ย บยู่ง, เหฌี่ย ต้าย ยู์ง แกง-หฒวัง.</verse4>
+    <verse5>เยีย บัว เยียม ป้าม เกน, เมา ไห่, ไม้ ม่าย ชะ, ขูง เขา เฒี้ยว กั้น ฮนั้ง. เฒี้ยว เหธย ปุน เญย เอน, หฒะเก้ง เหยียด ลิ์ว ไม้ ด๊อด, เหยียด ลิ์ว ไม้ ไฮ่ เหฑ่ง. เฒี้ยว โหฒว เยีย เญย ต้ม ก๋อ, เหฌียว เฒี้ยว, เยีย เญย ฮู่ง.</verse5>
+</mienthai>
+
+<chord>
+    <verse1>D Bm G A D Bm G A D A A/G A7/G A7 D Bm G A D</verse1>
+    <verse2>D Bm G A D Bm G A D A A/G A7/G A7 D Bm G A D</verse2>
+    <verse3>D Bm G A D Bm G A D A A/G A7/G A7 D Bm G A D</verse3>
+    <verse4>D Bm G A D Bm G A D A A/G A7/G A7 D Bm G A D</verse4>
+    <verse5>D Bm G A D Bm G A D A A/G A7/G A7 D Bm G A D</verse5>
+</chord>
+
+
+   
+   </song>

@@ -1,8 +1,10 @@
 <?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
+         <!--Edited-->
+
    <thainame>ไม่มีหว่างเขามืดเมื่อพระเยซูมา</thainame>
    <englishname>There’ll be no dark valley</englishname>
-   <mienthainame>none</mienthainame>
+   <mienthainame>เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย ต๋อง หฮมวัง.</mienthainame>
    <order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
    <thai>
       <verse1>ไม่มีหว่างเขามืดเมื่อพระเยซูมา ไม่มีหว่างเขามืดเมื่อพระเยซูมา แต่เป็นวันรุ่งเรืองเมื่อพระเยซูมา จะรวมเราไปสวรรค์</verse1>
@@ -20,20 +22,21 @@
       <verse5>There’ll be songs of greeting when Jesus comes, There’ll be songs of greeting when Jesus comes; And a joyful meeting when Jesus comes To gather His loved ones home.</verse5>
       <chorus>To gather His loved ones home, To gather His loved ones home; There’ll be no dark valley when Jesus comes To gather His loved ones home.</chorus>
    </english>
-   <mienthai>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-      <verse5/>
-      <chorus/>
-   </mienthai>
-   <chord>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-      <verse5/>
-      <chorus/>
-   </chord>
+<mienthai>
+    <verse1>เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย ต๋อง หฮมวัง. เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย ต๋อง หฮมวัง. เก้ง ฌัง-หล่าง เจี๋ย เญย ฮนอย, เฒี้ยว เย^ซู ต้าย. เยีย บัว ตุ๊ ฝาว ทิน-ต้อง.</verse1>
+    <verse2>เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย โยว-เฑ่า. เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย โยว-เฑ่า. หฒะเก้ง ออน-เหลาะ, เฌียน-โย่ว, เฒี้ยว เย^ซู ต้าย, เยีย บัว ตุ๊ ฝาว ทิน-ต้อง.</verse2>
+    <verse3>เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ หฒุ เหลาะ เหลว่ย. เย^ซู หฒอย ต้าย เฒี่ยง โห่. ไม้ หฒุ เหลาะ เหลว่ย. เย^ซู หฒอย เหฌี่ย ป้าม เกน ต้าย เหธย เอน ปุน, เยีย บัว ตุ๊ ฝาว ทิน-ต้อง.</verse3>
+    <verse4>เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย เหฒะ หน่าน. เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย เหฒะ หน่าน. เย^ซู อ๋อย หฒ่อ หลง เหฑ่ง เยีย บัว เญย แป่ง, เยีย บัว ตุ๊ ฝาว ทิน-ต้อง.</verse4>
+    <verse5>เยีย บัว ปวัด เฒี้ยว เย^ซู, ฯฒฯ ป๋าว ฑูง เธง. เยีย บัว ปวัด เฒี้ยว เย^ซู, ฯฒฯ ป๋าว ฑูง เธง. ทิน- ต้อง เหน่า หญิด เฌียน-โย่ว เหว่ย เฒี้ยว เญย เอน, เยีย บัว ตุ๊ ฝาว ทิน-ต้อง.</verse5>
+    <chorus>เยีย บัว ตุ๊ ฝาว ทิน-ต้อง, เยีย บัว ตุ๊ ฝาว ทิน-ต้อง. เย^ซู หฒอย ต้าย เฒี่ยง โห่, ไม้ ม่าย ต๋อง หฮมวัง, เยีย บัว ตุ๊ ฝาว ทิน-ต้อง.</chorus>
+</mienthai>
+
+<chord>
+    <verse1>D   D    G   D    D    D   A    A    D    D    G    G   D    A   D</verse1>
+    <verse2>D   D    G   D    D    D   A    A    D    D    G    G   D    A   D</verse2>
+    <verse3>D   D    G   D    D    D   A    A    D    D    G    G   D    A   D</verse3>
+    <verse4>D   D    G   D    D    D   A    A    D    D    G    G   D    A   D</verse4>
+    <verse5>D   D    G   D    D    D   A    A    D    D    G    G   D    A   D</verse5>
+    <chorus>D   D   D     A   D   D   D   G   G  D  A   D</chorus>
+</chord>
 </song>

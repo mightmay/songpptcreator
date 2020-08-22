@@ -1,12 +1,16 @@
 <?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
+         <!--Edited-->
+
    <thainame>ใจข้าฯเปรมปรีดิ์</thainame>
    <englishname>O, That Will Be Glory</englishname>
-   <mienthainame>none</mienthainame>
+   <mienthainame>บัว ป๋าว ฑูง ก๊อง ม่าย เต้า อ๋อย ต้าย โหฒว ฮู่ง</mienthainame>
+   <miennewromanname>none</miennewromanname>
+
    <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
    <thai>
       <verse1>เมื่อการยากลำบากแห่งโลกสิ้นสุดแล้ว ข้าฯพ้นกิเลสบาปไปอยู่ที่เมืองแก้ว อยู่ใกล้พระเยซูที่ข้าฯรักบูชา เป็นสุขสำราญยืนนานชั่วกัลปา</verse1>
-      <verse2>เพราะของประทานคือพระคุณใหญ่ยิ่งล้ำ ข้าฯจึงได้มีที่อยู่ในเมืองสวรรค์ เพื่อชมพระพักตร์ผู้ที่ข้าฯรักนักหนา เป็นสุขสำราญยืนนานชั่วกัลปา</verse2>
+      <verse2>เพราะของประทาน คือพระคุณใหญ่ยิ่งล้ำ ข้าฯจึงได้มีที่อยู่ในเมืองสวรรค์ เพื่อชมพระพักตร์ผู้ที่ข้าฯรักนักหนา เป็นสุขสำราญยืนนานชั่วกัลปา</verse2>
       <verse3>จะพบสหายซึ่งได้จากไปนานแล้ว ใจข้าฯผ่องแผ้วเมื่อได้อยู่ในเมืองแก้ว เมื่อเห็นพระพักตร์ผู้ซึ่งรัก ต้อนรับข้าฯ เป็นสุขสำราญยืนนานชั่วกัลปา</verse3>
       <chorus>ข้าฯแสนยินดี  ใจข้าฯเปรมปรีดิ์ ใจข้าฯเปรมปรีดิ์ ใจข้าฯเปรมปรีดิ์ เพราะโดยพระคุณได้ชมพระบารมี เป็นความสุขสำราญ สำราญยิ่งแก่ข้าฯ</chorus>
    </thai>
@@ -16,16 +20,34 @@
       <verse3>Friends will be there I have loved long ago; Joy like a river around me will flow; Yet just a smile from my Savior, I know, Will through the ages be glory for me.</verse3>
       <chorus>O that will be glory for me, Glory for me, glory for me, When by His grace I shall look on His face, That will be glory, be glory for me.</chorus>
    </english>
-   <mienthai>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <chorus/>
-   </mienthai>
-   <chord>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <chorus/>
-   </chord>
+
+<mienthai>
+    <verse1>บัว ป๋าว ฑูง ก๊อง ม่าย เต้า อ๋อย ต้าย โหฒว ฮู่ง. บัว เธง นิ่น, ทิน-ฮู่ง เญย ปะกี ยู่ง ตอน. เย^ซู เหฌี่ย ต้าย เหฌียว บัว, ปุน บัว เฒี่ยง เจี๊ยน. หม่าน ฝีง ตุ๊ ออน-เหลาะ เหว่ย เย^ซู โหฒว เฒี้ยว.</verse1>
+    <verse2>หฒวัง ฒุ์ย-เมี่ยน อ๋อย เยียม เย^ซู เญย ฌัง-หล่าง. นิ่น ฮนั้ม เมี่ยน, เถง ปุน หฑาน เญย เมี่ยน ฒุ้น ต้าย. เย^ซู โหฒว ฮู่ง หล่ง แป้ง ฟิม เหธา เฒียน เล์ย กุ๊น เจี๊ยน ป้าม เกน, เมี่ยน ฯฒฯ หอบ ฟิม เญย เยียม.</verse2>
+    <verse3>เมี่ยน เยียม แป้ง ออน เญย กั๊วะ หธีง ตุ๊ หลง ฮนั้ง. เต้าๆ ตุ๊ ปู๋ง ฆอย ม่าย ธง-เม่ง ปวั๊ง เฮญี้ยว. เย^ซู ฝาว เหว่ย เถง วิน-วั้ง อ๋อย ก๊อย เฮญี้ยว. เมี่ยน ต๊า เบ๊าะ จ๋า เญย หฑุ ด๊าว เป๋น หฑุ ลิ่ม.</verse3>
+    <verse4>เฒียนๆ ฮิ้ว ตุ๊ เมี่ยน เญย ว่วน ไฮ่ ตุ๊ เหฌียว, ไม้ ด๊อด เต่ย หญัวะ, บัว ฯฒฯ ไม้ หฒุ ฮลู่ง ฮล้วด. ไต่ ไฟ เสี่ยว โค้ว, หญู่งๆ ไม้ หฒุ กั้ม เหฑีย. เย^ซู โหฒว ฮู่ง, ฮนั้ม เมี่ยน ฯฒฯ เถง ฮี่ง เจี๋ย.</verse4>
+    <verse5>บัว โท้ เย^ซู เญย กั๊วะ ก๊าน ต้าย เซี้ยบ เต๋ย, ทิน-ฮู่ง ปุน ต้าย ฮนั้ง บะฮนอย เลี่ยม เฒ่ย ธ้วด. เหยียด ฒู้ง เหฒย ต้าย เญย กะน้าย ป๋าว ฑูง เธง. เย^ซู ต้าย โหฒว ฮู่ง, นิ่น ฮี่ง เจี๋ย ซา^ตาน.</verse5>
+    <chorus>ต้าย ฒุ้น ป๋าว ฑูง เธง บัว เญย ฮู่ง. เย^ซู โหฒว ฮู่ง, เย^ซู โหฒว ฮู่ง. กี^ตู่ เญย เมี่ยน ล่ม ฑ่อย ป๋าว น้าย ติ้ว ฑูง, เย^ซู ตุ๊ ฌัง-หล่าง หย่า โหฒว บัว เญย ฮู่ง.</chorus>
+</mienthai>
+<miennewroman>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</miennewroman>
+
+
+<chord>
+    <verse1>G  D  G   A   D   A    D</verse1>
+    <verse2>G  D  G   A   D   A    D</verse2>
+    <verse3>G  D  G   A   D   A    D</verse3>
+    <verse4>G  D  G   A   D   A    D</verse4>
+    <verse5>G  D  G   A   D   A    D</verse5>
+    <chorus>G   C   C     G   G    C    E7   Am   C    G   C  G  D   G</chorus>
+</chord>
+
+
+   
 </song>

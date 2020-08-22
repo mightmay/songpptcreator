@@ -204,8 +204,6 @@
 	<song name="thisismyfathersworld">โลกนี้พระเจ้าประทาน.xml</song>
 	<song name="thisismyfatherworld">โลกนี้พระเจ้าประทาน.xml</song>
 
-	<song name="ครั้นเรียกชื่อที่เมืองเกษมสุข">ครั้นเรียกชื่อที่เมืองเกษมสุข.xml</song>
-	<song name="ฟินเมี่ยนปย๊มทินฮู่งเญยหฑัดบุยไห่">ครั้นเรียกชื่อที่เมืองเกษมสุข.xml</song>
 
 	<song name="ยามราตรีศรีหรรษา">ยามราตรีศรีหรรษา.xml</song>
 	<song name="silentnight">ยามราตรีศรีหรรษา.xml</song>
@@ -466,7 +464,12 @@
 <song name="holyholyholy">holyholyholy.xml</song>
 <song name="สรรเสริญสรรเสริญสรรเสริญ">holyholyholy.xml</song>
 <song name="holyholyholylordgodalmighty">holyholyholy.xml</song>
-
+<song name="เพลงชีวิตคริสเตียนบทที่1">holyholyholy.xml</song>                        
+<song name="เพลงชีวิตคริสเตียน1">holyholyholy.xml</song>      
+<song name="ธีงเหฑ่งธีงเหฑ่งธีงเหฑ่ง">holyholyholy.xml</song>                        
+<song name="cingnzengccingnzengccingnzengc">holyholyholy.xml</song> 
+<song name="cingnzengccingnzengc">holyholyholy.xml</song> 
+   
 <song name="เราจะร้องสรรเสริญพระนามพระองค์">เราจะร้องสรรเสริญพระนามพระองค์.xml</song>
 <song name="isingpraisestoyourname">เราจะร้องสรรเสริญพระนามพระองค์.xml</song>
 <song name="isingpraisestoyournameolord">เราจะร้องสรรเสริญพระนามพระองค์.xml</song>
@@ -561,6 +564,11 @@
 <song name="thensingsmysoul">howgreatthouart.xml</song>
 <song name="เฒี้ยวเยซูอ่าเยียบู้งเจี๊ยนเฮญี้ยวฒั้วหมั่งเม่ย">howgreatthouart.xml</song>
 <song name="เฒี้ยวเก้งโฮลไห่">howgreatthouart.xml</song>
+<song name="เพลงชีวิตคริสเตียนบทที่13">howgreatthouart.xml</song>                        
+<song name="เพลงชีวิตคริสเตียน13">howgreatthouart.xml</song>                        
+<song name="ziouvgenghhlohaic">howgreatthouart.xml</song>                        
+<song name="howgreatthouart">howgreatthouart.xml</song>                        
+<song name="พระองค์เจ้าข้าข้าฯเฝ้ามองดูด้วยยำเกรง">howgreatthouart.xml</song>                        
 
 <song name="ชีวีเราอยู่ในพระองค์">mylifeisinyoulord.xml</song>
 <song name="ชีวิตเราอยู่ในพระองค์">mylifeisinyoulord.xml</song>
@@ -1133,13 +1141,7 @@
    
    
    
-   <song name="เพลงชีวิตคริสเตียนบทที่1">HolyHolyHoly.xml</song>                        
-   <song name="เพลงชีวิตคริสเตียน1">HolyHolyHoly.xml</song>      
-
-   <song name="สรรเสริญสรรเสริญสรรเสริญ">HolyHolyHoly.xml</song>
-   <song name="holyholyholy">HolyHolyHoly.xml</song>                        
-
-   <song name="holyholyholy">HolyHolyHoly.xml</song>                        
+                       
    <song name="เพลงชีวิตคริสเตียนบทที่2">ComeThouAlmightyKing.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน2">ComeThouAlmightyKing.xml</song>                        
    <song name="เชิญพระองค์กษัตริย์เกรียงไกร">ComeThouAlmightyKing.xml</song>                        
@@ -1151,7 +1153,12 @@
    <song name="ขอเชิญไหว้กษัตริย์">OWorshiptheKing.xml</song>                        
    <song name="oworshiptheking">OWorshiptheKing.xml</song>                        
    <song name="ขอเชิญไหว้กษัตริย์ทรงรัศมีเมืองบน">OWorshiptheKing.xml</song>                        
-   <song name="oworshipthekingallgloriousabove">OWorshiptheKing.xml</song>                        
+   <song name="oworshipthekingallgloriousabove">OWorshiptheKing.xml</song>
+   <song name="เธงเยียบัวเญยฮู่งเยียมฌังหล่างเญยต๋อง">OWorshiptheKing.xml</song>
+   <song name="เธงเยียบัวเญยฮู่ง">OWorshiptheKing.xml</song>
+
+
+   
    <song name="เพลงชีวิตคริสเตียนบทที่4">WhenMorningGildstheSkies.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน4">WhenMorningGildstheSkies.xml</song>                        
    <song name="ยามเมื่อแสงทองส่องฟ้า">WhenMorningGildstheSkies.xml</song>                        
@@ -1206,11 +1213,6 @@
    <song name="greatisthyfaithfulness">GreatIsThyFaithfulness.xml</song>                        
    <song name="พระองค์ผู้ทรงสัตย์ซื่อคือพระบิดาเจ้า">GreatIsThyFaithfulness.xml</song>                        
    <song name="greatisthyfaithfulnessogodmyfather">GreatIsThyFaithfulness.xml</song>                        
-   <song name="เพลงชีวิตคริสเตียนบทที่13">HowGreatThouArt.xml</song>                        
-   <song name="เพลงชีวิตคริสเตียน13">HowGreatThouArt.xml</song>                        
-   <song name="พระเจ้ายิ่งใหญ่">HowGreatThouArt.xml</song>                        
-   <song name="howgreatthouart">HowGreatThouArt.xml</song>                        
-   <song name="พระองค์เจ้าข้าข้าฯเฝ้ามองดูด้วยยำเกรง">HowGreatThouArt.xml</song>                        
    <song name="olordmygodwheniinawesomewonder">HowGreatThouArt.xml</song>                        
    <song name="เพลงชีวิตคริสเตียนบทที่14">FairestLordJesus.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน14">FairestLordJesus.xml</song>                        
@@ -1230,18 +1232,25 @@
    <song name="safelythroughanotherweek">SafelythroughAnotherWeek.xml</song>                        
    <song name="ทุกเช้าค่ำพระเจ้าปรานี">SafelythroughAnotherWeek.xml</song>                        
    <song name="safelythroughanotherweek">SafelythroughAnotherWeek.xml</song>                        
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่17">DayisDyingintheWest.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน17">DayisDyingintheWest.xml</song>                        
    <song name="จวนจะค่ำยามเย็น">DayisDyingintheWest.xml</song>                        
    <song name="dayisdyinginthewest">DayisDyingintheWest.xml</song>                        
    <song name="จวนจะค่ำยามเย็นใกล้มา">DayisDyingintheWest.xml</song>                        
    <song name="dayisdyinginthewest">DayisDyingintheWest.xml</song>                        
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่18">ComeThouFountofEveryBlessing.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน18">ComeThouFountofEveryBlessing.xml</song>                        
    <song name="ขอพระพรจากเบื้องบนลงมา">ComeThouFountofEveryBlessing.xml</song>                        
    <song name="comethoufountofeveryblessing">ComeThouFountofEveryBlessing.xml</song>                        
    <song name="ขอพระพรจากเบื้องบนลงมา">ComeThouFountofEveryBlessing.xml</song>                        
    <song name="comethoufountofeveryblessing">ComeThouFountofEveryBlessing.xml</song>                        
+   <song name="โท้เหธยลู่งหฒั่งเญยฟุเหฌี่ยต้าย">ComeThouFountofEveryBlessing.xml</song>                        
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่19">NearerMyGodtoThee.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน19">NearerMyGodtoThee.xml</song>                        
    <song name="เฝ้าชิดสนิทพระเจ้า">NearerMyGodtoThee.xml</song>                        
@@ -1314,10 +1323,14 @@
    <song name="spiritofgoddescenduponmyheart">SpiritofGodDescenduponMyHeart.xml</song>                        
    <song name="องค์พระวิญญาณเชิญเข้ามาในใจข้าฯ">SpiritofGodDescenduponMyHeart.xml</song>                        
    <song name="spiritofgoddescenduponmyheart">SpiritofGodDescenduponMyHeart.xml</song>                        
+   
    <song name="เพลงชีวิตคริสเตียนบทที่31">TheComforterHasCome.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน31">TheComforterHasCome.xml</song>                        
    <song name="พระผู้เล้าโลมลงมา">TheComforterHasCome.xml</song>                        
-   <song name="thecomforterhascome">TheComforterHasCome.xml</song>                        
+   <song name="thecomforterhascome">TheComforterHasCome.xml</song>
+   <song name="ฒุ่นย่างเหฌียวเอนเญยเล์ย">TheComforterHasCome.xml</song>                        
+
+   
    <song name="แพร่ข่าวแห่งความรอดไป">TheComforterHasCome.xml</song>                        
    <song name="ospreadthetidingsround">TheComforterHasCome.xml</song>                        
    <song name="เพลงชีวิตคริสเตียนบทที่32">OldTimePower.xml</song>                        
@@ -1390,8 +1403,11 @@
    <song name="เพลงชีวิตคริสเตียน43">WhileShepherdsWatchedTheirFlocks.xml</song>                        
    <song name="เมื่อพวกเลี้ยงแกะเฝ้าแกะกลางคืน">WhileShepherdsWatchedTheirFlocks.xml</song>                        
    <song name="whileshepherdswatchedtheirflocks">WhileShepherdsWatchedTheirFlocks.xml</song>                        
+   <song name="whileshepherdswatched">WhileShepherdsWatchedTheirFlocks.xml</song>                        
    <song name="เมื่อพวกเลี้ยงแกะเฝ้าแกะกลางคืน">WhileShepherdsWatchedTheirFlocks.xml</song>                        
-   <song name="whileshepherdswatchedtheirflocksbynight">WhileShepherdsWatchedTheirFlocks.xml</song>                        
+   <song name="whileshepherdswatchedtheirflocksbynight">WhileShepherdsWatchedTheirFlocks.xml</song>     
+
+   
    <song name="เพลงชีวิตคริสเตียนบทที่44">JoytotheWorld.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน44">JoytotheWorld.xml</song>                        
    <song name="ความสุขเปรมปรีดิ์มีแก่ชาวโลก">JoytotheWorld.xml</song>                        
@@ -1675,13 +1691,18 @@
    <song name="วานนี้และวันนี้และสืบไป">YesterdayTodayForever.xml</song>                        
    <song name="yesterdaytodayforever">YesterdayTodayForever.xml</song>                        
    <song name="ข่าวประเสริฐขององค์พระเยซูผู้ช่วยไถ่ให้รอด">YesterdayTodayForever.xml</song>                        
-   <song name="ohowsweetthegloriousmessagesimplefaithmayclaim">YesterdayTodayForever.xml</song>                        
+   <song name="ohowsweetthegloriousmessagesimplefaithmayclaim">YesterdayTodayForever.xml</song>    
+
+   
    <song name="เพลงชีวิตคริสเตียนบทที่95">WhenIsurveythewondrouscross.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน95">WhenIsurveythewondrouscross.xml</song>                        
    <song name="เมื่อข้าฯเพ่งดูกางเขนประหลาด">WhenIsurveythewondrouscross.xml</song>                        
    <song name="whenisurveythewondrouscross">WhenIsurveythewondrouscross.xml</song>                        
    <song name="เมื่อข้าเพ่งดูกางเขนประหลาด">WhenIsurveythewondrouscross.xml</song>                        
-   <song name="whenisurveythewondrouscross">WhenIsurveythewondrouscross.xml</song>                        
+   <song name="whenisurveythewondrouscross">WhenIsurveythewondrouscross.xml</song>        
+   <song name="หายหฒั่นเธาเฮมียนหมั่งเหฒียบหฑั่งจ๋า">WhenIsurveythewondrouscross.xml</song>        
+
+   
    <song name="เพลงชีวิตคริสเตียนบทที่96">SinceIhavebeenredeemed.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน96">SinceIhavebeenredeemed.xml</song>                        
    <song name="ตั้งแต่ข้าถูกไถ่ไว้">SinceIhavebeenredeemed.xml</song>                        
@@ -1747,18 +1768,36 @@
    <song name="beneaththecrossofjesus">BeneaththeCrossofJesus.xml</song>                        
    <song name="ภายใต้กางเขนพระเยซู">BeneaththeCrossofJesus.xml</song>                        
    <song name="beneaththecrossofjesus">BeneaththeCrossofJesus.xml</song>                        
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่107">ChristtheLordisRisenToday.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน107">ChristtheLordisRisenToday.xml</song>                        
    <song name="พระเยซูคืนชีพวันนี้">ChristtheLordisRisenToday.xml</song>                        
    <song name="christthelordisrisentoday">ChristtheLordisRisenToday.xml</song>                        
    <song name="พระเยซูคืนชีพวันนี้อาเลลูยา">ChristtheLordisRisenToday.xml</song>                        
    <song name="jesuschristisrisentodayalleluia">ChristtheLordisRisenToday.xml</song>                        
+   <song name="อี้ฮนอยเฒี้ยวเยซูนั่งต้าย">ChristtheLordisRisenToday.xml</song>                        
+   <song name="อี้ฮนอยเฒี้ยวเยซูนั่งต้ายอาเลลูยา">ChristtheLordisRisenToday.xml</song>                        
+   <song name="ihhnoiziouvyesunanghdaaih">ChristtheLordisRisenToday.xml</song>   <song name="61ihhnoiziouvyesunanghdaaih">ChristtheLordisRisenToday.xml</song>                        
+                        
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่108">HeLives.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน108">HeLives.xml</song>                        
    <song name="ผู้เป็น">HeLives.xml</song>                        
    <song name="helives">HeLives.xml</song>                        
    <song name="ข้าฯปฏิบัติพระผู้ช่วยด้วยทรงพระชนม์เป็นอยู่">HeLives.xml</song>                        
-   <song name="iservearisensaviorhesintheworldtoday">HeLives.xml</song>                        
+   <song name="iservearisensaviorhesintheworldtoday">HeLives.xml</song>
+   <song name="iservearisensaviorhesintheworldtoday">HeLives.xml</song>
+   <song name="เยียหฒั่งนั่งต้ายเญยเหฌียวเฒี้ยว">HeLives.xml</song>
+   <song name="yiezaangcpannaanghnyeinjouvziouv">HeLives.xml</song>
+   <song name="yiezaangcnanghdaaihnyeiziouvziouv">HeLives.xml</song>
+   <song name="62yiezaangcnanghdaaihnyeiziouvziouv">HeLives.xml</song>
+   <song name="62zianghjienv">HeLives.xml</song>
+   <song name="zianghjienv">HeLives.xml</song>
+
+
+   
    <song name="เพลงชีวิตคริสเตียนบทที่109">LowintheGraveHeLay.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน109">LowintheGraveHeLay.xml</song>                        
    <song name="พระเยซูทรงเป็นขึ้นแล้ว">LowintheGraveHeLay.xml</song>                        
@@ -2700,24 +2739,36 @@
    <song name="thewayofthecrossleadshome">TheWayoftheCrossLeadsHome.xml</song>   
    <song name="ข้าฯจะต้องกลับบ้านตามทางแห่งไม้กางเขน">TheWayoftheCrossLeadsHome.xml</song>   
    <song name="imustneedsgohomebythewayofthecross">TheWayoftheCrossLeadsHome.xml</song>   
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่277">OThatWillBeGlory.xml</song>   
    <song name="เพลงชีวิตคริสเตียน277">OThatWillBeGlory.xml</song>   
    <song name="ใจข้าฯเปรมปรีดิ์">OThatWillBeGlory.xml</song>   
    <song name="othatwillbeglory">OThatWillBeGlory.xml</song>   
    <song name="เมื่อการยากลำบากแห่งโลกสิ้นสุดแล้ว">OThatWillBeGlory.xml</song>   
    <song name="whenallmylaborsandtrialsareoer">OThatWillBeGlory.xml</song>   
+   <song name="บัวป๋าวฑูงก๊องม่ายเต้าอ๋อยต้ายโหฒวฮู่ง">OThatWillBeGlory.xml</song>   
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่278">WhereJesusIsTisHeaven.xml</song>   
    <song name="เพลงชีวิตคริสเตียน278">WhereJesusIsTisHeaven.xml</song>   
    <song name="พระองค์อยู่ด้วยโลกคล้ายสวรรค์">WhereJesusIsTisHeaven.xml</song>   
    <song name="wherejesusistisheaven">WhereJesusIsTisHeaven.xml</song>   
    <song name="musicjamesmblack">WhereJesusIsTisHeaven.xml</song>   
    <song name="เพลงชีวิตคริสเตียนบทที่278">WhereJesusIsTisHeaven.xml</song>   
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่279">Whentherolliscalledupyonder.xml</song>   
    <song name="เพลงชีวิตคริสเตียน279">Whentherolliscalledupyonder.xml</song>   
    <song name="ครั้นเรียกชื่อที่เมืองเกษมสุข">Whentherolliscalledupyonder.xml</song>   
    <song name="whentherolliscalledupyonder">Whentherolliscalledupyonder.xml</song>   
    <song name="ครั้นเมื่อเป่าแตรของพระเจ้าเวลาของโลกก็ถึงที่สุด">Whentherolliscalledupyonder.xml</song>   
-   <song name="whenthetrumpetofthelordshallsoundandtimeshallbenomoreandthemorningbreakseternalbrightandfairwhenthesavedofearthshallgatheroverontheothershoreandtherolliscalledupyonderillbethere">Whentherolliscalledupyonder.xml</song>   
+   <song name="whenthetrumpetofthelordshallsoundandtimeshallbenomore">Whentherolliscalledupyonder.xml</song>  
+	<song name="ฟินเมี่ยนปย๊มทินฮู่งเญยหฑัดบุยไห่">Whentherolliscalledupyonder.xml</song>
+
+
+
+   
    <song name="เพลงชีวิตคริสเตียนบทที่280">MyHomeSweetHome.xml</song>   
    <song name="เพลงชีวิตคริสเตียน280">MyHomeSweetHome.xml</song>   
    <song name="บ้านงดงาม">MyHomeSweetHome.xml</song>   
@@ -2741,13 +2792,19 @@
    <song name="มีสถานอันงดงามเลิศนักหนา">IntheSweetByandBy.xml</song>   
    <song name="inthesweetbyandby">IntheSweetByandBy.xml</song>   
    <song name="มีสถานอันงดงามเลิศนักหนา">IntheSweetByandBy.xml</song>   
-   <song name="theresalandthatisfairerthandayandbyfaithwecanseeitafarforthefatherwaitsoverthewaytoprepareusadwellingplacethere">IntheSweetByandBy.xml</song>   
+   <song name="theresalandthatisfairerthandayandbyfaithwecanseeitafarforthefatherwaitsoverthewaytoprepareusadwellingplacethere">IntheSweetByandBy.xml</song>  
+
+   
    <song name="เพลงชีวิตคริสเตียนบทที่284">Therellbenodarkvalley.xml</song>   
    <song name="เพลงชีวิตคริสเตียน284">Therellbenodarkvalley.xml</song>   
    <song name="ไม่มีหว่างเขามืดเมื่อพระเยซูมา">Therellbenodarkvalley.xml</song>   
    <song name="therellbenodarkvalley">Therellbenodarkvalley.xml</song>   
+   <song name="therewillbenodarkvalley">Therellbenodarkvalley.xml</song>   
    <song name="ไม่มีหว่างเขามืดเมื่อพระเยซูมา">Therellbenodarkvalley.xml</song>   
    <song name="therellbenodarkvalleywhenjesuscomes">Therellbenodarkvalley.xml</song>   
+   <song name="เยซูหฒอยต้ายเฒี่ยงโห่ไม้ม่ายต๋องหฮมวัง">Therellbenodarkvalley.xml</song>   
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่285">ThereIsaHappyLand.xml</song>   
    <song name="เพลงชีวิตคริสเตียน285">ThereIsaHappyLand.xml</song>   
    <song name="ที่เมืองสวรรค์เป็นสุข">ThereIsaHappyLand.xml</song>   

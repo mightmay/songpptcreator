@@ -4,7 +4,8 @@
 <thainame>พระเจ้ายิ่งใหญ่</thainame>
 <englishname>HOW GREAT THOU ART</englishname>
 <mienthainame>เฒี้ยว เก้ง โฮล ไห่</mienthainame>
-    
+<miennewromanname>Ziouv Gengh Hlo Haic</miennewromanname>
+
 <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
 
 <thai>
@@ -27,6 +28,14 @@
     <verse3>เฒี้ยว ต้าย เญย ฮนอย ม่าย หฑัด บุย ไห่ ปวั๊ง ลู่ง มี่ง. นิ่น ต้าย ต้อ เยีย หฑวน มี่ง เยียม วั้ว ทิน-ต้อง. เยีย อ๋อย เกว่ย เหฌี่ย เยียม นิ่น หฑะเฮมียน ไม้ เธง-โฮล, แอ๋ง เธง นิ่น ก๊อง, “เยีย เญย เฒี้ยว เก้ง โฮล ไห่.”</verse3>
     <chorus>เยีย หล่ง เฮญี้ยว เธง เฒี้ยว ต้ง ต้าย เหฌียว ฒุ์ย-เมี่ยน. เฒี้ยว เก้ง โฮล ไห่, เฒี้ยว เก้ง โฮล ไห่. เยีย หล่ง เฮญี้ยว เธง เฒี้ยว ต้ง ต้าย เหฌียว ฒุ์ย-เมี่ยน. เฒี้ยว เก้ง โฮล ไห่, เฒี้ยว เก้ง โฮล ไห่.</chorus>
 </mienthai>
+
+<miennewroman>
+    <verse1>Ziouv Yesu aac, yie mbungh jienv hnyouv zuov mangc Meih.  Weic zuqc Ziouv ganh Zeix lungh ndiev nyei maanc muotc.  Haaix zanc buatc hleix, haaix zanc duqv haiz mba’ong mbui, yiem gu’guaic lungh buatc Ziouv ceix nyei ga’naaiv.</verse1>
+    <verse2>Haaix zanc hnamv taux, Tin-Hungh Ninh gengh maiv korh fiqv. Ninh nyei ndoqc Dorn njiec daaih tengx mienh teix zuiz.   Zuqc siouc kouv naanc, ding wuov ziepc nzaangc jaax weic yie.  Yie dorh ziec Ziouv, weic Ziouv korh lienh yie mbuo.</verse2>
+    <verse3>Ziouv daaih nyei hnoi, maaih nzatc mbui haic buangv lungh mingh.  Ninh daaih dorh yie nzuonx mingh yiem wuov tin-dorngh.  Yie oix gueic njiec  yiem Ninh nza’hmien maiv ceng hlo. Aengx ceng Ninh gorngv yie nyei Ziouv gengh hlo haic.</verse3>
+    <chorus>Yie longc hnyouv ceng Ziouv dongh daaih njoux zuiz mienh. Ziouv gengh hlo haic, Ziouv gengh hlo haic.  Yie longc hnyouv ceng Ziouv dongh daaih njoux zuiz mienh, Ziouv gengh hlo haic, Ziouv gengh hlo haic.</chorus>
+</miennewroman>
+
 
 <chord>
     <verse1>A E7 A D A E7 A E7 A D A E A</verse1>

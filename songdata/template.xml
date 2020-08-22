@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+      <!--Edited-->
+
 <song>
 
 <thainame></thainame>
 <englishname></englishname>
 <mienthainame></mienthainame>
+<miennewromanname></miennewromanname>
 <order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
 
 <thai>
@@ -33,6 +36,15 @@
     <chorus></chorus>
 </mienthai>
 
+<miennewroman>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <verse5></verse5>
+    <chorus></chorus>
+</miennewroman>
+
 <chord>
     <verse1></verse1>
     <verse2></verse2>
@@ -41,5 +53,10 @@
     <verse5></verse5>
     <chorus></chorus>
 </chord>
+
+<thaiimage></thaiimage>
+<englishimage></englishimage>
+<mienthaiimage></mienthaiimage>
+<miennewromanimage></miennewromanimage>
 
 </song>

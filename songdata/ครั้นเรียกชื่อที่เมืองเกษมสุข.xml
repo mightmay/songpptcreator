@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <song>
 	<thainame>ครั้นเรียกชื่อที่เมืองเกษมสุข</thainame>
-	<englishname>none</englishname>
+	<englishname>When the roll is called up yonder</englishname>
 	<mienthainame>ฟิน- เมี่ยน ปย๊ม ทิน-ฮู่ง เญย หฑัด บุย ไห่</mienthainame>
 	<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
 	
@@ -12,12 +12,12 @@
 		<chorus>* ครั้นเรียกชื่อที่เมืองเกษมสุข ครั้นเรียกชื่อที่เมืองเกษมสุข ครั้นเรียกชื่อที่เมืองเกษมสุข ครั้นเรียกชื่อเบื้องบน ชื่อข้าก็อยู่ที่นั้น</chorus>
 	</thai>
 	
-<english>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <chorus></chorus>
-</english>
+   <english>
+      <verse1>When the trumpet of the Lord shall sound, and time shall be no more,And the morning breaks, eternal, bright and fair;When the saved of earth shall gather over on the other shore,And the roll is called up yonder, I’ll be there.</verse1>
+      <verse2>On that bright and cloudless morning when the dead in Christ shall rise,And the glory of His resurrection share;When His chosen ones shall gather to their home beyond the skies,And the roll is called up yonder, I’ll be there.</verse2>
+      <verse3>Let us labor for the Master from the dawn till setting sun,Let us talk of all His wondrous love and care;Then when all of life is over, and our work on earth is done,And the roll is called up yonder, I’ll be there.</verse3>
+      <chorus>When the roll, is called up yon-der,When the roll, is called up yon-der,When the roll, is called up yon-der,When the roll is called up yonder I’ll be there.</chorus>
+   </english>
     
 <mienthai>
     <verse1>ฟิน- เมี่ยน ปย๊ม ทิน-ฮู่ง เญย หฑัด บุย ไห่, ปุน ธีง เย^ซู แอ๋ง ต้าย. เยีย หมวัง ไฮ์ ฟิน-เมี่ยน เฉีย โฮล เญย เห่ว เจี๊ยน เยีย. บัว ตุ๊ ปวัด เฒี้ยว เย^ซู กั้น เหฌี่ย เถา ด๊าม-ลู่ง ต้าย ฒิบ จิว-ปาง. วั้ว หฑุ่น ฮนอย เยีย อ๋อย เซี้ยบๆ เญย ฝาว ลู่ง มี่ง.</verse1>

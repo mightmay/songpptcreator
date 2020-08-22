@@ -3,7 +3,8 @@
 
 <thainame>สรรเสริญ สรรเสริญ สรรเสริญ</thainame>
 <englishname>Holy, Holy, Holy</englishname>
-<mienthainame>none</mienthainame>
+<mienthainame>ธีง- เหฑ่ง, ธีง-เหฑ่ง, ธีง-เหฑ่ง</mienthainame>
+<miennewromanname>Cing nzengc, cing nzengc, cing nzengc</miennewromanname>
 <order>verse1,verse2,verse3,verse4</order>
 
 <thai>
@@ -21,21 +22,25 @@
 </english>
     
 <mienthai>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <verse1>ธีง- เหฑ่ง, ธีง-เหฑ่ง, ธีง-เหฑ่ง, ล่ม ฑ่อย ต้าย เธง ทิน-ฮู่ง. ลู่ง ดอม เฑี้ยว ป๋าว ฑูง เธง เฒี้ยว, นิ่น ฯฒฯ อะเฮน้ย หมวัง ไฮ์. เธง นิ่น, เธง นิ่น, เธง นิ่น, ม่าย เอน เหธย เหธา ต้ม ชะ, ปัว เต้า เซ ทิน-ฮู่ง, เตีย, ตอน, เหธา สีง ลี่ง.</verse1>
+    <verse2>ธีง- เหฑ่ง, ธีง-เหฑ่ง, ธีง-เหฑ่ง, บัว ฮนั้ม ไห่ เญย ทิน-ฮู่ง. หมวน บัว เญย เจียม-นี้ง กวั่ง เหฌี่ย ทิน-ฮู่ง เญย เหฒา กะเฮลน. เหยียด ฒู้ง ฟิน-เมี่ยน เกว่ย เหฌี่ย ป๋าย ทิน-ฮู่ง หย่า เธง นิ่น. โล์- ฮนอย เถา อี้ หฒั่น, เหยียด ลิ์ว ไม้ ก๊อย เหยี่ยน.</verse2>
+    <verse3>ธีง- เหฑ่ง, ธีง-เหฑ่ง, ธีง-เหฑ่ง, ไม้ กุ๊น ม่าย ฒุ์ย ท้อง เจี๊ยน. ฒุ์ย- เมี่ยน หมั่ง หย่า หมั่ง ไม้ ปวัด ทิน-ฮู่ง เญย ต้ม ฌัง-หล่าง. ขูง นิ่น กั้น ฮนั้ง ธีง-เหฑ่ง, ไม้ ม่าย หาย เต้า ฮนั้ง นิ่น. ม่าย ชะ หย่า ฮนั้ม เมี่ยน, ฒู้ง ตุ้น ยุ่น ฑ่อย เหฑ่ง.</verse3>
+    <verse4>ธีง- เหฑ่ง, ธีง-เหฑ่ง, ธีง-เหฑ่ง, ล่ม ฑ่อย ต้าย เธง ทิน-ฮู่ง. เยียม ลู่ง, เยียม เดา, เยียม ค้อย เญย หญู่งๆ กะน้าย เธง นิ่น. เธง นิ่น, เธง นิ่น, เธง นิ่น, ม่าย เอน เหธย เหธา ต้ม ชะ. ปัว เต้า เซ ทิน-ฮู่ง, เตีย, ตอน, เหธา สีง ลี่ง.</verse4>
 </mienthai>
 
+<miennewroman>
+    <verse1>Cing nzengc, cing nzengc, cing nzengc lomh nzoih daaih ceng Tin-Hungh. Lungh ndorm nziouv baaux nzung ceng Ziouv, Ninh ziouc a'hneiv muangx haiz. Ceng Ninh, ceng Ninh, ceng Ninh, maaih en ceix caux domh qaqv, buo dauh se Tin-Hungh, Diex, Dorn, caux Sing Lingh.</verse1>
+    <verse2>Cing nzengc, cing nzengc, cing nzengc mbuo hnamv haic nyei Tin-Hungh. Muonx mbuo nyei jiem-ningv guangc njiec  Tin-Hungh nyei zaux ga'hlen. Yietc zungv fin-mienh gueic njiec baaix Tin-Hungh yaac ceng Ninh. Loz-hnoi taux ih zanc, yietc liuz maiv goiv yienc.</verse2>
+    <verse3>Cing nzengc, cing nzengc, cing nzengc maiv gunv hmuangx daaih torngv Ninh. Zuiz-mienh mangc yaac mangc maiv buatc Tin-Hungh nyei domh njang-laangc. Kungx Ninh ganh hnangv cing nzengc, maiv maaih haaix dauh hnangv Ninh. Maaih qaqv yaac hnamv mienh, zungv dunh yunh nzoih nzengc.</verse3>
+    <verse4>Cing nzengc, cing nzengc, cing nzengc lomh nzoih daaih ceng Tin-Hungh. Yiem lungh, yiem ndau, yiem koiv nyei nyungc-nyungc  ga'naaiv ceng Ninh. Ceng Ninh, ceng Ninh, ceng Ninh. Maaih en ceix caux domh qaqv, buo dauh se Tin-Hungh, Diex, Dorn caux Singx Lingh.</verse4>
+
+</miennewroman>
+
 <chord>
-    <verse1></verse1>
-    <verse2></verse2>
-    <verse3></verse3>
-    <verse4></verse4>
-    <verse5></verse5>
-    <chorus></chorus>
+    <verse1>D           F#m      D            G                  D A             Bm   A       E7                         A D           F#m       D           G              D Bm A      G    D Em      A        D</verse1>
+    <verse2>D           F#m      D            G                  D A             Bm   A       E7                         A D           F#m       D           G              D Bm A      G    D Em      A        D</verse2>
+    <verse3>D           F#m      D            G                  D A             Bm   A       E7                         A D           F#m       D           G              D Bm A      G    D Em      A        D</verse3>
+    <verse4>D           F#m      D            G                  D A             Bm   A       E7                         A D           F#m       D           G              D Bm A      G    D Em      A        D</verse4>
 </chord>
 
 </song>

@@ -1,8 +1,12 @@
 <?xml version="1.0" ?><song>
    <!--Generated from Trang Church Youtube-->
+         <!--Edited-->
+
    <thainame>ผู้เป็น</thainame>
    <englishname>He Lives</englishname>
-   <mienthainame>none</mienthainame>
+   <mienthainame>เยีย หฒั่ง นั่ง ต้าย เญย เหฌียว เฒี้ยว</mienthainame>
+   <miennewromanname>Yie Zaangc Naangh Daaih Nyei Njouv Ziouv</miennewromanname>
+
    <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
    <thai>
       <verse1>ข้าฯปฏิบัติพระผู้ช่วย ด้วยทรงพระชนม์เป็นอยู่ ข้าฯรู้ว่าพระองค์ทรงมี ชีวิตเป็นอยู่เรื่อยไป ข้าเห็นพระคุณพระเยซู ได้ยินเสียงหนุนน้ำใจ เมื่อข้าฯมีความทุกข์ครั้งใด พระองค์อยู่ใกล้</verse1>
@@ -16,16 +20,29 @@
       <verse3>Rejoice, rejoice, O Christian, lift up your voice and sing,  Eternal Hallelujahs to Jesus Christ the King!  The hope of all who seek Him, the help of all who find,  None other is so loving, so good and kind.</verse3>
       <chorus>He lives, He lives, Christ Jesus lives today! He walks with me and talks with mealong life's narrow way. He lives, He lives, salvation to impart! You ask me how I know He lives? He lives within my heart.</chorus>
    </english>
+
+   
    <mienthai>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <chorus/>
-   </mienthai>
-   <chord>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <chorus/>
-   </chord>
-</song>
+    <verse1>เยีย หฒั่ง นั่ง ต้าย เญย เหฌียว เฒี้ยว, อี้ หฒั่น นิ่น เยียม ป้าม เกน. เยีย ฮิ้ว นิ่น เฒียนๆ เฒี่ยง เจี๊ยน, ไม้ เหฑีย เมี่ยน ก๊อง หาย หญู่ง. เยีย บัว ตุ๊ นิ่น เญย เอน เหธย, หมวัง ไฮ์ นิ่น ก๊อง เญย หว่า. เยีย อ๋อย นิ่น เถง เยีย วั้ว หฒั่น, นิ่น นิด ฟัด เยีย.</verse1>
+    <verse2>เยีย หฒั่ง นั่ง ต้าย เญย เหฌียว เฒี้ยว, นิ่น พ้าย เยีย เยียม ป้าม เกน. กัน นิ่น เหฒียบ ฒัวะ เญย เฒี่ยง เจี๊ยน, ปุน เมี่ยน ปวัด นิ่น เญย ฌัง. เยีย ตุ๊ นิ่น เญย ต้ม เอน เหธย, ไฮ่ ฒุ่น นิ่น คู้ โต์-เล์ย. เย^ซู ตี๊ หม่าน เมี่ยน ไต่ มี่ง, นั่ง ต้าย เฒี่ยง เจี๊ยน.</verse2>
+    <verse3>หาย เต้า เสียน เขา เฒี้ยว เย^ซู, เหฌี่ย ชะ ป๋าว ฑูง เธง นิ่น. เหยียด ลิ์ว ก๊อง อา^เล^ลู^ยา, เธง ฒุ์ย-เมี่ยน เญย เหฌียว เฒี้ยว. หาย เต้า ล์อ ปวัด เฒี้ยว เย^ซู, ฯฒฯ เยียม หฮมวัง ธ้วด เปียะ ฌัง, ตุ๊ เย^ซู หฑาว นิ่น ฒุ์ย-หนิบ, ปุน นิ่น เฒี่ยง เจี๊ยน.</verse3>
+    <chorus>เฒี่ยง เจี๊ยน, เฒี่ยง เจี๊ยน, อี้ หฒั่น เย^ซู เฒี่ยง เจี๊ยน. เยี์ยน เยีย ยั่ง เจ๊า, เหธา เยีย ก๊อง หว่า, หฒั่นๆ เหธา เยีย ต้ง เยียม. เฒี่ยง เจี๊ยน, เฒี่ยง เจี๊ยน, อ๋อย ปุน หม่าน เมี่ยน ตุ๊ เหฌียว. เยีย ฮนั้ง หาย นอ ฮิ้ว นิ่น เฒี่ยง เจี๊ยน? นิ่น เยียม เยีย เฮญี้ยว เฒี่ยง เจี๊ยน.</chorus>
+</mienthai>
+
+<miennewroman>
+    <verse1>Yie zaangc nangh daaih nyei Ziouv Ziouv, ih zanc Ninh yiem baamh gen, Yie hiuv Ninh zien-zien ziangh jienv, maiv nziex mienh gorngv haaix nyungc. Yie mbuo duqv Ninh nyei en ceix, muangx haiz Ninh gorngv nyei waac. Yie oix Ninh tengx yie, wuov zanc Ninh nitv fatv yie.</verse1>
+    <verse2>Yie zangc nangh daaih nyei Njouz Ziouv, Ninh paaiv yie yiem baamh gen. Gan Ninh zieqc zuoqv nyei ziangh jienv, bun mienh buatc Ninh nyei njang. Yie duqv Ninh nyei domh en ceix, haih zunh Ninh kuv doz-leiz. Yesu div maanc mienh daic mingh nangh daaih ziangh jienv.</verse2>
+    <verse3>Haaix dauh sienx kaux Ziouv Yesu, njiec qaqv baaux nzung ceng Ninh. Yietc liuz gorngv aa^le^lu^yaa, ceng zuiz mienh nyei Njoux Ziouv. Haaix dauh lorz buatc Ziouv Yesu, ziouc yiem hmuangx cuotv bieqc njang. Duqv Yesu nzaaux ninh zuiz-nipv bun ninh ziangh jienv.</verse3>
+    <chorus>Ziangh jienv, ziangh jienv, Ih zanc Yesu ziangh jienv, Dorh yie yangh jauv, caux yie gorngv waac, zanc-zanc caux yie dongh yiem. Ziangh jienv, ziangh jienv, oix bun maanc mienh duqv njoux. Yie hnangv haaix nor hiuv Ninh ziangh jienv? Ninh yiem yie hnyouv ziangh jienv.</chorus>
+</miennewroman>
+
+
+
+<chord>
+    <verse1>G                           Em             G G7                         A7           D7 G                        Em                G A7              Em             A7     D</verse1>
+    <verse2>G                           Em             G G7                         A7           D7 G                        Em                G A7              Em             A7     D</verse2>
+    <verse3>G                           Em             G G7                         A7           D7 G                        Em                G A7              Em             A7     D</verse3>
+    <chorus>G                       C             G D                 G              A7                 D G                   C         B7 E7           A7                G         D     G</chorus>
+</chord>
+
+   </song>
