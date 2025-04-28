@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Edited-->
+
+<song>
+<thainame>none</thainame>
+<englishname>none</englishname>
+<mienthainame>เยียม เสย หฒั่ง เป๊ย ฮนั้ง ววม-หล่าง เป๊ะ, เย ซู หย่า เห่ว เจี๊ยน เยีย บัว</mienthainame>
+<miennewromanname>90. Yesu Heuc Jienv Yie Mbuo</miennewromanname>
+<order>verse1,verse2,verse3,verse4</order>
+
+<thai>
+  <verse1></verse1>
+  <verse2></verse2>
+  <verse3></verse3>
+  <verse4></verse4>
+</thai>
+
+<mienthai>
+  <verse1>เยียม เสย หฒั่ง เป๊ย ฮนั้ง ววม-หล่าง เป๊ะ, เย ซู หย่า เห่ว เจี๊ยน เยีย บัว. นิ่น คู่ หมวัง เญย ซีง-เฉีย ฮนอยๆ ไซ-ก๋อ กัน เจี๊ยน นิ่น มี่ง.</verse1>
+  <verse2>โล์-ฮนอย เญย กง-โฒ่ ตุ๊ ไฮ์ เญย, เยียม กา ลีๆ ค้อย กะเฮลน. นิ่น บัว กวั่ง เปย๊า, เลี่ยม กง, ก๋อ-โย์ว. เหว่ย เย^ซู กวั่ง เหฑ่ง เหยียด ฒู้ง.</verse2>
+  <verse3>เย^ซู เห่ว เยีย บัว กวั่ง ป้าม เกน, เหยียด ฒู้ง จ๋าย ไจ่ เญย กัน^อ๊าย. เห่ว เยีย บัว กวั่ง ฆอย จ๊า เญย เฒี่ยน, เห่ว ไซ-ก๋อ ฮนั้ม นิ่น กั้น ฮนั้ง.</verse3>
+  <verse4>เย^ซู เห่ว เจี๊ยน เยีย บัว โท้ นิ่น เถง เยีย บัว หมวัง นิ่น เญย หว่า, เฒาะ เยีย บัว เญย เฮญี้ยว ฝูง ปุน นิ่น ฮนั้ม ทิน-ฮู่ง ธั้ม เจี๋ย เหยียด ฒู้ง.</verse4>
+</mienthai>
+
+<miennewroman>
+   <verse1>yiem seix zaangc beiv hnangv wuom-laangc beqv, ye su yaac heuc jienv yie mbuo. Ninh kuh muangx nyei sing-qiex hnoi-hnoi sai-gorx gan jienv ninh mingh.</verse1>
+  <verse2>loz-hnoi nyei gong-zoh duqv haiz nyei, yiem gaa li-li koiv ga'hlen. Ninh mbuo guangc biauv, liemh gong, gorx-youz. Weic Yesu guangc nzengc yietc zungv.</verse2>
+  <verse3>Yesu heuc yie mbuo guangc baamh gen, yietc zungv jaaix jaic nyei Gan^aaiv. Heuc yie mbuo guangc nqoi jaav nyei zienh, heuc sai-gorx hnamv ninh ganh hnangv.</verse3>
+  <verse4>Yesu heuc jienv yie mbuo tov ninh tengx yie mbuo muangx ninh nyei waac, zorqv yie mbuo nyei hnyouv fungx bun ninh hnamv tin-hungh camv jiex yietc zungv.</verse4>
+</miennewroman>
+
+<chord>
+  <verse1></verse1>
+  <verse2></verse2>
+  <verse3></verse3>
+  <verse4></verse4>
+</chord>
+
+<thaiimage></thaiimage>
+<englishimage></englishimage>
+<mienthaiimage></mienthaiimage>
+<miennewromanimage></miennewromanimage>
+</song>

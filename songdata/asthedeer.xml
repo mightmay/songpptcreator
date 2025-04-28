@@ -4,30 +4,42 @@
 <thainame>จิตวิญญาณข้ากระหาย</thainame>
 <englishname>As The Deer</englishname>
 <mienthainame>เธง เฒี้ยว ทิน-ฮู่ง</mienthainame>
-<order>verse1,chorus,verse2,chorus</order>
+<miennewromanname>Hnangv Njaeh</miennewromanname>
+
+<order>verse1,chorus,verse2,chorus,verse3,chorus</order>
 
 <thai>
     <verse1>จิตวิญญาณข้ากระหายพระเจ้า ดุจดังกวางน้อยกระหายหาน้ำ ทรงเป็นความปรารถนาแห่งจิตใจ ข้าที่อยาก สรรเสริญพระองค์</verse1>
     <verse2>ข้าต้องการพระองค์กว่า เงินทอง พระองค์เท่านั้น ให้ข้า อิ่มใจ พระองค์เดียวทรงประทาน ความยินดี และทรงเป็น ที่รัก ของข้า</verse2>
+		<verse3>...</verse3>
     <chorus>*ทรงเป็นโล่ห์กำบังที่ เข้มแข็ง ทรงเป็นผู้เดียวที่ข้ารักเทิดทูน ทรงเป็นความปรารถนา แห่งจิตใจ ข้าที่อยาก สรรเสริญพระองค์</chorus>
 </thai>
 
 <english>
     <verse1>As the deer panteth for the water So my soul longeth after you You alone are my heart's desire And I long to worship you</verse1>
     <verse2>You're my friend, and You are my brother Even though You are a King I love You more than any other So much more than anything</verse2>
+	<verse3>...</verse3>
     <chorus>You alone are my strength, my shield To you alone will my spirit yield You alone are my heart's desire And I long to worship you</chorus>
 </english>
     
 <mienthai>
     <verse1>เยีย เญย เฮญี้ยว เหธา ลี่ง ว่วน อ๋อย ล์อ เฒี้ยว ฮนั่ง ไฌ่ ตอน จาง ฆ๊าด ล์อ อวม เฒี้ยว ฮนั้ม เยีย ยู๋ง เจี๊ยน เยีย เยีย เญย เฮญี้ยว เก้ง เฒียน อ๋อย เธง เฒี้ยว ทิน-ฮู่ง</verse1>
     <verse2>...</verse2>
-
+    <verse3>...</verse3>
     <chorus>ทิน-ฮู่ง เป๋น ท้อง ป้าย ต้ง แหง่ง เจี๋ย เฒี้ยว เป๋น ดุ เต้า ต้ง เยีย ฮนั้ม เหยียด หลิ์ว เฒี้ยว อนั้ม เยีย ยู๋ง เจี๊ยน เยีย เยีย เญย เฮญี้ยว เก้ง เฒียน อ๋อย เธง เฒี้ยว ทิน-ฮู่ง</chorus>
 </mienthai>
+<miennewroman>
+    <verse1>Yie nyei hnyouv gengh oix nitv fatv Ziouv, hnangv njaeh jaang nqaatv qaqv lorz wuom hopv.  Yie gauh hnamv jiex se kungx Ziouv ganh hnangv.  Yie zungv oix buoqc zangc Meih Ziouv.</verse1>
+    <verse2>Ziouv ganh zoux yie nyei doic, yaac zoux gorx-youz maiv gunv Meih zoux Hungh Diex. Kungx Meih ganh hnangv bun yie maaih njienh youh, se Meih hnangv yie funx jaaix jiex.</verse2>
+    <verse3>Yie hnamv Meih gauh camv hnamv jiem nyaanh, kungx  Ziouv ganh hnangv bun yie buangv hnyouv.  Yie gauh oix jiex meih Ziouv, yaac hnamv meih gauh camv jiex nyungc-nyungc ga’naaiv.</verse3>
+    <chorus>Ziouv ganh zoux yie nyei qaqv goux yie.  Bun yie kungx nyunc ei Meih nyei za'eix.  Yie gauh hnamv jiex se kungx Meih ganh hnangv.  Yie zungv oix buoqc zangc Meih Ziouv.</chorus>
+</miennewroman>
 
 <chord>
     <verse1>C Em Am F G C G7 C Em Am F G C</verse1>
     <verse2>C Em Am F G C G7 C Em Am F G C</verse2>
+		<verse3>C Em Am F G C G7 C Em Am F G C</verse3>
+
     <chorus>Am F C F Dm E C Em Am Dm7 G C</chorus>
 </chord>
 

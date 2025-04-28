@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Edited-->
+
+<song>
+<thainame>none</thainame>
+<englishname>none</englishname>
+<mienthainame>เยีย บัว ม่าย เต้า เธียน ฮนั้ม เญย เฒี้ยว</mienthainame>
+<miennewromanname>89. Yie mbuo Maaih Dauh Zien Hnamv Nyei Ziouv</miennewromanname>
+<order>verse1,verse2,verse3</order>
+
+<thai>
+  <verse1>เยีย บัว ม่าย เต้า เธียน ฮนั้ม เญย เฒี้ยว, โหฒว คู้ ก๋อ-โย์ว เบ่น หม่าน สี่. ดาม ลู่ง เดี๊ย หม่าน เมี่ยน เญย เฑ่า โค้ว, เสี่ยว หม่าน เมี่ยน เญย เหยียด ฒู้ง ฒุ์ย.</verse1>
+  <verse2>ซา^ตาน ต้าย กีง-เปาะ เญย เฒี่ยง โห่, ปุน เม่ย เฑ่า ไห่, เฒียน ม่าย สี่. ไม้ กั้ม เหฑีย นิ่น, ก๊าน มี่ง เต๋า เก๋า, บั๋ว เย^ซู เบ่น เม่ย เญย สี่.</verse2>
+  <verse3>ไม้ ม่าย หฮนาง หญั่น, หย่า ไม้ ม่าย ญ่าน, ฒู้ง ไม้ กั้ม เหฑีย หย่า ไม้ เฑ่า. เฒี้ยว เย^ซู ไฮ่ โก๋ว หลง หม่าน เมี่ยน, เม่ย ก๊าน มี่ง เหธา นิ่น เต๋า เก๋า.</verse3>
+</thai>
+
+<miennewroman>
+  <verse1>yie mbuo maaih dauh cien hnamv nyei ziouv, zoux kuv gorx-youz mbenc maanc sic. Ndaam lungh ndiev maanc mienh nyei nzauh kouv, siouc maanc mienh nyei yietc zungv zuiz.</verse1>
+  <verse2>Saadaan daaih ging-borqc nyei ziangh hoc, bun meih nzauh haic, zien maaih sic. Maiv gamh nziex ninh, gaanv mingh daux gaux, mbuox Yesu mbenc meih nyei sic.</verse2>
+  <verse3>maiv maaih hnaangx nyanc, yaac maiv maaih nyaanh, zungv maiv gamh nziex yaac maiv nzauh. Ziouv Yesu haih goux longx maanc mienh, meih gaanv mingh caux ninh daux gaux.</verse3>
+ </miennewroman>
+
+<chord>
+  <verse1></verse1>
+  <verse2></verse2>
+  <verse3></verse3>
+</chord>
+
+<thaiimage></thaiimage>
+<englishimage></englishimage>
+<mienthaiimage></mienthaiimage>
+<miennewromanimage></miennewromanimage>
+</song>

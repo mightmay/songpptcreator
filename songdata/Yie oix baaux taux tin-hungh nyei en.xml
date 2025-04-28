@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <!--Edited-->
+
+<song>
+
+<thainame>none</thainame>
+<englishname>none</englishname>
+<mienthainame>27G เยีย อ๋อย ป๋าว เถา ทิน-ฮู่ง เญย เอน</mienthainame>
+<miennewromanname>Yie oix baaux taux tin-hungh nyei en</miennewromanname>
+<order>verse1,verse2,verse3</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+</english>
+    
+<mienthai>
+    <verse1>เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย เอน เหยียด ลิ์ว. เยีย อ๋อย ป๋าว .
+เยีย อ๋อย ป๋าว . เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย เอน เหยียด ลิ์ว.
+เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย เอน
+* เยีย ฑุ่ย แป๋ง ฒุ่น เฒี้ยว เญย เม่ง. เฒี้ยว เหฒียบ ฒัวะ เญย,
+เฒี้ยว เหฒียบ ฒัวะ เญย.
+เยีย ฑุ่ย แป๋ง ฒุ่น เฒี้ยว เญย เม่ง.
+เฒี้ยว เหฒียบ ฒัวะ เญย เฮญี้ยว เหยียด ลิ์ว ต้ง เยียม.
+</verse1>
+    <verse2>เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย ฮนั้ม เหยียด ลิ์ว. เยีย อ๋อย ป๋าว .
+เยีย อ๋อย ป๋าว . เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย ฮนั้ม เหยียด ลิ์ว.
+เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย ฮนั้ม. (*)
+</verse2>
+    <verse3>เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย ชะ เหยียด ลิ์ว. เยีย อ๋อย ป๋าว.
+เยีย อ๋อย ป๋าว . เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย ชะ เหยียด ลิ์ว.
+เยีย อ๋อย ป๋าว ฑูง ก๊อน เถา ทิน-ฮู่ง เญย ชะ. (*)
+</verse3>
+</mienthai>
+
+<miennewroman>
+   <verse1>yie oix baaux nzung gornv taux tin-hungh nyei en yietc liuz. Yie oix baaux .
+Yie oix baaux . Yie oix baaux nzung gornv taux tin-hungh nyei en yietc liuz.
+Yie oix baaux nzung gornv taux tin-hungh nyei en
+* yie nzuih baengx zunh ziouv nyei mengh. Ziouv ziepc zuoqv nyei,
+ziouv ziepc zuoqv nyei.
+Yie nzuih baengx zunh ziouv nyei mengh.
+Ziouv ziepc zuoqv nyei hnyouv yietc liuz dongh yiem.
+</verse1>
+    <verse2>yie oix baaux nzung gornv taux tin-hungh nyei hnamv yietc liuz. Yie oix baaux .
+Yie oix baaux . Yie oix baaux nzung gornv taux tin-hungh nyei hnamv yietc liuz.
+Yie oix baaux nzung gornv taux tin-hungh nyei hnamv. (*)
+</verse2>
+    <verse3>yie oix baaux nzung gornv taux tin-hungh nyei qaqv yietc liuz. Yie oix baaux.
+Yie oix baaux . Yie oix baaux nzung gornv taux tin-hungh nyei qaqv yietc liuz.
+Yie oix baaux nzung gornv taux tin-hungh nyei qaqv. (*)
+</verse3>
+</miennewroman>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+</chord>
+
+<thaiimage></thaiimage>
+<englishimage></englishimage>
+<mienthaiimage></mienthaiimage>
+<miennewromanimage></miennewromanimage>
+
+</song>

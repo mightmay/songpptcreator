@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <thainame>none</thainame>
+    <englishname>none</englishname>
+    <mienthainame>เยีย เญย เย^ซู, ขูง เม่ย ผุย ตุ๊</mienthainame>
+    <miennewromanname>26 Yie Nyei Yesu, Kungx Meih Puix Duqv</miennewromanname>
+    <order>verse1,chorus,verse2,verse3,verse4</order>
+
+    <thai>
+        <verse1></verse1>
+        <verse2></verse2>
+        <verse3></verse3>
+        <verse4></verse4>
+        <chorus></chorus>
+    </thai>
+
+    <english>
+        <verse1></verse1>
+        <verse2></verse2>
+        <verse3></verse3>
+        <verse4></verse4>
+        <chorus></chorus>
+    </english>
+
+    <mienthai>
+        <verse1>เยีย เญย เย^ซู, ขูง เม่ย ผุย ตุ๊. หม่า หมวด, หม่า เมี่ยน เธง เฒี้ยว ฮนั้ง.
+        เหว่ย หฒุ เฒี้ยว ฮนั้ม เมี่ยน หย่า เหธย เอน. โฮล เจี๋ย หม่าน หมวด, ฮนั้ม ไม้ หฒ่าย.</verse1>
+        <chorus>เธง นิ่น, เธง นิ่น, เธง เยีย เหฌียว เฒี้ยว หฒวัง ไซ-ก๋อ ล่ม ฑ่อย เห่ว เจี๊ยน,
+        เธง นิ่น, เธง นิ่น, มี่ง เถา ทิน-ต้อง, เธง เถา ตุ้น เหยียด ลิ์ว เธง.</chorus>
+        <verse2>เยีย บัว ปวั๊ง เญย ตอ-เหฒี่ย เฒี้ยว. ขูง เธง เฒี้ยว เญย บั๋ว จ๋าย เจี๋ย.
+        เยียม เสย หฒั่ง ฮนอยๆ เถา เกวย เสย, ขูง อ๋อย ฒุ่น เฒี้ยว เญย เหฌียว เอน.</verse2>
+        <verse3>เยีย บัว ป๋าย เม่ย เหฌียว เฒี้ยว เย ซู, เฒี้ยว หฒะเก้ง จ๋าย เจี๋ย เหยียด ฒู้ง.
+        เฒี้ยว เก้ง ฮนั้ม, หย่า ไม้ ไฮ่ กวั่ง บัว. เม่ย เหยียด ลิ์ว เปว เจี๊ยน เยีย บัว.</verse3>
+        <verse4>เฒี้ยว เย ซู เจี๋ย กอน หย่า เซ้ด เมว์ย, นิ่น เหยียด เจ๊า หฒะเก้ง เยี์ยน เยีย.
+        เหว่ย เยี์ยน เยีย เญย เจ๊า, เยีย เธง นิ่น, หย่า เขา นิ่น ต้อ เยีย เถา เปย๊า.</verse4>
+    </mienthai>
+
+    <miennewroman>
+         <verse1>yie nyei Yesu, kungx meih puix duqv. Maac muotc, maac mienh ceng ziouv hnangv.
+        Weic zuqc ziouv hnamv mienh yaac ceix en. Hlo jiex maanc muotc, hnamv maiv zaaic.</verse1>
+        <chorus>ceng ninh, ceng ninh, ceng yie njoux ziouv zuangx sai-gorx lomh nzoih heuc jienv,
+        ceng ninh, ceng ninh, mingh taux tin-dorngh, ceng taux dunh yietc liuz ceng.</chorus>
+        <verse2>yie mbuo buangv nyei dor-ziec ziouv. Kungx ceng ziouv nyei mbuox jaaix jiex.
+        Yiem seix zaangc hnoi-hnoi taux guei seix, kungx oix zunh ziouv nyei njoux en.</verse2>
+        <verse3>yie mbuo baaix meih njoux ziouv ye su, ziouv za'gengh jaaix jiex yietc zungv.
+        Ziouv gengh hnamv, yaac maiv haih guangc mbuo. Meih yietc liuz beu jienv yie mbuo.</verse3>
+        <verse4>ziouv ye su jiex gorn yaac setv mueiz, ninh yietc jauv za'gengh yienz yie.
+        Weic yienz yie nyei jauv, yie ceng ninh, yaac kaux ninh dorh yie taux biauv.</verse4>
+    </miennewroman>
+
+    <chord>
+        <verse1></verse1>
+        <verse2></verse2>
+        <verse3></verse3>
+        <verse4></verse4>
+        <chorus></chorus>
+    </chord>
+
+    <thaiimage></thaiimage>
+    <englishimage></englishimage>
+    <mienthaiimage></mienthaiimage>
+    <miennewromanimage></miennewromanimage>
+</song>

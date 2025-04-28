@@ -3,6 +3,8 @@
 	<thainame>ขอเชิญท่านผู้วางใจ</thainame>
 	<englishname>O Come All Ye Faithful</englishname>
 	<mienthainame>ต้าย โอ่, หฒวัง ไซ-ก๋อ ต้าย</mienthainame>
+	<miennewromanname>Daaih Oc Zuangx Saigorx Daaih</miennewromanname>
+
 	<order>segment1,chorus,segment2,chorus,segment3,chorus,segment4,chorus</order>
 <thai>
 		<segment1>ขอเชิญท่านผู้วางใจ ชื่นใจยินดีมีชัย เชิญมา เชิญมาไว สู่หมู่บ้านเบธเลเฮม มาเฝ้าพระกุมาร ราชาแห่งทูตปรีดิ์เปรม</segment1>
@@ -34,6 +36,15 @@
 		<segment4>นิ่น ธ้วด เสย โหฒว เหฌียว เฒี้ยว, บัว เหยียด หฒวัง มี่ง ฒิบ นิ่น. ล่ม ฑ่อย เธง นิ่น, ท่าย นิ่น, ปุน นิ่น ตุ๊ เหฑ่ง ฌัง-หล่าง. ทิน-ฮู่ง เญย เฒียน โต์, อี้ หฒั่น ธ้วด เสย เป๋น ป้าม เมี่ยน.</segment4>
 		<chorus>ต้าย โอ่, มี่ง วั้ว ฮว้า ป๋าย นิ่น, ต้าย โอ่, มี่ง วั้ว ฮว้า ป๋าย นิ่น, ต้าย โอ่, มี่ง วั้ว ฮว้า ป๋าย นิ่น, เยีย บัว เญย เหฌียว เฒี้ยว.</chorus>
 </mienthai>
+
+<miennewroman>
+		<segment1>Daaih oc zuangx saigorx daaih, a'hneiv ornlorqc nyei daaih. Horpc fim dongh eix gaanv mingh Ndaa^witv hungh nyei mungv. Buatc Ziouv bueix maaz-zoh Ninh se coqv hoqc cuotv seix daaih.</segment1>
+		<segment2>Maiv gunv Ninh se TinHungh, zeix lungh, ndau, zeix maanc muotc. Weic zuqc Ninh korh lienh yie mbuo ih zanc benx dauh mienh guangc Ninh nyei njang-laangc, yaac guangc nzengc Ninh nernh nyei qaqv.</segment2>
+		<segment3>Yiem ndaamh lungh nyei fin-mienh daaih tengx baaux nzung ceng Ninh. Bun tin-dorngh yietc zungv deicbung Muangx haiz Ziouv nyei en. Tin-Hungh nyei Dorn hnamv ih zanc benx Baamh Mienh nyei Dorn.</segment3>
+		<segment4>Ninh cuotv seix zoux Njoux Ziouv, mbuo yietc zuangx mingh zipv Ninh lomh nzoih ceng Ninh, taaih Ninh. Bun Ninh duqv nzengc njang-laangc. TinHungh nyei zien doz, ih zanc cuotv seix benx baamh Mienh.</segment4>
+		<chorus>Daaih oc, mingh wuov huaav baaix Ninh, daaih oc, mingh wuov huaav baaix Ninh, daaih oc, mingh wuov huaav baaix Ninh, yie mbuo nyei njoux Ziouv.</chorus>
+</miennewroman>
+
 
 <chord>
 		<segment1>G     D G    D Em   D  A     D G   C    G Em   C       D</segment1>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <all>
+	<song name="wereyouthere">WereYouThere.xml</song>
+	<song name="wereyoutherewhentheycrucifiedmylord">WereYouThere.xml</song>
+	<song name="เม่ยเยียมหายเมี่ยนตีงเฒี้ยวเยซูวั้วหฒั่น">WereYouThere.xml</song>
+	<song name="เม่ยเยียมหาย">WereYouThere.xml</song>
+	<song name="meihyiemwuovnyeifaidonghninhmbuodingziouv">WereYouThere.xml</song>
+	<song name="meihyiemwuovnyeifai">WereYouThere.xml</song>
 
 	<song name="ข้ายกเสียงขึ้น">ข้ายกเสียงขึ้น.xml</song>
 	<song name="ข้ายกเสียงขึ้นด้วยเพลงสรรเสริญพระนาม">ข้ายกเสียงขึ้น.xml</song>
@@ -152,11 +158,23 @@
 	<song name="whenisurveythewonderouscross">whenisurveythewondrouscross.xml</song>
 	<song name="whenisurveythewondrouscross">whenisurveythewondrouscross.xml</song>
 	<song name="หายหฒั่นเธาเฮมียนหมั่งเหฒียบหฑั่งจ๋า">whenisurveythewondrouscross.xml</song>
+	<song name="haaixzanccauhmienmangcziepcnzangcjaax">whenisurveythewondrouscross.xml</song>
 
+	
+	
+	
 	<song name="ขอเชิญท่านผู้วางใจ">ocomeallyefaithful.xml</song>
 	<song name="ohcomeallyefaithful">ocomeallyefaithful.xml</song>
 	<song name="ocomeallyefaithful">ocomeallyefaithful.xml</song>
 	<song name="ต้ายโอ่หฒวังไซก๋อต้าย">ocomeallyefaithful.xml</song>
+   <song name="เพลงชีวิตคริสเตียนบทที่40">ocomeallyefaithful.xml</song>                        
+   <song name="เพลงชีวิตคริสเตียน40">ocomeallyefaithful.xml</song>                        
+   <song name="daaihoczuangxsaigorxdaaihahneivornlorqcnyeidaaih">ocomeallyefaithful.xml</song>                        
+   <song name="daaihoczuangxsaigorxdaaih">ocomeallyefaithful.xml</song>                        
+   <song name="nzungndaauvsou55">ocomeallyefaithful.xml</song>                        
+   <song name="nzungndaauv55">ocomeallyefaithful.xml</song>                        
+   <song name="ขอเชิญท่านผู้วางใจชื่นใจยินดีมีชัย">ocomeallyefaithful.xml</song>                        
+   <song name="ocomeallyefaithfuljoyfulandtriumphant">ocomeallyefaithful.xml</song>                        
 
 	<song name="ในคืนวันหนึ่งยามเงียบสงัด">itcameuponamidnightclear.xml</song>
 	<song name="ม่ายฮนอยด๊ามม์วนเปี๋ยนเสยวั้วหฒั่น">itcameuponamidnightclear.xml</song>
@@ -192,6 +210,9 @@
 	<song name="เฒี้ยวเยซูเญยปู๊ฑย้ามเหลี่ยวธ้วดหย่าหฒุเตี๊ยโค้วเตี๊ยไญ้">ที่กางเขน.xml</song>
 	<song name="เฒี้ยวเยซูเญยปู๊ฑย้ามเหลี่ยวธ้วด">ที่กางเขน.xml</song>
 	<song name="เหฒียบหฑั่งจ๋าเหฒียบหฑั่งจ๋าเยียปวัดฌังตะเยี้ยดหฑุ่น">ที่กางเขน.xml</song>
+	<song name="ziepcnzaangcjaax">ที่กางเขน.xml</song>
+	<song name="ziouvyesunyeibuvnziaamvliouccuotv">ที่กางเขน.xml</song>
+	<song name="ziepcnzaangcjaaxziepcnzaangcjaax">ที่กางเขน.xml</song>
 
 	<song name="nearermygodtothee">nearermygodtothee.xml</song>
 	<song name="เฝ้าชิดสนิทพระเจ้า">nearermygodtothee.xml</song>
@@ -206,10 +227,14 @@
 
 
 	<song name="ยามราตรีศรีหรรษา">ยามราตรีศรีหรรษา.xml</song>
+	<song name="ยามราตรี">ยามราตรีศรีหรรษา.xml</song>
 	<song name="silentnight">ยามราตรีศรีหรรษา.xml</song>
 	<song name="silencenight">ยามราตรีศรีหรรษา.xml</song>
 	<song name="silentnightholynight">ยามราตรีศรีหรรษา.xml</song>
 	<song name="แป้งออนม์วนธีงเหฑ่งม์วน">ยามราตรีศรีหรรษา.xml</song>
+	<song name="แป้งออนม์วน">ยามราตรีศรีหรรษา.xml</song>
+	<song name="baenghornmuonzcingnzengcmuonz">ยามราตรีศรีหรรษา.xml</song>
+	<song name="baenghornmuonz">ยามราตรีศรีหรรษา.xml</song>
 
 
 	<song name="เม่ยบัวอ๋อยหฒุล์อด่างทินฮู่งเญยเจ๊า">จงแสวงหาแผ่นดินของพระเจ้า.xml</song>
@@ -497,11 +522,6 @@
 <song name="แผ่นดินร่วมร้องเปรมปรีด์">เหนือโลกา.xml</song>
 <song name="เรายกย่องพระนามพระองค์เราสรรเสริญถึงความยิ่งใหญ่">เหนือโลกา.xml</song>
 
-<song name="comethoufountofeveryblessing">comethoufountofeveryblessing.xml</song>
-<song name="comethoufountofeveryblessings">comethoufountofeveryblessing.xml</song>
-<song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>
-<song name="โท้เหธยลู่งหฒั่งเญยฟุเหฌี่ยต้าย">comethoufountofeveryblessing.xml</song>
-
 
 
 <song name="วันต่อวัน">วันต่อวัน.xml</song>
@@ -587,6 +607,8 @@
 <song name="จิตวิญญาณข้ากระหาย">asthedeer.xml</song>
 <song name="เธงเฒี้ยวทินฮู่ง">asthedeer.xml</song>
 <song name="เยียเญยเฮญี้ยวเหธาลี่งว่วนอ๋อยล์อเฒี้ยว">asthedeer.xml</song>
+<song name="hnangvnjaeh">asthedeer.xml</song>
+<song name="yienyeihnyouvgenghoixnitvfatvziouv">asthedeer.xml</song>
 
 <song name="เจิมด้วยไฟพระวิญญาณ">เจิมด้วยไฟพระวิญญาณ.xml</song>
 <song name="เจิมด้วยไฟแห่งพระวิญญาณ">เจิมด้วยไฟพระวิญญาณ.xml</song>
@@ -1242,14 +1264,20 @@
    <song name="dayisdyinginthewest">DayisDyingintheWest.xml</song>                        
    
    
-   <song name="เพลงชีวิตคริสเตียนบทที่18">ComeThouFountofEveryBlessing.xml</song>                        
-   <song name="เพลงชีวิตคริสเตียน18">ComeThouFountofEveryBlessing.xml</song>                        
-   <song name="ขอพระพรจากเบื้องบนลงมา">ComeThouFountofEveryBlessing.xml</song>                        
-   <song name="comethoufountofeveryblessing">ComeThouFountofEveryBlessing.xml</song>                        
-   <song name="ขอพระพรจากเบื้องบนลงมา">ComeThouFountofEveryBlessing.xml</song>                        
-   <song name="comethoufountofeveryblessing">ComeThouFountofEveryBlessing.xml</song>                        
-   <song name="โท้เหธยลู่งหฒั่งเญยฟุเหฌี่ยต้าย">ComeThouFountofEveryBlessing.xml</song>                        
-   
+   <song name="เพลงชีวิตคริสเตียนบทที่18">comethoufountofeveryblessing.xml</song>                        
+   <song name="เพลงชีวิตคริสเตียน18">comethoufountofeveryblessing.xml</song>                        
+   <song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>                        
+   <song name="comethoufountofeveryblessing">comethoufountofeveryblessing.xml</song>                        
+   <song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>                        
+   <song name="comethoufountofeveryblessing">comethoufountofeveryblessing.xml</song>                        
+   <song name="โท้เหธยลู่งหฒั่งเญยฟุเหฌี่ยต้าย">comethoufountofeveryblessing.xml</song>                        
+    <song name="tovceixlunghzaangcnyeifuqvnjiecdaaih">comethoufountofeveryblessing.xml</song>                        
+  <song name="comethoufountofeveryblessing">comethoufountofeveryblessing.xml</song>
+<song name="comethoufountofeveryblessings">comethoufountofeveryblessing.xml</song>
+<song name="ขอพระพรจากเบื้องบนลงมา">comethoufountofeveryblessing.xml</song>
+<song name="โท้เหธยลู่งหฒั่งเญยฟุเหฌี่ยต้าย">comethoufountofeveryblessing.xml</song>
+
+
    
    <song name="เพลงชีวิตคริสเตียนบทที่19">NearerMyGodtoThee.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน19">NearerMyGodtoThee.xml</song>                        
@@ -1381,12 +1409,6 @@
    <song name="breatheonmebreathofgod">BreatheonMeBreathofGod.xml</song>                        
    <song name="เชิญพระวิญญาณลงมา">BreatheonMeBreathofGod.xml</song>                        
    <song name="breatheonmebreathofgod">BreatheonMeBreathofGod.xml</song>                        
-   <song name="เพลงชีวิตคริสเตียนบทที่40">OComeAllYeFaithful.xml</song>                        
-   <song name="เพลงชีวิตคริสเตียน40">OComeAllYeFaithful.xml</song>                        
-   <song name="ขอเชิญท่านผู้วางใจ">OComeAllYeFaithful.xml</song>                        
-   <song name="ocomeallyefaithful">OComeAllYeFaithful.xml</song>                        
-   <song name="ขอเชิญท่านผู้วางใจชื่นใจยินดีมีชัย">OComeAllYeFaithful.xml</song>                        
-   <song name="ocomeallyefaithfuljoyfulandtriumphant">OComeAllYeFaithful.xml</song>                        
    <song name="เพลงชีวิตคริสเตียนบทที่41">HarktheHeraldAngelsSing.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน41">HarktheHeraldAngelsSing.xml</song>                        
    <song name="จงฟังเพลงแห่งฑูตสวรรค์">HarktheHeraldAngelsSing.xml</song>                        
@@ -1750,12 +1772,22 @@
    <song name="calvary">Calvary.xml</song>                        
    <song name="เมื่อวันพระคริสต์ได้ทรงยอมตาย">Calvary.xml</song>                        
    <song name="oncalvarysbrowmysaviordied">Calvary.xml</song>                        
+   
+   
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่104">TheOldRuggedCross.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน104">TheOldRuggedCross.xml</song>                        
    <song name="ไม้กางเขนโบราณ">TheOldRuggedCross.xml</song>                        
    <song name="theoldruggedcross">TheOldRuggedCross.xml</song>                        
    <song name="บนภูเขาซึ่งอยู่ไกล">TheOldRuggedCross.xml</song>                        
    <song name="onahillfaraway">TheOldRuggedCross.xml</song>                        
+   <song name="กู้หงว่ายบงเยียมตุ๊โก">TheOldRuggedCross.xml</song>                        
+   <song name="โล์ฮนอยเญยเหฒียบหฑั่งจ๋า">TheOldRuggedCross.xml</song>                        
+   <song name="เหว่ยฮนั้งน้ายเยียหธีงฮนั้มเหฒียบหฑั่งจ๋า">TheOldRuggedCross.xml</song>                        
+   
+   
+   
    <song name="เพลงชีวิตคริสเตียนบทที่105">JesusNeverFails.xml</song>                        
    <song name="เพลงชีวิตคริสเตียน105">JesusNeverFails.xml</song>                        
    <song name="พระเยซูไม่เปลี่ยนแปลง">JesusNeverFails.xml</song>                        

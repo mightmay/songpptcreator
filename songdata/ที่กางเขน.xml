@@ -3,6 +3,8 @@
 	<thainame>ที่กางเขน</thainame>
 	<englishname>Alas, and did my Savior bleed</englishname>
 	<mienthainame>เฒี้ยว เย^ซู เญย ปู๊-ฑย้าม เหลี่ยว ธ้วด</mienthainame>
+	<miennewromanname>Ziepc Nzaangc Jaax</miennewromanname>
+
 	<order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus,verse5,chorus</order>
 	
 	<thai>
@@ -32,6 +34,14 @@
     <verse5>...</verse5>
     <chorus>เหฒียบ หฑั่ง จ๋า, เหฒียบ หฑั่ง จ๋า, เยีย ปวัด ฌัง ตะเยี้ยด หฑุ่น, ขวน เยีย เญย เฮญี้ยว เญย หม่าน สี่ ฒู้ง ดุ๊ด เหฑ่ง. เยียม หน่าย หล่ง เสียน ฟิม เยีย ฯฒฯ หมั่ง ตุ๊ ปวัด. อี้ หฒั่น เยีย เก้ง ฮนอยๆ อะเฮน้ย ไห่.</chorus>
 </mienthai>
+<miennewroman>
+    <verse1>Ziouv Yesu nyei buv-nziaamv liouc cuotv, yaac zuqc diev kouv diev nyaev.  Yiem ziepc nzaangc jaax, Njoux Ziouv daic weic yie nyei zuiz duqv ndutv nzengc. </verse1>
+    <verse2>Yiem ziepc nzaangc jaax, Njoux Ziouv Yesu, duqv div yie nyei zuiz daic.  Ziouv biux mengh Ninh gengh hnamv haic yie.  Maiv maaih haaix dauh hnangv Ninh.</verse2>
+    <verse3>Ziouv Yesu laengz siouc kouv weic yie, yie gengh qiemx Ziouv nyei zaeqv.  Yie tov fongc horc yie hnyouv caux sin, lingh wuonh bun yie nyei Ziouv.</verse3>
+    <verse4>...</verse4>
+    <verse5>...</verse5>
+    <chorus>Ziepc nzaangc jaax, ziepc nzaangc jaax, yie buatc njang da’yietv nzunc, kuonx yie nyei hnyouv, nyei maanc sic zungv ndutv nzengc.  Yiem naaic longc sienx fim yie ziouc mangc duqv buatc.  Ih zanc yie gengh hnoi hnoi a’hneiv haic.</chorus>
+</miennewroman>
 
 <chord>
     <verse1>D         Dmaj7 G                   A7 D              Dmaj7 G         A7       D</verse1>

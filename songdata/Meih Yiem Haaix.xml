@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Edited-->
+
+<song>
+  <thainame>none</thainame>
+  <englishname>none</englishname>
+  <mienthainame>เม่ย เยียม หาย</mienthainame>
+  <miennewromanname>Meih Yiem Haaix?</miennewromanname>
+  <order>verse1,verse2,verse3</order>
+
+  <thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+  </thai>
+
+  <english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+  </english>
+  
+  <mienthai>
+    <verse1>เม่ย เยียม หาย, ทิน-ฮู่ง เห่ว เจี๊ยน-ล์อ เม่ย. นิ่น ฮนั้ม ไห่ เม่ย, ไม้ อ๋อย ปุน เม่ย ตี๋ง ล่าย.
+เม่ย ฮิ้ว เญย ไฟ? ทิน-ฮู่ง ค้อ-เลี่ยน ฮนั้ม เม่ย. ไม้ อ๋อย ปุน เม่ย ต่อง เจ๊า เยียม น้าย ป้าม เกน.
+อ๋อย หฒุ ก๊อย เฮญี้ยว เหญี่ยม ฒุ์ย โหฒว หอบ ทิน-ฮู่ง.
+ก๊อง เม่ย ก๊อย เฮญี้ยว, เฒี้ยว ซูง ปั์ว แอ๋ง ฒิบ เม่ย หฑวน.
+ฯฒฯ ตุ๊ เฌียน-โย่ว, ออน-เหลาะ ไห่ เยียม เฒี้ยว หฑะเฮมียน.
+เม่ย หนัม เฮญี้ยว หย่า เล่ย โก เฒี้ยว ทิน-ฮู่ง.
+เถา เฒี่ยง โห่^อ๊ะ, เจี์ย ซิน ต้าย หฑวน ล์อ เหฌียว เฒี้ยว.</verse1>
+    <verse2>เม่ย เยียม หาย, เฒี้ยว เย ซู ต้าย เหฌียว เม่ย. นิ่น เหฌี่ย ปา^อั้ม เกน,
+เซี้ย นิ่น จ๋าย ไห่ เญย ฑย้าม.
+หฒัวะ เม่ย หฑวน ต้าย,ปิ๋ว เม่ง นิ่น ฮนั้ม ไห่ เม่ย.
+นิ่น ต้าย เหฌียว เม่ย, ดุ๊ด ฒุ์ย ตุ๊ เหยียด ลิ์ว แหม่ง.
+ทิน-ฮู่ง เญย เอ๋ย อ๋อย ปุน เม่ย ไฮ่ ตุ๊ เหฌียว. ม่าย ดุ ติ้ว เจ๊า ฮี่ง ป้าม เกน เสียน ว้วน เย-ซู.
+กวั่ง เหฑ่ง อ๊าบ เอ๋ย ไม้ โต้ว กั้น หฑะเฮมียน ตุ๊ หลง. เจี้ยน เต๋า เก๋า โตะ กีง-โซว เฒี้ยว ปุน ชะ.
+เม่ย ฮนั้ง น้าย โหฒว, เฒี้ยว แล์ง ปุน ตุ๊ เฒี่ยง แหม่ง นี้ง.</verse2>
+    <verse3>เม่ย เยียม หาย, เย^ซู พ้าย กง ปุน เม่ย. เม่ย เยียม ป้าม เกน, หละคุ เฒี้ยว เญย เอน ไฟ?
+เม่ย ฮิ้ว เญย ไฟ? เม่ย เญย จา-ตี้ง เหยียด ฒู้ง. เฒี้ยว เหธย ปุน เม่ย, ไม้ เฒ์ย ปุน เม่ย โต้ว กั้น.
+ไม้ ตู๋ง โหฒว ฌับ หฒุ ฮนั้ม เถา เฒี้ยว เญย กง.
+ทิน-ฮู่ง เอน ฒี่ง หฒะเก้ง โฮล ไม้ ตู๋ง หละคุ. เหว่ย น้าย เม่ย หธีง หอบ โท้ เฒี้ยว หล่ง เม่ย ฟู-สู.
+น้าย เซ ม่าย แหม่ง นั่ง เญย เหฒี่ย ปุน เฒี้ยว.
+เยียม น้าย มี่ง เยีย, เหยียด เสย แล์ง ฟู-สู เม่ย เฒี้ยว.</verse3>
+  </mienthai>
+
+  <miennewroman>
+
+    <verse1>meih yiem haaix, tin-hungh heuc jienv-lorz meih. Ninh hnamv haic meih, maiv oix bun meih dingx laaih.
+Meih hiuv nyei fai? Tin-hungh korv-lienh hnamv meih. Maiv oix bun meih dorngc jauv yiem naaiv baamh gen.
+Oix zuqc goiv hnyouv nyiemc zuiz zoux horpc tin-hungh.
+Gorngv meih goiv hnyouv, ziouv sung buoz aengx zipv meih nzuonx.
+Ziouc duqv njien-youh, orn-lorqc haic yiem ziouv nza'hmien.
+Meih namx hnyouv yaac leih go ziouv tin-hungh.
+Taux ziangh Hoc^aqv, jiez sin daaih nzuonx lorz njoux ziouv.</verse1>
+    <verse2>meih yiem haaix, ziouv ye su daaih njoux meih. Ninh njiec Baa^amh gen,
+siev ninh jaaix haic nyei nziaamv.
+Zuoqc meih nzuonx daaih,biux mengh ninh hnamv haic meih.
+Ninh daaih njoux meih, ndutv zuiz duqv yietc liuz maengc.
+Tin-hungh nyei eix oix bun meih haih duqv njoux. Maaih nduqc diuh jauv hingh baamh gen sienx wuonv ye-su.
+Guangc nzengc aapv eix maiv douh ganh nza'hmien duqv longx. Jienh daux gaux doqc ging-sou ziouv bun qaqv.
+Meih hnangv naaiv zoux, ziouv laengz bun duqv ziangh maengc ningv.</verse2>
+    <verse3>meih yiem haaix, Yesu paaiv gong bun meih. Meih yiem baamh gen, la'kuqv ziouv nyei en fai?
+Meih hiuv nyei fai? Meih nyei jaa-dingh yietc zungv. Ziouv ceix bun meih, maiv zeiz bun meih douh ganh.
+Maiv dungx zoux njapv zuqc hnamv taux ziouv nyei gong.
+Tin-hungh en zingh za'gengh hlo maiv dungx la'kuqv. Weic naaiv meih cingx horpc tov ziouv longc meih fu-sux.
+Naaiv se maaih maengc nangh nyei ziec bun ziouv.
+Yiem naaiv mingh yie, yietc seix laengz fu-sux meih ziouv.</verse3>   </miennewroman>
+
+  <chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+  </chord>
+
+  <thaiimage></thaiimage>
+  <englishimage></englishimage>
+  <mienthaiimage></mienthaiimage>
+  <miennewromanimage></miennewromanimage>
+</song>

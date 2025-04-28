@@ -3,6 +3,8 @@
 	<thainame>ยามราตรีศรีหรรษา</thainame>
 	<englishname>Silent Night</englishname>
 	<mienthainame>แป้ง ออน ม์วน, ธีง-เหฑ่ง ม์วน</mienthainame>
+	<miennewromanname>Baengh Orn Muonz, Cing-Nzengc Muonz</miennewromanname>
+
 	<order>verse1,verse2,verse3,verse4</order>
 	<thai>
 		<verse1>ยามราตรีศรีหรรษามีราชามาประสูติ จากสาวพรหมจารีย์บริสุทธิ์เป็นกุมารน่ารักที่สุด มาเพื่อช่วยชาวโลกามาเพื่อช่วยชาวโลกา</verse1>
@@ -25,11 +27,25 @@
     <verse4>...</verse4>
 </mienthai>
 
+<miennewroman>
+    <verse1>Baengh orn muonz, cing-nzengc muonz, nzieqc nzingx nzengc, njang ziux njiec. Taux Ninh maa caux cing- nzengc nyei Dorn. njormh duqv ndo weic duqv Tin-Hungh nyei en. Zungv baengh orn nyei jiex muonz, zungv baengh orn nyei jiex muonz.</verse1>
+    <verse2>Baengh orn muonz, cing-nzengc muonz, mangc yungh mienh duqv domh en, liemh zeih buatc Tin-Hungh nyei njang ziux jienv. Fin-mienh baaux aa^le^lu^yaa ceng Ziouv, Ih muonz Njoux Ziouv cuotv seix, ih muonz Njoux Ziouv cuotv seix.</verse2>
+    <verse3>Baengh orn muonz, cing-nzengc muonz, Tin-Hungh Dorn dorh baengh orn. Ninh nyei hmien hinc cuotv hnamv mienh nyei njang. Bun cing njoux en nyei njang ziux taux mbuo. Yie nyei Njoux Ziouv cuotv seix, Yie nyei Njoux Ziouv cuotv seix.</verse3>
+    <verse4>...</verse4>
+</miennewroman>
+
+
 <chord>
     <verse1>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse1>
     <verse2>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse2>
     <verse3>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse3>
     <verse4>C    G7        C F        C        F          C G7              Am  Em     C      G7            C</verse4>
 </chord>
+
+<thaiimage></thaiimage>
+<englishimage></englishimage>
+<mienthaiimage></mienthaiimage>
+<miennewromanimage></miennewromanimage>
+
 
 </song>

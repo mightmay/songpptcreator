@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Edited-->
+<song>
+  <thainame>none</thainame>
+  <englishname>none</englishname>
+  <mienthainame>เยีย อ๋อย โท้ เยียม ฟัด ทิน-ฮู่ง</mienthainame>
+  <miennewromanname>213. Yie Oix Tov Yiem Fatv Tin-hungh</miennewromanname>
+  <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+  <thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+	    <chorus></chorus>
+  </thai>
+  <english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+	    <chorus></chorus>
+  </english>
+  <mienthai>
+    <verse1>เยีย หาย หฒั่น เมา เฒี้ยว ทิบ ชะ,
+เยีย หาย หฒั่น ถุย โป่ว เฒี้ยว เถง,
+เยีย หาย หฒั่น ดอบ เฒี้ยว ต้าย เคน
+เฒี้ยว ต้อ เยีย นิด ฟัด เฒี้ยว เย ซู.(*)
+</verse1>
+    <verse2>เยียม น้าย ลู่ง เดี๊ย เก้ง โค้ว ไห่,
+เถา เฑ่า เญย ฮนอย หาย เต้า เถง?
+หาย เต้า ดาม เยีย เญย โค้ว หน่าน?
+ขูง ม่าย เฒี้ยว เย ซู เถง ดาม ฮนั้ง.(*)
+</verse2>
+    <verse3>เยีย ฮิ้ว ตุ๊ กั้น เก้ง เมา ไห่,
+เถา หอบ หฒุ ไต่ เญย เฒี่ยง โห่,
+โท้ เฒี้ยว ต้อ เยีย เญย ลี่ง ว่วน
+เถา ทิน-ต้อง เยียม เฒี้ยว เญย หฑะเฮมียน.(*)
+</verse3>
+    <chorus>*เยีย อ๋อย โท้ เยียม ฟัด ทิน-ฮู่ง, 
+เยีย เก้ง อ๋อย ฮนั้ม เยีย เญย เฒี้ยว.
+ไม้ ตู๋ง เซว่ย เยีย ยั่ง ต่อง เจ๊า โท้ ต้อ เยีย, ต้อ เยีย เถา เย ซู.
+</chorus>
+  </mienthai>
+  <miennewroman>
+<verse1>yie haaix zanc mau ziouv tipv qaqv,
+yie haaix zanc tuix bouc ziouv tengx,
+yie haaix zanc ndorpc ziouv daaih ken
+ziouv dorh yie nitv fatv ziouv ye su.(*)
+</verse1>
+    <verse2>yiem naaiv lungh ndiev gengh kouv haic,
+taux nzauh nyei hnoi haaix dauh tengx?
+Haaix dauh ndaam yie nyei kouv naanc?
+Kungx maaih ziouv ye su tengx ndaam hnangv.(*)
+</verse2>
+    <verse3>yie hiuv duqv ganh gengh mau haic,
+taux horpc zuqc daic nyei ziangh hoc,
+tov ziouv dorh yie nyei lingh wuonh
+taux tin-dorngh yiem ziouv nyei nza'hmien.(*)
+</verse3>
+    <chorus>*yie oix tov yiem fatv tin-hungh, 
+yie gengh oix hnamv yie nyei ziouv.
+Maiv dungx sueih yie yangh dorngc jauv tov dorh yie, dorh yie taux ye su.
+</chorus>
+  </miennewroman>
+  <chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+  </chord>
+  <thaiimage></thaiimage>
+  <englishimage></englishimage>
+  <mienthaiimage></mienthaiimage>
+  <miennewromanimage></miennewromanimage>
+</song>

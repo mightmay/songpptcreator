@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <!--Edited-->
+
+<song>
+
+<thainame>none</thainame>
+<englishname>none</englishname>
+<mienthainame>หมวัง หลง, อ๋อย หฒุ หฒะเก้ง หมวัง หลง</mienthainame>
+<miennewromanname>214 Muangx Longx, oix Zuqc za’gengh Muangx Longx</miennewromanname>
+<order>verse1,verse2,chorus,verse3</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+	<chorus></chorus>
+</thai>
+
+<english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+	<chorus></chorus>
+</english>
+    
+<mienthai>
+    <verse1>หมวัง หลง, อ๋อย หฒุ หฒะเก้ง หมวัง หลง, ทิน-กั๊วะ หฒะเก้ง ฟัด อ๊ะ,
+ป้าม เกน อ๋อย หฒุ เหมียด เหฑ่ง.
+โท้ หมวัง หว่า, นิ่น ด่ง น้าย ฮนั้ม เม่ย บัว.
+ก๊อง หาย เต้า ไม้ ก๊อย เฮญี้ยว หฑวน, เก้ง เปย๋า ไม้ ดุ๊ด ตี่ง ฒุ์ย.
+</verse1>
+    <verse2>หมวัง ก๋า, ต้ง เยียม โล์-ฮนอย วั้ว หฒั่น, เยียม โน^ยา เญย เฒี่ยง โห่,
+ววม เหยียม ปวั๊ง เหฑ่ง ลู่ง เดี๊ย.
+โซ^ตม มู้ง ปวั๊ง เหฑ่ง เหยียด ฒู้ง ฒุ์ย-หนิบ.
+นี^นะ^เว ฯฒฯ หฒุ ตี่ง ฒุ์ย, ต้ง ขวิน ลิ์ว นิ่น บัว อ๊ะ.
+</verse2>
+    <verse3>คอย หมั่ง, โตะ ลิ์ว อ๋อย ฒุ ฮนั้ม หลง, ต้ง กีง-โซว ต๊น เญย หว่า,
+มัด^ทาย เหญ่ย เหฒียบ เฝย วั้ว.
+โล์-แหง่ง ปู๊, หธ่อ แอ๋ง ก๊อง เก้า เม่ง แปะ.
+โท้ บู้ง หลง ฒั้ว ฮนอย, ฒั้ว ม์วน.
+ไม้ ตู๋ง ต๋า อี๋ บู้ง หลง. ไม้ ตู๋ง ต๋า อี๋ บู้ง หลง.
+</verse3>
+<chorus>
+Nz. เฒี้ยว ทิน-ฮู่ง นิ่น เก้ง ตี่ง ฒุ์ย, มป่า เฮญี้ยว ฮนั้ม ไห่ เมี่ยน
+เหว่ย บัว เญย ลี่ง ว่วน. ก๊อง เม่ย ไม้ แก้ง ก๊อย เฮญี้ยว
+กวั่ง เหฑ่ง เหยียด ฒู้ง เญย ฒุ์ย.
+นิ่น ตอน หฑวน ตะเหญ่ย หฑุ่น เลี่ยม เฒ่ย ต้าย ตี่ง ฒุ์ย.
+</chorus>
+</mienthai>
+
+<miennewroman>
+    <verse1>muangx longx, oix zuqc za'gengh muangx longx, tin-guoqv za'gengh fatv aqv,
+baamh gen oix zuqc mietc nzengc.
+Tov muangx waac, ninh ndongc naaiv hnamv meih mbuo.
+Gorngv haaix dauh maiv goiv hnyouv nzuonx, gengh biaux maiv ndutv dingc zuiz.
+</verse1>
+    <verse2>muangx gaax, dongh yiem loz-hnoi wuov zanc, yiem Noyaa nyei ziangh hoc,
+wuom yiemx buangv nzengc lungh ndiev.
+So^dom mungv buangv nzengc yietc zungv zuiz-nipc.
+Ni^naqv^we ziouc zuqc dingc zuiz, dongh kuinx liuz ninh mbuo aqv.
+</verse2>
+    <verse3>koi mangc, doqc liuz oix zuqv hnamv longx, dongh ging-sou donv nyei waac,
+Matv^taai nyeic ziepc feix wuov.
+Loz-ngaengc buv, corc aengx gorngv gauh mengh baeqc.
+Tov mbungh longx zuov hnoi, zuov muonz.
+Maiv dungx daax ix mbungh longx. Maiv dungx daax ix mbungh longx.
+</verse3>
+<chorus>
+Nz. Ziouv tin-hungh ninh gengh dingc zuiz, mv baac hnyouv hnamv haic mienh
+weic mbuo nyei lingh wuonh. Gorngv meih maiv gaengh goiv hnyouv
+guangc nzengc yietc zungv nyei zuiz.
+Ninh dorn nzuonx da'nyeic nzunc liemh zeih daaih dingc zuiz.
+</chorus>
+</miennewroman>
+
+<chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+	<chorus></chorus>
+</chord>
+
+<thaiimage></thaiimage>
+<englishimage></englishimage>
+<mienthaiimage></mienthaiimage>
+<miennewromanimage></miennewromanimage>
+
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <!--Edited-->
+
+<song>
+
+<thainame>none</thainame>
+<englishname>Were You There</englishname>
+<mienthainame>เม่ย เยียม หาย? เมี่ยน ตีง เฒี้ยว เย^ซู วั้ว หฒั่น</mienthainame>
+<miennewromanname>Meih Yiem Wuov Nyei Fai?</miennewromanname>
+<order>verse1,verse2,verse3,verse4</order>
+
+<thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+</thai>
+
+<english>
+    <verse1>Were you there when they crucified my Lord? Were you there when they crucified my Lord? Oh, sometimes it causes me to tremble, tremble, tremble. Were you there when they crucified my Lord?</verse1>
+    <verse2>Were you there when they nailed him to the tree? Were you there when they nailed him to the tree? Oh, sometimes it causes me to tremble, tremble, tremble. Were you there when they nailed him to the tree?</verse2>
+    <verse3>Were you there when they laid him in the tomb? Were you there when they laid him in the tomb? Oh, sometimes it causes me to tremble, tremble, tremble. Were you there when they laid him in the tomb?</verse3>
+    <verse4>Were you there when God raised him from the tomb? Were you there when God raised him from the tomb? Oh, sometimes it causes me to tremble, tremble, tremble. Were you there when God raised him from the tomb?</verse4>
+</english>
+    
+<mienthai>
+    <verse1>เม่ย เยียม หาย? เมี่ยน ตีง เฒี้ยว เย^ซู วั้ว หฒั่น. เม่ย เยียม หาย? เมี่ยน ตีง เฒี้ยว เย^ซู วั้ว หฒั่น โอ...โอ...โอ...โอ... หาย หฒั่น จั๋ง เถา, เฮญี้ยว เก้ง มุน ไห่, มุน ไห่, มุน ไห่. เม่ย เยียม หาย? เมี่ยน ตีง เยีย เญย เฒี้ยว วั้ว หฒั่น.</verse1>
+    <verse2>เม่ย เยียม หาย? เมี่ยน ปย๊บ เยีย เญย เฒี้ยว วั้ว หฒั่น. เม่ย เยียม หาย? เมี่ยน ปย๊บ เยีย เญย เฒี้ยว วั้ว หฒั่น. โอ...โอ...โอ...โอ... หาย หฒั่น จั๋ง เถา, เฮญี้ยว เก้ง เฑ่า ไห่, เฑ่า ไห่, เฑ่า ไห่. เม่ย เยียม หาย? เมี่ยน ปย๊บ เยีย เญย เฒี้ยว วั้ว หฒั่น.</verse2>
+    <verse3>เม่ย เยียม หาย? เยีย เญย เฒี้ยว นั่ง ต้าย วั้ว หฒั่น. เม่ย เยียม หาย? เยีย เญย เฒี้ยว นั่ง ต้าย วั้ว หฒั่น. โอ...โอ...โอ...โอ... หาย หฒั่น จั๋ง เถา, เฮญี้ยว เก้ง เฌียน-โย่ว, เฌียน-โย่ว, เฌียน-โย่ว. เม่ย เยียม หาย? เยีย เญย เฒี้ยว นั่ง ต้าย วั้ว หฒั่น.</verse3>
+    <verse4>...</verse4>
+</mienthai>
+
+<miennewroman>
+    <verse1>Meih yiem wuov nyei fai dongh ninh mbuo ding Ziouv?  Meih yiem wuov nyei fai dongh ninh mbuo ding Ziouv?  Oh…Jangx zuqc naaiv zoux bun yie gengh nzauh haic, nzauh haic, nzauh haic.  Meih yiem wuov nyei fai dongh ninh mbuo ding Ziouv?</verse1>
+    <verse2>Meih yiem wuov nyei fai lungh hmuangx nzengc wuov zanc?  Meih yiem wuov nyei fai dongh ziouv zuqc siouc kouv?  Oh…Jangx zuqc naaiv zoux bun yie gengh nzauh haic, nzauh haic, nzauh haic.  Meih yiem wuov nyei fai dongh Yesu zuqc daic?</verse2>
+    <verse3>Meih yiem wuov nyei fai dongh Ziouv zuqc biopv jienv?  Meih yiem wuov nyei fai dongh Ziouv zuqc biopv jienv?  Oh…Jangx zuqc naaiv zoux bun yie gengh nzauh haic, nzauh haic, nzauh haic.  Meih yiem wuov nyei fai dongh Ziouv zuqc biopv jienv?</verse3>
+    <verse4>Meih yiem wuov nyei fai dongh Yesu nangh daaih?  Meih yiem wuov nyei fai dongh Yesu nangh daaih?  Oh…Jangx zuqc naaiv zoux bun yie gengh njien-youh, njien-youh, njien-youh.  Meih yiem wuov nyei fai dongh Yesu nangh daaih?</verse4>
+</miennewroman>
+
+<chord>
+    <verse1>G7       C                G7           C Em        Am           G7 C                             F       Fm C                G7           C</verse1>
+    <verse2>G7       C                G7           C Em        Am           G7 C                             F       Fm C                G7           C</verse2>
+    <verse3>G7       C                G7           C Em        Am           G7 C                             F       Fm C                G7           C</verse3>
+    <verse4>G7       C                G7           C Em        Am           G7 C                             F       Fm C                G7           C</verse4>
+</chord>
+
+<thaiimage></thaiimage>
+<englishimage></englishimage>
+<mienthaiimage></mienthaiimage>
+<miennewromanimage></miennewromanimage>
+
+</song>

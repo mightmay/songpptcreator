@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <thainame>none</thainame>
+    <englishname>none</englishname>
+    <mienthainame>เยีย อ๋อย หล่ง เหฑ่ง เยีย เญย เฮญี้ยว เธง เฒี้ยว ทิน-ฮู่ง</mienthainame>
+    <miennewromanname>151n Yie Oix Longc Hnyouv Ceng Ziouv</miennewromanname>
+    <order>verse1,chorus</order>
+
+    <thai>
+        <verse1></verse1>
+        <chorus></chorus>
+    </thai>
+
+    <english>
+        <verse1></verse1>
+        <chorus></chorus>
+    </english>
+
+    <mienthai>
+        <verse1>เยีย อ๋อย หล่ง เหฑ่ง เยีย เญย เฮญี้ยว เธง เฒี้ยว ทิน-ฮู่ง
+        เยีย อ๋อย หล่ง สีง ฑูง ป๋าว เธง เฒี้ยว
+        เยีย อ๋อย หล่ง เหฑ่ง เยีย เญย ชะ ป๋าว เธง ทิน-ฮู่ง
+        ป๋าว ฑูง เธง เฒี่ยง ฮนอย เถา หฮมวัง.</verse1>
+        <chorus>เหว่ย หฒุ เฒี้ยว หฒะเก้ง ผุย ตุ๊ เธง,
+        เหธา เฒี้ยว เญย บั๋ว ฒู้ง ปวั๊ง เหฑ่ง ฌัง-หล่าง.
+        ปุน บัว เฮญี้ยว ธีง-เหฑ่ง เยียม เฒี้ยว เญย มฒีง หมั่ง.
+        เยีย อ๋อย หล่ง เหฑ่ง เยีย เญย เฮญี้ยว เธง เฒี้ยว ทิน-ฮู่ง.</chorus>
+    </mienthai>
+
+    <miennewroman>
+ <verse1>yie oix longc nzengc yie nyei hnyouv ceng ziouv tin-hungh
+        yie oix longc singx nzung baaux ceng ziouv
+        yie oix longc nzengc yie nyei qaqv baaux ceng tin-hungh
+        baaux nzung ceng ziangh hnoi taux hmuangx.</verse1>
+        <chorus>weic zuqc ziouv za'gengh puix duqv ceng,
+        caux ziouv nyei mbuox zungv buangv nzengc njang-laangc.
+        Bun mbuo hnyouv cing-nzengc yiem ziouv nyei m'zing mangc.
+        Yie oix longc nzengc yie nyei hnyouv ceng ziouv tin-hungh.</chorus>
+    </miennewroman>
+
+    <chord>
+        <verse1></verse1>
+        <chorus></chorus>
+    </chord>
+
+    <thaiimage></thaiimage>
+    <englishimage></englishimage>
+    <mienthaiimage></mienthaiimage>
+    <miennewromanimage></miennewromanimage>
+</song>

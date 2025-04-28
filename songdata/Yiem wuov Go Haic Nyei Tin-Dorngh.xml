@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Edited-->
+
+<song>
+  <thainame>none</thainame>
+  <englishname>none</englishname>
+  <mienthainame>เยียม วั้ว โก ไห่ เญย ทิน-ต้อง</mienthainame>
+  <miennewromanname>311. Yiem wuov Go Haic Nyei Tin-Dorngh</miennewromanname>
+  <order>verse1,verse2,verse3,verse4</order>
+
+  <thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+  </thai>
+
+  <english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+  </english>
+  
+  <mienthai>
+    <verse1>เยียม^โก^ไห่ เญย ทิน-ต้อง เก้ง ม่าย เฌียน-โย่ว. 
+ทิน-ต้อง เญย เมี่ยน หฒะเก้ง หฒั่นๆ อะเฮน้ย
+จวั่ง ป๋าว แล์ง ฒี่ง เญย ฑูง, ท่าย หย่า เธง บัว เญย ทิน-ฮู่ง,
+ฮวีง เจี๊ยน เฒี้ยว เญย เหว่ย หฒะเก้ง ม่าย แป้ง ออน.</verse1>
+    <verse2>เหฌียว เฒี้ยว เย^ซู กี^ตู่ เก้ง ม่าย ต้ม ชะ,
+เยีย โท้ ฝ่ง ห่อ เฮญี้ยว เป๋น เหฒี่ย เญย กะน้าย,
+ฒั้ว เจี๊ยน โท้ เฒี้ยว เหธย ฟุ, ปุน เยีย ม่าย ว้วน เญย เสียน ฟิม.
+โท้ เฒี้ยว ค่อ เลี่ยน เหธา หฑาว เหฑ่ง หญู่งๆ ฒุ์ย.</verse2>
+    <verse3>เบ่น เจี๊ยน มี่ง ทิน-ต้อง เหว่ย หฒุ เฒี่ยง โห่ เถา.
+หาย หฒั่น บัว ไม้ ฮิ้ว ไต่ เญย เจ๊า อ๋อย เถา.
+เยียม ทิน-ต้อง ม่าย แป้ง ออน, ไม้ หฒุ ปุ๊ด แป่ง,
+ไม้ หฒุ เฑ่า, เยียม วั้ว ตุ๊ ฒิบ เหยียด ลิ์ว แป้ง ออน เญย ฟุ.</verse3>
+    <verse4>เหฌียว เฒี้ยว เย^ซู มี่ง ด่าง, ฒั้ว เจี๊ยน เยียม วั้ว,
+เบ่น เหฑว่ย เญย ต๋อง ปุน บัว, ลิ์ว แอ๋ง หฑวน ต้าย,
+ฮนั้ง น้าย บัว หฒุ ฒั้ว เจี๊ยน, ฒั้ว เฒี้ยว แอ๋ง เยียม ลู่ง เหฌี่ย ต้าย,
+หฒั่นๆ อ๋อย หฒุ เบ่น เหฒียง, ไม้ เล่า เฒี้ยว หฑวน.</verse4>
+  </mienthai>
+
+  <miennewroman>
+    <verse1>Yiem^go^haic nyei tin-dorngh gengh maaih njien-youh. 
+Tin-dorngh nyei mienh za'gengh zanc-zanc a'hneiv
+juangc baaux laengz zingh nyei nzung, taaih yaac ceng mbuo nyei tin-hungh,
+huing jienv ziouv nyei weic za'gengh maaih baengh orn.</verse1>
+    <verse2>njoux Ziouv Yesu Giduc gengh maaih domh qaqv,
+yie tov fongc horc hnyouv benx ziec nyei ga'naaiv,
+zuov jienv tov ziouv ceix fuqv, bun yie maaih wuonv nyei sienx fim.
+Tov ziouv korh lienh caux nzaaux nzengc nyungc-nyungc zuiz.</verse2>
+    <verse3>mbenc jienv mingh tin-dorngh weic zuqc ziangh hoc taux.
+Haaix zanc mbuo maiv hiuv daic nyei jauv oix taux.
+Yiem tin-dorngh maaih baengh orn, maiv zuqc butv baengc,
+maiv zuqc nzauh, yiem wuov duqv zipv yietc liuz baengh orn nyei fuqv.</verse3>
+    <verse4>njoux Ziouv Yesu mingh ndaangc, zuov jienv yiem wuov,
+mbenc nzueic nyei dorngx bun mbuo, liuz aengx nzuonx daaih,
+hnangv naaiv mbuo zuqc zuov jienv, zuov ziouv aengx yiem lungh njiec daaih,
+zanc-zanc oix zuqc mbenc ziangx, maiv lauh ziouv nzuonx.</verse4>
+  </miennewroman>
+
+  <chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+  </chord>
+
+  <thaiimage></thaiimage>
+  <englishimage></englishimage>
+  <mienthaiimage></mienthaiimage>
+  <miennewromanimage></miennewromanimage>
+</song>

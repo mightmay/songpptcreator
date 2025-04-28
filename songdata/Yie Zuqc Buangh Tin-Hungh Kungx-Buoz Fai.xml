@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Edited-->
+<song>
+  <thainame>none</thainame>
+  <englishname>none</englishname>
+  <mienthainame>เยีย หฒุ ปวั้ง ทิน-ฮู่ง ขูง-ปั์ว</mienthainame>
+  <miennewromanname>261 Yie Zuqc Buangh Tin-Hungh Kungx-Buoz Fai?</miennewromanname>
+  <order>verse1,chorus,verse2,chorus,verse3,chorus</order>
+  <thai>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <chorus></chorus>
+  </thai>
+  <english>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <chorus></chorus>
+  </english>
+  <mienthai>
+    <verse1>เยีย หฒุ ปวั้ง ทิน-ฮู่ง ขูง-ปั์ว
+ไฟ? ปวั้ง เฒี้ยว ฮนั้ง น้าย หลง เญย ไฟ?
+เยีย ไม้ ตุ๊ โหฒว เหยียด หญู่ง ปุน
+เฒี้ยว, ไม้ ม่าย หาย หญู่ง เยียม เยีย ปั์ว.(*)
+</verse1>
+    <verse2>เยีย ไม้ กั้ม เหฑีย หาย หฒั่น ตั๋ง
+เฉีย, เหว่ย เฒี้ยว เย ซู ไฮ่ เหฌียว เยีย.
+สี ก๊อง เยีย หฒุ ปวั้ง เฒี้ยว ขูง-
+ปั์ว, เยีย เฮญี้ยว เฑ่า, ไม้ ม่าย แป้ง ออน.(*)
+</verse2>
+    <verse3>เฒี่ยง โห่ เจี๋ย ลิ์ว ไม้ ม่าย เอ๋ย
+เล์ย, สี ก๊อง เยีย ไฮ่ ทิ้ว ตุ๊ หฑวน,
+เยีย อ๋อย โหฒว หญู่งๆ เหฒี่ย ปุน
+เฒี้ยว, หย่า อ๋อย โหฒว เอย เฒี้ยว เญย เอ๋ย.(*)
+</verse3>
+    <chorus>*เยีย หฒุ ปวั้ง ทิน-ฮู่ง ขูง-ปั์ว
+ไฟ? ปวั้ง เฒี้ยว ฮนั้ง น้าย หลง เญย ไฟ?
+เยีย ไม้ ตุ๊ ต้อ ลี่ง ว่วน ปุน
+เฒี้ยว, เยีย ขูง ปวั้ง เฒี้ยว ขูง-ปั์ว ไฟ?
+</chorus>
+  </mienthai>
+  <miennewroman>
+ <verse1>yie zuqc buangh tin-hungh kungx-buoz
+fai? Buangh ziouv hnangv naaiv longx nyei fai?
+Yie maiv duqv zoux yietc nyungc bun
+ziouv, maiv maaih haaix nyungc yiem yie buoz.(*)
+</verse1>
+    <verse2>yie maiv gamh nziex haaix zanc dangx
+qiex, weic ziouv ye su haih njoux yie.
+Se gorngv yie zuqc buangh ziouv kungx-
+buoz, yie hnyouv nzauh, maiv maaih baengh orn.(*)
+</verse2>
+    <verse3>ziangh hoc jiex liuz maiv maaih eix
+leiz, se gorngv yie haih tiuv duqv nzuonx,
+yie oix zoux nyungc-nyungc ziec bun
+ziouv, yaac oix zoux ei ziouv nyei eix.(*)
+</verse3>
+    <chorus>*yie zuqc buangh tin-hungh kungx-buoz
+fai? Buangh ziouv hnangv naaiv longx nyei fai?
+Yie maiv duqv dorh lingh wuonh bun
+ziouv, yie kungx buangh ziouv kungx-buoz fai?
+</chorus>
+ </miennewroman>
+  <chord>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <chorus></chorus>
+  </chord>
+  <thaiimage></thaiimage>
+  <englishimage></englishimage>
+  <mienthaiimage></mienthaiimage>
+  <miennewromanimage></miennewromanimage>
+</song>

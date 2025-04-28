@@ -2,7 +2,9 @@
    <!--Generated from Trang Church Youtube-->
    <thainame>ไม้กางเขนโบราณ</thainame>
    <englishname>The Old Rugged Cross</englishname>
-   <mienthainame>none</mienthainame>
+   <mienthainame>กู้ หงว่าย บง เยียม ตุ๊ โก</mienthainame>
+   <miennewromanname>none</miennewromanname>
+
    <order>verse1,chorus,verse2,chorus,verse3,chorus,verse4,chorus</order>
    <thai>
       <verse1>บนภูเขาซึ่งอยู่ไกล ได้แลเห็นไม้กางเขน  เป็นรอยแห่งความทุกข์และความอาย แต่ใจข้าฯรักกางเขน ที่พระคริสต์ถูกตรึงตาย ไถ่คนบาปให้รอดพ้นจากอบาย</verse1>
@@ -19,17 +21,26 @@
       <chorus>So I'll cherish the old rugged cross,  Till my trophies at last I lay down; I will cling to the old rugged cross, And exchange it some day for a crown.</chorus>
    </english>
    <mienthai>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-      <chorus/>
+    <verse1>กู้ หงว่าย บง เยียม ตุ๊ โก, เยีย ตุ๊ ปวัด เหฒียบ หฑั่ง จ๋า, เหฌียว เฒี้ยว หฒุ เตี๊ย โค้ว หย่า เตี๊ย ไญ้. เยีย เก้ง ฮนั้ม เหฒียบ หฑั่ง จ๋า, เฒี้ยว หฒุ ตีง ไต่ เญย ต๋อง, เถง ฒุ์ย-เมี่ยน ตุ๊ ฮี่ง เจี๋ย ฒุ์ย-หนิบ.</verse1>
+    <verse2>โล์-ฮนอย เญย เหฒียบ หฑั่ง จ๋า, ป้าม เมี่ยน เหยียด ฒู้ง หมั่ง เผีย. มป่า เยีย กั้น ฮนั้ม เหฒียบ หฑั่ง จ๋า. เหว่ย เฒี้ยว เย^ซู กี^ตู่, เซี้ย เจี๊ยน ทิน-ต้อง เญย กั๊วะ, เหฌี่ย เถา ป้าม เกน เยียม เหฒียบ หฑั่ง จ๋า ไต่.</verse2>
+    <verse3>โล์-ฮนอย เญย เหฒียบ หฑั่ง จ๋า, เยีย ปวัด เฒี้ยว เญย ฌัง-หล่าง. เฒี้ยว เย^ซู เญย ปู๊-ฑย้าม เหลี่ยว ธ้วด. เหว่ย เถง เยีย หฑาว เหฑ่ง ฒุ์ย, ปุน เยีย เญย เฮญี้ยว ธีง-เหฑ่ง. น้าย เซ ต้ง โล์-ฮนอย เญย เหฒียบ หฑั่ง จ๋า.</verse3>
+    <verse4>โล์-ฮนอย เญย เหฒียบ หฑั่ง จ๋า, เยีย เขา ว้วน มี่ง เถา ไต่. หาย เต้า ก๊อง หาย หญู่ง เยีย ไม้ ไญ้. ฒั้ว เถา เฒี่ยง โห่ วั้ว ฮนอย, เฒี้ยว เย^ซู ต้าย ฒิบ เยีย มี่ง เปียะ ทิน-ต้อง เยียม วั้ว เฌียน-โย่ว ไห่.</verse4>
+    <chorus>เหว่ย ฮนั้ง น้าย เยีย หธีง ฮนั้ม เหฒียบ หฑั่ง จ๋า. เหว่ย หฒุ เป๋น ต้ง อัน ขวน เฮญี้ยว เญย ต๋อง. เยีย ฯฒฯ เขา ว้วน เหฒียบ หฑั่ง จ๋า เญย ชะ, เถา วั้ว ฮนอย เยีย ฯฒฯ ตุ๊ เจียม-นี้ง เหฑว่ย.</chorus>
    </mienthai>
+   
+   <miennewroman>
+    <verse1></verse1>
+    <verse2></verse2>
+    <verse3></verse3>
+    <verse4></verse4>
+    <chorus></chorus>
+</miennewroman>
+
    <chord>
-      <verse1/>
-      <verse2/>
-      <verse3/>
-      <verse4/>
-      <chorus/>
+    <verse1>G                           C D7                      G C D                       G</verse1>
+    <verse2>G                           C D7                      G C D                       G</verse2>
+    <verse3>G                           C D7                      G C D                       G</verse3>
+    <verse4>G                           C D7                      G C D                       G</verse4>
+    <chorus>D                      G C                    G    D G            G7         C     Am7 G          D        G      D</chorus>
    </chord>
 </song>
